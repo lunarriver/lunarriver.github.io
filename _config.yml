@@ -2,6 +2,8 @@ title: 好好学习
 author: lunarriver
 email: 785291331@qq.com
 
+markdown: kramdown
+
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
