@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "新概念英语第一册知识点总结——词性、句型、语态"
+title:  "新概念英语第一册知识点总结——词性"
 date:   2025-01-06 21:17:00 +0800
 ---
 
@@ -35,27 +35,77 @@ date:   2025-01-06 21:17:00 +0800
 
 ### 名词
 
-名词是指待人、物、事、时、地、情感、概念等实体或抽象事物的词。名词可以独立成句。在短语或句子中通常可以用代词来替代。名词可以分为专有名词(Proper Nouns)和普通名词 (Common Nouns)，专有名词是某个(些)人，地方，机构等专有的名称，如Beijing，China等。普通名词是一类人或东西或是一个抽象概念的名词，如：book，sadness等。
-
-#### 名词的分类
-
-- 普通名词：一类人或东西或是一个抽象概念的名词，如book，sadness
-
-- 个体名词：表示单个的人和事物，如horse、car、room、apple、fan、picture
-
-- 集体名词：表示一群人或一些事物的名称，如People、family、army、government、group
-
-- 抽象名词：表示动作、状态、品质或其他抽象概念，如Labour、health、life、friendship、patience
-
-- 物质名词：表示物质或不具备确定形状和大小的个体的物质，如Fire、steel、air、water、milk
-
-- 专有名词：某个(些)人，地方，机构等专有的名称，如Beijing，China
+名词是指待人、物、事、时、地、情感、概念等实体或抽象事物的词。名词可以独立成句。在短语或句子中通常可以用代词来替代。
 
 #### 名词的可数性
 
 - 可数名词：可数名词有单、复数之分，表示一个或多个，如a book、two books
 
-- 不可数名词：不分单、复数。抽象名词、物质名词和专有名词一般是不可数名词。如sand、sugar
+- 不可数名词：不分单、复数。不可数名词一般包括以下几类：
+  
+  - 抽象名词：表示动作、状态、品质或其他抽象概念，如Labour、health、life、friendship、patience
+  
+  - 物质名词：表示物质或不具备确定形状和大小的个体的物质，如fire、steel、air、water、milk
+  
+  - 专有名词：某个(些)人，地方，机构等专有的名称，如Beijing，China
+
+#### 可数名词的复数形式
+
+（1）绝大多数名词的复数形式是在单数名词后面加上-s，结尾是清辅音读[s]，结尾是浊辅音或元音读[z]。
+
+- friend-friends，cat-cats，style-styles，sport-sports，piece-pieces
+
+（2）如果名词是以-s、-z、-x、-ch、-zh结尾的，变成复数时则要加-es，读作[iz]。
+
+- bus-buses，fox-foxes，match-matches，flash-flashes
+
+（3）以辅音字母+y结尾的名词，将y改变为i，再加-es，读作[z]。
+
+- candy-candies，fairy-fairies，lady-ladies，story-stories
+
+（4）以-o结尾的名词，如果不是外来词或缩写，就加-es，否则加-s构成复数，读作[z]。
+
+- tomato-tomatoes，potato-potatoes
+
+（5）以-f或-fe结尾的名词，多为将-f或-fe改变为-ves，尾音[f]改读[vz]，但有例外。
+
+- knife-knives，life-lives，leaf-leaves，staff-staves，roof-roofs
+
+（6）以-is结尾的名词，通常将-is改变为-es。尾音[is]改读[i:z]。
+
+- axis-axes，basis-bases
+
+（7）以-ix结尾的名词，通常将-ix改变为-ices，尾音[iks]改读[isi:z]，但有例外。
+
+- matrix-matrices
+
+（8）部分单词的复数形式不变，保持原音。
+
+- fish-fish，sheep-sheep，deer-deer
+
+（9）部分单词的复数形式是约定俗称的。
+
+- man-men，woman-women
+
+#### 不可数名词的量
+
+不可数名词前面不能跟不定冠词 a 或 an，在句中相当于单数名词，谓语动词为单数。不可数名词的量可以通过量词、不定代词来表达。
+
+不可数名词可以借助 piece、slice、packet 等度量单位词来表示数量，其中piece 使用最广泛：
+
+- a piece of paper
+
+- a piece of bread
+
+- a bar of soap
+
+不可数名词可以用some、any、(a)little、much、a lot of等来修饰，但是不能用 several、many、a few 等来修饰。
+
+对可数名词的量提问用how many，对不可数名词的量提问应该用 how much。
+
+- How many flowers are there in the garden?
+
+- How much rice do you need?
 
 #### 名词所有格
 
@@ -449,6 +499,68 @@ date:   2025-01-06 21:17:00 +0800
 
 - I like reading books. (宾语)
 
+#### 动词的第三人称单数形式
+
+在一般现在时的句子中，当主语是第三人称单数时，需要对动词进行变形。
+
+（1）一般情况下，在动词末尾加-s。
+
+- come-comes，live-lives，speak-speaks
+
+（2）以o，s，x，ch，sh等字母结尾的动词，加-es。
+
+- go-goes，do-does，finish-finishes，teach-teaches，pass-passes
+
+（3）以辅音字母+y结尾的动词，把y变成i，再加es。
+
+- study-studies
+
+（4）have的第三人称单数形式是has。
+
+#### 动词的现在分词形式
+
+（1）一般情况下，在动词词尾直接加-ing。
+
+- check-checking，call-calling，rain-raining
+
+（2）以一个字母-e结尾的单词，去掉字母-e，再加-ing。
+
+- move-moving，like-liking，close-closing
+
+（3）如果动词只有一个元音字母，而其后跟了一个辅音字母时，将辅音字母双写，再加-ing。
+
+- run-running，stop-stopping，beg-begging，drop-dropping
+
+（4）以-ie结尾的动词，把-ie改为-y，再加-ing。
+
+- die-dying，lie-lying，tie-tying
+
+#### 规则动词的过去式和过去分词
+
+（1）规则动词过去式和过去分词一般是词尾加ed构成。
+
+- help-helped-helped，work-worked-worked
+
+（2）词尾不发音的e，则直接加d。
+
+- like-liked-liked，live-lived-lived
+
+（3）词尾以辅音字符加y，则变y为i再加ed。
+
+- study-studied-studied，try-tried-tried
+
+（4）重读闭音节结尾，且词尾只有一个辅音字母，则双写这个辅音字母再加ed。
+
+- stop-stopped-stopped，plan-planned，planned
+
+发音规则：
+
+- 在清辅音后发[t]。
+
+- 在元音或浊辅音后发[d]。
+
+- 在辅音[t]、[d]后发[ɪd]。
+
 ### 形容词
 
 形容词在英语中是用来设置，详述或者修饰名词或代词的词。它提供了关于人，物体，地点或事件等的特性、特点、状态或者属性等的信息。
@@ -468,6 +580,69 @@ date:   2025-01-06 21:17:00 +0800
 （4）形容词还可以用来修饰代词
 
 - I am happy.
+
+#### 形容词的比较级和最高级
+
+一般来说，形容词具有原级、比较级和最高级三个比较等级，而形容词的比较等 级变化有规则和不规则两种。
+
+规则变化包含以下几种形式：
+
+（1）单音节在形容词词尾加 -er 和 -est：
+
+| 形容词原形  | 比较级      | 最高级       |
+| ------ | -------- | --------- |
+| bright | brighter | brightest |
+| tall   | taller   | tallest   |
+| strong | stronger | strongest |
+| long   | longer   | longest   |
+
+（2）单音节以 -e 结尾，直接在词尾加 -r 和 -st：
+
+| 形容词原形 | 比较级    | 最高级     |
+| ----- | ------ | ------- |
+| brave | braver | bravest |
+| late  | later  | latest  |
+| large | larger | argest  |
+| safe  | safer  | safest  |
+
+（3）如果闭音节单音节词的词尾只有一个辅音字母，要先双写该辅音字母，再加 -er 和 -est：
+
+| 形容词原形 | 比较级    | 最高级     |
+| ----- | ------ | ------- |
+| fat   | fatter | fattest |
+| big   | bigger | biggest |
+| sad   | sadder | saddest |
+
+（4）以 -y 结尾的词，如果 -y 前是辅音字母，则变 y 为 i，再加 -er 和 -est：
+
+| 形容词原形 | 比较级     | 最高级      |
+| ----- | ------- | -------- |
+| happy | happier | happiest |
+| busy  | busier  | busiest  |
+| lazy  | lazier  | laziest  |
+
+（5）双音节词和多音节词皆在前面加单词 more 和 most：
+
+| 形容词原形      | 比较级             | 最高级             |
+| ---------- | --------------- | --------------- |
+| careful    | more careful    | most careful    |
+| difficult  | more difficult  | most difficult  |
+| successful | more successful | most successful |
+
+不规则变化包含以下单词：
+
+| 形容词原形     | 比较级             | 最高级               |
+| --------- | --------------- | ----------------- |
+| good      | better          | best              |
+| bad/ill   | worse           | worst             |
+| far       | farther/further | farthest/furthest |
+| old       | older/elder     | oldest/eldest     |
+| little    | less            | least             |
+| many/much | more            | most              |
+
+另外，有一小部分形容词，它们本身具有绝对的含义，因此没有比较级和最高级形式，比如：
+
+- perfect、single、dead、empty、round、square、straight、equal、alone、final、unique
 
 ### 副词
 
@@ -500,6 +675,36 @@ date:   2025-01-06 21:17:00 +0800
 （4）修饰整个句子：
 
 - Unfortunately, I will not be able to attend the party.
+
+#### 形容词加ly变副词
+
+（1）一般情况下直接在形容词后边加ly，比如：
+
+- quickly，widely，really
+
+（2）多音节词以辅音字母加y结尾的形容词，在加ly之前要先将y变为i，比如：
+
+- happily，busily，easily，angrily
+
+（3）以le 结尾的词，去掉e, 然后直接加y，比如：
+
+- gently，terribly，possibly
+
+（4）大部分以e结尾的形容词仍然保留e, 直接加ly，比如：
+
+- actively，politely，truly(特例，去掉了e)
+
+（5）以 -ic 结尾的形容词，一般要加上-ally，比如：
+
+- economically，basically，publicly(例外)
+
+（6）需要注意的是，并非所有的形容词都可以加ly词尾成为副词，比如：
+
+- uniquely(不存在)
+
+（7）有一些表示名词或序数词也可以加ly词尾构成副词，比如：
+
+- partly，purposely，daily，hourly，monthly，quarterly，firstly，thirdly
 
 ### 介词
 
@@ -558,359 +763,3 @@ date:   2025-01-06 21:17:00 +0800
 - Because she was ill, she didn't go to school.
 
 - He can't leave until his work is finished.
-
-### 句型
-
-#### 一般疑问句
-
-一般疑问句是用来询问某个条件是否为真，最常见的形式是使用助动词或者模态动词开头的句子。对于这种类型的疑问句，回答通常是肯定的 Yes 或者否定的 No。
-
-句型结构：
-
-（1） 常见的一般疑问句主要由助动词/情态动词 + 主语 + 动词等构成。
-
-- Can you speak French?
-
-- Did she go to the party yesterday?
-
-（2）如果句子中没有助动词或情态动词，那么常常需要加入助动词do/does/did来构成疑问句。
-
-- Do you understand?
-
-- Does he know the answer?
-
-（3）对于be动词的句子，直接将be动词放在主语前面即可。
-
-- Is it raining?
-
-- Are you okay?
-
-#### 反义疑问句
-
-反义疑问句由两部分组成，一部分是陈述句，另一部分是附加在陈述句后面的简短疑问句。这个疑问句和陈述句的意思是相反的。它们之间通常用逗号连接。
-
-句型结构：
-
-（1）如果陈述部分是肯定的，那么疑问部分应该是否定的。
-
-- He is a doctor, isn't he?
-
-（2）如果陈述部分是否定的，那么疑问部分应该是肯定的。
-
-- She doesn't like coffee, does she?
-
-（3）在回答反义疑问句时，若事实是肯定的，用 Yes 回答；若事实是否定的，就用 No 来回答。
-
-- 问：They don’t work hard, do they?
-
-- 答：Yes, they do. （不，他们工作努力）
-
-- 或答：No, they don’t.（对， 他们工作不努力）
-
-#### There be
-
-There be 句型用法：
-
-- 表示存在或出现的含义，相当于中文的“有”。
-
-- There be 后面跟名词或代词，如果名词是可数的单数则用 is，如果名词是可数的复数或者不可数名词，则用 are。
-
-- 当 There be 引导的句子变为一般疑问句， be 动词移到主语前。
-
-- 当 There be 引导的句子变为否定句，直接在 be 动词后加 not。
-
-- There be 句型在过去时态和将来时态下其构成是：
-  
-  - There was/were...
-  
-  - There will be...
-
-例句：
-
-- There is a book on the table.
-
-- There are many people in the park.
-
-- Is there a restaurant near here?
-
-- There isn't a pen in my bag.
-
-- Are there any apples in the fridge?
-
-- There weren't any tickets left.
-
-- There will be a party next week.
-
-#### 祈使句
-
-祈使句用于发出命令、请求、建议或者提出建议。
-
-- 祈使句的构成：主要由动词原形开始，然后加上其他的词，构成一个完整的句子。
-
-- 否定祈使句的结构通常是 Don’t + 动词原形。
-
-- 可以使用 Please 来表达更礼貌的请求。
-
-- 要想让祈使句表达出更多的细节，我们可以在动词之后添加对象、状语等。
-
-例句：
-
-- Be careful crossing the street.
-
-- Don’t forget to lock the door when you leave.
-
-- Please help me with my homework.
-
-- Work hard for your final exam.
-
-- Keep quiet in the library.
-
-#### be going to do
-
-be going to do 用于表述计划或预测将要发生的事情。
-
-例句：
-
-- I am going to study English this evening.
-
-- They are going to have a party next Saturday.
-
-- She is going to buy a new car.
-
-#### 倒装句
-
-倒装句分为完全倒装和部分倒装。
-
-（1）完全倒装：将谓语动词全部置于主语之前，有三种情况：
-
-- there be 句型。
-
-- 表方位的副词或介词短语放在句首。
-
-- 某些表示祝愿的口语表达。
-
-例句：
-
-- There is a book on the desk.
-
-- On the wall hung a beautiful painting.
-
-- Long live the king!
-
-（2）部分倒装：将助动词或情态动词提前到主语之前，包含以下情况：
-
-- 否定词位于句首。如 hardly, seldom, neither, nor, not until 等。
-
-- 以 so, such 等词开头表示结果的句子。
-
-- 某些固定的表达方式，如 little did I know, only then etc.
-
-例句：
-
-- Hardly had we arrived at the station when the train left.
-
-- So excited was she that she could not say a word.
-
-- Little did we know about the truth.
-
-### 时态
-
-#### 一般现在时
-
-一般现在时表示经常、反复发生的动作或存在的状态，也可以表示客观事实、普遍真理等。
-
-句型结构：
-
-（1）陈述句 ：主语 + 动词原形（第三人称单数加s或es）+ 其他。
-
-- I go to school every day.
-
-- He watches TV in the evening.
-
-（2）否定句： 主语 + do not / does not + 动词原形 + 其他。
-
-- We do not play football after school.
-
-- She does not eat breakfast.
-
-（3）疑问句：Do / Does + 主语 + 动词原形 + 其他？
-
-- Do you like apples?
-
-- Does he go to school by bus?
-
-#### 现在进行时
-
-现在进行时表示当前正在进行的动作或状态，也可表示将来计划、安排好的动作。
-
-句型结构：
-
-（1）陈述句：主语 + am / is / are + 动词-ing形式。
-
-- I am working.
-
-（2）否定句：主语 + am / is / are + not + 动词-ing形式。
-
-- He is not sleeping.
-
-（3）疑问句：Am / Is / Are + 主语 + 动词-ing形式？
-
-- Are you reading?
-
-#### 一般过去时
-
-一般过去时通常用来谈论在过去发生的单次或经常的行为和状态。常与具体的时间状语连用，如：yesterday, last week/month/year, a few days/weeks/years ago等。
-
-句型结构：
-
-（1）陈述句：主语 + 动词的过去式 + 其他。
-
-- I worked hard yesterday.
-
-（2）否定句：主语 + did not + 动词原形 + 其他。
-
-- I did not work yesterday.
-
-（3）疑问句：Did + 主语 + 动词原形 + 其他？
-
-- Did you work yesterday?
-
-（4）肯定回答：Yes, 主语 + did。
-
-- Yes, I did.
-
-（5）否定回答：No, 主语 + did not/didn’t。
-
-- No, I didn’t.
-
-#### 现在完成时
-
-现在完成时主要用于表示已经完成的动作对现在产生的影响或结果，或者过去发生的动作到现在为止持续存在的状态。
-
-句型结构：
-
-（1）陈述句：主语 + have/has + 过去分词 + 其他。
-
-- I have finished my homework.
-
-（2）否定句：主语 + have/has + not + 过去分词 + 其他。
-
-- I have not finished my homework.
-
-（3）疑问句：Have/Has + 主语 + 过去分词 + 其他？
-
-- Have you finished your homework?
-
-（4）肯定回答：Yes, 主语 + have/has.
-
-- Yes, I have.
-
-（5）否定回答：No, 主语 + haven't/hasn't.
-
-- No, I haven't.
-
-#### 一般将来时
-
-一般将来时是用来描述将要发生的事情或者预计即将发生的动作。它通常由 will 或者 be going to 加上动词原形构成。
-
-句型结构：
-
-（1）陈述句：主语 + will / be going to + 动词原形 + 其他。
-
-- I will finish my homework tomorrow.
-
-- She is going to visit her grandparents next week.
-
-（2）否定句：主语 + will not(won't) / be not going to + 动词原形 + 其他。
-
-- He will not (won't) come to the party tonight.
-
-- They are not going to watch the movie this evening.
-
-（3）疑问句：Will / Be + 主语 + 动词原形 + 其他?
-
-- Will you go to school tomorrow?
-
-- Is she going to buy a new car?
-
-（4）肯定回答：Yes, 主语 + will.
-
-- Yes, I will.
-
-（5）否定回答：No, 主语 + won't.
-
-- No, I won't.
-
-#### 过去进行时
-
-过去进行时主要用于表示在过去某个特定时间或过去某段时间内正在进行的动作，或者与过去某个事件同时发生的动作。它的基本构成方式是 was/were + 动词的现在分词。
-
-句型结构：
-
-（1）陈述句：主语 + was/were + 动词的现在分词
-
-- I was reading a book yesterday.
-
-（2）否定句：主语 + was/were + not + 动词的现在分词
-
-- He was not playing the piano then.
-
-（3）疑问句：Was/Were + 主语 + 动词的现在分词？
-
-- Were you watching TV last night?
-
-（4）特殊疑问句：疑问词 + Was/Were + 主语 + 动词的现在分词？
-
-- What were you doing at this time yesterday?
-
-#### 过去完成时
-
-过去完成时主要用于描述在过去某个时间点或动作之前已经发生或完成的动作。它可以表示过去的过去。形式是 had + 过去分词。
-
-句型结构：
-
-（1）肯定句：主语 + had + 过去分词 + 其他。
-
-- She had finished her homework.
-
-（2）否定句：主语 + had + not + 过去分词 + 其他。
-
-- They had not arrived yet.
-
-（3）疑问句：Had + 主语 + 过去分词 + 其他？
-
-- Had you seen this movie before？
-
-### 被动语态
-
-被动语态用来描述主语是动作的承受者，而非执行者的情况。这种语态通常会带有 be + 过去分词的结构，其中 be 要根据主语和时态的不同进行变化。
-
-不同时态下的被动语态：
-
-（1） 一般现在时：主语 + am/is/are + 过去分词。
-
-- The book is written by him.
-
-（2）一般过去时：主语 + was/were + 过去分词。
-
-- The game was won by our team.
-
-（3）现在完成时：主语 + have/has been + 过去分词。
-
-- The homework has been finished.
-
-（4）过去完成时：主语 + had been + 过去分词。
-
-- The letter had been sent when I arrived.
-
-（5）将来进行时：主语 + will be + 过去分词。
-
-- The meeting will be held tomorrow.
-
-（6）现在进行时：主语 + am/is/are being + 过去分词。
-
-- The food is being cooked now.
-
-（7）过去进行时：主语 + was/were being + 过去分词。
-
-- The cake was being eaten when he came in.
