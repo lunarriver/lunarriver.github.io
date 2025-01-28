@@ -158,3 +158,89 @@ Pyongyang had been “**emboldened** to continue advancing its unlawful ballisti
 Russia and China have shamelessly protected Pyongyang from any reprisal.
 
 The US and South Korea announced a new **memorandum** of understanding to develop cooperation on civil nuclear energy.
+
+#### [2024-11-05 Inexperienced, poorly trained and underfed: the North Korean troops heading to Ukraine](https://www.theguardian.com/world/2024/nov/05/north-korea-troops-russia-ukraine-war-kim-jong-un-putin)
+
+Depending on whom you ask, they are the boost that Russian forces need to make a significant **breakthrough** in Ukraine, or they are simple cannon fodder
+
+The Kremlin’s forces have struggled to **repel** a Ukrainian incursion.
+
+Russia had been training them to use artillery, drones and “basic infantry operations, including **trench** clearing, indicating that they fully intend to use these forces in frontline operations”.
+
+But not one of the young men **drafted** from Kim Jong-un’s regular army has seen combat.
+
+Experts believe the military **dividends** for the Kremlin will be limited.
+
+Russia appears to have armed more than 7,000 North Korean soldiers positioned near the border with Ukraine with 60mm **mortars**, AK-12 rifles, machine guns, sniper rifles, anti-tank guided missiles and anti-tank **grenade** launchers.
+
+A North Korean soldier was found by the South Korean doctors who saved him to have a 27cm **intestinal** worm and a host of other **parasites** in his system.
+
+South Korean researchers in 2015 cited elevated rates of **chronic** **hepatitis** B and C, **tuberculosis** and parasites among North Korean **defectors**.
+
+The **transplanted** troops could benefit from their time on the Ukrainian front.
+
+“Kim Jong-un is taking a big gamble,” said a former North Korean army first **lieutenant**.
+
+The coming weeks will tell if the North Korean troops are more than poorly prepared, **unwitting** **mercenaries** Kim has offered up to enrich and strengthen his regime.
+
+#### [2024-11-06 North Korea’s involvement in Ukraine draws China into a delicate balancing act](https://www.theguardian.com/world/2024/nov/06/north-korea-troops-russia-ukraine-war-china-relationship)
+
+North Korea’s entry to the **theatre** draws Asia closer into the European conflict, risking a dangerous expansion and escalation of a war that has global ramifications.
+
+China wants to maintain stability in the region as the Asian power and keep the US and allies **at bay**, all while grappling with a **spluttering** economy at home.
+
+But how much Beijing can use its **sway** over Pyongyang to actually move the needle isn’t clear.
+
+The arrangement between Russia and North Korea risked establishing a bloc, inevitably including China, which would be **pitted** against a US-South Korea-Japan alliance.
+
+China should be “highly **vigilant**” about the situation.
+
+China cannot ignore the historical lesson that gradual changes can lead to a **qualitative** shift.
+
+It would pose a severe challenge to the international **nonproliferation** regime, in which China has a significant stake.
+
+China today **envisions** a strategic coalition with Russia and North Korea, but with itself in the driver’s seat, wary of either partner taking **radical** **initiatives** beyond its control.
+
+China doesn’t want a more powerful North Korea **upsetting** the balance of peace in east Asia, and it worries that a Russian victory in Ukraine would make Nato more **cohesive**.
+
+These developments could quickly **derail** Beijing’s **quest**.
+
+#### [2024-11-08 ‘They will just die uselessly’: Ukrainians ready for North Korean troops joining Russia’s war](https://www.theguardian.com/world/2024/nov/08/ukrainians-ready-for-north-korean-troops-russia-war)
+
+He has been **mugging up** with the help of a three-page printed guide. It lists words in Ukrainian, their Korean equivalent, and a helpful **transliteration**.
+
+Moscow carries out **assaults** using small infantry groups.
+
+North Korea has **pledged** to support Moscow until it achieves a “great victory” in Ukraine.
+
+They might be **fanatical** professionals with totalitarian souls.
+
+Volodymyr Zelenskyy has hinted that Ukraine’s Kursk **salient** could play a role in negotiations after Donald Trump’s return to the White House.
+
+They could wipe out North Korean troops **mustering** in western Russia.
+
+He said the surprise offensive had **punctured** the myth of Russian **invincibility**, especially in the eyes of international partners, and raised morale.
+
+In terms of size we are an **expeditionary** corps.
+
+On 22 October his brigade had captured four Russian soldiers, 12 days after they were first **conscripted**.
+
+A group of newly mobilised Ukrainian service personnel smoked next to their **pickup** transport.
+
+His **squad** piled on to the vehicle’s **rear** **cargo** bed, clutching sleeping **mats** and box of chocolate biscuits.
+
+It’s a **rodeo** with all types of weapons.
+
+In reality, we will hand North Koreans over to the **competent** organs.
+
+He said locals he talked to used **derogatory** words to describe people from Chechnya, and pointed out neighbours who had **fraternised** with them.
+
+There is incredible **racism** here.
+
+#### [2024-11-21 Putin sends African lion, brown bears and cockatoos to North Korea as gift of support](https://www.theguardian.com/world/2024/nov/21/putin-north-korea-animals-gift-african-lion-brown-bears-cockatoos-ukraine-war)
+
+The delivery also included two domestic **yaks**, 40 mandarin ducks and five white **cockatoos**.
+
+The two also took turns driving each other around in a Russian-built Aurus **limousine**.
+
+The pact has **magnified** western concerns about potential Russian aid for North Korea’s missile or nuclear programmes.
