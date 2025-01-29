@@ -244,3 +244,39 @@ The delivery also included two domestic **yaks**, 40 mandarin ducks and five whi
 The two also took turns driving each other around in a Russian-built Aurus **limousine**.
 
 The pact has **magnified** western concerns about potential Russian aid for North Korea’s missile or nuclear programmes.
+
+#### [2024-12-18 The Guardian view on North Koreans dying for Russia: an alarming alliance gains strength](https://www.theguardian.com/commentisfree/2024/dec/18/the-guardian-view-on-north-koreans-dying-for-russia-an-alarming-alliance-gains-strength)
+
+Those sent, however, are thought to include elite troops trained in **infiltration**, sabotage and assassination missions.
+
+And given the desperate poverty, any financial **compensation** and status improvement could transform the lives of those **bereaved**.
+
+The wages for those still fighting will almost all be claimed by the regime, which is also welcoming **sorely** needed oil and grain supplies.
+
+China will not be **thrilled**. It already has a tense relationship with the country it has long propped up. Now Vladimir Putin has handed North Korea increased **bargaining** power with its **patron**.
+
+Another concern for North Korea, however, should perhaps be that thousands of its fighters see a way of life that – even in Kursk, or **devastated** areas of Ukraine – may look **startlingly** comfortable compared with dire conditions back home.
+
+Ukrainian sources have claimed that some North Koreans have already **deserted**. Special forces will enjoy better-than-average conditions and will have been **vetted** for political reliability.
+
+#### [2024-12-23 More than 1,000 North Korean military casualties in Ukraine war, says South Korea](https://www.theguardian.com/world/2024/dec/23/north-korean-soldiers-killed-wounded-ukraine-war-south-korea)
+
+The JCS did not say how many troops had been **killed in action**, but the claims underline the risks posed to the North’s untested armed forces, amid reports that the regime is **poised** to send furtthe high number of casualties could be **attributed** to the “unfamiliar battlefield environmenther reinforcements to Ukraine.
+
+The statement said North Korea was also “producing and providing self-destructing drones”, along with rocket launchers and self-**propelled** artillery.
+
+The North Korean leader wants access to Russian rocket technology and other military **knowhow** in exchange for providing its forces with ammunition, weapons and reinforcements.
+
+Pyongyang has also sent more than 10,000 containers of artillery rounds, anti-tank rockets, as well as mechanised **howitzers** and rocket launchers.
+
+A foreign ministry spokesperson said the foreign ministers of 10 countries and the EU were “**distorting** and **slandering**” Pyongyang’s “normal cooperative” ties with Moscow, according to state media.
+
+#### [2024-12-27 Injured North Korean soldier captured by Ukraine has died, says South Korea](https://www.theguardian.com/world/2024/dec/27/north-korean-soldier-captured-ukraine-injured-south-korea)
+
+A photo of the soldier, who looked **gaunt** and appeared to have been injured.
+
+The soldier would be the first North Korean **combatant** to have been taken by Ukrainian forces.
+
+Russian and North Korean military leaders are treating these troops as **expendable** and ordering them on hopeless assaults against Ukrainian defences.
+
+That **prospect** has raised concerns in Kyiv that a settlement could be imposed on terms favourable to Moscow, as Ukraine struggles on the battlefield.
