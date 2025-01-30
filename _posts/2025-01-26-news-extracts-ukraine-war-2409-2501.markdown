@@ -280,3 +280,53 @@ The soldier would be the first North Korean **combatant** to have been taken by 
 Russian and North Korean military leaders are treating these troops as **expendable** and ordering them on hopeless assaults against Ukrainian defences.
 
 That **prospect** has raised concerns in Kyiv that a settlement could be imposed on terms favourable to Moscow, as Ukraine struggles on the battlefield.
+
+#### [2025-01-08 North Korea learning from fighting with Russia against Ukraine, US warns](https://www.theguardian.com/world/2025/jan/08/north-korea-learning-from-fighting-with-russia-against-ukraine-us-warns)
+
+North Korea is benefiting from its troops fighting alongside Russia against Ukraine, gaining experience that makes Pyongyang “more capable of **waging** war against its neighbours” a senior US official has warned.
+
+In turn, the DPRK will likely be eager to **leverage** these improvements to promote weapons sales and military training contracts globally.
+
+United States **embellished** Israel’s **nefarious** mass killing **atrocity** as the right to self-defence.
+
+He also rejected as “wholly **unsubstantiated**” a US allegation that Russia intends to share satellite and space technology with Pyongyang.
+
+Such statements are the latest example of baseless **conjecture** which is geared towards **smearing** bilateral cooperation between the Russian Federation and the friendly nation of the DPRK
+
+#### [2025-01-12 Ukraine’s capture of North Koreans offers rare insight into Russian alliance, says Zelenskyy](https://www.theguardian.com/world/2025/jan/12/ukraines-capture-of-north-koreans-offers-rare-insight-into-russian-alliance-says-zelenskyy)
+
+He praised the paratroopers and tactical group that **retrieved** them.
+
+They represent a PR opportunity for Kyiv, during a **precarious** moment for Ukraine as Donald Trump returns to the White House.
+
+Ukraine is fighting an unprecedented **coalition** of **malign** autocratic states.
+
+The SBU released video footage and photographs showing the two North Korean men in hospital **bunks**.
+
+The other wrote his answers due to his injured jaw, stating that he was born in 1999, had joined the army in 2016 and was a **scout** sniper.
+
+Kyiv has rejected any deal that forces it to **cede** territory to Russia.
+
+He said it was necessary to “find a way out of this war, without a **dictated** peace in which the Ukrainians have no say”.
+
+Early on Sunday, a Russian oil tanker was **manoeuvred** safely into the port of Sassnitz by tug boats.
+
+The tanker is believed to be part of an extensive operation by Moscow to try to circumnavigate sanctions, for which **dilapidated**, unseaworthy ships are often used.
+
+The 274-metre-long vessel with 24 crew members has effectively been **impounded** by authorities until a decision is made as to how to deal with it.
+
+### 战争简报
+
+#### [2024-10-24 Ukraine war briefing: Brics summit backfired on Putin with calls for peace, says Kyiv](https://www.theguardian.com/world/2024/oct/24/ukraine-war-briefing-brics-summit-backfired-on-putin-with-calls-for-peace-says-kyiv)
+
+We must **adhere** to the three principles of ‘no spillover from the battlefield, no escalation of fighting and no adding oil to the fire by relevant parties’, so as to ease the situation as soon as possible.
+
+Ukrainian authorities have announced the **mandatory** evacuation of children and their families from Borova in the north-eastern region of Kharkiv.
+
+We will provide $20bn in loans to Ukraine that will be paid back by the interest earned from **immobilised** Russian sovereign assets.
+
+Russia will not **prevail** in this conflict … **tyrants** will be responsible for the damages they cause.
+
+The US plans to **disperse** $10bn by December as economic aid.
+
+Romania **scrambled** two F-16 fighter jets after detecting what were probably two drones **breaching** its national airspace.
