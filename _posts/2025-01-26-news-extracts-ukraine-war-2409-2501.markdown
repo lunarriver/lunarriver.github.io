@@ -330,3 +330,53 @@ Russia will not **prevail** in this conflict … **tyrants** will be responsible
 The US plans to **disperse** $10bn by December as economic aid.
 
 Romania **scrambled** two F-16 fighter jets after detecting what were probably two drones **breaching** its national airspace.
+
+#### [2024-10-28 Ukraine war briefing: Russian forces thwart another attempted cross-border incursion, official says](https://www.theguardian.com/world/2024/oct/28/ukraine-war-briefing-russian-forces-thwart-another-attempted-cross-border-incursion-official-says)
+
+Responsibility for previous incursions into Russia’s Belgorod and Bryansk regions has been claimed by two **murky** groups: the Russian Volunteer Corps and the Freedom of Russia Legion.
+
+Putin said that it was too early to say exactly how Russia would react to such a move but that Moscow would have to respond **accordingly** and different options were being examined.
+
+Nato countries have all been **staunch** supporters of Ukraine in its fight against Russia’s invasion.
+
+Ukrainian drones targeted an **ethanol** plant in Russia’s Voronezh region.
+
+It is through the policy of non-**alignment** that South Africa has been able to **constructively** engage with both Russia and Ukraine.
+
+#### [2024-10-29 Ukraine war briefing: Bomb shatters historic landmark in Kharkiv](https://www.theguardian.com/world/2024/oct/29/ukraine-war-briefing-bomb-derzhprom-historic-landmark-kharkiv)
+
+A Russian guided bomb attack on Kharkiv on Monday **shattered** much of the Derzhprom building.
+
+Volodymyr Zelenskyy, Ukraine’s president, **deplored** the attack on his home town, as well as on Kharkiv, and called for renewed efforts to force Vladimir Putin to halt the war.
+
+In the southern Kherson region, a drone attack killed a **medic** on Monday.
+
+They ought to be concerned about this **destabilising** action by two of its neighbours, Russia and North Korea.
+
+It added that the value of the older eastern European-made tanks and equipment would be **deducted** from the total price for the new Leopard 2A8 tanks that Croatia will buy.
+
+#### [2024-11-02 Ukraine war briefing: North Korea says it will back Russia until it achieves victory](https://www.theguardian.com/world/2024/nov/02/ukraine-war-briefing-north-korea-says-it-will-back-russia-until-it-achieves-victory)
+
+She said Pyongyang had no doubt that under Putin’s “wise leadership” Russia will “achieve a great victory in their **sacred** struggle to protect the sovereign rights and security interests”.
+
+The Ukrainian president called on Ukraine’s allies to stop “watching” and take action to tackle the presence of North Korean troops in Russia before they start **confronting** his country in combat.
+
+The package, which will be drawn from US stocks, also includes air-to-ground munitions, medical equipment, **demolition** munitions and spare parts.
+
+Another 14 drones were “locationally lost” and one out of three **cruise** missiles launched was also destroyed, it said.
+
+The main problem we have now are **powders** and explosives.
+
+Ukraine, he said, was now producing its own artillery shells, including the **coveted** 155mm calibre used by heavy artillery pieces donated to Ukraine by allied Nato countries.
+
+#### [2024-11-17 Ukraine war briefing: Biden urges Xi to dissuade North Korea from deepening Russian support](https://www.theguardian.com/world/2024/nov/17/ukraine-war-briefing-biden-urges-xi-to-dissuade-north-korea-from-deepening-russian-support)
+
+The introduction of DPRK troops runs **foursquare** against that.
+
+Volodymyr Zelenskyy **endorsed** a rapid push to broker a deal on Saturday.
+
+February 2025 would mark the third anniversary of Moscow’s invasion, with Russia’s troops gaining ground in recent months against Kyiv’s outmanned and **outgunned** soldiers.
+
+Russia remained the **sole** **obstacle** to a just peace in Ukraine.
+
+Moscow’s forces are **bearing down** on Kurakhove, which has a thermal power plant and is 7 km from Pokrovsk, a large town which for much of the war has been one of Ukraine’s logistical **linchpin**.
