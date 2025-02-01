@@ -380,3 +380,57 @@ February 2025 would mark the third anniversary of Moscow’s invasion, with Russ
 Russia remained the **sole** **obstacle** to a just peace in Ukraine.
 
 Moscow’s forces are **bearing down** on Kurakhove, which has a thermal power plant and is 7 km from Pokrovsk, a large town which for much of the war has been one of Ukraine’s logistical **linchpin**.
+
+#### [2024-12-09 Ukraine war briefing: Trump urges China to help end Ukraine war](https://www.theguardian.com/world/2024/dec/09/ukraine-war-briefing-trump-urges-china-to-help-end-ukraine-war)
+
+Like Joe Biden, president-elect Trump made a connection between the **upheaval** in Syria and Russia’s war in Ukraine, noting that allies of **ousted** Syrian president Bashar al-Assad in Moscow, as well as in Iran, the main sponsor of Hamas and Hezbollah, “are in a weakened state right now”.
+
+Trump said that his incoming administration would be open to reducing aid to Ukraine, which the United States has been **steadfastly** backing since its invasion by Russia.
+
+Hopes for victory, a swift end to the war and prayers for their loved ones’ survival or return from Russian **captivity** are among the wishes scattered throughout letters sent by Ukrainian children living in frontline areas to a volunteer group.
+
+#### [2024-12-11 Ukraine war briefing: Don’t let Patriot missile systems gather dust, says Zelenskyy, after deadly strike on clinic](https://www.theguardian.com/world/2024/dec/11/ukraine-war-briefing-dont-let-patriot-missile-systems-gather-dust-says-zelenskyy-after-deadly-strike-on-clinic)
+
+Volodymyr Zelenskyy has urged Ukraine’s allies to provide 10-12 more **Patriot** air defence systems.
+
+The US has **disbursed** a $20bn loan for Ukraine backed by proceeds earned on frozen Russian assets.
+
+The US treasury secretary, Janet Yellen, called it a “critical **infusion** of support as [Ukraine] defends its country against an **unprovoked** war of aggression”.
+
+The **principal** **contractors** will be Sabena, Lockheed Martin Aeronautics and Pratt and Whitney, the Pentagon said in a statement.
+
+Tusk also announced a series of **upcoming** talks with foreign officials.
+
+#### [2024-12-16 Ukraine war briefing: Kyiv accuses Moscow of recklessness after oil tanker sinks in storm](https://www.theguardian.com/world/2024/dec/16/ukraine-war-briefing-kyiv-accuses-moscow-of-recklessness-after-oil-tanker-sinks-in-storm)
+
+The Volgoneft-212 tanker **snapped** in half after being hit by a large wave, with a video showing its **bow** sticking vertically out of the water.
+
+The tanker was carrying 4,300 tonnes of low-grade heavy fuel oil, known as **mazut** and footage also showed a black oil slick around the vessel.
+
+President Vladimir Putin ordered the government to set up a working group to deal with the rescue operation and **mitigate** the impact of the fuel spill.
+
+The train was halted, with tanker cars **ablaze**, and army units fired US-supplied Himars missiles at the site, it said.
+
+#### [2025-01-06 Ukraine war briefing: Fierce fighting reported in Russia’s Kursk region amid new Ukrainian offensive](https://www.theguardian.com/world/2025/jan/06/ukraine-war-briefing-fierce-fighting-reported-in-russias-kursk-region-amid-new-ukrainian-offensive)
+
+Russian troops have been trying to **eject** Ukrainian forces for the past five months.
+
+Russia’s Delfa centre, which rescues and **rehabilitates** dolphins, said on Sunday it had recorded 61 dead **cetaceans** – a type of **aquatic** mammal that includes whales, dolphins and **porpoises** – since the incident.
+
+#### [2025-01-13 Ukraine war briefing: Kyiv ready to swap North Korean soldiers for Ukrainian PoWs, Zelenskyy says](https://www.theguardian.com/world/2025/jan/13/ukraine-war-briefing-kyiv-ready-to-swap-north-korean-soldiers-for-ukrainian-pows-zelenskyy-says)
+
+One of the men said he wanted to return to North Korea while the other said he wanted to remain in Ukraine, according to translated comments from a video of the two men’s **interrogations** posted by Zelenskyy.
+
+The country announced it will contribute up to three warships and a **surveillance** aircraft to a Nato effort to monitor critical infrastructure and Russia’s “shadow fleet” as the alliance tries to guard against sabotage of underwater infrastructure.
+
+One woman suffered a **laceration** wound to her arm, and died in the morning.
+
+#### [2025-01-16 Ukraine war briefing: US House speaker dumps key Ukraine backer Mike Turner](https://www.theguardian.com/world/2025/jan/16/ukraine-war-briefing-us-house-speaker-dumps-key-ukraine-backer-mike-turner)
+
+Mike Johnson, the speaker of the US House of Representatives, on Wednesday removed his fellow Republican Mike Turner, a **vocal** supporter of assistance for Ukraine, as chairman of the powerful House intelligence committee.
+
+There will have to be **concessions** made by the Russian Federation, but also by the Ukrainians.
+
+Keir Starmer, Britain’s prime minister, has travelled to Ukraine to meet Volodymyr Zelenskyy for the first time since he entered Downing Street, **hailing** a “closer than ever” partnership days before Donald Trump returns to the White House.
+
+The mayor of the southern city of Kherson said there were power cuts as a result of the **barrage**.
