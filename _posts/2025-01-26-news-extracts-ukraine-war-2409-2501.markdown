@@ -434,3 +434,41 @@ There will have to be **concessions** made by the Russian Federation, but also b
 Keir Starmer, Britain’s prime minister, has travelled to Ukraine to meet Volodymyr Zelenskyy for the first time since he entered Downing Street, **hailing** a “closer than ever” partnership days before Donald Trump returns to the White House.
 
 The mayor of the southern city of Kherson said there were power cuts as a result of the **barrage**.
+
+### 其他
+
+#### [2024-11-07 Russia strikes Kyiv in huge drone attack hours after Trump win](https://www.theguardian.com/world/2024/nov/07/russia-strikes-kyiv-huge-drone-attack-trump-win)
+
+Earlier the **moped**-like **whine** of Iranian shahed drones could be heard at 6am local time on Wednesday above the capital.
+
+Falling debris set fire to a **high-rise** building and blew out windows.
+
+Zelenskyy on Thursday rejected offering Moscow any concessions in Ukraine, saying such moves would be **detrimental** to his country and Europe more broadly.
+
+“It’s unacceptable for Ukraine and **suicidal** for all Europe,” he said.
+
+Putin recycled some of his go-to **grievances** with the west as he made his first comments since the US election, claiming Nato’s actions “forced Russia” to respond by invading Ukraine. He also described Nato as a “**blatant** **anachronism**” which was seeking to defeat Russia in Ukraine.
+
+“The calls of the west to inflict a strategic defeat on Russia, a country with the largest arsenal of nuclear weapons, demonstrates the **exorbitant** adventurism of Western politicians,” said Putin, adding that a struggle was **underway** to shape a new world order as the Western-dominated post-cold war era crumbled.
+
+The Kremlin is likely to call for the handover of further territory, as well as “**reparations**”, a buffer zone and guarantees of Ukraine’s non-Nato “neutrality”.
+
+#### [2024-11-16 Japan’s minister visits Ukraine to stress ‘grave concern’ over North Korean troops](https://www.theguardian.com/world/2024/nov/16/japans-minister-visits-ukraine-to-stress-grave-concern-over-north-korean-troops)
+
+High on the **agenda** was Tokyo’s “grave concern” over growing military cooperation between North Korea and Russia, the ministry said.
+
+#### [2024-11-17 Biden lifts ban on Ukraine using US weapons to strike deeper into Russia](https://www.theguardian.com/world/2024/nov/17/biden-has-lifted-ban-on-ukraine-using-us-weapons-to-strike-deeper-into-russia-reports)
+
+Andrii Sybiha, Ukraine’s foreign minister, described the strike as Moscow’s “true response” to leaders who had interacted with Vladimir Putin, an apparent **swipe** at the German chancellor, Olaf Scholz, who made a phone call to the Russian leader on Friday for the first time since December 2022.
+
+That’s why I think we need to double down on **shoring** up our support for Ukraine and that’s top of my agenda for the G20.
+
+#### [2024-11-19 Ukraine fires US-made Atacms missiles into Russia after ban lifted by Biden](https://www.theguardian.com/world/2024/nov/19/putin-warns-us-over-using-long-range-missiles-by-signing-new-nuclear-doctrine-ukraine)
+
+The reports of an Atacms strike emerged hours after Vladimir Putin signed a **revised** nuclear **doctrine** lowering the threshold for using nuclear weapons.
+
+Lavrov said he hoped Moscow’s new nuclear doctrine would be “**attentively** read” in the west.
+
+Western officials also believe Russia may escalate its ongoing campaign of **arson** and sabotage targeting Europe.
+
+Intelligence agencies are currently investigating recent damage to two undersea fibre-optic communication cables in the Baltic Sea, severed in rapid **succession** earlier this week.
