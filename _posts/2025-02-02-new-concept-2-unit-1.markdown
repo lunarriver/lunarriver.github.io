@@ -110,7 +110,7 @@ What a day it is！
 
 - I **knocked** the vase **off** the table and broke it.（碰掉）
   
-- He always **knocks off** at six o'click.（下班）
+- He always **knocks off** at six o'clock.（下班）
   
 - The shop assistant **knocked 10% off** the bill.（给予10%优惠）
   
@@ -190,7 +190,7 @@ What a day it is！
   
 - It rained heavily **during the night**.
   
-- He will not arrive **until 10 o'click**.
+- He will not arrive **until 10 o'clock**.
 
 对疑问句的两种否定性回答：
 
@@ -236,7 +236,7 @@ A2: There's no tea in the pot.
 
 - He wants me to ask you a question.
   
-- They did not allow us to enter the museum before 9 o'click.
+- They did not allow us to enter the museum before 9 o'clock.
 
 词汇：
 

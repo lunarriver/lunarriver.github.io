@@ -472,3 +472,47 @@ Lavrov said he hoped Moscow’s new nuclear doctrine would be “**attentively**
 Western officials also believe Russia may escalate its ongoing campaign of **arson** and sabotage targeting Europe.
 
 Intelligence agencies are currently investigating recent damage to two undersea fibre-optic communication cables in the Baltic Sea, severed in rapid **succession** earlier this week.
+
+#### [2024-11-26 Power cuts in Ukraine after Russia’s biggest drone attack yet](https://www.theguardian.com/world/2024/nov/26/power-cuts-ukraine-russia-biggest-drone-attack-yet)
+
+Ukraine’s air force said 76 of the drones had been shot down overnight, as air defences struggled to **cope** with the massed attacks that have become common in recent weeks.
+
+In a video that surfaced over the weekend, a man in military **fatigues**, with his hands tied, gave his name as Anderson.
+
+In **pursuing** its illegal war in Ukraine, Russia makes use of North Korean weapons and troops, Iranian drones and Chinese dual-use goods for its defence industry.
+
+#### [2024-12-04 How Ukraine has faced its worst month on the battlefield in two years – visualised](https://www.theguardian.com/world/ng-interactive/2024/dec/04/how-ukraine-faced-worst-month-battlefield-in-two-years-visualised)
+
+Last year, with the conflict mostly at a **stalemate**, Institute for the Study of War (ISW) data shows that Russian forces took 2,233 sq km (862 sq miles) of territory.
+
+Russian forces have mostly **encircled** but not yet taken major cities, and few major rail or road **arteries** have been severed recently.
+
+Russia has not fundamentally **unhinged** Ukraine’s defensive positions.
+
+Ukraine would enter any ceasefire negotiations on the **backfoot**.
+
+Morale is very low in Ukraine’s army, after ‘meat **grinder**’ battles like Bakhmut, and they’re not recruiting the troops that they need.
+
+These files assess the extent of territory controlled or **contested** by Russian forces on a daily basis.
+
+#### [2024-12-19 Putin claims Ukraine war has made Russia ‘much stronger’](https://www.theguardian.com/world/2024/dec/19/putin-claims-ukraine-war-has-made-russia-much-stronger-phone-in)
+
+The closely orchestrated event, typically an annual cocktail of Kremlin pomp and state TV camp, lasted four and a half hours and included phone-in questions from war bloggers and **pensioners**, as well as regional journalists **vying** for the microphone in a studio in Moscow.
+
+Putin appeared largely **upbeat** and confident, as his troops continued to make **grinding** progress in Ukraine.
+
+The situation on the battlefield is changing **drastically**.
+
+But a viable path to a peace deal remains elusive as Putin shows no indication of backing down from his demands, which appear to be **nonstarters** for Ukraine.
+
+Putin also used his annual event – designed to project power and control by answering **handpicked** questions – to address a series of sensitive developments that have **tarnished** Russia’s reputation.
+
+Putin rejected the idea that he had suffered a major geopolitical **setback**.
+
+But wages and real **disposable** income had grown as well.
+
+I believe that we’ve moved back from the edge of the **abyss**.
+
+#### [2025-01-21 Zelenskyy says Russia-Ukraine peace deal would require 200,000 allied troops](https://www.theguardian.com/business/2025/jan/21/zelensky-says-russia-ukraine-peace-deal-would-require-200000-allied-troops)
+
+“Europe must establish itself as a strong, global player, as an **indispensable** player,” the Ukrainian president said.
