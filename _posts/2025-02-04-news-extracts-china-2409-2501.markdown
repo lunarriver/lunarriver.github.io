@@ -46,3 +46,59 @@ Musk seeking to move his supply chain ahead of potential conflict renews focus o
  In September last year he asserted Taiwan was an **integral** part of China akin to the US state of Hawaii, and that it was only “**arbitrarily**” separated because of US protection.
 
 The story has also **garnered** significant attention in China.
+
+#### [2024-12-01 Taiwan president stops in Hawaii during Pacific tour, drawing ire from China](https://www.theguardian.com/world/2024/dec/01/taiwan-president-stops-in-hawaii-during-pacific-tour-drawing-ire-from-china)
+
+China’s foreign ministry said on Sunday it had **lodged** “serious protests” with the US.
+
+which also includes a stopover in Guam, a US territory.
+
+China has been **exerting** stronger influence.
+
+Speaking to reporters before his **departure**, Lai said: “Thank you to the US government for upholding the principles of safety, dignity, comfort.”
+
+Hawaii’s governor, greeted Lai on the **tarmac** of Honolulu airport on Saturday.
+
+The meeting was a “**momentous** occasion”, highlighting Hawaii’s shared values of **resilience** and **collaboration** with Taiwan.
+
+President Lai’s transit was the highest level of **courtesy** ever, and the level of the **reception** also exceeded previous norms.
+
+China also vowed “**resolute** countermeasures” on Sunday to a recently approved US arms sale to Taiwan.
+
+But the US government is **obliged** by law to supply the island with the means to defend itself.
+
+#### [2025-01-07 Taiwan investigating Chinese vessel over damage to undersea cable](https://www.theguardian.com/world/2025/jan/07/taiwan-investigating-chinese-vessel-over-damage-to-undersea-cable)
+
+Open-source marine trackers show it last transmitted its location on Friday morning, in the **vicinity** of the cable.
+
+A Chinese **bulk** carrier was suspected of involvement in damage to undersea cables in the Baltic Sea in November.
+
+Ensuring connectivity is critical for informational operations and **narrative** control, which drives international support.
+
+#### [2025-01-08 The maps that show how China’s military is squeezing Taiwan](https://www.theguardian.com/world/2025/jan/08/the-maps-that-show-how-chinas-military-is-squeezing-taiwan)
+
+Analysts said China’s **relentless** harassment had taken a toll on Taiwan’s resources, but had failed to convince them to **capitulate**.
+
+He has publicly and **stridently** promised to bring it under Communist party (CCP) control, subsumed into the Chinese motherland, by force if necessary, on multiple occasions.
+
+“**Coercive**” tactics could be a blockade or **quarantine**.
+
+Lee said the PLA was fully capable of those three types of measure but had yet to launch a blockade or attack because it wasn’t yet able to **enact** the fourth: conquest.
+
+Every incident forces Taiwan’s military to respond, wearing down its resources and morale, and **eroding** warning times as Taiwan is forced to shrink the territorial space it can practically cover.
+
+In 2023 it was a similar number, heavily concentrated during military drills launched in April and September in **purported** retaliation to what it called Taiwan’s “separatist activities”.
+
+Lewis’s data, shows a **lull** in ADIZ incursions in the months leading up to Taiwan’s presidential election in January.
+
+Beijing will usually link its drills and greyzone activities to **perceived** provocations.
+
+#### [2025-01-17 Mike Pence to Trump: cutting Taiwan support would ‘likely spark a new nuclear arms race’ | Taiwan | The Guardian](https://www.theguardian.com/world/2025/jan/17/mike-pence-donald-trump-taiwan-support-china-relationship-nuclear-weapons)
+
+**Ultimately** nations would feel they have no choice but to develop their own nuclear arsenal.
+
+He pointedly referred to recent comments by Trump that were **dismissive** of Taiwan.
+
+Pence had a **spectacular** falling out with Trump over the certifying of Biden’s presidential win.
+
+Lai is accused of **conspiring** to collude with foreign forces.
