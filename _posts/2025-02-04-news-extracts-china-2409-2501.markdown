@@ -155,6 +155,44 @@ Many Chinese **photovoltaic** companies have started exploring new **avenues** f
 
 It will be nearly impossible for the US solar industry to fully **extricate** itself from Chinese companies.
 
+#### [2024-11-22 Tesla’s path in China clears as Musk courts both Trump and the leader](https://www.theguardian.com/technology/2024/nov/22/elon-musk-tesla-china-us-relationship-trump-xi-jinping)
+
+His commercial and political connections to both may prove **pivotal** as the **feud** between the US and China plays out over the next four years, particularly as Trump promises steep tariffs.
+
+But his relationship with the current US president **soured** over the past four years.
+
+The US-China relationship has been **tumbling** downhill for years.
+
+The country accounts for around one-quarter of Tesla’s global revenues, and the **lion’s share** of vehicle manufacturing capacity.
+
+Trump has promised to introduce 60% tariffs on all Chinese imports, **eliciting** **ire** from Beijing and **exacerbating** an already fractious relationship.
+
+I think there are going to be **carve-outs** for Tesla when it comes to tariffs, as well for China.
+
+#### [2024-11-22 US will unveil new export restrictions on China, lobbying group says](https://www.theguardian.com/business/2024/nov/22/china-export-restrictions)
+
+The Biden administration is set to **unveil** new export restrictions on China as soon as next week.
+
+The new **regulations** could add up to 200 Chinese chip companies to a trade restriction list, according to an **excerpt** seen by Reuters on Friday.
+
+Another set of rules **curbing** shipments of high-bandwidth memory chips to China is expected to be unveiled next month.
+
+#### [2024-11-25 Trump vows 25% tariffs on Mexico and Canada and deeper tariffs on China](https://www.theguardian.com/us-news/2024/nov/25/trump-mexico-canada-tariffs-border)
+
+China is a major producer of precursor chemicals that are acquired by drug cartels, including in Mexico, to manufacture fentanyl, a highly **potent** synthetic opioid.
+
+“The Chinese side has notified the US side of the progress made in US-related law enforcement operations against **narcotics**,” he said in a statement.
+
+It also said that the Canada Border Services Agency, the US Drug Enforcement Administration and US Customs and Border Protection “work together every single day to disrupt the **scourge** of fentanyl coming from China and other countries”.
+
+Bill Ackman is the chief executive of the New York-based **hedge** fund Pershing Square Capital Management.
+
+But economists widely consider them an inefficient tool that typically leave consumers and taxpayers bearing the **brunt** of higher costs.
+
+The Peterson Institute for International Economics is a **nonpartisan** Washington DC-based research organization.
+
+Analysts said it was probably an opening **gambit**, especially with the Chinese economy in a much more vulnerable position than during the previous trade war waged between the two countries given the country’s prolonged property **downturn**.
+
 ### 外交
 
 #### [2024-11-05 China blocking UK plans in Beijing amid east London mega-embassy dispute](https://www.theguardian.com/world/2024/nov/05/china-blocking-uk-plans-beijing-east-london-mega-embassy-dispute)
