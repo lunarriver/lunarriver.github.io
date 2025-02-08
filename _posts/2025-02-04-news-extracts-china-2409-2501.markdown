@@ -193,6 +193,30 @@ The Peterson Institute for International Economics is a **nonpartisan** Washingt
 
 Analysts said it was probably an opening **gambit**, especially with the Chinese economy in a much more vulnerable position than during the previous trade war waged between the two countries given the country’s prolonged property **downturn**.
 
+#### [2024-11-26 Is the China-US fentanyl pipeline really responsible for the US opioid crisis?](https://www.theguardian.com/society/2024/nov/26/is-the-china-us-fentanyl-pipeline-really-responsible-for-the-us-opioid-crisis)
+
+However, a presidential statement published last month said the “destructive” trade **deficit**, rather than fentanyl, was the primary driver of the tariffs.
+
+China told me that they would **institute** their maximum penalty, that of death, for any drug dealers caught doing this.
+
+China has **disputed** this **depiction** of the issue.
+
+In 2019, at the **behest** of the US, China scheduled all forms of fentanyl, the only major country to permanently include the drugs on a list of controlled substances.
+
+Chinese and Mexican organised criminal gangs form the financial **backbone** of the international fentanyl trade.
+
+#### [2024-11-29 What are tariffs and how do they work – explained in 30 seconds](https://www.theguardian.com/world/2024/nov/29/what-are-tariffs-and-how-do-they-work-explained-in-30-seconds)
+
+The artificial increase in the price of imports can also theoretically lead to weaker domestic competition, and local industries that are less efficient and **innovative**.
+
+Tariffs often can **devolve** into a cycle of retaliation, or even a full-blown trade war.
+
+They also aimed to constrain a powerful rival and rebalance a **lopsided** trade deficit.
+
+#### [2025-01-17 Trump says he had ‘good’ call with China’s Xi about TikTok and trade](https://www.theguardian.com/world/2025/jan/17/xi-jinping-trump-call)
+
+He is reportedly considering delaying a ban on TikTok which is due to come into effect on Sunday unless the video-sharing app **divests** from its parent company, the Beijing-based Bytedance.
+
 ### 外交
 
 #### [2024-11-05 China blocking UK plans in Beijing amid east London mega-embassy dispute](https://www.theguardian.com/world/2024/nov/05/china-blocking-uk-plans-beijing-east-london-mega-embassy-dispute)
@@ -212,3 +236,17 @@ China refused to **appeal** and made it clear to Conservative ministers it wante
 The UK government had given its **consent** to this.
 
 Host countries have the international **obligation** to support and facilitate the building of the **premises** of diplomatic missions.
+
+#### [2024-11-12 China must face ‘higher cost’ for backing Russia in Ukraine, says next EU foreign policy chief](https://www.theguardian.com/world/2024/nov/12/china-must-face-higher-cost-for-backing-russia-says-next-eu-foreign-policy-chief)
+
+She listed Ukraine’s victory as a priority – stronger words than vaguer **formulas** of support voiced by some EU politicians.
+
+In a carefully worded **overture** to the incoming Donald Trump administration, she said support for Ukraine was in the US’s interest.
+
+She said the EU needed “first and **foremost**” to get information from the US on its plans.
+
+These two roles – her position is known as **double-hatted** in EU **jargon** – point to the challenges of the job: touring the globe as the EU’s chief diplomat, while coordinating foreign policy between 27 national capitals that have frequently diverging views, and leading the EU’s **cash-strapped** foreign service from Brussels.
+
+During the Soviet **deportation** of 1941, Kallas’s mother was **deported** to Siberia as a six-month-old baby with her mother and grandmother.
+
+But she faced no specific questions about the EU’s controversial migration deals with Tunisia or Egypt, or the €5bn trust fund for Africa, which aims to deter migration and was recently given an **excoriating** review by the EU’s auditors.
