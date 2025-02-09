@@ -213,7 +213,7 @@ Tariffs often can **devolve** into a cycle of retaliation, or even a full-blown
 
 They also aimed to constrain a powerful rival and rebalance a **lopsided** trade deficit.
 
-#### [2025-01-17 Trump says he had ‘good’ call with China’s Xi about TikTok and trade](https://www.theguardian.com/world/2025/jan/17/xi-jinping-trump-call)
+#### [2025-01-17 Trump says he had ‘good’ call with China’s Leader about TikTok and trade](https://www.theguardian.com/world/2025/jan/17/xi-jinping-trump-call)
 
 He is reportedly considering delaying a ban on TikTok which is due to come into effect on Sunday unless the video-sharing app **divests** from its parent company, the Beijing-based Bytedance.
 
@@ -250,3 +250,21 @@ These two roles – her position is known as **double-hatted** in EU **jargon** 
 During the Soviet **deportation** of 1941, Kallas’s mother was **deported** to Siberia as a six-month-old baby with her mother and grandmother.
 
 But she faced no specific questions about the EU’s controversial migration deals with Tunisia or Egypt, or the €5bn trust fund for Africa, which aims to deter migration and was recently given an **excoriating** review by the EU’s auditors.
+
+[2024-11-27 Swedish PM says Baltic sea now ‘high risk’ after suspected cable sabotage](https://www.theguardian.com/world/2024/nov/27/swedish-pm-says-baltic-sea-now-high-risk-after-suspected-cable-sabotage)
+
+The Swedish prime minister declined to **speculate** on who may have been responsible for the severing of two fibre optic telecoms cables in the Baltic last week.
+
+Speaking from the summit, in Harpsund, the Swedish prime minister’s country **retreat**, Kristersson told the Guardian: “The Baltic sea that are dangerous.”
+
+Kristersson’s government **vetoed** plans for 13 offshore windfarms in the Baltic, citing unacceptable security risks.
+
+Kristersson said that Sweden was “safer and more secure” within the alliance than it was before – despite the longtime Nato **scepticism** of the US president-elect, Donald Trump.
+
+[2024-11-28 Sweden seeks clarity from China about suspected sabotage of undersea cables](https://www.theguardian.com/world/2024/nov/28/sweden-seeks-clarity-from-china-about-suspected-sabotage-of-undersea-cables)
+
+There was no explosion or **seismic** signal at all, so that could be consistent with this anchor theory.
+
+In a subsequent incident in the Baltic, in October 2023, the Balticconnector gas pipeline was **extensively** damaged.
+
+They said the damage was being investigated as **aggravated** criminal damage and aggravated interference with communications.
