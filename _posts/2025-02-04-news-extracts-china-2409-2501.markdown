@@ -251,7 +251,7 @@ During the Soviet **deportation** of 1941, Kallas’s mother was **deported** to
 
 But she faced no specific questions about the EU’s controversial migration deals with Tunisia or Egypt, or the €5bn trust fund for Africa, which aims to deter migration and was recently given an **excoriating** review by the EU’s auditors.
 
-[2024-11-27 Swedish PM says Baltic sea now ‘high risk’ after suspected cable sabotage](https://www.theguardian.com/world/2024/nov/27/swedish-pm-says-baltic-sea-now-high-risk-after-suspected-cable-sabotage)
+#### [2024-11-27 Swedish PM says Baltic sea now ‘high risk’ after suspected cable sabotage](https://www.theguardian.com/world/2024/nov/27/swedish-pm-says-baltic-sea-now-high-risk-after-suspected-cable-sabotage)
 
 The Swedish prime minister declined to **speculate** on who may have been responsible for the severing of two fibre optic telecoms cables in the Baltic last week.
 
@@ -261,7 +261,7 @@ Kristersson’s government **vetoed** plans for 13 offshore windfarms in the Bal
 
 Kristersson said that Sweden was “safer and more secure” within the alliance than it was before – despite the longtime Nato **scepticism** of the US president-elect, Donald Trump.
 
-[2024-11-28 Sweden seeks clarity from China about suspected sabotage of undersea cables](https://www.theguardian.com/world/2024/nov/28/sweden-seeks-clarity-from-china-about-suspected-sabotage-of-undersea-cables)
+#### [2024-11-28 Sweden seeks clarity from China about suspected sabotage of undersea cables](https://www.theguardian.com/world/2024/nov/28/sweden-seeks-clarity-from-china-about-suspected-sabotage-of-undersea-cables)
 
 There was no explosion or **seismic** signal at all, so that could be consistent with this anchor theory.
 
