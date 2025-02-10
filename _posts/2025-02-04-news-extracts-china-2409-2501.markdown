@@ -268,3 +268,125 @@ There was no explosion or **seismic** signal at all, so that could be consistent
 In a subsequent incident in the Baltic, in October 2023, the Balticconnector gas pipeline was **extensively** damaged.
 
 They said the damage was being investigated as **aggravated** criminal damage and aggravated interference with communications.
+
+#### [2024-12-22 Let China build electric cars in UK, Tory ex-chancellor tells Rachel Reeves ahead of trade trip](https://www.theguardian.com/world/2024/dec/22/let-china-build-electric-cars-in-uk-tory-ex-chancellor-tells-rachel-reeves-ahead-of-trade-trip)
+
+China should be encouraged to build electric cars and renewable energy technology in the UK as part of a new **pragmatic** trading relationship that would benefit both countries.
+
+If we are **genuinely** interested in developing trade relationships more to help us achieve stronger growth, then we have to balance the competing interests **proportionately** – security, defence and the desire for growth.
+
+Reeves is desperate to find ways to generate growth in the UK following a wave of gloomy announcements about **stubbornly** high inflation and low growth in the domestic economy.
+
+ This was after its **monetary** policy committee had held the benchmark interest rate at 4.75%.
+
+He said that in 2015, in an attempt to heal a **rift** with China over a 2012 meeting between David Cameron and the Dalai Lama.
+
+With the benefit of hindsight, we **overhyped** the **rapprochement** with China.
+
+As you often do when the **pendulum** has swung too far one way, you push back further than it wants to go.
+
+#### [2024-12-23 Sweden says China denied request for prosecutors to board ship linked to severed cables](https://www.theguardian.com/world/2024/dec/23/china-refused-investigation-into-ship-linked-to-severed-baltic-cables-says-sweden)
+
+China has notified all **relevant** countries in advance.
+
+#### [2025-01-12 Putin and The leader hold video call in show of unity hours after Trump inauguration](https://www.theguardian.com/world/2025/jan/21/putin-and-xi-make-show-of-unity-in-call-hours-after-trump-inauguration)
+
+In turn, Beijing has capitalised on Russia’s isolation from the west to secure **preferential** access to its resources and markets.
+
+### 偶发事件
+
+#### [2024-9-19 Tokyo demands answers over fatal stabbing of 10-year-old Japanese boy in China](https://www.theguardian.com/world/2024/sep/19/japanese-boy-stabbed-china)
+
+Japan’s foreign minister, Yoko Kamikawa, has described as “**despicable**” the alleged killing in China of a 10-year-old Japanese boy.
+
+There is concern that the incident could trigger a further **deterioration** in Sino-Japanese ties.
+
+The suspected **assailant** was apprehended by police officers stationed near the boy’s school.
+
+In1931, Japanese troops staged a minor **detonation** on a railway track in Mukden, now Shenyang, as a precursor to Japan’s invasion and occupation of Manchuria.
+
+Relations between China and Japan have worsened in recent years over Beijing’s increasingly **assertive** military activity in waters around Japan.
+
+On Wednesday, a Chinese aircraft carrier and two destroyers entered Japan’s **contiguous** waters for the first time.
+
+Japan has also protested China’s ban on imports of Japanese seafood, imposed after the release of treated **radioactive** water from the Fukushima Daiichi nuclear power plant began in August last year.
+
+#### [2024-09-20 In Shenzhen, the fatal stabbing of a Japanese schoolboy is quietly mourned](https://www.straitstimes.com/asia/east-asia/in-shenzhen-the-fatal-stabbing-of-a-japanese-schoolboy-is-quietly-mourned?_gl=1*olj03w*_gcl_au*MTE1MzUwOTA1My4xNzI3MDE1NjUy)
+
+One by one, they laid flowers at the gate of a Japanese school in Shenzhen, which was **strikingly** quiet even as nearby streets filled with children heading home from class.
+
+A **trickle** of residents in the southern Chinese tech hub paid **tribute** to a 10-year-old Japanese schoolboy.
+
+Prime Minister Fumio Kishida, during a visit to Ishikawa **prefecture** in central Japan, said: “Such an incident must never be repeated.”
+
+China **commemorates** the start of the invasion on Sept 18 with air raid sirens and local **exhibitions**. On social media, netizens urged others not to forget this “national **humiliation**”.
+
+These attacks on foreigners have nonetheless stoked fears about growing anti-foreigner and anti-Japanese **sentiments**, which could be spilling over from online **vitriol** into physical violence.
+
+“It is a crime,” she said of the stabbing, tearing up after she offered a bouquet of **chrysanthemums** at the school gate.
+
+These incidents have been widely reported in Japan, further aggravating sentiment towards China, and **expatriates** in China may take steps such as sending their families home.
+
+Both countries must **mourn** the dead and work to prevent a **recurrence** of the incidents.
+
+#### [2024-09-21 Deep regret over fatal Shenzhen stabbing](https://www.chinadaily.com.cn/a/202409/21/WS66ee1870a3103711928a9033.html)
+
+**Tragically**, he died at 1:36 am on Thursday after attempts by multiple medical experts failed.
+
+Records show that Zhong was released on **bail** in Dongguan, Guangdong, in 2015 for allegedly damaging public telecommunication equipment.
+
+A senior Shenzhen government official expressed deep regret for the incident and expressed his **condolences** to the family of the boy.
+
+The authorities will get to the bottom of the case as soon as possible and hold the **perpetrator** to account according to law.
+
+#### [2024-11-12 Dozens killed in China after car driven into sports centre](https://www.theguardian.com/world/2024/nov/12/china-car-driven-into-sports-centre-state-media)
+
+He **rammed** his car into people exercising at a sports centre.
+
+His account posts daily news based on user **submissions**.
+
+Chinese internet censors take extra care to **scrub** social media before and during big events.
+
+The new aircraft **debuted** at the show included the PLA Air Force’s J-35A fighter jets, which appeared in public for the first time.
+
+#### [2024-11-13 As China mourns, some question delay in release of information about deadly car attack](https://www.theguardian.com/world/2024/nov/13/china-zhuhai-car-crash-tragedy-death-toll-sports-centre)
+
+Questions have **swirled** on Chinese social media about why it took authorities so long to reveal the details.
+
+People flocked to light candles and lay flowers at a **makeshift** **vigil** outside the sports centre.
+
+The Itaewon **stampede** at the end of 2022 was on the [Weibo] hot search for at least a week.
+
+Related hashtags – which **consolidate** popular topics – were restricted.
+
+Foreign media efforts to cover the attack were also **stymied**.
+
+The pilot had forced the Boeing 737-800 plane into its **catastrophic** dive.
+
+Authorities stopped reporting **cremation** figures.
+
+#### [2024-11-16 Student kills eight in mass stabbing in China after failing exams](https://www.theguardian.com/world/2024/nov/16/eight-killed-and-17-injured-after-stabbing-incident-in-china)
+
+A 21-year-old former student went on a stabbing **spree** at a vocational college.
+
+He was dissatisfied with his pay at an **internship**.
+
+He decided to **vent** his frustrations by attacking others
+
+#### [2024-11-22 China reels from spate of suspected ‘revenge against society’ attacks](https://www.theguardian.com/world/2024/nov/22/china-deals-with-violence-amid-revenge-against-society-attacks)
+
+China is grappling with a spate of violent **rampages**.
+
+In September, a man in his 30s killed three people and injured 15, including a **toddler**.
+
+The newspaper made **scant** mention of the deadliest mass violence incident in years.
+
+The phenomenon has generated its own **morbid** internet buzzword: *Xianzhongxue,* or Xianzhong-ology.
+
+It shows a chart that plots *Xianzhongxue* alongside other **contemporary** Chinese phenomena, including *tangping* (lying flat) and *runxue* (emigration).
+
+#### [2024-11-25 Beijing orders investigations into local disputes after spate of deadly attacks](https://www.theguardian.com/world/2024/nov/25/beijing-violence-stabbings-attacks)
+
+Beijing is ramping up scrutiny of “common” disputes such as those involving marriages and property, the justice ministry said, as the public **reels** from a recent string of deadly attacks.
+
+They would “severely punish major **vicious** crimes in accordance with the law and maintain social stability”.
