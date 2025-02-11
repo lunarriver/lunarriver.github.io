@@ -390,3 +390,67 @@ It shows a chart that plots *Xianzhongxue* alongside other **contemporary** Ch
 Beijing is ramping up scrutiny of “common” disputes such as those involving marriages and property, the justice ministry said, as the public **reels** from a recent string of deadly attacks.
 
 They would “severely punish major **vicious** crimes in accordance with the law and maintain social stability”.
+
+#### [2024-12-21 Magdeburg mourns Christmas market dead](https://www.theguardian.com/world/2024/dec/21/magdeburg-mourns-christmas-market-dead)
+
+Taleb al-Abdulmohsen, who came to Germany in 2006 and applied for **asylum** a decade later, was apprehended by armed police in a dramatic **altercation** as shocked bystanders looked on just minutes after the attack.
+
+The battered BMW had **mown** scores of people to the ground.
+
+Abdulmohsen had deliberately turned off the emergency **braking** mechanism on the BMW X3.
+
+An Islamist terrorist had **slammed** a stolen **lorry** at speed into a Christmas market.
+
+People come together for a few days before Christmas … to be together in **contemplation** but also to celebrate.
+
+The **hefty** **bollards** erected around the square, which were disguised as giant colourful lego bricks.
+
+The country is **in the thick of** an election campaign after the collapse of Scholz’s three-way coalition last month over differences in how to deal with **myriad** challenges including a deep economic downturn, and **profound** differences over how to tackle immigration.
+
+But the **chimes** of a church clock continued to ring out with the **melody** of a favourite German Christmas **carol**, a **plaintive** reminder of the celebrations that Magdeburgers had been preparing for just hours before, which were now shattered.
+
+#### [2024-12-28 Driver behind China car ramming attack that killed 35 is sentenced to death](https://www.theguardian.com/world/2024/dec/28/china-car-ramming-attack-death-sentence-zhuhai-fan-weiqiu)
+
+Fan’s “criminal motive was extremely despicable, the nature of the crime was extremely **vile**, the means of the crime were particularly cruel, and the consequences of the crime were particularly severe, resulting in great social harm”, the court said.
+
+A court earlier this week gave a suspended death sentence with a two-year **reprieve** to a driver who injured 30 people when he drove into **elementary** school students and parents. Such sentences are usually **commuted** to life in prison.
+
+Authorities keep a tight **lid** on any reports about the attacks, censoring videos and witness accounts posted on social media.
+
+### 阴阳怪气
+
+#### [2024-10-12 China cracks down on Communist party officials for reading banned books](https://www.theguardian.com/world/2024/oct/12/china-communist-party-banned-books-rules-xi-jinping)
+
+Several recent corruption cases against officials have included accusations of **procuring** or reading banned materials. The officials have so far received internal **disciplinary** actions.
+
+In September a former **municipal** level official accused of corruption, was also found to have “privately read an illegal publication containing contents that undermined the unity and solidarity of the organization”.
+
+They emphasise **illicit** reading ahead of other crimes like **bribery**.
+
+This image of **infallibility** must not be challenged.
+
+None of the corruption cases publicly reveal what reading materials the fallen **cadres** had accessed.
+
+The leadership has been particularly **noteworthy** for its purges of political rivals and crushing of **factionalism**.
+
+They care enough to say this is punishable **infraction**.
+
+#### [2024-10-23 China cracks down on ‘uncivilised’ online puns used to discuss sensitive topics](https://www.theguardian.com/world/2024/oct/23/china-meme-online-pun-crackdown-rules)
+
+Internet regulators have launched a campaign cracking down on **puns** and **homophones**, one of the last remaining ways for citizens to safely discuss sensitive subjects without **recriminations** or censorship.
+
+They also form a hidden **erosion** on the daily communication and ideological values ​​of minors, which can easily lead to **adverse** consequences..
+
+Insulting individuals or China generally is also **frowned** upon.
+
+Colleagues would instead share links to **allegorical** poems or historical references.
+
+They don't allow “obviously ambiguous” new words to spread quickly without “**rectification**”.
+
+#### [2024-10-31 Leading human rights lawyer Xu Zhiyong on hunger strike in Chinese prison, family says](https://www.theguardian.com/world/2024/oct/31/xu-zhiyong-hunger-strike-china-prison)
+
+The men were **convicted** of **subverting** state power.
+
+The fact that he is going on hunger strike now probably **testifies** to how harshly and badly he is being treated.
+
+In 2009, charges against him for tax **evasion** were dropped, reportedly because of a public **outcry**.
