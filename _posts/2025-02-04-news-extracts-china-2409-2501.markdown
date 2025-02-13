@@ -454,3 +454,65 @@ The men were **convicted** of **subverting** state power.
 The fact that he is going on hunger strike now probably **testifies** to how harshly and badly he is being treated.
 
 In 2009, charges against him for tax **evasion** were dropped, reportedly because of a public **outcry**.
+
+#### [2024-11-08 Chinese state television lionises The Leader’s father in 39-part serialised drama](https://www.theguardian.com/world/2024/nov/08/time-in-the-northwest-xi-jinping-father-zhongxun-time-in-the-northwest-china)
+
+The Leader’s father is the subject of a **rousing** new historical drama that **premiered** on Chinese state television on Tuesday.
+
+Time in the Northwest **chronicles** the life of The Leader's father.
+
+The **biopic** is “the first **epic** **masterpiece** that presents a panoramic view of the magnificent history of the north-west revolution”.
+
+He is **portrayed** as a loyal and determined revolutionary who helped to build key CCP bases in Shaanxi and Gansu.
+
+His fervour as a young man propelled him into the highest **echelons** of the CCP elite.
+
+In the 1960s and 70s, He spent 16 years in **purgatory**.
+
+He said the collapse of the Soviet Union was caused by “historical **nihilism**” and must be a “cautionary tale”.
+
+Time in the Northwest avoids historical nihilism by dodging the most **traumatic** years of The Leader's father.
+
+The treatment of cultural products has always been a **barometer** for politics in the party.
+
+He urged young people to “**unswervingly** listen to and follow the party” and to be people who “can endure hardships and are willing to work hard”.
+
+This generation needs to take the **baton** from the older generation.
+
+#### [2024-11-19 HK47: dozens of pro-democracy activists jailed in Hong Kong’s largest national security trial](https://www.theguardian.com/world/2024/nov/19/hong-kong-47-hk47-sentencing-national-security-trial)
+
+They were charged in 2021 under the **punitive** national security law (NSL) with **conspiracy** to commit subversion.
+
+The 47 were activists, legislators, campaigners and councillors from the pro-democracy camp of Hong Kong’s previously **vibrant** political scene.
+
+Beijing accused critics of “**desecrating**” the spirit of the rule of law.
+
+He was accused of masterminding a plan for the city’s pro-democracy camp to eventually force the **dissolution** of the legislature and resignation of the chief executive.
+
+Behind the rhetoric of **secession**, collusion with foreign forces etc, our true crime is that we were not content with playing along in manipulated elections.
+
+**Busloads** of police patrolled and **ushered** the crowd into a line that stretched down the block and folded back on itself.
+
+#### [2024-11-29 China sentences journalist to seven years on spy charges, family says](https://www.theguardian.com/world/2024/nov/29/china-sentences-journalist-dong-yuyu-to-seven-years-on-spy-charges-family-says)
+
+A veteran Chinese state media journalist has been sentenced by a Beijing court to seven years in prison on **espionage** charges.
+
+He won the **prestigious** Nieman Fellowship at Harvard University in 2006-07.
+
+Instead, it made the **dubious** argument that meeting with diplomats is in itself suspicious behaviour.
+
+Jailing journalists on **bogus** and unjust charges like espionage is a **travesty** of justice.
+
+We condemn this unjust **verdict**.
+
+#### [2024-12-16 The Leader urges party to ‘turn knife inward’ to tackle corruption](https://www.theguardian.com/world/2024/dec/16/xi-jinping-communist-party-corruption-crackdown)
+
+It must “turn the knife inward” to **instil** discipline.
+
+We must have the courage to turn the knife inward and eliminate their negative impact in a **timely** manner to ensure that the party is always full of **vigour** and **vitality**.
+
+The Leader has sought to present an uncompromising crackdown on corruption as a **hallmark** of his leadership.
+
+But the party continues to be **plagued** by corruption, particularly within the armed forces, raising questions over the military’s much-**vaunted** battle-readiness. Two former defence ministers have been purged from the party in the past two years for “serious violations of discipline”, a **euphemism** for corruption.
+
+It suggest a renewed and wider push to hunt down officials seeking personal gain and those who lead them **astray**.
