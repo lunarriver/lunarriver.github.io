@@ -61,8 +61,6 @@ The story has also **garnered** significant attention in China.
 
 China’s foreign ministry said on Sunday it had **lodged** “serious protests” with the US.
 
-which also includes a stopover in Guam, a US territory.
-
 China has been **exerting** stronger influence.
 
 Speaking to reporters before his **departure**, Lai said: “Thank you to the US government for upholding the principles of safety, dignity, comfort.”
@@ -371,7 +369,7 @@ A 21-year-old former student went on a stabbing **spree** at a vocational colleg
 
 He was dissatisfied with his pay at an **internship**.
 
-He decided to **vent** his frustrations by attacking others
+He decided to **vent** his frustrations by attacking others.
 
 #### [2024-11-22 China reels from spate of suspected ‘revenge against society’ attacks](https://www.theguardian.com/world/2024/nov/22/china-deals-with-violence-amid-revenge-against-society-attacks)
 
@@ -516,3 +514,47 @@ The Leader has sought to present an uncompromising crackdown on corruption as a 
 But the party continues to be **plagued** by corruption, particularly within the armed forces, raising questions over the military’s much-**vaunted** battle-readiness. Two former defence ministers have been purged from the party in the past two years for “serious violations of discipline”, a **euphemism** for corruption.
 
 It suggest a renewed and wider push to hunt down officials seeking personal gain and those who lead them **astray**.
+
+### 其他
+
+#### [2024-09-25 China test launches intercontinental ballistic missile for first time in decades](https://www.theguardian.com/world/2024/sep/25/china-missile-test-icbm-pla-rocket-force)
+
+Pacific leaders have clearly **articulated** their expectation that we have a peaceful, stable, prosperous, and secure region.
+
+The PLARF – which in recent years has been **embroiled** in an apparent corruption crisis with several senior leaders purged.
+
+#### [2024-09-28 Rally continues as new support policies unveiled](https://www.chinadaily.com.cn/a/202409/28/WS66f73cd9a310f1265a1c55c7.html)
+
+While the A-share market rebounded strongly this week, propelled by higher market **liquidity**.
+
+The combined trading value at the Shanghai and Shenzhen exchanges exceeded 1.4 trillion yuan ($200 billion), the third **consecutive** trading day topping 1 trillion yuan.
+
+Due to **soaring** demand, the Shanghai **bourse** encountered an "abnormal slowdown in the confirmation of transactions during stock **auctions**" in the morning trading session on Friday.
+
+Which was combined with the **emphasis** on protecting **retail** investors' interests.
+
+The move is also in line with the **slew** of measures announced by top financial regulators.
+
+#### [2024-10-28 China’s kindergarten numbers shrink as policymakers struggle to arrest falling birthrate](https://www.theguardian.com/world/2024/oct/28/chinas-kindergarten-numbers-shrink-as-policymakers-struggle-to-arrest-falling-birthrate)
+
+In 2023, there were 274,400 kindergartens across China, down from 289,200 in 2022, according to a Ministry of Education statistical **bulletin** published last week.
+
+The number of children **enrolled** in kindergartens also fell.
+
+Lian Jianzhang, an influential economist and **demographer**, argues that such incentives do not go far enough.
+
+The downward trend in **fertility** has a self-reinforcing **inertia** that can only be broken by policy tools.
+
+#### [2024-12-24 What is neijuan, and why is China worried about it?](https://www.theguardian.com/world/2024/dec/24/what-is-neijuan-china-viral-buzzword-laptop-bicycle)
+
+On the Chinese internet, the country’s current **predicament** is often expressed through buzzwords.
+
+Tthe young generation are choosing to **chill out** rather than **hustle** in China’s high-pressure economy.
+
+*Neijuan,* or “**involution**”, is a term used to describe the feeling of **diminishing** returns in China’s social contract.
+
+Many Chinese **millennials** and Gen Z people feel that the opportunities that were available to their parents no longer exist.
+
+The meme of the involuted king came to represent the perhaps **pointlessly** intense pressure of China’s rat race, and the impossibility of catching a break.
+
+The “double reduction” policy banned for-profit online and offline tutoring, **torpedoing** a sector that had previously been a major employer of young graduates.
