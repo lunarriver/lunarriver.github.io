@@ -535,6 +535,20 @@ Which was combined with the **emphasis** on protecting **retail** investors' int
 
 The move is also in line with the **slew** of measures announced by top financial regulators.
 
+#### [2024-10-18 China posts slowest economic growth in 18 months as optimism fades over stimulus](https://www.theguardian.com/world/2024/oct/18/china-economy-slow-growth-yuan)
+
+China posted its slowest growth in a year and a half on Friday, as Beijing struggles to steady an economy shaken by **sluggish** consumer spending and persistent property sector **woes**.
+
+Officials have in recent weeks unveiled a string of measures to **reignite** the world’s number-two economy.
+
+But after a **blistering** share market rally fuelled by hopes for a long-awaited “bazooka stimulus”, optimism has **tapered** as authorities **refrained** from providing a specific figure for the **bailout** or detailing any of the pledges.
+
+China’s economic growth is also being **hindered** by sluggish domestic spending, with consumer **wariness** threatening to **plunge** the country into deflation.
+
+Economists say more direct fiscal stimulus is needed to **revive** activity and restore business confidence.
+
+The property sector has long been a key driver of growth but is now **mired** in debt.
+
 #### [2024-10-28 China’s kindergarten numbers shrink as policymakers struggle to arrest falling birthrate](https://www.theguardian.com/world/2024/oct/28/chinas-kindergarten-numbers-shrink-as-policymakers-struggle-to-arrest-falling-birthrate)
 
 In 2023, there were 274,400 kindergartens across China, down from 289,200 in 2022, according to a Ministry of Education statistical **bulletin** published last week.
@@ -544,6 +558,12 @@ The number of children **enrolled** in kindergartens also fell.
 Lian Jianzhang, an influential economist and **demographer**, argues that such incentives do not go far enough.
 
 The downward trend in **fertility** has a self-reinforcing **inertia** that can only be broken by policy tools.
+
+#### [2024-11-27 China’s CO2 emissions have peaked or will in 2025, say 44% of experts in survey](https://www.theguardian.com/world/2024/nov/27/chinas-co2-emissions-have-peaked-or-will-in-2025-say-44-of-experts-in-survey)
+
+Coal accounts for nearly 80% of China’s **fossil** fuel emissions.
+
+Whereas many foreign leaders see value in **aspirational** goals, and not infrequently dial them back when the economics or political winds change, this is viewed in a negative light on the Chinese side.
 
 #### [2024-12-24 What is neijuan, and why is China worried about it?](https://www.theguardian.com/world/2024/dec/24/what-is-neijuan-china-viral-buzzword-laptop-bicycle)
 
@@ -558,3 +578,29 @@ Many Chinese **millennials** and Gen Z people feel that the opportunities that w
 The meme of the involuted king came to represent the perhaps **pointlessly** intense pressure of China’s rat race, and the impossibility of catching a break.
 
 The “double reduction” policy banned for-profit online and offline tutoring, **torpedoing** a sector that had previously been a major employer of young graduates.
+
+#### [2025-01-14 A kidnapped Chinese actor, a scam gang, and a very public rescue operation](https://www.theguardian.com/world/2025/jan/14/wang-xing-chinese-actor-abduction-thailand-myanmar-scam-ntwnfb)
+
+Hundreds of thousands of people have been trafficked into the region from across the world – including from parts of Africa, South America and Asia – often **lured** by the promise of a well-paying job.
+
+Those who refuse to carry out **fraud** activities, or fail to meet their targets, often face torture.
+
+The targeting of Wang and others in the entertainment industry has once again **thrust** such criminal operations into the spotlight.
+
+Many members had been **tricked** “resulting in significant damage to their personal and financial safety”.
+
+Jia Jia contacted the Shanghai police and Chinese **consular** offices in Thailand.
+
+This week, Hong Kong pop star Eason Chan cancelled his Thailand shows scheduled for February, citing safety fears for crew and fans in Thailand following Wang’s **ordeal**.
+
+#### [2025-01-17 Chinese activist Teacher Li’s memecoin launch divides dissident community](https://www.theguardian.com/world/2025/jan/17/teacher-li-memecoin-cryptocurrency-chinese-activist)
+
+His original X account, “Teacher Li is Not Your Teacher”, is one of the most prominent news feeds in the Chinese **diaspora**.
+
+But his **foray** into cryptocurrency has divided his followers, some of whom see it as a crude attempt to monetise trust earned through activism.
+
+The symbol of the protests became a blank sheet of white A4 paper – which protesters held **aloft** in their thousands.
+
+Memecoin are notorious for being highly speculative and subject to volatile **swings**.
+
+Critics online accused Li of **exploiting** the trust he had built up over many years of **piercing** the country's censorship.
