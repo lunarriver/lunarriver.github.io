@@ -593,6 +593,20 @@ Jia Jia contacted the Shanghai police and Chinese **consular** offices in Thaila
 
 This week, Hong Kong pop star Eason Chan cancelled his Thailand shows scheduled for February, citing safety fears for crew and fans in Thailand following Wang’s **ordeal**.
 
+#### [2025-01-14 More than half a million ‘TikTok refugees’ flock to China’s RedNote as ban looms](https://www.theguardian.com/technology/2025/jan/14/tiktok-ban-rednote-app)
+
+The lesser-known company **rushes to** capitalize on the sudden **influx** while walking a delicate line of **moderating** English-language content.
+
+Such **impromptu** cultural exchanges were taking place all across RedNote.
+
+RedNote allows users to **curate** photos, videos and text documenting their lives.
+
+RedNote maintains only one version of its app, a **rarity** among Chinese social apps that are subject to domestic moderation rules.
+
+Americans using Rednote feels like a **cheeky** middle finger to the US government for its **overreach** into businesses and privacy concerns.
+
+Mainly because of how **organic** it is to build community on TikTok.
+
 #### [2025-01-17 Chinese activist Teacher Li’s memecoin launch divides dissident community](https://www.theguardian.com/world/2025/jan/17/teacher-li-memecoin-cryptocurrency-chinese-activist)
 
 His original X account, “Teacher Li is Not Your Teacher”, is one of the most prominent news feeds in the Chinese **diaspora**.
@@ -604,3 +618,27 @@ The symbol of the protests became a blank sheet of white A4 paper – which prot
 Memecoin are notorious for being highly speculative and subject to volatile **swings**.
 
 Critics online accused Li of **exploiting** the trust he had built up over many years of **piercing** the country's censorship.
+
+#### [2025-01-18 Censorship, homework help and cats: China’s RedNote users welcome ‘TikTok refugees’](https://www.theguardian.com/media/2025/jan/18/rednote-app-tiktok-ban-us-alternatives)
+
+It’s effectively a symbol to broadcast you are a **cuckold**.
+
+In response, many of its 170 million US users are panicking, and seeking freer **pastures**.
+
+It is subject to the country’s tight and **censorious** restrictions.
+
+**Celebrities** have also been flocking to Xiaohongshu.
+
+Posting links, nudity, **profanity** or discussing politically sensitive topics often sees the content automatically removed or the user banned.
+
+Everything is a matter of time, depending on the **severity** of things.
+
+There are many topics which **inhabit** a grey area.
+
+Government crackdowns have targeted dedicated **queer** spaces online and in the community.
+
+**Feminists** in China have complained that their content has been scrubbed from the platform.
+
+Until now Xiaohongshu’s user base had been **predominantly** young and female.
+
+They spread **stereotypes** and **sexualise** us.
