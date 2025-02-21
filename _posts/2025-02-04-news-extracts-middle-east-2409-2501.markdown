@@ -9,6 +9,52 @@ date:   2025-02-20 21:27:00 +0800
 
 ### 加沙
 
+#### [2024-10-07 Israel marks 7 October with memorials and protests, as attacks on Lebanon and Gaza continue](https://www.theguardian.com/world/2024/oct/07/october-7-anniversary-israel-memorial-protests-hamas-lebanon-hezbollah-attack)
+
+Large fireballs lit the darkened skyline and booms **reverberated** across Beirut.
+
+Families of hostages still held in Gaza gathered near prime minister Benjamin Netanyahu’s Jerusalem residence and stood during a two-minute siren, **replicating** a custom from Holocaust Remembrance and Memorial Day.
+
+The **memorials** came as the region awaited Israel’s response to an unprecedented missile attacks from Iran last week.
+
+#### [2024-10-09 Republicans threaten to punish colleges that allow pro-Palestinian protests](https://www.theguardian.com/us-news/2024/oct/09/republicans-crackdown-universities-pro-palestinian-protests)
+
+Top Republicans are threatening to **strip** them of official **accreditation** to punish them for allowing pro-Palestinian protests on their campuses.
+
+Scalise outlined how he planned to **unleash** a massive attack against universities that fail to squash criticism of Israel.
+
+The event was ostensibly billed as a discussion on the spread of **antisemitism**.
+
+The **fall-out** continues to roil campuses and cities throughout the US.
+
+There was no attempt during the hour-long conversation to distinguish **hatred** of Jews from pro-Palestinian or anti-Israeli government sentiments.
+
+It has a $100m war **chest** to spend on the election this year.
+
+This summer Aipac invested $23m in **unseating** in primary contests two core members of the progressive Democratic group.
+
+“That’s **accountability**, by the way,” Scalise added. 
+
+He told Aipac that a second Trump administration would **wield** federal purse strings to punish the schools.
+
+You have a lot of **jurisdiction** as president.
+
+Scalise singled out Harvard, which have been **rattled** by the controversy over student protests around the Gaza war.
+
+Columbia’s president Minouche Shafik stepped down in August after also facing criticism over her handling of pro-Palestinian protest **encampments**.
+
+The congressman went on to **denigrate** Jewish students who engage in pro-Palestinian protest, saying they “just feel guilty that they’re alive.”
+
+Part of the Republicans’ gameplan is to use House **oversight** powers to investigate colleges for alleged civil rights violations.
+
+The education department could **decertify** accrediting agencies that pursue liberal policies towards campus speech and favour agencies that follow a more **draconian** approach.
+
+In his **manifesto** for a return to the White House, Agenda47, he says that “our secret weapon will be the college accreditation system”.
+
+He pledges that once back in the White House, “I will fire the radical left accreditors that have allowed our colleges to become dominated by Marxist maniacs and **lunatics**.” 
+
+Were it passed, it would give universities an **ultimatum**: remove protest encampments from campus grounds within seven days, or lose all federal funding.
+
 #### [2024-10-09 At least 400,000 people trapped by Israel’s latest Gaza offensive, says Unrwa](https://www.theguardian.com/world/2024/oct/09/at-least-400000-people-trapped-by-israels-latest-gaza-offensive-says-unrwa)
 
 This recent military operation also threatens the implementation of the second phase of the **polio** **vaccination** campaign for children.
@@ -18,14 +64,6 @@ Despite **intermittent** declarations by the IDF and other officials claiming to
 The Hamas **affiliated** TV channel al-Aqsa said on Telegram that one of its photojournalists was killed in an attack in Jabalia.
 
 An Associated Press journalist saw the bodies at the **morgue**.
-
-#### [2024-10-07 Israel marks 7 October with memorials and protests, as attacks on Lebanon and Gaza continue](https://www.theguardian.com/world/2024/oct/07/october-7-anniversary-israel-memorial-protests-hamas-lebanon-hezbollah-attack)
-
-Large fireballs lit the darkened skyline and booms **reverberated** across Beirut.
-
-Families of hostages still held in Gaza gathered near prime minister Benjamin Netanyahu’s Jerusalem residence and stood during a two-minute siren, **replicating** a custom from Holocaust Remembrance and Memorial Day.
-
-The **memorials** came as the region awaited Israel’s response to an unprecedented missile attacks from Iran last week.
 
 #### [2024-10-17 Hamas leader Yahya Sinwar killed in surprise encounter with Israeli forces](https://www.theguardian.com/world/2024/oct/17/israeli-military-says-it-may-have-killed-hamas-leader-yahya-sinwar)
 
@@ -58,3 +96,39 @@ He was estimated to have left a few days before Israeli forces raided the **bunk
 Israeli officials have suggested before that Sinwar has been killed, particularly after long stretches in which the leader went **incommunicado**.
 
 The Forum **commends** the security forces for eliminating Sinwar, who masterminded the greatest massacre our country has ever faced.
+
+#### [2024-10-22 Blinken meets Netanyahu in renewed US push for Gaza ceasefire](https://www.theguardian.com/world/2024/oct/22/antony-blinken-visits-israel-in-renewed-us-push-for-gaza-ceasefire)
+
+Blinken, who has made multiple **fruitless** trips to the region, arrived to little evidence that either Israel or Hamas were open to movement on their preconditions for a ceasefire in Gaza.
+
+With war **raging** in the area, international diplomats have struggled with how to sequence issues related to the connected conflicts.
+
+The state department said before the visit that Blinken would focus on **alleviating** the suffering of Palestinian civilians.
+
+There has been a suggestion from Egypt, a key **interlocutor** with Hamas, of a much-truncated ceasefire-for-hostages deal.
+
+Blinken’s arrival **follows hard on the heels** of that of the US special envoy, Amos Hochstein.
+
+The Biden administration could be forced by US law to **curtail** some forms of military aid.
+
+The US, Egypt and Qatar have **brokered** months of talks between Israel and Hama.
+
+Iran’s foreign minister has been **crisscrossing** the region in recent days to try to build support.
+
+Gulf Arab nations such as the UAE and Qatar host major military **installations**.
+
+Adding **impetus** to the calls for progress on a ceasefire on Tuesday was the UN’s Palestinian refugee agency.
+
+#### [2024-10-23 Four in 10 deaths in war zones last year were women, UN report finds](https://www.theguardian.com/global-development/2024/oct/23/un-women-report-civilian-deaths-children-war-zones-2023-access-healthcare)
+
+The deliberate targeting of women’s rights is not unique to conflict-affected countries but is even more lethal in those **settings**.
+
+The UN agency said most victims were unable to access medical care in the first 72 hours after being raped, including emergency **contraception**.
+
+#### [2024-10-25 Israel must stop ‘ethnic cleansing’ in Gaza, Jordan tells US](https://www.theguardian.com/world/2024/oct/25/israel-jordan-foreign-minister-ayman-safadi-stop-ethnic-cleansing-gaza)
+
+We do see ethnic **cleansing** taking place, and that has got to stop.
+
+Resolution 1701 calls for the **disarmament** of non-state groups in Lebanon – including Hezbollah – and for a full Israeli withdrawal from the country.
+
+The US believes that if Hezbollah can be weakened further the political deadlock that prevents the **formation** of a full government can be broken.
