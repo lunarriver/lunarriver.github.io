@@ -132,3 +132,57 @@ We do see ethnic **cleansing** taking place, and that has got to stop.
 Resolution 1701 calls for the **disarmament** of non-state groups in Lebanon – including Hezbollah – and for a full Israeli withdrawal from the country.
 
 The US believes that if Hezbollah can be weakened further the political deadlock that prevents the **formation** of a full government can be broken.
+
+### 真主党和胡塞
+
+#### [2024-09-24 Israeli strikes on Lebanon continue as Iran says Hezbollah ‘cannot stand alone’](https://www.theguardian.com/world/2024/sep/24/israel-lebanon-hezbollah-iran-united-nations)
+
+The UN secretary general, António Guterres, told a UN security council meeting that “hell is **breaking loose**” in Lebanon.
+
+The US and UK’s “unwavering support for Israel has given them **carte** blanche for all sorts of **sinister** behaviour”.
+
+But US diplomats indicated an unconditional ceasefire call in the form of a joint security council statement could be seen as accepting a **moral** equivalence between the behaviour of Israel and Hezbollah.
+
+The proposal for a temporary three-week **cessation** of hostilities might provide a platform to reopen stalled talks on the discussions over a ceasefire between Hamas and Israel in Gaza.
+
+The war must end with a comprehensive **undertaking** that has real implementation mechanisms.
+
+#### [2024-09-26 France and US push for 21-day Hezbollah-Israel ceasefire in Lebanon as UN chief warns ‘hell is breaking loose’](https://www.theguardian.com/world/2024/sep/26/lebanon-temporary-ceasefire-plan-hezbollah-israel)
+
+ On Tuesday Iran’s president, Masoud Pezeshkian, expressed fears of a regional **conflagration**.
+
+The EU’s foreign policy chief, Josep Borrell, described the escalating conflict between Israel and Hezbollah as almost a “full-**fledged** war”.
+
+Many experts and officials question the **assumption** that air power or other military operations can achieve such strategic aims.
+
+In Lebanon, displaced families slept in shelters **hastily** set up in schools in Beirut and the coastal city of Sidon.
+
+Some people waited for hours in **gridlocked** traffic to get to what they hoped would be safety.
+
+Issa Baydoun fled the village of Shihine in southern Lebanon when it was bombed and came to Beirut in a **convoy** of cars with his extended family.
+
+He rejected Israel’s **contention** that it hit only military targets.
+
+Israel and some analysts have said that Hezbollah has deliberately stored missiles and other **armaments** in homes or other civilian buildings.
+
+#### [2024-10-21 Israeli airstrikes on Lebanon hit branches of Hezbollah-linked bank](https://www.theguardian.com/world/2024/oct/21/israeli-airstrikes-on-lebanon-hit-branches-of-hezbollah-linked-bank-al-qard-al-hassan)
+
+Blinken will also address improvements in humanitarian aid access to Gaza, which the US said could result in **reductions** in arms supplies to Israel if aid continues to be prevented from reaching the **beleaguered** strip.
+
+The strikes were part of what Israel said were efforts to **dismantle** Hezbollah’s financial system.
+
+If this gold is destroyed, Hezbollah’s **constituents** expect that it will be able to compensate them for their loss.
+
+Israel gave its conditions for a ceasefire to Washington last week in a document that included **amendments** to resolution 1701.
+
+Lebanese officials are likely to reject the new demands, which would be seen as **encroaching** on the country’s sovereignty.
+
+#### [2024-10-24 Macron warns Netanyahu against ‘sowing barbarism’ in remarks on Lebanon](https://www.theguardian.com/world/2024/oct/24/macron-opens-conference-ceasefire-lebanon-israel)
+
+The total far **outstrips** both France’s target of €500m ($540m) and the $400m originally requested by the UN for Lebanon.
+
+We have been very clear that this cannot lead, should not lead, to a **protracted** campaign.
+
+Macron appeared to back a tougher **mandate** for the UN peacekeepers much criticised by Israel.
+
+That in turn might provide the space to secure a majority in the Lebanese parliament to elect a new president, ending a two-year **impasse** caused by divisions largely on ethnic grounds.
