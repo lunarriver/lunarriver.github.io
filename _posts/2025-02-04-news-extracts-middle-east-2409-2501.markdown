@@ -133,7 +133,7 @@ Resolution 1701 calls for the **disarmament** of non-state groups in Lebanon –
 
 The US believes that if Hezbollah can be weakened further the political deadlock that prevents the **formation** of a full government can be broken.
 
-### 真主党和胡塞
+### 真主党和胡塞
 
 #### [2024-09-24 Israeli strikes on Lebanon continue as Iran says Hezbollah ‘cannot stand alone’](https://www.theguardian.com/world/2024/sep/24/israel-lebanon-hezbollah-iran-united-nations)
 
