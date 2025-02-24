@@ -186,3 +186,33 @@ We have been very clear that this cannot lead, should not lead, to a **protracte
 Macron appeared to back a tougher **mandate** for the UN peacekeepers much criticised by Israel.
 
 That in turn might provide the space to secure a majority in the Lebanese parliament to elect a new president, ending a two-year **impasse** caused by divisions largely on ethnic grounds.
+
+#### [2024-10-27 Iran says it will respond ‘appropriately’ to Israeli strikes but does not seek war](https://www.theguardian.com/world/2024/oct/27/iran-supreme-leader-ayatollah-ali-khamenei-israel-attack)
+
+It is not clear whether Pezeshkian was indicating that Iran would **contemplate** a direct military response.
+
+The US has said it is concerned that the cycle of **tit-for-tat** strikes between the Middle East’s largest military powers could lead to a full-scale regional war.
+
+The “evil committed by the Zionist regime two nights ago should neither be **downplayed** nor **exaggerated**”.
+
+The Islamic Republic of Iran, in alignment with the principles **enshrined** in the Charter of the United Nations and under international law, reserves its inherent right to legal and legitimate response to these criminal attacks at the appropriate time.
+
+Israel’s attack destroyed air defence systems set up to protect several critical oil and petrochemical **refineries** and a large gasfield.
+
+The west should move away from its outdated and dangerous **paradigm**. It must condemn Israel’s recent acts of aggression and join Iran in efforts to end the **apartheid**, genocide and violence in Palestine and Gaza, and in Lebanon.
+
+Iran’s mission to the UN in New York accused the US of being **complicit** in the attack.
+
+It is really **remarkable** that it took place at this international level.
+
+#### [2024-12-19 Israel launches deadly air raids against Yemen after missile attack](https://www.theguardian.com/world/2024/dec/19/israel-launches-deadly-air-raids-against-yemen-after-missile-attack)
+
+There had been reports **beforehand** that Israel was planning to hit Yemen with force.
+
+An Israeli strike had destroyed a **tugboat** but the port had several others capable of **towing** ships to the **dock**.
+
+The Israel Defense Forces issued a statement accusing the Houthis of “conducting attacks against Israel in **contravention** of international law”.
+
+The American-Israeli bombings of civilian facilities in Yemen **expose** the **hypocrisy** of the west.
+
+Iran condemned the Israeli strikes in Yemen as a “**flagrant** violation of the principles and norms of international law and the UN charter”.
