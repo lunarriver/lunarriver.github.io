@@ -642,3 +642,63 @@ Government crackdowns have targeted dedicated **queer** spaces online and in the
 Until now Xiaohongshu’s user base had been **predominantly** young and female.
 
 They spread **stereotypes** and **sexualise** us.
+
+### 叙利亚
+
+#### [2024-12-01 Syrian and Russian airstrikes hit Aleppo and Idlib after insurgents advance](https://www.theguardian.com/world/2024/dec/01/syria-iran-abbas-araghchi-damascas-visit-aleppo-fall-bashar-al-assad)
+
+Syrian and Russian airstrikes have **pummelled** areas of northern Syria.
+
+Aleppo is Syria’s second city and a former industrial **powerhouse**.
+
+Assad had remained **conspicuously** absent from public view for several days.
+
+The embattled Syrian leader re-emerged late on Saturday night to conduct a **flurry** of calls to regional allies.
+
+A **concerted** counterattack by the Syrian army appeared to be taking shape.
+
+Israel has rapidly scaled up airstrikes against Iranian targets in Syria over the past year amid increasing regional **confrontations** with Tehran and its proxies.
+
+The regional leaders who once shunned Assad had begun welcoming him **back into the fold**.
+
+#### [2024-12-02 Syria crisis due to Assad’s refusal to engage with opposition, says Turkish minister](https://www.theguardian.com/world/2024/dec/02/syria-crisis-summit-turkey-iran-russia)
+
+But Turkey believes Syrian **intransigence** has led to a lack of progress.
+
+The latest developments show the need for Damascus to **reconcile** with its people and the legitimate opposition.
+
+Assad has **rebuffed** its efforts to secure a political settlement inside Syria.
+
+But Turkey feels Assad has **spurned** talks by setting preconditions such as demanding Turkish troops leave Syria or Ankara end its support for groups such as the Syrian National Army.
+
+This in turn had only deepened Ankara’s fears regarding the **acute** refugee crisis in Turkey.
+
+The danger for the Syrian opposition groups is that they find themselves **marginalised** by the three great powers.
+
+The last meeting made no progress over the basic issues, even the **venue** where the committee would meet.
+
+#### [2024-12-03 Syrian insurgents advance on Hama city after capturing Aleppo](https://www.theguardian.com/world/2024/dec/03/syrian-insurgents-advance-on-hama-city-after-capturing-aleppo)
+
+Hama was a **bastion** of opposition to the Assad government when pro-democracy protests first **erupted** during the Arab spring in 2011.
+
+Since retaking Aleppo in 2016, Assad has regained a tight **grip** over the country, although he has never fully retaken all of Syria’s borders.
+
+Jumaa was responsible for **liaising** with the Syrian army.
+
+The UN high **commissioner** for human rights, Volker Türk, voiced concern on Tuesday about the escalation of hostilities in north-west Syria.
+
+The **rout** of Syrian army forces from Aleppo and reports that their defensive lines have **crumbled** has undermined Assad’s already fractured control of the country.
+
+Assad has remained a **pariah** figure in the west although there have been recent attempts to reopen diplomatic channels.
+
+#### [2024-12-04 Moscow claims ‘external forces’ seeking to escalate violence in Syria](https://www.theguardian.com/world/2024/dec/04/moscow-claims-external-forces-seeking-to-escalate-violence-in-syria)
+
+Russia is to send mercenaries to support **flagging** troops allied to Damascus.
+
+Maria Zakharova blamed outside actors for **instigating** a recent sweeping **insurgent** offensive.
+
+The Syrian president has relied heavily on support from Iranian-backed Iraqi militias to keep control of the **fractured** country, which **spiralled** rapidly into a proxy-war.
+
+The insurgents’ sudden sweeping takeover of territory in the north-west, which Zakharova described as “an **audacious** act,” marked the largest challenge to Assad’s rule in years.
+
+Putin “stressed the urgent need” to stop the insurgency, **advocating** for Ankara to play a role.
