@@ -216,3 +216,107 @@ The Israel Defense Forces issued a statement accusing the Houthis of “conducti
 The American-Israeli bombings of civilian facilities in Yemen **expose** the **hypocrisy** of the west.
 
 Iran condemned the Israeli strikes in Yemen as a “**flagrant** violation of the principles and norms of international law and the UN charter”.
+
+### 叙利亚
+
+#### [2024-12-01 Syrian and Russian airstrikes hit Aleppo and Idlib after insurgents advance](https://www.theguardian.com/world/2024/dec/01/syria-iran-abbas-araghchi-damascas-visit-aleppo-fall-bashar-al-assad)
+
+Syrian and Russian airstrikes have **pummelled** areas of northern Syria.
+
+Aleppo is Syria’s second city and a former industrial **powerhouse**.
+
+Assad had remained **conspicuously** absent from public view for several days.
+
+The embattled Syrian leader re-emerged late on Saturday night to conduct a **flurry** of calls to regional allies.
+
+A **concerted** counterattack by the Syrian army appeared to be taking shape.
+
+Israel has rapidly scaled up airstrikes against Iranian targets in Syria over the past year amid increasing regional **confrontations** with Tehran and its proxies.
+
+The regional leaders who once shunned Assad had begun welcoming him **back into the fold**.
+
+#### [2024-12-02 Syria crisis due to Assad’s refusal to engage with opposition, says Turkish minister](https://www.theguardian.com/world/2024/dec/02/syria-crisis-summit-turkey-iran-russia)
+
+But Turkey believes Syrian **intransigence** has led to a lack of progress.
+
+The latest developments show the need for Damascus to **reconcile** with its people and the legitimate opposition.
+
+Assad has **rebuffed** its efforts to secure a political settlement inside Syria.
+
+But Turkey feels Assad has **spurned** talks by setting preconditions such as demanding Turkish troops leave Syria or Ankara end its support for groups such as the Syrian National Army.
+
+This in turn had only deepened Ankara’s fears regarding the **acute** refugee crisis in Turkey.
+
+The danger for the Syrian opposition groups is that they find themselves **marginalised** by the three great powers.
+
+The last meeting made no progress over the basic issues, even the **venue** where the committee would meet.
+
+#### [2024-12-03 Syrian insurgents advance on Hama city after capturing Aleppo](https://www.theguardian.com/world/2024/dec/03/syrian-insurgents-advance-on-hama-city-after-capturing-aleppo)
+
+Hama was a **bastion** of opposition to the Assad government when pro-democracy protests first **erupted** during the Arab spring in 2011.
+
+Since retaking Aleppo in 2016, Assad has regained a tight **grip** over the country, although he has never fully retaken all of Syria’s borders.
+
+Jumaa was responsible for **liaising** with the Syrian army.
+
+The UN high **commissioner** for human rights, Volker Türk, voiced concern on Tuesday about the escalation of hostilities in north-west Syria.
+
+The **rout** of Syrian army forces from Aleppo and reports that their defensive lines have **crumbled** has undermined Assad’s already fractured control of the country.
+
+Assad has remained a **pariah** figure in the west although there have been recent attempts to reopen diplomatic channels.
+
+#### [2024-12-04 Moscow claims ‘external forces’ seeking to escalate violence in Syria](https://www.theguardian.com/world/2024/dec/04/moscow-claims-external-forces-seeking-to-escalate-violence-in-syria)
+
+Russia is to send mercenaries to support **flagging** troops allied to Damascus.
+
+Maria Zakharova blamed outside actors for **instigating** a recent sweeping **insurgent** offensive.
+
+The Syrian president has relied heavily on support from Iranian-backed Iraqi militias to keep control of the **fractured** country, which **spiralled** rapidly into a proxy-war.
+
+The insurgents’ sudden sweeping takeover of territory in the north-west, which Zakharova described as “an **audacious** act,” marked the largest challenge to Assad’s rule in years.
+
+Putin “stressed the urgent need” to stop the insurgency, **advocating** for Ankara to play a role.
+
+#### [2024-12-07 Syrian rebels say they have advanced into Damascus as residents report sound of gunfire](https://www.theguardian.com/world/2024/dec/07/syria-rebels-have-reached-damascus-suburbs-insurgent-commander-says)
+
+The **whereabouts** of Assad, who has not been seen publicly for days, were unclear.
+
+Thousands of Homs residents poured on to the streets after the army withdrew, dancing and **chanting** “Assad is gone, Homs is free” and “Long live Syria and down with Bashar al-Assad”. Security forces left in **haste** after burning their documents and rebels freed thousands of detainees from the city’s prison.
+
+Hezbollah has been unable to send a significant number of fighters to help after the heavy defeats it has recently **incurred** against Israel.
+
+It has yet to provide **tangible** support to the isolated leader.
+
+Syrian forces have seemingly **melted away** in the face of advancing rebels.
+
+In Damascus, residents described scenes of panic amid the uncertainty that **reigned** over the fate of the Syrian government as rebels beat on the capital’s door.
+
+Jana is a resident of Damascus who spoke under a **pseudonym**.
+
+The **dizzying** pace of events in Syria and the uncertainty over the fate of its government has left international powers reeling and prompted questions over the geopolitical ramifications.
+
+#### [2024-12-10 Syria’s new leader has two identities – but which one will take the country forward?](https://www.theguardian.com/world/2024/dec/10/syria-new-leader-two-identities-ahmed-al-sharaa-abu-mohammed-al-jolani)
+
+Sit quietly my brothers and remember God **almighty**.
+
+In his place was Abu Mohammed al-Jolani, a nom de guerre formulated according to the convention of jihadi militants seeking new identities **redolent** of historic Muslim glory and offering the shield of anonymity.
+
+And was then **incarcerated** there for five years in detention camps.
+
+HTS offered **amnesties** to former regime foot soldiers.
+
+He has been on a journey and in Idlib he developed a pragmatic **theology**.
+
+Quite how this welfare is best achieved is where Sharaa might well begin to diverge from his carefully **curated** image as a reformed man. Wearing a plain uniform does not just signify a change from the standard **garb** of a militant Islamist fighter, it is a rejection of the robes, gold **braid** and medals that are so often marks of rank in the region.
+
+The challenges are going to be massive, and he does have an authoritarian **streak**.
+
+Some commentators believe that any newly **minted** moderation is a merely a “makeover” disguising radical ambitions.
+
+But the country is a **shambles**.
+
+#### [2024-12-12 US urges Syrian rebels to form ‘inclusive’ government](https://www.theguardian.com/us-news/2024/dec/12/us-urges-syrian-rebels-to-form-inclusive-government)
+
+Blinken said earlier this week that Washington would recognise a future Syrian government that amounted to a credible, inclusive and non-**sectarian** governing body.
+
+The Biden administration has urged HTS to  form a transitional government, according to a **congressional** **aide** briefed on the first US contacts with the group.
