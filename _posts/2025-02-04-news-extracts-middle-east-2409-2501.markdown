@@ -315,8 +315,42 @@ Some commentators believe that any newly **minted** moderation is a merely a “
 
 But the country is a **shambles**.
 
+[2024-12-10 Israel strikes hundreds of military targets in Syria](https://www.theguardian.com/world/2024/dec/10/israel-strikes-hundreds-of-military-targets-in-syria)
+
+Israeli warplanes have intensified an air offensive in Syria, striking hundreds of military targets and destroying entire **squadrons** of fighters, radar and missile systems, missile stores and much of the small Syrian navy.
+
+Images showed the **charred** wreckage of at least six warships sunk or badly damaged.
+
+He said Israeli troops had been deployed to Syria to create a “**sterile** defence zone free of weapons and terrorist threats”.
+
+On Sunday, Benjamin Netanyahu said Israeli forces were moving to control a **roughly** 155 sq mile (400 sq km) buffer zone in Syrian territory.
+
+The new Israeli positions on the Syrian side of the 2,814-metre (9,000ft) Mount Hermon offer a prized **vantage** point.
+
+The fall of the Assad regime has prompted a scramble for power, influence or other strategic advantages among regional powers hoping to exploit the chaos or seeking to **head off** potential dangers.
+
+The rest of the world views the strategically important **plateau** as occupied Syrian territory.
+
 #### [2024-12-12 US urges Syrian rebels to form ‘inclusive’ government](https://www.theguardian.com/us-news/2024/dec/12/us-urges-syrian-rebels-to-form-inclusive-government)
 
 Blinken said earlier this week that Washington would recognise a future Syrian government that amounted to a credible, inclusive and non-**sectarian** governing body.
 
 The Biden administration has urged HTS to  form a transitional government, according to a **congressional** **aide** briefed on the first US contacts with the group.
+
+[2024-12-18 Netanyahu says Israel will occupy Syria buffer zone for foreseeable future](https://www.theguardian.com/world/2024/dec/18/netanyahu-israel-occupy-syria-buffer-zone-mount-hermon-foreseeable-future)
+
+“It makes me **nostalgic**,” he added.
+
+Israel’s moves to rapidly **cement** its presence in the Syria buffer zone come amid continuing efforts to reach a ceasefire-for-hostages deal with Hamas.
+
+Amid the increased contacts, there has been mixed messaging about the **proximity** of any deal, with some officials talking up progress while others have pointed to potential **sticking points** that have hampered previous attempts to negotiate a phased ceasefire and release of hostages in exchange for Palestinian prisoners in Israel jails.
+
+Hamas is also reportedly concerned that any deal agreed under the **auspices** of the Biden administration might not survive the **swearing-in** of Donald Trump on 20 January.
+
+[2024-12-21 Israeli troops shoot Syrian protester as forces move beyond buffer zone](https://www.theguardian.com/world/2024/dec/21/israeli-troops-shoot-syrian-protester-as-forces-move-beyond-buffer-zone)
+
+It is a **bid** to prevent them from falling into hostile hands.
+
+On Tuesday, Benjamin Netanyahu held a security briefing **atop** a strategic Syrian mountain inside the UN-patrolled zone.
+
+The prime minister saying it was in response to a “**vacuum** on Israel’s border and in the buffer zone”.
