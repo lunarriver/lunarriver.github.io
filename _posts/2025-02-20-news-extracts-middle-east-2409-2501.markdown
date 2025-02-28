@@ -315,7 +315,7 @@ Some commentators believe that any newly **minted** moderation is a merely a “
 
 But the country is a **shambles**.
 
-[2024-12-10 Israel strikes hundreds of military targets in Syria](https://www.theguardian.com/world/2024/dec/10/israel-strikes-hundreds-of-military-targets-in-syria)
+#### [2024-12-10 Israel strikes hundreds of military targets in Syria](https://www.theguardian.com/world/2024/dec/10/israel-strikes-hundreds-of-military-targets-in-syria)
 
 Israeli warplanes have intensified an air offensive in Syria, striking hundreds of military targets and destroying entire **squadrons** of fighters, radar and missile systems, missile stores and much of the small Syrian navy.
 
@@ -337,7 +337,7 @@ Blinken said earlier this week that Washington would recognise a future Syrian g
 
 The Biden administration has urged HTS to  form a transitional government, according to a **congressional** **aide** briefed on the first US contacts with the group.
 
-[2024-12-18 Netanyahu says Israel will occupy Syria buffer zone for foreseeable future](https://www.theguardian.com/world/2024/dec/18/netanyahu-israel-occupy-syria-buffer-zone-mount-hermon-foreseeable-future)
+#### [2024-12-18 Netanyahu says Israel will occupy Syria buffer zone for foreseeable future](https://www.theguardian.com/world/2024/dec/18/netanyahu-israel-occupy-syria-buffer-zone-mount-hermon-foreseeable-future)
 
 “It makes me **nostalgic**,” he added.
 
@@ -347,7 +347,7 @@ Amid the increased contacts, there has been mixed messaging about the **proximit
 
 Hamas is also reportedly concerned that any deal agreed under the **auspices** of the Biden administration might not survive the **swearing-in** of Donald Trump on 20 January.
 
-[2024-12-21 Israeli troops shoot Syrian protester as forces move beyond buffer zone](https://www.theguardian.com/world/2024/dec/21/israeli-troops-shoot-syrian-protester-as-forces-move-beyond-buffer-zone)
+#### [2024-12-21 Israeli troops shoot Syrian protester as forces move beyond buffer zone](https://www.theguardian.com/world/2024/dec/21/israeli-troops-shoot-syrian-protester-as-forces-move-beyond-buffer-zone)
 
 It is a **bid** to prevent them from falling into hostile hands.
 
