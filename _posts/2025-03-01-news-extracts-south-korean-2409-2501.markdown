@@ -56,3 +56,49 @@ His wife, Kim Keon-hee has proved to be his greatest political **liability**.
 Yoon has vetoed three separate bills seeking to establish a special **counsel** to investigate his wife.
 
 PPP lawmakers began leaving as soon as the first vote **concluded**.
+
+#### [2024-12-09 South Korea president banned from leaving country as ruling party accused of ‘second coup’](https://www.theguardian.com/world/2024/dec/09/south-korea-ruling-party-accused-of-second-coup-as-opposition-pushes-for-new-impeachment-vote)
+
+The president’s party refused to impeach him over his **botched** declaration of martial law last week.
+
+Under South Korea’s constitution, the president remains as head of the government and commander-in-chief of the army unless he or she is **incapacitated** or resigns.
+
+North Korea is likely watching the political turmoil in South Korea with **glee**.
+
+#### [2024-12-11 North Korea decries ‘dictatorship’ in South in wake of martial law attempt](https://www.theguardian.com/world/2024/dec/11/north-korea-calls-south-dictatorship-martial-law)
+
+The commentary was the first time the regime had commented publicly on the chaos that followed President Yoon Suk Yeol’s **doomed** attempt last week to impose martial law.
+
+The North has built up a **formidable** cyber warfare capability that is thought to have earned the regime $3bn since 2023.
+
+Authoritarian regimes believe that if they manage to stay in power, they can **outlast** democratic rivals that eventually commit self-harm, descend into dysfunction, and fall out with allies.
+
+#### [2024-12-12 South Korea president defends martial law decree and vows to ‘fight to the end’](https://www.theguardian.com/world/2024/dec/12/south-korea-yoon-suk-yeol-martial-law-insurrection-charges-impeachment)
+
+The president denied attempting to **foment** insurrection.
+
+A **conviction** for rebellion carries a maximum penalty of death.
+
+#### [2024-12-14 How South Korea’s president sealed his own downfall](https://www.theguardian.com/world/2024/dec/14/south-korea-president-yoon-suk-yeol-downfall-analysis)
+
+It was the **culmination** of a presidency that had been troubled from the start.
+
+When he narrowly won the election in March 2022, Yoon was already a **divisive** figure.
+
+But his presidency was quickly **beset** by scandal, with his approval ratings hovering at about 35% for the past two years.
+
+Families of victims accused authorities of trying to shift blame by suggesting drug use among victims, while **stonewalling** calls for an independent inquiry.
+
+Yoon’s administration launched aggressive attacks over **unfavourable** coverage, and launching a torrent of **defamation** suits.
+
+what had started as inexperience in politics was beginning to look more like systematic democratic **backsliding**.
+
+Many are part of a generation shaped by national traumas such as the Sewol **ferry** disaster and the Itaewon crush.
+
+Special forces troops breaking windows to enter parliament provided dramatic scenes that **galvanised** public outrage.
+
+For the older generation who lived through military dictatorship, the nightmares of the past were **unmistakable**.
+
+The ruling People Power party offered him a **dignified** exit when the first impeachment vote failed last weekend owing to their boycott.
+
+For a former prosecutor who helped bring down ex-president Park Geun-hye through impeachment in 2017, it is a remarkable **reversal** of fortune.
