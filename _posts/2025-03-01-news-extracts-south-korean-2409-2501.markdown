@@ -102,3 +102,33 @@ For the older generation who lived through military dictatorship, the nightmares
 The ruling People Power party offered him a **dignified** exit when the first impeachment vote failed last weekend owing to their boycott.
 
 For a former prosecutor who helped bring down ex-president Park Geun-hye through impeachment in 2017, it is a remarkable **reversal** of fortune.
+
+#### [2024-12-16 South Korean court begins review of president’s impeachment over martial law](https://www.theguardian.com/world/2024/dec/16/south-korea-han-dong-hoon-resignation-impeachment-yoon-suk-yeol)
+
+In 2017, the court took three months to issue a **ruling** to strip the then president, Park Geun-hye.
+
+Investigators tried to **serve** a **summons** for Yoon to appear by delivering it to the presidential office and his official residence.
+
+It’s all because of my **shortcomings**.
+
+Their relationship began showing signs of **strain** earlier this year.
+
+#### [2024-12-18 South Korean president fails to appear before corruption watchdog](https://www.theguardian.com/world/2024/dec/18/south-korean-president-yoon-suk-yeol-fails-to-appear-before-corruption-watchdog)
+
+South Korea’s constitutional court is separately **deliberating** whether to **uphold** his impeachment.
+
+#### [2024-12-27 Yoon Suk Yeol impeachment: court hearings to begin in South Korea over president’s martial law crisis](https://www.theguardian.com/world/2024/dec/27/south-korea-president-yoon-suk-yeol-impeachment-trial-president-martial-law)
+
+He rejected a call to immediately appoint three justices to the constitutional court to fill **vacancies**.
+
+On Thursday, Han said it was beyond his **remit** as a caretaker president to appoint the justices without bipartisan agreement.
+
+#### [2024-01-06 South Korea investigators seek extension of arrest warrant for president](https://www.theguardian.com/world/2025/jan/06/south-korea-investigators-ask-police-to-arrest-impeached-president)
+
+The president plunged one of Asia’s strongest democracies into **uncharted** territory.
+
+Yoon’s actions drew a rare **rebuke** from officials in Washington.
+
+The unprecedented attempt to arrest an **incumbent** president has intensified duelling rallies.
+
+Jun said Yoon supporters would continue rallies outside his residence until they “**reap** the results”.
