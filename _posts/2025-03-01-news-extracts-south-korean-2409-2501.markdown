@@ -132,3 +132,51 @@ Yoon’s actions drew a rare **rebuke** from officials in Washington.
 The unprecedented attempt to arrest an **incumbent** president has intensified duelling rallies.
 
 Jun said Yoon supporters would continue rallies outside his residence until they “**reap** the results”.
+
+#### [2025-01-13 South Korea's impeached president gets a pay rise while still resisting arrest](https://www.theguardian.com/world/2025/jan/13/south-korea-impeached-president-yoon-suk-yeol-gets-pay-rise)
+
+On Wednesday, Yoon became the first sitting South Korean president to be arrested, over a **probe** into whether he committed insurrection when he briefly imposed martial law in early December.
+
+Yoon’s lawyers challenged the **legality** of his arrest.
+
+He was forced to **backtrack** hours later.
+
+Yoon was given the scheduled pay rise, according to the **civil servant** salary table for 2025.
+
+Rival **protests** for and against Yoon have been **staged** almost daily in the South Korean capital, Seoul, since the crisis began.
+
+#### [2025-01-14 South Korea’s Yoon Suk Yeol arrested and questioned for hours](https://www.theguardian.com/world/2025/jan/14/south-koreas-yoon-suk-yeol-faces-fresh-arrest-attempt)
+
+I decided to respond to the CIO’s investigation – despite it being an illegal investigation – to prevent **unsavoury** bloodshed.
+
+His presidential **motorcade** was seen leaving the CIO offices late on Wednesday evening.
+
+Yoon’s arrest is the latest chapter of a **saga** that has rocked South Korean politics.
+
+Many people held up flags, embracing **unfounded** claims of electoral manipulation and alleged Chinese interference.
+
+If Yoon stays there he will probably be kept in a **solitary** cell bigger and better appointed than the standard 6.56 sq metre single cells.
+
+#### [2025-01-17 Arrested South Korean president Yoon Suk Yeol stays silent as detention deadline looms](https://www.theguardian.com/world/2025/jan/17/yoon-suk-yeol-south-korea-president-jailed-impeachment-updates)
+
+The 48-hour **countdown** is expected to end on Friday evening after it was paused to allow a court to review the challenge to his arrest.
+
+Yoon Suk Yeol is not following legal procedures at the **expense** of the national order for individual interests.
+
+#### [2025-01-18 Yoon supporters storm Seoul court after his detainment period is extended](https://www.theguardian.com/world/2025/jan/18/yoon-suk-yeol-impeached-south-korean-president-argues-for-release)
+
+We will track down till the end more of those who committed illegal acts or **instigated** and assisted.
+
+There were around 40 minor injuries **sustained** during the chaos.
+
+His appearance at the Seoul western district court caused **chaotic** scenes in nearby streets.
+
+He has been accused of **orchestrating** a rebellion after his declaration of martial law in December last year.
+
+Yoon was transported to the court in a blue justice ministry van **escorted** by police.
+
+The anti-corruption agency asked media companies to **obscure** the faces of its members attending the hearing.
+
+There’s a question whether **repercussions** of detaining a sitting president were sufficiently considered.
+
+Nine people have been arrested and **indicted** for their roles in the enforcement of martial law.
