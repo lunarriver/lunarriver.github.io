@@ -48,3 +48,37 @@ The wooden huts in Ren’s corner of the **islet** were nearly completely **subm
 Dongting Hu **exemplifies** these challenges.
 
 An official recognition of – and compensation for – the damage **wrought** by the climate crisis cannot come soon enough.
+
+#### [2025-01-07 Scores dead and hundreds of homes damaged in Tibet quake](https://www.theguardian.com/world/2025/jan/07/tibet-earthquake-holy-city-of-shigatse-nepal-magnitude-quake)
+
+It measured the **tremor** at magnitude 7.1.
+
+Our **heartfelt** condolences go out to the **grieving** families.
+
+Temperatures in Dingri are around -8C (18F) and will drop to -18C this evening, according to the China **Meteorological** Administration.
+
+Reuters was able to confirm the location from nearby buildings, windows, road layout and **signage** that match satellite and street view imagery.
+
+#### [2025-01-08 At least five dead as overwhelmed firefighters struggle to contain LA blazes](https://www.theguardian.com/us-news/2025/jan/08/more-la-residents-flee-wildfires-amid-warning-of-stronger-winds-in-morning)
+
+Fast-moving wildfires **incinerate** more than 1,500 buildings.
+
+over 130,000 people are under evacuation orders in the **metropolitan** area.
+
+Officials have urged residents to **conserve** water.
+
+First responders had to clear with **bulldozers**.
+
+At least five Altadena school **campuses** have suffered **substantial** fire damage.
+
+Donald Trump used the fires as an opportunity to criticize Joe Biden and Newsom in a **rambling** post on Truth Social.
+
+Meanwhile, residents in the **sprawling** suburbs and rural enclaves **braced for** another day of brutal winds.
+
+Trees **thrashed** and debris was **strewn** across yards in Chatsworth.
+
+Wind-whipped fires are difficult to stop and can move incredibly fast, especially through these **parched** landscapes.
+
+It can bring makes my **hackles** rise.
+
+Evacuees described **harrowing** escapes, including one woman who **recounted** to ABC7 how she abandoned her vehicle and fled with her cat in her arms.
