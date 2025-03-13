@@ -82,3 +82,27 @@ Wind-whipped fires are difficult to stop and can move incredibly fast, especiall
 It can bring makes my **hackles** rise.
 
 Evacuees described **harrowing** escapes, including one woman who **recounted** to ABC7 how she abandoned her vehicle and fled with her cat in her arms.
+
+#### [2025-01-13 LA fires forecast to be costliest blaze in US history with estimate of over $200bn in losses](https://www.theguardian.com/us-news/2025/jan/13/la-fires-wildfire-economic-losses)
+
+Price **gouging** has become an issue with hotels, short-term **rentals** and medical supplies. Scammers are also **soliciting** donations for bogus relief efforts, authorities said.
+
+The firm noted that not all properties in the areas **scorched** by the blazes may have necessarily been damaged or sustained damage equal to their full reconstruction cost.
+
+Cal Fire reported **containment** of the Palisades fire at 14% and the Eaton fire at 33% as of Monday morning.
+
+#### [2025-01-15 LA residents receive short reprieve from Santa Ana winds fanning deadly flames](https://www.theguardian.com/us-news/2025/jan/15/california-wildfires-warnings-los-angeles)
+
+As of Wednesday evening the two largest fires had killed at least 25 people, burned over 40,000 acres and destroyed thousands of homes, places of **worship** and schools.
+
+The **shroud** of **noxious** gray smoke had begun to lift over the region, but health officials warned that wind **borne** ash particles remained a danger, and urged residents to wear N95 or P100 masks.
+
+The parched region is expected to remain in **peril**.
+
+The lack of **moisture** in the area, along with the winds, is a **recipe** for dangerous wildfire conditions.
+
+Brief **respite** came on Tuesday.
+
+The electricity provider has been under scrutiny in recent days as multiple **lawsuits** were filed against the company.
+
+The company has said it has received evidence **preservation** notices from insurance companies and noted that analysis of electrical circuit information showed no interruptions or **anomalies** around the time that the fire started.
