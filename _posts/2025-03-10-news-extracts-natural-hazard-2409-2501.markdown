@@ -106,3 +106,17 @@ Brief **respite** came on Tuesday.
 The electricity provider has been under scrutiny in recent days as multiple **lawsuits** were filed against the company.
 
 The company has said it has received evidence **preservation** notices from insurance companies and noted that analysis of electrical circuit information showed no interruptions or **anomalies** around the time that the fire started.
+
+#### [2025-01-16 LA wildfires: evacuees warned against returning to homes due to toxic waste](https://www.theguardian.com/us-news/2025/jan/16/california-wildfires-winds-ease)
+
+Officials warned evacuees against returning to their homes due to the presence of **toxic**, **hazardous** waste and exposed power and gas lines.
+
+**Toxins** such as **asbestos**, and **mercury** could be found in fire debris.
+
+The nine-day wind **siege** has finally ended.
+
+The flames are no longer raging but **scores of** firefighters must **scour** every inch of the **expansive** fire footprints to ensure spot fires are **extinguished** and lines hold.
+
+While officials are still **combing** through the wreckage to **tally**.
+
+In the aftermath of the firestorms that **ravaged** communities on all sides of Los Angeles, **splintered** power poles **draped** electric wires across roads.
