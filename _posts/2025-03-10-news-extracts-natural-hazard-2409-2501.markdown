@@ -5,7 +5,7 @@ date:   2025-03-10 23:07:00 +0800
 ---
 
 * 目录
-{:toc #markdown-toc}
+  {:toc #markdown-toc}
 
 #### [2024-11-04 Spain floods: searchers scour car parks and malls amid fears death toll will rise](https://www.theguardian.com/world/2024/nov/04/spain-floods-military-unit-searches-car-parks-and-malls-amid-fears-death-toll-will-rise)
 
@@ -63,7 +63,7 @@ Reuters was able to confirm the location from nearby buildings, windows, road la
 
 Fast-moving wildfires **incinerate** more than 1,500 buildings.
 
-over 130,000 people are under evacuation orders in the **metropolitan** area.
+Over 130,000 people are under evacuation orders in the **metropolitan** area.
 
 Officials have urged residents to **conserve** water.
 
@@ -79,7 +79,7 @@ Trees **thrashed** and debris was **strewn** across yards in Chatsworth.
 
 Wind-whipped fires are difficult to stop and can move incredibly fast, especially through these **parched** landscapes.
 
-It can bring makes my **hackles** rise.
+It makes my **hackles** rise.
 
 Evacuees described **harrowing** escapes, including one woman who **recounted** to ABC7 how she abandoned her vehicle and fled with her cat in her arms.
 
