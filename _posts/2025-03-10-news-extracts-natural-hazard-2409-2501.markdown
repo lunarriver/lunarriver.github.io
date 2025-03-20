@@ -5,7 +5,7 @@ date:   2025-03-10 23:07:00 +0800
 ---
 
 * 目录
-  {:toc #markdown-toc}
+{:toc #markdown-toc}
 
 #### [2024-11-04 Spain floods: searchers scour car parks and malls amid fears death toll will rise](https://www.theguardian.com/world/2024/nov/04/spain-floods-military-unit-searches-car-parks-and-malls-amid-fears-death-toll-will-rise)
 
