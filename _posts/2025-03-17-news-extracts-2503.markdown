@@ -5,7 +5,7 @@ date:   2025-03-17 20:26:00 +0800
 ---
 
 * 目录
-{:toc #markdown-toc}
+  {:toc #markdown-toc}
 
 #### [2025-03-16 US says airstrikes against Houthis in Yemen will continue indefinitely](https://www.theguardian.com/world/2025/mar/16/us-says-airstrikes-against-houthis-in-yemen-will-continue-indefinitely)
 
@@ -206,3 +206,55 @@ Ukrainian officials dismissed the demand as unrealistic.
 “It’s a very strange demand, of course,” said Podolyak. “He wants Ukraine to give up its army, to give up security guarantees, to give up its right to be in alliances, and to give up on various territories. This is what he’s been fighting for for three years, and he couldn’t do it militarily … And now that’s what he wants from the negotiations process,” he added.
 
 There remains no indication that Putin has abandoned any of his most hardline objectives in the war in Ukraine. Kommersant, a well-connected Russian newspaper, reported on Wednesday that Putin told a meeting of senior business leaders on Tuesday that he intends to continue the fighting until he gets full control of, as well as international recognition over, the four regions Moscow annexed in 2022.
+
+#### [2025-03-20 EU ready to impose more sanctions on Russia after summit talks](https://www.theguardian.com/world/2025/mar/20/eu-ready-to-impose-more-sanctions-on-russia-after-summit-talks)
+
+EU leaders – apart from Hungary’s Viktor Orbán – say they are ready to increase pressure on Russia through further sanctions, as summit talks exposed a **geographical** divide on rearming Europe.
+
+Meeting in Brussels, the bloc agreed it was ready to **levy** further sanctions on Russia and strengthen existing measures after talks with Ukraine’s Volodymyr Zelenskyy, who joined by video link.
+
+The show of unity was **marred** by Orbán refusing to support an EU text declaring support for Ukraine, which stated: “The European Council calls on Russia to show real political will to end the war.” The Hungarian prime minister similarly declined to support the EU position two weeks ago.
+
+Orbán’s growing confidence in diverging from the EU on Ukraine raises questions about the bloc’s ability to impose new sanctions and renew existing ones, although diplomats take **comfort** from the fact Hungary has always **acceded** to the plans in the end.
+
+Zelenskyy told the EU leaders: “Please do not ease pressure on Russia over the war. Sanctions must remain in place until Russia starts withdrawing from our land and fully compensates for the damage caused by its aggression.”
+
+In a clear reference to Hungary’s efforts to stymie Ukraine’s EU accession talks, Zelenskyy added, without naming any country: “It is simply anti-European when one person blocks decisions that are important for the entire continent or that have already been agreed upon.”
+
+**Separately** the Financial Times reported that Europe’s biggest military powers are discussing how to take on greater responsibility for Europe’s defence. Countries including the UK, France and Germany aim to present Donald Trump with a plan to shift the financial and military **burden** to European capitals, in the hope of a managed transfer over five to 10 years, the paper reported.
+
+Leaving the summit, the French president, Emmanuel Macron, praised the “Buy European” policy as a major doctrine change in Europe that would make the continent more independent. In a victory for Paris, the European Commission has proposed that a €150bn (£125bn) loans rearmament programme should exclude countries without a defence pact with the EU, such as the UK and the US.
+
+Macron also said he would host a meeting of European leaders with Zelenskyy in Paris next Thursday to discuss Ukraine’s defence, including immediate military aid, making any ceasefire work and possibly deployment of troops.
+
+Ursula von der Leyen, the president of the European Commission, said it was of the utmost importance to develop the defence industrial base in Europe, adding that “associated countries” could be involved. “These are billions and billions of **euros** that we will spend and we want a return on investment,” she said. “And where they are spent, they will produce good jobs.”
+
+Meanwhile, Jens Stoltenberg, the former Nato secretary general who last month re-entered the Norwegian government as finance minister, said that uncertainty over US commitment to the transatlantic alliance was not a reason to “give up Nato”, but a motivation for European countries and Canada to increase their contributions.
+
+Stoltenberg said that whether or not the US decided to reduce its Nato contributions, it was crucial for other Nato members to “stand together” and “step up”.
+
+“We need to all do what we can to ensure that Nato remains a strong alliance between North America and Europe that has helped to keep us safe for more than 75 years. There have been differences and disagreements before but we have been able to overcome them by realising we are all safer when we stand together,” he said, speaking from Copenhagen shortly before Zelenskyy **touched down** in Norway on Thursday.
+
+“If the US should decide to reduce their contributions to Nato, it is even more important that we stand together the rest of us in Nato and step up, as European allies now do. And not least the United Kingdom, being the second largest military power in Nato after the United States.”
+
+He added: “I cannot rule out that the US will reduce their contributions to the Nato command structures, to the Nato forces, but I expect the United States to remain a Nato ally. The answer to that is not to give up Nato but to strengthen the European and Canadian contributions to Nato.”
+
+Despite an EU agreement to “urgently step up efforts” to aid Ukraine’s defence, a €40bn (£33bn) EU military aid plan has **fizzled** out after it failed to win support from larger member states, including France, Spain and Italy. Kaja Kallas, the EU’s foreign policy head, who led the initiative, is now calling on member states to provide 2m shells worth €5bn, a downgrade on her original plan that **envisaged** every country contributing military aid based on the size of its economy.
+
+Kallas **acknowledged** the plan had not won universal support: “For every country it is the domestic politics, also the understanding of the public of what needs to be done and that is different in every member state.”
+
+EU talks on an €800bn plan to ensure Europe can deter any potential invaders by 2030 are exposing the geographical fault lines over rearming Europe.
+
+Poland’s prime minister, Donald Tusk, said the EU summit was about “finalising the first stage of perhaps the most important project in decades: making Europe safe, armed and united against the Russian threat”.
+
+Lithuania’s president, Gitanas Nausėda, said Europe was facing a strategic choice that recalled the years before the second world war. “We have to rearm ourselves because otherwise we will be the second, next victim of Russian aggression.”
+
+Spain and Italy, which both spend below the 2% Nato target on defence, say Europe cannot **overlook** other threats to security. Spain is urging a wider definition of defence spending to **encompass** cybersecurity, anti-terrorism and efforts to combat the climate crisis.
+
+Its prime minister, Pedro Sánchez, said he did not like the term “rearm”, which the European Commission has used repeatedly in its drive to increase defence spending. It was important, he said, “to take into account that the challenges that we face in the southern neighbourhood are a bit different to the ones the eastern **flank** face”.
+
+Earlier this month the commission outlined an €800bn plan that included a €150bn loans package and flexibility on EU **fiscal** rules that would allow countries to take on €650bn in additional debt. EU leaders have endorsed the big picture, but some countries are **reluctant** to deepen their debts and are seeking EU grants.
+
+The Greek prime minister, Kyriakos Mitsotakis, said the EU needed “a more serious discussion” on “the provision of grants to European member states in order to make the important investments that they need to do”. The Netherlands and Germany oppose any common debt that would be used to create such grants.
+
+Stoltenberg said it was “valid” and “fair” of Trump to ask other Nato members to do more, adding: “The good news is that Europeans are doing more.”
