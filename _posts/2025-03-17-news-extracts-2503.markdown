@@ -5,7 +5,7 @@ date:   2025-03-17 20:26:00 +0800
 ---
 
 * 目录
-  {:toc #markdown-toc}
+{:toc #markdown-toc}
 
 #### [2025-03-16 US says airstrikes against Houthis in Yemen will continue indefinitely](https://www.theguardian.com/world/2025/mar/16/us-says-airstrikes-against-houthis-in-yemen-will-continue-indefinitely)
 
@@ -91,19 +91,59 @@ The Bab al-Mandab Strait has an important strategic significance, which links th
 
 #### [2025-03-17 Donald Trump: Iran will be held responsible for Houthi attacks](https://www.theguardian.com/world/2025/mar/17/donald-trump-iran-will-be-held-responsible-for-houthi-attacks)
 
-The US president, Donald Trump, has declared he will hold Iran directly responsible for any future attacks by Yemen’s Tehran-backed Houthi rebels, who have targeted US and other foreign ships in the Red Sea.
-
 “Every **shot** fired by the Houthis will be **looked upon**, from this point forward, as being a shot fired from the weapons and leadership of IRAN, and IRAN will be **held responsible**, and suffer the consequences, and those consequences will be **dire**!” Trump posted on his Truth Social platform on Monday.
+
+```
+We have only 5 shots left.
+```
+
+```
+He should be looked upon in the same way as the others.
+```
+
+```
+Anyone who breaks the law will be held responsible.
+```
+
+```
+What she faces is such a dire situation.
+```
 
 Trump’s comments further escalate his administration’s new **campaign** targeting the rebels. Airstrikes killed at least 53 people this weekend and appear **poised** to continue. Meanwhile, Iran continues to **weigh** how to respond to a letter Trump sent it last week trying to **jump-start** negotiations over Tehran’s rapidly **advancing** nuclear programme.
 
+```
+All of the soldiers were brave in the campaign.
+```
+
+```
+He is poised to take the exam.
+```
+
+```
+You should weigh how to gather so much money in just 3 days.
+```
+
+```
+Due to its advancing industrial policies, China has achieved significant growth in the auto sector.  
+```
+
 Describing the Houthis as “sinister **mobsters** and **thugs**”, Trump warned any attack by the group would be met with “great force, and there is no guarantee that that force will stop there”.
 
-“Iran has played ‘the innocent victim’ of **rogue** terrorists from which they’ve lost control, but they haven’t lost control,” Trump alleged in his post. “They’re dictating every move, giving them the weapons, supplying them with money and highly sophisticated Military equipment, and even, so-called, ‘Intelligence.’”
+```
+Mobsters and thugs have severely undermined the safety and security of the community.
+```
 
-It is unclear what sparked Trump’s post. However, the head of Iran’s **paramilitary** Revolutionary Guards sought to separate the Houthis’ actions from those of Tehran this weekend. The Houthis also launched drones and missiles targeting the USS Harry S Truman aircraft carrier in the Red Sea, though none reached the ship as it continues flight operations in the region.
+“Iran has played ‘the innocent victim’ of **rogue** terrorists from which they’ve lost control, but they haven’t lost control,” Trump alleged in his post. 
 
-Iran did not immediately comment on the post.
+```
+This room will not tolerate rogue behavior.
+```
+
+It is unclear what sparked Trump’s post. However, the head of Iran’s **paramilitary** Revolutionary Guards sought to separate the Houthis’ actions from those of Tehran this weekend.
+
+```
+Both their equipment and fighting spirit are of a paramilitary nature.
+```
 
 #### [2025-03-18 Vladimir Putin agrees to 30-day halt to attacks on Ukraine’s energy grid](https://www.theguardian.com/world/2025/mar/18/trump-and-putin-to-hold-high-stakes-call-on-ukraine)
 
