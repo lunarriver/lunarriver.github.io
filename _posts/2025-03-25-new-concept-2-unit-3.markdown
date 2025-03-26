@@ -201,3 +201,67 @@ no sonner ... than ... 表示“刚...就...”
 - I was busy mixing butter and **flour**.（面粉）
 
 - I put the cake in the **oven**.（炉、灶）
+
+#### Lesson 55
+
+过去分词短语作状语，表示伴随状态；现在分词短语作状语，表示目的：
+
+- **Armed with the new mechine**, a search party went into the cave **hoping to find buried treasure**.
+
+当我们提到过去某一特定时间时，可以用 would 代替 used to：
+
+- I **used to** live near my work and **would** always get home early.
+
+used to 与 be used to
+
+- Priates **used to** hide gold.（过去经常）
+
+- I **am used to** looking after myself.（习惯于）
+
+词汇：
+
+- All that **glitters** is not gold.（闪光）
+
+- The coin was almost worthless. So it was of small **value**.（价值）
+
+- The **party** then searched the whole cave **thoroughly**.（队伍 / 彻底的）
+
+- but did not anything except an empty tin **trunk**.（行李箱）
+
+- He missed a **golden** opportunity.（绝好的）
+
+#### Lesson 56
+
+a great deal of /  a lot of 修饰不可数名词：
+
+- There isn't **a lot** I can do to help him.
+
+- There isn't **a great deal** I can do to help him.
+
+a great many of / a great number of / a lot of 修饰可数名词：
+
+- **A lot of** our products are sold overseas.
+
+- **A great many of** our products are sold overseas.
+
+- **A great number of** our products are sold overseas.
+
+the same as 和 the same with：
+
+- the same as 用于比较两个事物，并表示它们在某方面是相同的。通常用来直接比较两者，强调的是两者的相似性或一致性。
+  
+  It was different from modern cars. It wasn't **the same as** modern cars.
+
+- the same with 更多地用于引出另一个同样适用的情况，通常是在已经提到了一个情况之后，表示也有同样的情况适用于另一个人或物。
+  
+  I like chocolate ice cream, and the same with strawberry.
+
+词汇：
+
+- **It was built** in 1885, **so** it was the oldest car in the race.（so表示了一个并列句，It was built 不能用 Built 代替）
+
+- It was the oldest car **taking part**. There wasn't an **older** one.（参加 / elder意为长者）
+
+- One of the most handsome cars was a Rolls-Royce. It was a **beautiful** car.（此处 beautiful 比 nice 更佳）
+
+- Many of the cars **broke down** on the **course**.（抛锚 / 跑道）
