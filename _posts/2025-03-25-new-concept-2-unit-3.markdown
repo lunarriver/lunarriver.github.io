@@ -265,3 +265,171 @@ the same as 和 the same with：
 - One of the most handsome cars was a Rolls-Royce. It was a **beautiful** car.（此处 beautiful 比 nice 更佳）
 
 - Many of the cars **broke down** on the **course**.（抛锚 / 跑道）
+
+#### Lesson 57
+
+现在分词短语的否定形式：
+
+- **Not realizing who she was**, the assistant was eager to serve her this time.
+
+at / in 的部分用法：
+
+- He lives at 27 West Street.
+
+- Someone is **at the door**.（敲门）
+
+- There were a lot of people in the street.
+
+- He lives in Berlin.
+
+sb. + in / with：
+
+- in + 衣服
+  
+  He was dressed in a black suit.
+
+- with + 身体特征 / 配饰
+  
+  That man with long hair is supposed to be a poet.
+
+make / let sb. + 动词原形：
+
+- She enjoyed herself making the assistant bring almost everything in the window.
+
+- Don't let him persuade you.
+
+词汇：
+
+- He glanced at her scornfully. He despised her.（轻蔑地 / 轻视、轻蔑）
+
+- She returned the following day. She returned the day **after**.
+
+- She sought out the rude assistant. He had been **impolite**.
+
+- He was eager to serve her. He was **anxious** to serve her.（渴望的）
+
+- **With great difficulty**, he climbed into the shop window to get the dress.（费了好大劲）
+
+#### Lesson 58
+
+it强调句型：it is(was) + 被强调的部分 + that(who)从句
+
+- But it is only in recent years that it has gained an evil reputation.
+
+there is said to be句型：
+
+- There is said to be oil under the North Sea.
+
+词汇：
+
+- **Despite** all that has been said, the tourists have been picking leaves.
+
+- The number of visitors has increased. The number has **grown**.（grow up意为成长、长大）
+
+- It has **earned** an evil reputation.
+
+- It has gained an evil reputation. It has a bad name.（fame意为声誉、名望）
+
+- Many villagers believe that the tree has already **claimed** a number of victims.（夺走（升命））
+
+#### Lesson 59
+
+so...that...中的 that 可以省略：
+
+- Rex got so annoyed (that) we have not seen him since.
+
+表达目的的几种方式：
+
+- He ran to the station **to** catch the train.
+
+- I told him about it **in order to** help you.
+
+- I opened the door quietly **so as not to** disturb him.
+
+- He works hard **in order that** he **may** pass his exams.
+
+- He left the letter on the table **in order that** I **might(should)** see it.
+
+- He was barking **so that** someone **would** let him out.
+
+- He was barking **for** someone **would** let him out.
+
+- He has not sent me his address **so that** he **will not** write to me.
+
+词汇：
+
+- Rex became an expert. He was very **skilful**.（有技巧的、熟练的）
+
+- I **observed** him in the garden.（注意到）
+
+#### Lesson 60
+
+现在进行时可以用于表示为将来安排好的活动和事件：
+
+- He is arriving tomorrow.
+  
+  相当于：He will arrive tomorrow.
+
+- She is leaving in two day's time.
+  
+  相当于：She will leave in two day's time.
+
+名词修饰名词：
+
+- We went to the village **fair**.（集市）
+  
+  相当于：We went to the fair in the village.
+
+#### Lesson 61
+
+将来进行时 vs 将来完成时 vs 将来完成进行时
+
+- 将来进行时：描述将来某个特定时间正在进行的动作，或者表示一个即将在未来某段时间内持续发生的动作。
+  
+  This time tomorrow, I will be flying to Japan.（明天这个时候，我将正在飞往日本。）
+
+- 将来完成时：用来表示在将来某一时刻之前已经完成的动作或达到的状态。
+  
+  By the end of this year, I will have finished my degree. （到今年年底，我将会完成我的学位。）
+
+- 将来完成进行时：表示从过去某一时间开始一直持续到将来某一时间的动作，并强调该动作的连续性和持久性。
+  
+  By July, I will have been working at this company for five years. （到7月为止，我就已经在这家公司工作满五年了。）
+
+词汇：
+
+- I want to **price** the bed linen in afew other shops before I buy any.（打听价格）
+
+- I **value** your advice a great deal.（尊重）
+
+- **By the time** you read this, the Hubble's eagle eye will have sent us thousands and thousands of wonderful pictures.（等到）
+
+- **Right from the start** there was trouble with the Hubble.（从最开始）
+
+#### Lesson 62
+
+过去完成时 vs 过去完成进行时
+
+- 过去完成时：用于表示在过去的某个时间点之前就已经完成的动作或状态。
+  
+  She had already finished her homework before going out to play.（在她出去玩之前，就已经完成了家庭作业。）
+
+- 过去完成进行时：描述一个动作从过去的某一点开始，一直持续到另一个过去的时间点，并且强调该动作的持续性和可能的结果。
+  
+  They had been waiting for two hours when the train finally arrived.（当火车终于到达时，他们已经等了两个小时了。）
+
+- 过去完成时更关注于动作的完成情况，过去完成进行时则更强调动作的持续过程。
+
+词汇：
+
+- The seed had already taken root.  It had begun to **grow**.
+
+- The grass had begun to appear in the soil. It had begun to **show**.
+
+- The Parthenon is a **great** building.（重要的）
+
+- A short time before, great trees had covered the countryside **for miles round**.（方圆数英里）
+
+- Now, smoke still rose up from the warm ground over the **desolate** hills.（荒凉的）
+
+- 
