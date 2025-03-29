@@ -625,3 +625,119 @@ say 和 tell 的部分用法：
 - Imagine.（）
 
 - I had to think of a way of **preventing him from following** me.（prevent sb. from doing sth. 阻止某人做某事，from 可以省略）
+
+#### Lesson 69
+
+介词 after 后面接动名词完成时的被动结构：整个介词短语作时间状语，相当于时间状语从句
+
+- **After having been** instructed to drive out of town, I began to acquire confidence.
+
+- **After I had been** instructed to drive out of town, ...
+
+- **After being** arrested, the man confessed that he had stolen the money.
+
+- After he was arrested, ...
+
+must have 接过去分词：对过去的事情表示推测：
+
+- The examiner **must have been** pleased.
+
+practice & practise
+
+- 在美式英语中，practice 既可以作为名词也可以作为动词使用
+
+- 在英式英语中，practice 仅作为名词使用，practise 则是相应的动词形式
+
+entertain & amuse
+
+- He **entertained** me to dinner.（招待、款待某人，强调提供娱乐或享受的过程）
+
+- He **entertained** everybody with his clever tricks.（使人高兴）
+
+- The children were **amused** by the circus down.（逗乐）
+
+- The child can **amuse himself** for hours playing in the sand.（自己玩）
+
+词汇：
+
+- Let us suppose that a child suddenly crosses the road. Imagine it **happening**.
+
+- I want the car to be stopped. I want you to stop the car.
+
+- The examiner must have been pleased with my performance. He was pleased with my **efforts**.（成绩）
+
+- He said in a **mournful** voice.（悲哀的）
+
+#### Lesson 70
+
+介词搭配：
+
+- George is **jealous of** his younger sister.
+
+- She is **well-qualified in** languages and very **efficient at** her work.（能胜任的）
+
+- We are **fortunate in** having **sufficient** supplies of fuel **for** the winter.
+
+- **Contrary to** my expectations, there was no need to be **uneasy about** the results of the match.
+
+- I know he is **slow at** understanding, but you have to be **patient with** him.
+
+- It is **obvious to** everyone that he is not **responsible for** this mistake.
+
+- I think he's quite **honest in** his intentions.
+
+- He is not only **indifferent to** other people; his often extremely **rude to** them as well.（对...不关心 / 对...粗暴无礼）
+
+- He may be **quick at** understanding, but he's not **capable of** remembering anything.
+
+- He is **intent on** passing the examination, but I'm **doubtful about** his chances.（专心于... / 对...有疑问）
+
+- He says he's **sorry for** what he did, so don't get **angry with** him.
+
+- Even though he was often **cruel to** his dog, it remained **faithful to** him.（对...残忍 / 忠诚于...）
+
+- I'm not **sure of** the exact date, but I think he arrived here in 1993.
+
+- He was found **guilty of** a great many crimes.
+
+- This passport is **valid for** all countries.
+
+词汇：
+
+- The bull charged at the drunk. It ran straight **at** him.
+
+- **By then**, however, three men had come into the ring.（那时，此时）
+
+- The drunk was unaware of the danger. He wasn't **conscious of** it.（意识到）
+
+- It looked on **sympathetically**. It felt sorry for him.（同情地）
+
+- Apparently sensitive to **criticism**, the bull forgot all about the matador and **charged** at the drunk.（挑衅 / 冲上去）
+
+- When the bull got close to him, he **clumsily** stepped aside to let it pass.（笨拙地）
+
+#### Lesson 71
+
+to be of + 名词：用来表示人或物的特征
+
+- It is not only of immense size, ...
+
+hang 的两种过去形式：
+
+- When the sun came out, she **hung** the washing on the line.（晾（挂））
+
+- The murderer was **hanged**.（绞死）
+
+词汇：
+
+- The clock slowed down. It was slow.
+
+- **Capital punishment** has been abolished.（死刑）
+
+- A painter who had been working on the tower hung **a pot of paint** on one of the hands and slowed it down.（一桶油漆）
+
+#### Lesson 72
+
+词汇：
+
+- After his **attempt**, Campbell was disappointed to learn that his average speed had been 301 miles perhour.（尝试、冲击（运动记录））
