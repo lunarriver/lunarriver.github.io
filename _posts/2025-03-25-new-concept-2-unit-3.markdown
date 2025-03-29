@@ -432,4 +432,196 @@ so...that...中的 that 可以省略：
 
 - Now, smoke still rose up from the warm ground over the **desolate** hills.（荒凉的）
 
-- 
+#### Lesson 63
+
+insist 和 suggest 引导的宾语从句中，采用 sb. should be 的结构：
+
+- He insisted that I should stay to lunch.
+
+- He suggested that I should go with him.
+
+wonder if 意为：不知道是否
+
+- I wonder if it will rain tomorrow.
+
+wonder why 意为：不知道为什么
+
+- I wonder why he didn't mention this to me.
+
+词汇：
+
+- Jeremy was a little disappointed. He was **somewhat** disappointed.（一点、积分 / somehow意为不知怎么地）
+
+- Recently he was invited to a reception. He was invited to a reception **lately**.（最近 / lastly意为最后）
+
+- He made a speech at a wedding **reception**. He spoke during the **party**.（招待会 / 派对）
+
+#### Lesson 64
+
+**虚拟语气**所表述的不是一个事实，而只是一种假设或愿望，常伴有 if 引导的非真实条件。
+
+- If, at the time, the British **had not feared** invasion, it **would have been** completed.（if 从句用过去完成时，主句用 would have + 过去分词）
+
+- If you **had gone** to the exhibition, you **would have enjoyed** it.
+
+- If you **could have made** him change his mind, you **would have saved** him a lot of trouble.
+
+suggest、demand、recommend等后面所接的 that 宾语从句中，谓语动词要用 should + 动词原形，而 s**hould 又经常省略**，这是一种**虚拟语气**的结构。
+
+- He suggested that a double railway-tunnel should be built.
+
+if I were you 也是一种**虚拟语气**：
+
+- If I were in your position, I would act differently.
+
+draw 相关的短语：
+
+- If a train entered this tunnel, it would **draw** in fresh air behind it.（抽、引）
+
+- The dog **drew back** in terror when it saw the snake.（退回）
+
+- A taxi **drew up** outside the bank.（车停下）
+
+- Two men got out and then the taxi **drew off**.（车开走）
+
+- A new trading agreement was **drawn up** between Holland and Denmark.（签署）
+
+- We shall have to **draw up** a new plan.（起草）
+
+词汇：
+
+- It would be possible to build a platform. A platform **could be built**.
+
+- He **suggested building** a double railway tunnel.（suggest 只能跟动名词或从句，不能跟不定式）
+
+- It finally connects Britain and Eurpoe. Britain and Europe are finally **joined together**.
+
+- Britain benefits **enormously** from a Channel Tunnel.（极大地）
+
+- In 1860, a better plan was **put forward** by an Englishman.（提出（计划、建议））
+
+- It was **officially** opened on March 7, 1994.（正式地）
+
+- This would solve the problem of **ventilation**.（通风）
+
+#### Lesson 65
+
+should have + 过去分词：表示本应发生但实际上并未发生的事情。
+
+- He should have known that the police would never allow this sort of thing.
+
+ought (to) have + 过去分词：表示过去该做而没有做的事情。
+
+- He ought to have gone along a side street.
+
+let 相关的短语：
+
+- As he has a good record, we shall **let** him **off**.（饶恕）
+
+- I expected him to help me, but he **let** me **down**.（感到失望）
+
+词汇：
+
+- He should have known the police wouln't allow it, **but he didn't**.
+
+- Jumbo **must** weigh a few tons. Jumbo ought to weigh a few tons.（must 表示推测）
+
+- **Dressed up** as Father Christmas, he set off down the main street.（装扮）
+
+#### Lesson 66
+
+have 作使役动词使用的结构 ：have + 名词或代词 + 过去分词。在使用这种结构时，我们可能不知道或认为不必指明为我们服务的人是谁，然而，这种结构**比被动语态更强调**“使”别人为我们服务这一事实。
+
+- The French authorities had the plane packaged and moved in parts back to France.
+
+集合名称与连用动词的单数或复数形式：
+
+- 如果将集合名词视为一个整体或单位，则应使用动词的单数形式。
+  
+  The team is winning the match.
+
+- 如果强调的是构成集合的各个成员，则应使用动词的复数形式。
+  
+  The team are arguing among themselves.
+
+词汇：
+
+- Wallis Island is west of Samoa. Wallis is **to the west of** Samoa.（位于岛的西边（不在岛上），in the west of 意为：位于岛的西边（在岛上））
+
+- By 1939, a Lancaster bomber was rare and **worth saving**.（有抢救的价值）
+
+- Only three of the four Rolls-Royce Merlin engines **will have to be rebuilt**.
+
+- The bomber was in **fair** condition.（相当好的、还行的）
+
+- The bomber was in **reasonable condition**.（状态良好）
+
+#### Lesson 67
+
+spend后面常加 in doing sth.，其中 in 可以省略：
+
+- He spent his lifetime studying.
+
+be able to 和 manage to 表示一个成功地完成了的动作：
+
+- He didn't agree with me at first but I was able to persuade him.
+
+- He managed to leave Europe before the war began.
+
+- He didn't manage to get into town this morning.
+
+say 和 tell 的部分用法：
+
+- He knelt down and **said his prayers**.（作祷告）
+
+- I‘m sure it would help if you could **say a good word** for him.（说句好话）
+
+- Can you **tell the time** in English.（报时）
+
+- Can't you **tell the difference** between an Austin and a Morris?（区分）
+
+词汇：
+
+- He escaped **just** in time. He only just escaped.（刚好）
+
+- He waited until the volcano became quiet. He **waited for** the volcano to become quiet.（wait 是不及物动词，表示等候某人、某物时使用 wait for）
+
+- He was able to return. This means he **did**.
+
+- He wanted to measure temperatures. He wanted to **take** them.（take temperatures）
+
+- He has told us more than any **living** person.（alive常作表语，作定语时只能跟在名词后）
+
+#### Lesson 68
+
+动名词和非谓语动词的几种用法：
+
+- 动词后面用动名词作宾语：
+  
+  I crossed the street to **avoid meeting** him.
+
+- 现在分词作状语：
+  
+  He saw me and **came running** towards me.
+
+- it作先行词，动名词短语作主语：
+  
+  **It** was no use **pretending** that I had not seen him.
+
+- fancy + ing 表示对后面的 ing 所表示的动作感到惊奇
+  
+  **Fancy meeting** you here.
+
+- 所有格作动名词的逻辑主语：
+  
+  Would you mind **my coming** with you?
+
+词汇：
+
+- Elizabeth greeted Nigel Dykes **out of politeness**.（出于礼貌）
+
+- Nigel Dykes is **insensitive**.（感觉迟钝的）
+
+- Imagine.（）
+
+- I had to think of a way of **preventing him from following** me.（prevent sb. from doing sth. 阻止某人做某事，from 可以省略）
