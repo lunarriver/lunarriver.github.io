@@ -152,13 +152,27 @@ hard 与 fast 兼有形容词与副词的词性：
 
 - leave / left / left
 
+throw to 与 throw at
+
+- throw to 有传递的含义，以让对方接住
+  
+  He threw the ball to me and I caught it.
+
+- throw at 带有攻击性的含义，尝试击中对方
+  
+  The boy threw a stone at the window and broke it.
+
 cause 与 reason
 
-- What **caused** the fire?（引起、导致）
+- reason 关注于与人相关的思想、动机
+  
+  That is the **reason** why he left.
+  
+  I **reasoned** with him for hours, but I couldn't persuade him to change his mind.（劝说）
 
-- That is the **reason** why he left.（原因、缘由）
-
-- I **reasoned** with him for hours, but I couldn't persuade him to change his mind.（劝说）
+- cause 关注于与人无关的自然、客观因素
+  
+  What **caused** the fire?（引起、导致）
 
 词汇：
 
@@ -741,3 +755,5 @@ hang 的两种过去形式：
 词汇：
 
 - After his **attempt**, Campbell was disappointed to learn that his average speed had been 301 miles perhour.（尝试、冲击（运动记录））
+
+
