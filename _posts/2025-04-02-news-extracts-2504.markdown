@@ -5,7 +5,7 @@ date:   2025-03-17 20:26:00 +0800
 ---
 
 * 目录
-{:toc #markdown-toc}
+  {:toc #markdown-toc}
 
 #### [2024-04-01 China launches surprise military drills around Taiwan | Taiwan | The Guardian](https://www.theguardian.com/world/2025/apr/01/china-launches-surprise-military-drills-around-taiwan)
 
@@ -50,3 +50,39 @@ On Tuesday, defence ministry spokesperson Sun Li-fang said Taiwan had **elevated
 The drills appeared to be of similar size to the PLA’s “Joint Sword” exercises held in 2023 and 2024, but were unnamed, which a Chinese military analyst told state media was a sign of such activity being “normalised”.
 
 The US secretary of defence, Pete Hegseth, has visited several Asian countries in recent days, emphasising that countering China and deterring it from attacking Taiwan was a key priority for the US.
+
+#### [2025-04-02 China military drills targeting Taiwan put region’s security at risk, says US | Taiwan | The Guardian](https://www.theguardian.com/world/2025/apr/02/us-says-china-military-drills-targeting-taiwan-put-regions-security-at-risk)
+
+The US has accused China of putting the region’s security at risk after it launched a second day of military drills targeting Taiwan with a **rehearsal** blockade and attack.
+
+The China’s People’s Liberation Army (PLA) began the joint drills without notice on Tuesday morning, sending 76 aircraft and more than 20 navy and coastguard ships, including the Shandong carrier group, to positions around Taiwan’s main island.
+
+On Wednesday, the PLA exercises continued in the central and southern areas of the Taiwan strait, practising hitting key ports and energy infrastructure. In contrast to Tuesday’s drills, the PLA said it would use **live fire** on Wednesday but Taiwan’s defence ministry said it did not detect any near its territory.
+
+“The exercises focus on subjects of identification and verification, warning and **expulsion**, and interception and **detention** so as to test the troops’ capabilities of area regulation and control, joint blockade and control, and precision strikes on key targets,” it said in a statement.
+
+On Wednesday the US state department said it remained **committed** to Taiwan and other allies and partners “in the face of China’s **intimidation** tactics and destabilising behaviour”.
+
+“Once again, China’s aggressive military activities and rhetoric toward Taiwan only serve to **exacerbate** tensions and put the region’s security and the world’s prosperity at risk,” it said. “The United States supports peace and stability across the Taiwan strait and opposes unilateral changes to the **status quo**, including through force or coercion.” Japan and the European Union also expressed concern.
+
+“The EU has a direct interest in the **preservation** of the status quo in the Taiwan strait. We oppose any unilateral actions that change the status quo by force or **coercion**,” an EU spokesperson said.
+
+The Chinese foreign ministry spokesperson Guo Jiakun said China “firmly opposed” such comments, and that Taiwan was an “internal” Chinese matter.
+
+China’s maritime safety administration announced late on Tuesday a closed zone for shipping due to military drills until Thursday night in an area off the north part of the eastern province of Zhejiang, more than 310 miles (500 km) from Taiwan.
+
+A senior Taiwanese defence official said that was outside Taiwan’s “response zone”.
+
+A statement from the Chinese military later on Wednesday said it had completed its exercises. Taiwan’s defence department said it had detected 23 navy and coastguard vessels, and 36 war planes around the island that day.
+
+China’s Communist party (CCP) claims Taiwan is a province which must be “reunified” with the mainland, and has not ruled out using force to do so. Analysts believe the PLA is not yet capable of the required full-scale invasion, but in the meantime it **routinely** launches grey zone tactics, military drills, economic, legal and cyberwarfare, and disinformation campaigns.
+
+In a series of statements, Chinese government officials have said the drills were targeted at “separatist” activity by Taiwan’s president, Lai Ching-te, who last month designated China a “hostile foreign force” and announced 17 measures to counter its influence and espionage operations.
+
+It also announced a codename for the drills, “Strait Thunder-2025A”, in line with previous drills which contained suffixes suggesting they planned to hold more this year. On Tuesday China’s nationalistic tabloid the Global Times had said these drills were deliberately not named in order to show that such exercises were entirely normalised.
+
+Maj Gen Meng Xiangqing, professor at the PLA National Defence University, told the state broadcaster CCTV: “**As long as** Taiwan independence separatists dare to cross the line, the PLA will definitely act.”
+
+The drills have been accompanied by widely **distributed** propaganda materials, including videos depicting an attack on Taiwan, and a cartoon depicting Lai as a bug being held by chopsticks over a burning Taipei. A propaganda poster on Tuesday was titled “closing in”. On Wednesday a second one was released titled “**paralysis**”.
+
+In the face of growing CCP aggression, Lai has been more assertive in his approach to cross-strait tensions than his **predecessor**. His party – the pro-sovereignty DPP – and the opposition KMT are opposed to CCP rule over Taiwan, although they differ in opinion on how to maintain peace. Taiwan’s public is also overwhelmingly opposed to CCP rule. The CCP, however, claims it has historical sovereignty over Taiwan and that the majority of people – counting the 1.4 billion in China – support “reunification”.
