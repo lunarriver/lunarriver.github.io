@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "25年3月新闻摘选"
-date:   2025-03-17 20:26:00 +0800
+title:  "25年4月新闻摘选"
+date:   2025-04-01 20:26:00 +0800
 ---
 
 * 目录
-  {:toc #markdown-toc}
+{:toc #markdown-toc}
 
 #### [2024-04-01 China launches surprise military drills around Taiwan | Taiwan | The Guardian](https://www.theguardian.com/world/2025/apr/01/china-launches-surprise-military-drills-around-taiwan)
 
