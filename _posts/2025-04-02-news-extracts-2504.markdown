@@ -5,7 +5,7 @@ date:   2025-04-01 20:26:00 +0800
 ---
 
 * 目录
-{:toc #markdown-toc}
+  {:toc #markdown-toc}
 
 #### [2024-04-01 China launches surprise military drills around Taiwan | Taiwan | The Guardian](https://www.theguardian.com/world/2025/apr/01/china-launches-surprise-military-drills-around-taiwan)
 
@@ -155,22 +155,90 @@ You have performed much better than your predecessor.
 
 China has hit back hard against Donald Trump’s “bullying” tariffs, raising fears that the escalating trade war could trigger a global **recession** and prompting fresh turmoil in financial markets.
 
+```
+
+```
+
 The tariffs “clearly represent a significant risk to the global **outlook** at a time of **sluggish** growth,” said the IMF managing director, Kristalina Georgieva.
 
+```
+
+```
+
+```
+
+```
+
 The UK chancellor, Rachel Reeves, said ministers would continue to negotiate with Washington, in the hope that the 10% levy on UK exports could be **lifted**.
+
+```
+
+```
 
 “I would have thought the central expectation now must be that if she is **sticking to** her fiscal rules, she’ll need to increase taxes in the autumn by possibly some significant amount,” said Paul Johnson, the director of the Institute for Fiscal Studies.
 On Wall Street, the tech-focused Nasdaq index entered bear market territory – meaning it has lost more than 20% of its value since the **sell-off** began. It was down 5.8% on Friday alone. The S&P 500 fell 9.1%, its worst five-day trading **stretch since** March 2020.
 
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
 There was little sign of such **moderation** in China’s **trenchant** response to the Trump tariffs, however.
+
+```
+
+```
+
+```
+
+```
 
 The president has promised voters his “liberation day” policies will bring jobs and investment **pouring back** into the US. But investors fear the higher prices that are likely to result will depress consumer demand in the US, and put the brakes on export-dependent economies worldwide.
 
+```
+
+```
+
 The market **meltdown** has also been fuelled by Trump’s unpredictability, which makes it impossible to forecast whether he will negotiate away some of the tariffs in exchange for **concessions** – or double down.
+
+```
+
+```
+
+```
+
+```
 
 “Markets are crashing because markets are based on the stock value of companies who today are **embedded** in modes of production that are bad for the US,” he claimed.
 
+```
+
+```
+
 Still, in the UK, some economists suggested the tariffs may have only a **modest** impact. James Smith, an economist at the analysts ING, said: “The **overall** hit from tariffs on Britain’s GDP is perhaps only 0.2% or so. Certainly not enough to decisively change the outlook for UK growth. And remember there are some **decent** **tailwinds** for growth this year, notably from government spending.”
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
 
 #### [2025-04-05 Trump tariffs come into effect in ‘seismic’ shift to global trade](https://www.theguardian.com/us-news/2025/apr/05/trump-tariffs-come-into-effect-in-seismic-shift-to-global-trade)
 
@@ -187,3 +255,49 @@ Trump’s announcement of the tariffs on Wednesday shook global stock markets 
 While speaking at a Brookings Institution event on Thursday, Shaw said she expected that over time the tariffs would **evolve** as countries started negotiating lower rates for themselves, but she called the change “huge”.
 
 Shaw said: “This is a pretty **seismic** and significant shift in the way that we trade with every country on Earth.”
+
+#### [2025-04-08 Trump confirms 104% tariffs on Chinese goods as part of unfolding global trade war](https://www.theguardian.com/us-news/2025/apr/08/trump-global-tariffs)
+
+Donald Trump is poised to **unleash** his trade war with the world on Wednesday, **pressing ahead** with a **slew** of tariffs on the US’s largest trading partners despite fears of widespread economic damage and calls to reconsider.
+
+The US president claimed “many” countries were seeking a deal with Washington, as his administration prepared to impose steep tariffs on goods from dozens of markets from Wednesday.
+
+However, Beijing vowed to “fight to the end” after Trump threatened to hit Chinese exports with additional 50% tariffs if the country **proceeds with plans** to retaliate against his initial **vow** to impose tariffs of 34% on its products. That would come on top of the existing 20% levy and take the total tariff on Chinese imports to 104%.
+
+The White House confirmed that the higher US tariffs on China would, indeed, be imposed from Wednesday. “President Trump has a **spine** of steel and he will not break,” the **press secretary**, Karoline Leavitt, said. “And America will not break under his leadership.”
+
+The billionaire Trump adviser Elon Musk has also reportedly asked the president to reverse course, and the New Civil Liberties Alliance, a **libertarian** group funded by organisations affiliated with conservative businessmen Leonard Leo and Charles Koch, filed a lawsuit against the “illegal” tariffs.
+
+The latest tariffs are higher than the 10% **flat rate** imposed on all global imports to the US on Friday last week and are **tailored** to specific countries based on a formula that has been criticised by economists that divides trade in goods deficit by twice the total value of imports.
+
+After days of turmoil since they were first revealed last week, global markets initially recovered some ground on Tuesday as senior US officials attempted to reassure investors that the new tariffs – including rates of 20% on the European Union, 26% on India and 49% on Cambodia – could be temporary.
+
+But the bounce didn’t last long. On Wall Street, the benchmark S&P 500 closed down 1.6%, at 4,982.77 – below 5,000 for the first time in more than a year – as the Dow Jones industrial average fell 0.8%. The technology-focused Nasdaq Composite also came under pressure, dropping 2.2%.
+
+Earlier in the day, the FTSE 100 rallied by 2.7% in London, recovering some of the losses it has endured since Trump’s announcement – on what was **dubbed** “liberation day” by his aides – last week. The Nikkei 225 **rallied** 6% in Tokyo. The Hang Seng Index rose 1.5% in Hong Kong.
+
+Scott Bessent, the US treasury secretary, has insisted the new tariffs are at “maximum” levels, and expressed confidence that negotiations will bring them down.
+
+“I think you are going to see some very large countries with large trade deficits [with the US] come forward very quickly,” he told CNBC, the financial news network, on Tuesday. “If they come to the table with **solid** proposals, I think we can end up with some good deals.”
+
+Trump was asked on Monday whether the tariffs set the stage for negotiations with countries, or were permanent. “Well, it can both be true,” he told reporters. “There can be permanent tariffs, and there can also be negotiations.”
+
+But he again raised the prospect of agreements with countries on Tuesday, **trailing** a potential deal with South Korea.
+
+“Their top TEAM is on a plane heading to the US, and things are looking good,” Trump wrote on his Truth Social platform. “We are likewise dealing with many other countries, all of whom want to make a deal with the United States.”
+
+The president added: “‘**ONE STOP SHOPPING**’ is a beautiful and efficient process!!! China also wants to make a deal, badly, but they don’t know how to get it started. We are waiting for their call. It will happen!”
+
+Rachel Reeves, the UK chancellor, sought to ease concerns about market **volatility**, telling parliament she had spoken to Andrew Bailey, the governor of the Bank of England, who confirmed “markets are functioning effectively and that our banking system is **resilient**”.
+
+A trade war “is in nobody’s interest”, Reeves argued, confirming that the UK was seeking to negotiate a new deal with the US. Trump has imposed a 10% tariff on UK exports, in line with the minimum benchmark introduced at the weekend.
+
+She declined to back calls from Liberal Democrats for the government to launch a “buy British” campaign. “In terms of buying British, I think everyone will make their own decisions,” Reeves said. “What we don’t want to see is a trade war, with Britain becoming **inward-looking**.”
+
+China adopted an **altogether** different stance. In a **scathing** editorial, the official state news outlet Xinhua accused the US president of “**naked** **extortion**”.
+
+“**Utterly** **absurd** is the underlying logic of the United States: ‘I can hit you at my will, and you must not respond. Instead, you must surrender unconditionally,’” it said. “This is not diplomacy. It is **blunt** coercion dressed up as policy.”
+
+On social media a 1987 speech by Ronald Reagan posted by China’s foreign ministry has been widely shared. The video clip, in which the former US president criticises the use of tariffs as leading to retaliation and ultimately hurting the US economy, “has a new meaning in 2025”, China’s the Paper said.
+
+Bessent argued on Tuesday that China was making a “big mistake” by daring to retaliate. “They’re playing with a pair of twos,” he claimed on CNBC. “What do we lose by the Chinese raising tariffs on us? We export one-fifth to them of what they export to us, so that is a losing hand for them.”
