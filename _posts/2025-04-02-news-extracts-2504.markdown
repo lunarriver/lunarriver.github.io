@@ -5,7 +5,7 @@ date:   2025-04-01 20:26:00 +0800
 ---
 
 * 目录
-  {:toc #markdown-toc}
+{:toc #markdown-toc}
 
 #### [2024-04-01 China launches surprise military drills around Taiwan | Taiwan | The Guardian](https://www.theguardian.com/world/2025/apr/01/china-launches-surprise-military-drills-around-taiwan)
 
@@ -156,88 +156,88 @@ You have performed much better than your predecessor.
 China has hit back hard against Donald Trump’s “bullying” tariffs, raising fears that the escalating trade war could trigger a global **recession** and prompting fresh turmoil in financial markets.
 
 ```
-
+The whole world is worried about a potential global recession that may be caused by the tariff wars initiated by Trump.
 ```
 
 The tariffs “clearly represent a significant risk to the global **outlook** at a time of **sluggish** growth,” said the IMF managing director, Kristalina Georgieva.
 
 ```
-
+The outlook for the EV industry is very promising.
 ```
 
 ```
-
+After the pandemic occurred in 2020, global economic growth became sluggish.
 ```
 
 The UK chancellor, Rachel Reeves, said ministers would continue to negotiate with Washington, in the hope that the 10% levy on UK exports could be **lifted**.
 
 ```
-
+Trump has promised that he would lift the tariffs on countries which did not retaliate.
 ```
 
 “I would have thought the central expectation now must be that if she is **sticking to** her fiscal rules, she’ll need to increase taxes in the autumn by possibly some significant amount,” said Paul Johnson, the director of the Institute for Fiscal Studies.
 On Wall Street, the tech-focused Nasdaq index entered bear market territory – meaning it has lost more than 20% of its value since the **sell-off** began. It was down 5.8% on Friday alone. The S&P 500 fell 9.1%, its worst five-day trading **stretch since** March 2020.
 
 ```
-
+He is still sticking to the decision to give up the opportunity.
 ```
 
 ```
-
+The sell-off has caused the stock market to fall sharply.
 ```
 
 ```
-
+He achieved the best score stretch since the contest's first holding.
 ```
 
 There was little sign of such **moderation** in China’s **trenchant** response to the Trump tariffs, however.
 
 ```
-
+Our response should be moderate.
 ```
 
 ```
-
+The trenchant coverage made him extremely angry.
 ```
 
 The president has promised voters his “liberation day” policies will bring jobs and investment **pouring back** into the US. But investors fear the higher prices that are likely to result will depress consumer demand in the US, and put the brakes on export-dependent economies worldwide.
 
 ```
-
+Please help me pour back the liquid into this bucket.
 ```
 
 The market **meltdown** has also been fuelled by Trump’s unpredictability, which makes it impossible to forecast whether he will negotiate away some of the tariffs in exchange for **concessions** – or double down.
 
 ```
-
+The possibility of a financial meltdown increased significantly due to the tariff wars.
 ```
 
 ```
-
+Unconditional concessions will only lead to further humiliations.
 ```
 
 “Markets are crashing because markets are based on the stock value of companies who today are **embedded** in modes of production that are bad for the US,” he claimed.
 
 ```
-
+This picture needs to be embedded into the wall.
 ```
 
 Still, in the UK, some economists suggested the tariffs may have only a **modest** impact. James Smith, an economist at the analysts ING, said: “The **overall** hit from tariffs on Britain’s GDP is perhaps only 0.2% or so. Certainly not enough to decisively change the outlook for UK growth. And remember there are some **decent** **tailwinds** for growth this year, notably from government spending.”
 
 ```
-
+The growth rate, as expected, is modest.
 ```
 
 ```
-
+The overall profits are quite remarkable.
 ```
 
 ```
-
+He doesn't even have decent clothes.
 ```
 
 ```
-
+Riding in a tailwind is relatively easier.
 ```
 
 #### [2025-04-05 Trump tariffs come into effect in ‘seismic’ shift to global trade](https://www.theguardian.com/us-news/2025/apr/05/trump-tariffs-come-into-effect-in-seismic-shift-to-global-trade)
