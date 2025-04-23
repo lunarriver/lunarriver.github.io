@@ -5,7 +5,7 @@ date:   2025-04-01 20:26:00 +0800
 ---
 
 * 目录
-{:toc #markdown-toc}
+  {:toc #markdown-toc}
 
 #### [2024-04-01 China launches surprise military drills around Taiwan | Taiwan | The Guardian](https://www.theguardian.com/world/2025/apr/01/china-launches-surprise-military-drills-around-taiwan)
 
@@ -260,44 +260,40 @@ Shaw said: “This is a pretty **seismic** and significant shift in the way that
 
 Donald Trump is poised to **unleash** his trade war with the world on Wednesday, **pressing ahead** with a **slew** of tariffs on the US’s largest trading partners despite fears of widespread economic damage and calls to reconsider.
 
-The US president claimed “many” countries were seeking a deal with Washington, as his administration prepared to impose steep tariffs on goods from dozens of markets from Wednesday.
+However, Beijing vowed to “fight to the end” after Trump threatened to hit Chinese exports with additional 50% tariffs if the country **proceeds with plans** to retaliate against his initial **vow** to impose tariffs of 34% on its products.
 
-However, Beijing vowed to “fight to the end” after Trump threatened to hit Chinese exports with additional 50% tariffs if the country **proceeds with plans** to retaliate against his initial **vow** to impose tariffs of 34% on its products. That would come on top of the existing 20% levy and take the total tariff on Chinese imports to 104%.
+“President Trump has a **spine** of steel and he will not break,” the **press secretary**, Karoline Leavitt, said.
 
-The White House confirmed that the higher US tariffs on China would, indeed, be imposed from Wednesday. “President Trump has a **spine** of steel and he will not break,” the **press secretary**, Karoline Leavitt, said. “And America will not break under his leadership.”
-
-The billionaire Trump adviser Elon Musk has also reportedly asked the president to reverse course, and the New Civil Liberties Alliance, a **libertarian** group funded by organisations affiliated with conservative businessmen Leonard Leo and Charles Koch, filed a lawsuit against the “illegal” tariffs.
+The New Civil Liberties Alliance is a **libertarian** group.
 
 The latest tariffs are higher than the 10% **flat rate** imposed on all global imports to the US on Friday last week and are **tailored** to specific countries based on a formula that has been criticised by economists that divides trade in goods deficit by twice the total value of imports.
 
-After days of turmoil since they were first revealed last week, global markets initially recovered some ground on Tuesday as senior US officials attempted to reassure investors that the new tariffs – including rates of 20% on the European Union, 26% on India and 49% on Cambodia – could be temporary.
-
-But the bounce didn’t last long. On Wall Street, the benchmark S&P 500 closed down 1.6%, at 4,982.77 – below 5,000 for the first time in more than a year – as the Dow Jones industrial average fell 0.8%. The technology-focused Nasdaq Composite also came under pressure, dropping 2.2%.
-
 Earlier in the day, the FTSE 100 rallied by 2.7% in London, recovering some of the losses it has endured since Trump’s announcement – on what was **dubbed** “liberation day” by his aides – last week. The Nikkei 225 **rallied** 6% in Tokyo. The Hang Seng Index rose 1.5% in Hong Kong.
 
-Scott Bessent, the US treasury secretary, has insisted the new tariffs are at “maximum” levels, and expressed confidence that negotiations will bring them down.
-
-“I think you are going to see some very large countries with large trade deficits [with the US] come forward very quickly,” he told CNBC, the financial news network, on Tuesday. “If they come to the table with **solid** proposals, I think we can end up with some good deals.”
-
-Trump was asked on Monday whether the tariffs set the stage for negotiations with countries, or were permanent. “Well, it can both be true,” he told reporters. “There can be permanent tariffs, and there can also be negotiations.”
+If they come to the table with **solid** proposals, I think we can end up with some good deals.”
 
 But he again raised the prospect of agreements with countries on Tuesday, **trailing** a potential deal with South Korea.
-
-“Their top TEAM is on a plane heading to the US, and things are looking good,” Trump wrote on his Truth Social platform. “We are likewise dealing with many other countries, all of whom want to make a deal with the United States.”
 
 The president added: “‘**ONE STOP SHOPPING**’ is a beautiful and efficient process!!! China also wants to make a deal, badly, but they don’t know how to get it started. We are waiting for their call. It will happen!”
 
 Rachel Reeves, the UK chancellor, sought to ease concerns about market **volatility**, telling parliament she had spoken to Andrew Bailey, the governor of the Bank of England, who confirmed “markets are functioning effectively and that our banking system is **resilient**”.
 
-A trade war “is in nobody’s interest”, Reeves argued, confirming that the UK was seeking to negotiate a new deal with the US. Trump has imposed a 10% tariff on UK exports, in line with the minimum benchmark introduced at the weekend.
-
-She declined to back calls from Liberal Democrats for the government to launch a “buy British” campaign. “In terms of buying British, I think everyone will make their own decisions,” Reeves said. “What we don’t want to see is a trade war, with Britain becoming **inward-looking**.”
+“What we don’t want to see is a trade war, with Britain becoming **inward-looking**.”
 
 China adopted an **altogether** different stance. In a **scathing** editorial, the official state news outlet Xinhua accused the US president of “**naked** **extortion**”.
 
 “**Utterly** **absurd** is the underlying logic of the United States: ‘I can hit you at my will, and you must not respond. Instead, you must surrender unconditionally,’” it said. “This is not diplomacy. It is **blunt** coercion dressed up as policy.”
 
-On social media a 1987 speech by Ronald Reagan posted by China’s foreign ministry has been widely shared. The video clip, in which the former US president criticises the use of tariffs as leading to retaliation and ultimately hurting the US economy, “has a new meaning in 2025”, China’s the Paper said.
+#### [2025-04-22 Rice crisis: Japan imports grain from South Korea for first time in more than 25 years](https://www.theguardian.com/world/2025/apr/22/japan-south-korea-rice-import-crisis)
 
-Bessent argued on Tuesday that China was making a “big mistake” by daring to retaliate. “They’re playing with a pair of twos,” he claimed on CNBC. “What do we lose by the Chinese raising tariffs on us? We export one-fifth to them of what they export to us, so that is a losing hand for them.”
+The quantity of South Korean rice, which was sold online and at supermarkets, is still relatively low at just two **tonnes**, but there are plans to ship a further 20 tonnes in the coming days, the public broadcaster NHK said.
+
+Hirano told Reuters that the price of the Californian product he now served had doubled since his first purchase last summer, but was still cheaper than **homegrown** rice.
+
+And he has had no **complaints** from diners, including Miki Nihei, who was surprised to find out the rice she had eaten wasn’t grown in Japan. “I had no idea,” she said. “I have no **qualms** about eating imported rice. Prices have gone up, so I’m always looking for cheaper options.”
+
+The trend has forced the Japanese government to take the unusual step of **dipping** into its vast rice **reserves**. In March it began releasing 210,000 tonnes of stockpiled rice in an attempt to **arrest** price rises caused by a combination of record summer heat, panic buying and distribution problems.
+
+Japan had previously dipped into its rice reserves in the aftermath of natural disasters or crop failures, but this was the first time it had **intervened** over **distribution** issues.
+
+Japan’s rice stockpiles had already **depleted** after record-breaking temperatures affected the 2023 crop.
