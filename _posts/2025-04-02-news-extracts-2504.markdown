@@ -5,7 +5,7 @@ date:   2025-04-01 20:26:00 +0800
 ---
 
 * 目录
-  {:toc #markdown-toc}
+{:toc #markdown-toc}
 
 #### [2024-04-01 China launches surprise military drills around Taiwan | Taiwan | The Guardian](https://www.theguardian.com/world/2025/apr/01/china-launches-surprise-military-drills-around-taiwan)
 
@@ -297,3 +297,39 @@ The trend has forced the Japanese government to take the unusual step of **dippi
 Japan had previously dipped into its rice reserves in the aftermath of natural disasters or crop failures, but this was the first time it had **intervened** over **distribution** issues.
 
 Japan’s rice stockpiles had already **depleted** after record-breaking temperatures affected the 2023 crop.
+
+#### [2025-04-23 Taiwan president will not attend Pope Francis’s funeral](https://www.theguardian.com/world/2025/apr/23/taiwan-president-will-not-attend-pope-francis-funeral)
+
+Taiwan’s president, Lai Ching-te, will not attend the funeral of **Pope** Francis, despite his foreign ministry saying earlier it was their “most important **aim**” in negotiations with the Vatican that he be there in person.
+
+The ministry announced on Wednesday that Taiwan would be sending its former vice-president, Chen Chien-jen as special envoy. Chen has deep ties with the Vatican and met Pope Francis six times, but the decision means Taiwan’s delegation will be without a **serving** government official, despite the Vatican being one of Taiwan’s few diplomatic allies.
+
+Just 12 governments, including the Vatican, recognise Taiwan as a country, and China **lobbies** to keep it excluded from most multilateral **bodies**. As a result there are few opportunities for Taiwan’s president to **mix with** other foreign leaders.
+
+Taiwan’s deputy foreign minister, Wu Chih-chung, had earlier said the government was in talks with the Vatican over Lai’s **attendance**.
+
+“This is the foreign ministry’s most important aim,” Wu said on Wednesday. Wu said the Vatican had “considerations” about whom Taiwan would send, as well as its own “international relations”, but did not go into **specifics**.
+
+“The church has its own diplomacy, I am not allowed to give answers on their behalf,” he said. Wu was speaking outside Taipei’s **Catholic** **Archdiocese**, where he was accompanying Lai on a visit to pay respects to Francis. Lai did not speak to the press.
+
+Later on Wednesday, Wu told reporters that Chen was “the best choice under the current **circumstances**”.
+
+Past leaders of Taiwan have attended formal events at the Vatican. The former president Ma Ying-jeou attended Francis’s first **mass** as pope in 2013. His predecessor, Chen Shui-bian, represented Taiwan at the funeral of Pope John Paul II in 2005, and was seated according to Taiwan’s formal sovereign name, Republic of China.
+
+Taiwan’s ambassador to the Vatican at the time said Chen’s attendance marked the first visit to Europe by a **sitting** Taiwanese president.
+
+China’s government claims Taiwan as a province and does not allow other countries to have formal diplomatic relations with both governments. The vast majority of countries have chosen relations with China, with some having **switched back and forth** amid lobbying and **incentives** offered by both Taipei and Beijing. The remaining 12 allies of Taiwan are mostly small island nations in the Pacific and **Caribbean**. The Vatican is significant as Taiwan’s only ally in Europe, and “the value of being officially recognised by the Vatican is **amplified** by the significant influence it has globally as the head of the Catholic church”, said Zsuzsa Anna Ferenczy, assistant professor at Taiwan’s National Dong Hwa University, who is an expert on China-Europe relations.
+
+“Taiwan’s fear is that a Vatican-China rapprochement could lead to/**pave** the way to the end of Vatican-Taiwan diplomatic ties, which has put Taiwan’s leadership in a tight spot,” she said.
+
+“Taipei has had good reason to worry about the Vatican’s interactions with China in recent years, which, ironically, have unfolded amid increasing restrictions by the Chinese authorities on religious freedom in the country.”
+
+China’s relations with the Vatican appeared to improve under Francis, who oversaw controversial agreements with Beijing about the appointments of Catholic **bishops** in China. The Chinese government insists that such appointments are a matter of sovereignty and must be government-approved.
+
+Beijing did not issue public condolences to the Vatican until a foreign ministry press briefing on Tuesday.
+
+“In recent years China and the Vatican have maintained **constructive engagement**, conducted useful exchanges, and had extensive communication on international issues,” the ministry spokesperson Guo Jiakun told reporters.
+
+Guo was asked about Pope Francis’s repeated wishes that he could visit China and meet leaders, and whether breaking ties with Taiwan was a **prerequisite** for this to ever happen with a future **pontiff**. He responded that Taiwan was “an **inalienable** part of China’s territory”.
+
+He would not confirm whether China planned to send anyone to the funeral.
