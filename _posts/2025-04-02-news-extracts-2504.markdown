@@ -5,7 +5,7 @@ date:   2025-04-01 20:26:00 +0800
 ---
 
 * 目录
-{:toc #markdown-toc}
+  {:toc #markdown-toc}
 
 #### [2024-04-01 China launches surprise military drills around Taiwan | Taiwan | The Guardian](https://www.theguardian.com/world/2025/apr/01/china-launches-surprise-military-drills-around-taiwan)
 
@@ -457,3 +457,91 @@ China’s state media has already seized on the cases, accusing Taiwan’s rulin
 The Guardian’s conversations with people in or close to the government have revealed a **perplexity** over the **backlash**, and a belief that any concerns are **outweighed** by the need to address any vulnerability China could exploit.
 
 “More than 360,000 Chinese spouses live in Taiwan today,” Kuo and Wu wrote in their essay. “While they may appear to be a demographic minority, their family networks make up a significant portion of society – one the government now risks **alienating**.”
+
+#### [2025-04-28 Putin and Kim confirm for first time North Koreans fought for Russia in Ukraine war](https://www.theguardian.com/world/2025/apr/28/north-korea-troops-fighting-for-russia-ukraine-confirmed-kim-jong-un)
+
+Vladimir Putin and Kim Jong-un have confirmed for the first time that North Korea has sent troops to fight for Russia in the war with Ukraine, with both leaders describing the soldiers as “heroes”.
+
+The acknowledgment comes amid claims by the Kremlin – **contested** by Ukraine – that North Korean forces helped recapture Russia’s Kursk region.
+
+“The Russian people will never forget the **heroism** of the Korean special forces. We will always honour the Korean heroes who gave their lives for Russia and for our shared freedom, alongside their **brothers-in-arms** from the Russian **Federation**,” Putin said in a statement released by the Kremlin.
+
+In a statement released on Monday, North Korea’s KCNA state news agency quoted the ruling party as saying that the end of the battle in Russia’s Kursk region showed the “highest strategic level of the firm militant friendship” between North Korea and Russia.
+
+The acknowledgment follows months of silence over the deployment, which has been widely reported in western media. The Kremlin also said Russia was ready to provide assistance to North Korea “similar to the support offered to its soldiers in the Kursk region”.
+
+Russia claimed last week that Ukrainian forces had been expelled from the last Russian village they had been holding. Kyiv has denied the claim, however, and said Ukrainian troops were also still operating in Belgorod, another Russian region bordering Ukraine.
+
+Ukraine’s president, Volodymyr Zelenskyy, said on Sunday that Ukraine’s army was still fighting in Kursk despite Moscow claiming the “liberation” of its western region.
+
+“Our military continues to perform tasks in the Kursk and Belgorod regions – we are maintaining our presence on Russian territory,” he said in his evening address. In a statement earlier on Sunday, he conceded that the situation remained difficult in many areas, including Kursk.
+
+The central military commission of North Korea’s ruling Workers’ party said Kim made the decision to deploy troops under the **comprehensive strategic partnership** treaty he signed with Putin in June 2024.
+
+“Under the order of the **head of state**, the sub-units of the armed forces of the Republic regarded the territory of Russia as one of their country and proved the firm alliance between the two countries,” KCNA cited the commission as saying.
+
+North Korea “regards it as an honour to have an alliance with such a powerful state as the Russian Federation”, KCNA added.
+
+The agency quoted Kim as saying: “They who fought for justice are all heroes and representatives of the honour of the motherland.”
+
+North Korea sent an estimated total of 14,000 troops, including 3,000 reinforcements, to replace those killed, injured or captured, Ukrainian officials have said. With no armoured vehicles or drone warfare experience, they took heavy casualties but adapted quickly, the officials added.
+
+Russia confirmed on Saturday for the first time that North Korean soldiers had been fighting alongside Russians in Kursk. Neither Russia nor North Korea had previously either confirmed or denied the deployment.
+
+The US state department said it was concerned by North Korea’s direct involvement in Russia’s war in Ukraine and that Pyongyang’s military deployment must end.
+
+“We continue to be concerned by [North Korea’s] direct involvement in the war. [North Korea’s] military deployment to Russia and any support provided by the Russian Federation to [North Korea] in return must end,” a state department spokesperson said in an email, adding that third countries such as North Korea “**bear responsibility**” for the war.
+
+Kim, whose **material support** for Putin could earn North Korea access to Russian satellite and military technology to boost its nuclear missile programme, said a **monument** would soon be built in the capital, Pyongyang, to honour his soldiers’ “battle **feats**”.
+
+North Korea has also provided Russia with vast quantities of ammunition, artillery shells, ballistic missiles and other weapons. South Korea, the US and their partners worry that Russia could reward North Korea by transferring hi-tech weapons technologies for use in its nuclear weapons programme. North Korea is also expected to receive economic and other assistance from Russia.
+
+Kim’s reference to “the **tombstones** of the **fallen soldiers**” is seen as public confirmation by the regime that North Korean troops had been killed in **combat**.
+
+Zelenskyy has put the number of killed or wounded North Koreans at 4,000, though US estimates are lower, about 1,200.
+
+Kim said North Korea must “take important national measures to specially honour and care for the families of war veterans”.
+
+Experts said Moscow and Pyongyang were likely to have agreed in advance to publicly disclose the deployment.
+
+“The two countries agreed to disclose the deployment because they judged that the benefits of compensation for the troop deployment **outweighed** the potential damage to their international image,” Yang Moo-jin, president of the University of North Korean Studies in Seoul, told Agence France-Presse.
+
+By promising state benefits to the deployed troops, North Korea could also “sufficiently ease internal backlash”, Yang said, adding that the move reflected Pyongyang’s growing confidence.
+
+“North Korea likely aimed to **showcase** that victory was achieved thanks to their involvement, thereby securing greater rewards from Russia,” he added.
+
+#### [2024-04-28 China and Philippines display competing flags on disputed South China Sea sandbank](https://www.theguardian.com/world/2025/apr/28/china-philippines-flags-sandy-cay-south-china-sea)
+
+China and the Philippines have displayed their national flags in competing photo opportunities on a disputed sandbank in the South China sea, ratcheting up longstanding regional tensions between the two countries.
+
+The dispute played out at Sandy Cay, which is part of the disputed Spratly Islands, and comes days after the US and the Philippines launched their annual joint military drills called “Balikatan”, or “shoulder to shoulder”, which this year will include an integrated air and missile defence simulation for the first time.
+
+The latest confrontation appears to have emerged on Thursday, when Chinese state media reported the Coast Guard landed on the disputed reef two weeks ago, unfurled a flag and “exercised sovereign jurisdiction”.
+
+On Sunday, China’s coast guard then accused six Filipino personnel of “illegally boarding” Sandy Cay, which Beijing calls Tiexian Reef, earlier that day despite “warnings and dissuasion” from the Chinese side.
+
+Spokesperson Liu Dejun said coast guard personnel then “boarded the reef and investigated and dealt with it in accordance with the law”.
+
+“We urge the Philippines to immediately stop its infringement,” Liu said, adding that the actions “violated China’s territorial sovereignty”.
+
+Sandy Cay is just a few kilometres from Thitu island, where the Philippines maintains a military outpost.
+
+There do not appear to be any signs that China has permanently occupied the reef or has built a structure on it.
+
+On Monday Philippines officials disputed China’s claim that it had gained control.
+
+“The facts on the ground belie their statements,” National Security Council spokesperson Jonathan Malaya said. “It is not to the benefit of any nation if these things are happening, nor it is to the benefit of any nation if such irresponsible announcements and statements are released to the public and to the world.”
+
+Chinese state broadcaster CCTV published a photograph of five black-clad people standing on the uninhabited reef as a dark inflatable boat bobbed in the nearby water. The group also “cleaned up leftover plastic bottles, wooden sticks and other debris and garbage on the reef”, the broadcaster reported.
+
+Philippines Coast Guard spokesperson Jay Tarriela said on Sunday that its navy, coast guard and police personnel had deployed to Sandy Cay in four rubber boats and had “observed the illegal presence” of a Chinese Coast Guard vessel and seven China maritime militia vessels.
+
+Posting footage of their own flag being displayed, Tarriela added: “This operation reflects the unwavering dedication and commitment of the Philippine government to uphold the country’s sovereignty, sovereign rights and jurisdiction in the West Philippine Sea.”
+
+Beijing claims sovereignty over almost all of the South China Sea and has waved away competing assertions from other countries in the region as well as an international ruling that its position has no legal basis.
+
+At the opening ceremony in Manila for the joint US-Philippines military drills, which began on Monday last week, US Marine Corps Lieutenant General James Glynn said the two sides would “demonstrate not just our will to uphold our mutual defence treaty in existence since 1951 but our matchless capability to do so”.
+
+“Nothing builds bonds more quickly than shared adversity,” he said, without specifying a common threat.
+
+Beijing said the military manoeuvres “undermine regional strategic stability” and accused Manila of “collusion with countries outside the region”.
