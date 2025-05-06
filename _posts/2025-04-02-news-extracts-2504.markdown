@@ -5,7 +5,7 @@ date:   2025-04-01 20:26:00 +0800
 ---
 
 * 目录
-  {:toc #markdown-toc}
+{:toc #markdown-toc}
 
 #### [2024-04-01 China launches surprise military drills around Taiwan | Taiwan | The Guardian](https://www.theguardian.com/world/2025/apr/01/china-launches-surprise-military-drills-around-taiwan)
 
@@ -512,27 +512,27 @@ By promising state benefits to the deployed troops, North Korea could also “su
 
 #### [2024-04-28 China and Philippines display competing flags on disputed South China Sea sandbank](https://www.theguardian.com/world/2025/apr/28/china-philippines-flags-sandy-cay-south-china-sea)
 
-China and the Philippines have displayed their national flags in competing photo opportunities on a disputed sandbank in the South China sea, ratcheting up longstanding regional tensions between the two countries.
+China and the Philippines have displayed their national flags in competing photo opportunities on a disputed **sandbank** in the South China sea, **ratcheting** up longstanding regional tensions between the two countries.
 
-The dispute played out at Sandy Cay, which is part of the disputed Spratly Islands, and comes days after the US and the Philippines launched their annual joint military drills called “Balikatan”, or “shoulder to shoulder”, which this year will include an integrated air and missile defence simulation for the first time.
+The dispute played out at Sandy Cay, which is part of the disputed Spratly Islands, and comes days after the US and the Philippines launched their annual joint military drills called “Balikatan”, or “shoulder to shoulder”, which this year will include an **integrated** air and missile defence **simulation** for the first time.
 
-The latest confrontation appears to have emerged on Thursday, when Chinese state media reported the Coast Guard landed on the disputed reef two weeks ago, unfurled a flag and “exercised sovereign jurisdiction”.
+The latest confrontation appears to have emerged on Thursday, when Chinese state media reported the Coast Guard landed on the disputed **reef** two weeks ago, **unfurled** a flag and “exercised sovereign jurisdiction”.
 
-On Sunday, China’s coast guard then accused six Filipino personnel of “illegally boarding” Sandy Cay, which Beijing calls Tiexian Reef, earlier that day despite “warnings and dissuasion” from the Chinese side.
+On Sunday, China’s coast guard then accused six Filipino personnel of “illegally boarding” Sandy Cay, which Beijing calls Tiexian Reef, earlier that day despite “warnings and **dissuasion**” from the Chinese side.
 
 Spokesperson Liu Dejun said coast guard personnel then “boarded the reef and investigated and dealt with it in accordance with the law”.
 
 “We urge the Philippines to immediately stop its infringement,” Liu said, adding that the actions “violated China’s territorial sovereignty”.
 
-Sandy Cay is just a few kilometres from Thitu island, where the Philippines maintains a military outpost.
+Sandy Cay is just a few kilometres from Thitu island, where the Philippines maintains a military **outpost**.
 
 There do not appear to be any signs that China has permanently occupied the reef or has built a structure on it.
 
 On Monday Philippines officials disputed China’s claim that it had gained control.
 
-“The facts on the ground belie their statements,” National Security Council spokesperson Jonathan Malaya said. “It is not to the benefit of any nation if these things are happening, nor it is to the benefit of any nation if such irresponsible announcements and statements are released to the public and to the world.”
+“The **facts on the ground** **belie** their statements,” National Security Council spokesperson Jonathan Malaya said. “It is not to the benefit of any nation if these things are happening, nor it is to the benefit of any nation if such **irresponsible** announcements and statements are released to the public and to the world.”
 
-Chinese state broadcaster CCTV published a photograph of five black-clad people standing on the uninhabited reef as a dark inflatable boat bobbed in the nearby water. The group also “cleaned up leftover plastic bottles, wooden sticks and other debris and garbage on the reef”, the broadcaster reported.
+Chinese state broadcaster CCTV published a photograph of five **black-clad** people standing on the **uninhabited** reef as a dark inflatable boat **bobbed** in the nearby water. The group also “cleaned up **leftover** plastic bottles, wooden sticks and other debris and garbage on the reef”, the broadcaster reported.
 
 Philippines Coast Guard spokesperson Jay Tarriela said on Sunday that its navy, coast guard and police personnel had deployed to Sandy Cay in four rubber boats and had “observed the illegal presence” of a Chinese Coast Guard vessel and seven China maritime militia vessels.
 
