@@ -5,7 +5,7 @@ date:   2025-05-06 20:26:00 +0800
 ---
 
 * 目录
-{:toc #markdown-toc}
+  {:toc #markdown-toc}
 
 #### [2025-05-01 Snake on a train line: Japan’s busiest bullet train route brought to a halt](https://www.theguardian.com/world/2025/may/01/japan-snake-bullet-train)
 
@@ -946,3 +946,73 @@ On a deeper, **existential** level, analysts say there remains little incentive 
 Bajpaee is among those who has a **pessimistic** view of any suggestion of post-conflict political dialogue between the two countries, calling that a “dead end” as both sides are “essentially talking past each other”.
 
 “It seems very unlikely that we’re going to see any sort of credible peace process,” he said. “Frankly, at this point I would say it’s not a question of if, but when we will see a resumption of some sort of military hostilities between both countries.”
+
+#### [2025-05-21 Japanese minister resigns after saying he doesn’t buy rice because he gets it free](https://www.theguardian.com/world/2025/may/21/japan-farm-minister-resigns-rice-price)
+
+Japan’s agriculture minister has resigned after saying he never buys rice because he gets it free, a remark that drew public fury in a country facing soaring food prices.
+
+Taku Etō’s resignation has added to pressure on the prime minister, Shigeru Ishiba, whose failure to rein in soaring rice prices and address a wider cost of living crisis has angered voters ahead of upper house elections in July.
+
+“Just now I submitted my resignation to prime minister Ishiba,” Etō told reporters at the prime minister’s office.
+
+Etō had faced calls for his resignation after claiming that he never had to buy rice, relying instead on gifts from supporters.
+
+Etō had initially sympathised with the “hardship” felt by consumers after the government released about 300,000 tons of rice from emergency stockpiles earlier this year in the hope of bringing down prices. But speaking at a **fundraiser** last weekend, Etō said he had “never bought rice myself because my supporters donate so much to me that I can **practically** sell it”.
+
+Etō was replaced on Wednesday by Shinjirō Koizumi, a former environment minister who ran unsuccessfully against Ishiba for the Liberal Democratic party (LDP) leadership last autumn.
+
+Etō’s comment **incensed** consumers, who are having to pay nearly double for a bag of rice compared with a year ago, according to figures published in April.
+
+“I asked myself whether it is appropriate for me to stay at the **helm** of the agriculture ministry at a critical time for rice prices, and I concluded that it is not,” Etō added, according to the Kyodo news agency.
+
+“Once again, I apologise to people for making extremely inappropriate comments as minister when they are struggling with surging rice prices.”
+
+Japan’s rice **shortfall** has been blamed on several factors, including poor harvests due to hot weather in 2023 and panic-buying prompted by a “megaquake” warning in 2024. Wholesalers and distributors are also thought to be hoarding rice stocks in anticipation of further shortages.
+
+Ishiba had earlier apologised for Etō’s remarks.
+
+The ongoing rice crisis and rising household food and energy bills have **dented** the popularity of Ishiba’s government, weeks before it faces voters in upper house elections that could determine his future as prime minister.
+
+In a recent Kyodo survey, 87% of respondents were dissatisfied with the government’s handling of the rice prices, while approval ratings for Ishiba’s cabinet have sunk to their lowest since he took office last October.
+
+The average price of rice sold at supermarkets in the week to 11 May reached a record ¥4,268 yen ($29) for 5kg, up from ¥4,214 the previous week and around double the price of a year ago.
+
+In April, Japan imported rice from South Korea for the first time in a quarter of a century in an attempt to address growing consumer anger.
+
+Junya Ogawa, secretary general of the main opposition Constitutional Democratic party, described Etō’s comments as “extremely inappropriate, **out of touch** and intolerable”.
+
+Etō conceded that his remarks had angered his wife. “She told me that she does buy rice when the donated rice runs out,” he said. “It’s not like our family is living entirely off of rice given to us as gifts.”
+
+#### [2025-05-22 Kim Jong-un furious as North Korea warship partly ‘crushed’ in launch gone wrong](https://www.theguardian.com/world/2025/may/22/north-korea-kim-jong-un-warship-destroyer-accident)
+
+A ceremony to welcome a new **addition** to North Korea’s naval fleet has ended in embarrassment following a **major** accident during the ship’s launch that the country’s **dictator**, Kim Jong-un, described as a “criminal act”.
+
+Kim was present when the 5,000-tonne **destroyer** appeared to **go off balance** during its launch in the eastern port city of Chongjin on Wednesday. The tipping caused damage to sections of the hull, the state-run KCNA news agency said on Thursday.
+
+“Kim Jong-un made a stern assessment, saying that it was a serious accident and criminal act caused by absolute carelessness, irresponsibility … and could not be tolerated,” KCNA reported.
+
+Kim ordered the ship restored before a key meeting of the ruling Workers’ party next month, KCNA added. The accident had “brought the dignity and self-respect of our state to a collapse”.
+
+Blaming “inexperienced command and operational carelessness” during the launch, the news agency said the incident left “some sections of the warship’s bottom crushed”. Officials found responsible for the debacle would be “dealt with at the plenary meeting of the party central committee” in June, Kim said.
+
+South Korea’s military said the vessel was lying on its side in the water.
+
+In a report issued last week on preparations for the launch, US-based 38 North said it appeared the ship would be side-launched from the quay, a method not previously observed in North Korea. “The use of this launch method could be one of necessity, as the quay where the ship is being built does not have an incline,” the 38 North report said. Commercial satellite imagery of the shipyard the day before the launch showed the destroyer positioned on the quay with support vessels by its side.
+
+The ship was the second 5,000-tonne destroyer-class vessel – the biggest in the North Korean fleet – to have been launched in recent weeks. State media ran images of Kim attending a ceremony at the earlier launch with his daughter Ju Ae, considered by many experts to be his likely successor.
+
+North Korea claimed that vessel, named the Choe Hyon, was equipped with the “most powerful weapons” and that it would “enter into operation early next year”.
+
+Some analysts said the ship could be equipped with short-range tactical nuclear missiles – although North Korea has not proven it has the ability to miniaturise its atomic bombs.
+
+The South Korean military has said the Choe Hyon could have been developed with Russian help, possibly in exchange for Pyongyang deploying thousands of troops to help Moscow in its war against Ukraine. Ahn Chan-il, a North Korean defector who runs the World Institute for North Korea Studies, pointed out that Chongjin is conveniently close to the Russian port of Vladivostok.
+
+“It’s also likely that the projected timeline for the vessel – including when assembly would be completed and the ship launched – was shared with the Russian side,” Ahn said. “It appears the dock was hastily constructed, and multiple issues may have arisen during the shipbuilding process.”
+
+While the usually secretive North has previously disclosed failed satellite launches and the destruction caused by natural disasters, some analysts said the regime had been surprisingly quick to report Wednesday’s incident.
+
+“It shows again Kim Jong-un’s ruling style of cutting off negative rumours from spreading and controlling officials more forcefully by being open about it rather than hiding it,” said Cheong Seong-chang at the Sejong Institute in Seoul.
+
+While much of Kim’s focus has been on missile development and forging closer ties with Russia, he inspected a project to build a nuclear-powered submarine in March and said “radically” boosting the navy was a key part of the North’s defences.
+
+He called for the modernisation of the country’s surface and underwater naval forces, including the development of warships.
