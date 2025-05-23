@@ -5,7 +5,7 @@ date:   2025-05-06 20:26:00 +0800
 ---
 
 * 目录
-  {:toc #markdown-toc}
+{:toc #markdown-toc}
 
 #### [2025-05-01 Snake on a train line: Japan’s busiest bullet train route brought to a halt](https://www.theguardian.com/world/2025/may/01/japan-snake-bullet-train)
 
@@ -983,36 +983,76 @@ Junya Ogawa, secretary general of the main opposition Constitutional Democratic 
 
 Etō conceded that his remarks had angered his wife. “She told me that she does buy rice when the donated rice runs out,” he said. “It’s not like our family is living entirely off of rice given to us as gifts.”
 
-#### [2025-05-22 Kim Jong-un furious as North Korea warship partly ‘crushed’ in launch gone wrong](https://www.theguardian.com/world/2025/may/22/north-korea-kim-jong-un-warship-destroyer-accident)
+#### [2025-05-22 World’s seven wealthiest countries agree to counter China’s trade practices](https://www.theguardian.com/world/2025/may/22/g7-china-trade)
 
-A ceremony to welcome a new **addition** to North Korea’s naval fleet has ended in embarrassment following a **major** accident during the ship’s launch that the country’s **dictator**, Kim Jong-un, described as a “criminal act”.
+Top finance officials from the world’s seven wealthiest democracies have set aside **stark differences** on US tariffs and agreed to counter global “economic imbalances”, a swipe at China’s **trade practices**.
 
-Kim was present when the 5,000-tonne **destroyer** appeared to **go off balance** during its launch in the eastern port city of Chongjin on Wednesday. The tipping caused damage to sections of the hull, the state-run KCNA news agency said on Thursday.
+Ahead of the meeting of G7 finance ministers and central bank governors there had been doubt about whether there would be a final **communique**, given divisions over US tariffs and Washington’s **reluctance** to refer to Russia’s war on Ukraine as illegal.
 
-“Kim Jong-un made a stern assessment, saying that it was a serious accident and criminal act caused by absolute carelessness, irresponsibility … and could not be tolerated,” KCNA reported.
+But after talks that stretched over three days, participants signed a lengthy document that was **devoid** of previous **language** on fighting climate change, left out their traditional defence of free trade and softened references to the Ukraine war.
 
-Kim ordered the ship restored before a key meeting of the ruling Workers’ party next month, KCNA added. The accident had “brought the dignity and self-respect of our state to a collapse”.
+“We found common ground on the most **pressing** global issues that we face,” Canadian finance minister Francois-Philippe Champagne told the closing press conference on Thursday.
 
-Blaming “inexperienced command and operational carelessness” during the launch, the news agency said the incident left “some sections of the warship’s bottom crushed”. Officials found responsible for the debacle would be “dealt with at the plenary meeting of the party central committee” in June, Kim said.
+“I think it sends a very clear signal to the world ... that the G7 is united in purpose and in action.”
 
-South Korea’s military said the vessel was lying on its side in the water.
+The communique said the G7 members would continue to monitor “nonmarket policies and practices”, which contribute to imbalances in global trade. The statement did not mention China, but “nonmarket policies” typically refer to that country’s export subsidies and currency policies that the Trump administration says give it an advantage in international trade.
 
-In a report issued last week on preparations for the launch, US-based 38 North said it appeared the ship would be side-launched from the quay, a method not previously observed in North Korea. “The use of this launch method could be one of necessity, as the quay where the ship is being built does not have an incline,” the 38 North report said. Commercial satellite imagery of the shipyard the day before the launch showed the destroyer positioned on the quay with support vessels by its side.
+The high-profile gathering of officials from the US, Canada, the UK, Japan, Germany, France and Italy appeared to be more **congenial** than an earlier meeting of G7 foreign ministers in March. That meeting, also in Canada, occurred as Donald Trump was in the middle of threatening **stiff** tariffs on Canada and suggesting it could become the 51st state.
 
-The ship was the second 5,000-tonne destroyer-class vessel – the biggest in the North Korean fleet – to have been launched in recent weeks. State media ran images of Kim attending a ceremony at the earlier launch with his daughter Ju Ae, considered by many experts to be his likely successor.
+US treasury secretary Scott Bessent told AFP: “I don’t think there were any major disagreements, I thought the meeting went great.”
 
-North Korea claimed that vessel, named the Choe Hyon, was equipped with the “most powerful weapons” and that it would “enter into operation early next year”.
+German finance minister Lars Klingbeil told reporters it was crucial to “resolve the current trade disputes as quickly as possible,” as tariffs had placed “a heavy burden on the global economy”.
 
-Some analysts said the ship could be equipped with short-range tactical nuclear missiles – although North Korea has not proven it has the ability to miniaturise its atomic bombs.
+“Our hand is **extended**,” Klingbeil added.
 
-The South Korean military has said the Choe Hyon could have been developed with Russian help, possibly in exchange for Pyongyang deploying thousands of troops to help Moscow in its war against Ukraine. Ahn Chan-il, a North Korean defector who runs the World Institute for North Korea Studies, pointed out that Chongjin is conveniently close to the Russian port of Vladivostok.
+French finance minister Eric Lombard said: “The atmosphere was warm … We don’t agree on everything, but we talked about everything.”
 
-“It’s also likely that the projected timeline for the vessel – including when assembly would be completed and the ship launched – was shared with the Russian side,” Ahn said. “It appears the dock was hastily constructed, and multiple issues may have arisen during the shipbuilding process.”
+The G7 statement did not mention the US tariffs, which have disrupted global trade and supply chains and added economic uncertainty.
 
-While the usually secretive North has previously disclosed failed satellite launches and the destruction caused by natural disasters, some analysts said the regime had been surprisingly quick to report Wednesday’s incident.
+Champagne downplayed the lack of communique language on tariffs, but said ministers “were not **skating around**” the issue and discussed the effects during the meeting. Canada is seeking a deal to eliminate Trump’s 25% tariffs on many goods, including steel and **aluminium**.
 
-“It shows again Kim Jong-un’s ruling style of cutting off negative rumours from spreading and controlling officials more forcefully by being open about it rather than hiding it,” said Cheong Seong-chang at the Sejong Institute in Seoul.
+“We’re trying to enhance growth and stability. And obviously tariffs are something in that context that you can’t avoid discussing,” Champagne said.
 
-While much of Kim’s focus has been on missile development and forging closer ties with Russia, he inspected a project to build a nuclear-powered submarine in March and said “radically” boosting the navy was a key part of the North’s defences.
+The Chinese embassy in Ottawa said it could not immediately comment on the G7 statement.
 
-He called for the modernisation of the country’s surface and underwater naval forces, including the development of warships.
+The G7 finance chiefs also condemned what they called Russia’s “continued brutal war” against Ukraine and said that if efforts to achieve a ceasefire failed, they would explore all possible options, including “further ramping up sanctions.”
+
+The description of the Ukraine war was **watered down** from the prior G7 statement issued in October, before Trump’s re-election, calling it an “illegal, unjustifiable, and unprovoked war of aggression against Ukraine”.
+
+Trump has diminished US support for Ukraine and has made statements suggesting that Kyiv was to blame for the conflict as he tries to **coax** Russia into peace talks.
+
+Diplomatic efforts to end the conflict have accelerated in recent weeks, with Russian and Ukrainian officials holding their first face-to-face talks in more than three years last week in Istanbul.
+
+But the Kremlin said on Thursday that new peace talks with Ukraine had “yet to be agreed,” disputing reports the two nations would soon hold negotiations at the Vatican.
+
+The finance meeting sets the stage for a G7 leaders summit June 15-17 in the nearby mountain **resort** area of Kananaskis. Trump will attend the summit, the White House confirmed on Thursday.
+
+#### [2025-05-23 Satellite images reveal damage to North Korea warship after ‘criminal’ launch accident](https://www.theguardian.com/world/2025/may/23/north-korea-ship-satellite-images-launch-accident-damage-failure-warship-destroyer)
+
+Satellite images have revealed the extent of a navy **shipyard** accident in North Korea that resulted in serious damage to a warship and **infuriated** the country’s leader Kim Jong-un.
+
+On Wednesday, Kim watched as the 5,000-ton destroyer was partly “crushed” during its launch at the north-eastern shipyard of Chongjin. Kim called the incident a “criminal act” that could not be tolerated, according to state media.
+
+Images taken by satellite show the warship lying on its side, with the bow of the vessel on land, while a large portion of the **stern** lies in the water. The **stricken** ship has been covered by large blue **tarpaulins**.
+
+North Korea said it had has begun a full-scale investigation into the accident.
+
+Pyongyang has said the incident on Wednesday was caused by a loss of balance while the vessel was being **launched**, and sections of the bottom of the warship were crushed.
+
+An internal inspection found that there were no holes in the warship’s bottom, but the **starboard** **hull** was **scratched** and seawater flowed into the stern section through the rescue channel, the report said.
+
+The extent of damage was “not serious,” the report said, adding the investigation group had been ordered to find the cause of the accident and those responsible for it. The report did not mention any injuries or deaths as a result of it.
+
+The **mishap** likely occurred in front of a large crowd, increasing the public humiliation for Kim, military analysts said.
+
+South Korea’s military said on Thursday that the ship was lying on its side in the water.
+
+“The stern is seen swung out into the harbour as a result of the wheeled units placed under the frame sliding into the water while the bow remained on the side **slipway**,” said the US-based Center for Strategic and International Studies (CSIS), citing satellite imagery.
+
+The shipyard in Chongjin has primarily produced **cargo** vessels and fishing vessels and “undoubtedly lacks significant **expertise**” in launching large warships such as the new destroyer, CSIS added.
+
+It would take two to three days to restore the balance of the warship by pumping up seawater from the flooded chamber and about 10 days to restore the warship’s side, the KCNA report said, citing experts’ estimates.
+
+Treating the accident as a serious matter was part of an effort to fight against “**incautiousness**” and “**irresponsibility**,” according to KCNA.
+
+Hong Kil Ho, the manager of the Chongjin shipyard, was summoned to the law enforcement organ on Thursday as it began measures to detain and investigate those responsible for the accident, the report said.
