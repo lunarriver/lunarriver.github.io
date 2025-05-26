@@ -1056,3 +1056,71 @@ It would take two to three days to restore the balance of the warship by pumping
 Treating the accident as a serious matter was part of an effort to fight against “**incautiousness**” and “**irresponsibility**,” according to KCNA.
 
 Hong Kil Ho, the manager of the Chongjin shipyard, was summoned to the law enforcement organ on Thursday as it began measures to detain and investigate those responsible for the accident, the report said.
+
+#### [2025-05-24 As Trump focuses on his trade war, Brazil and China forge closer ties](https://www.theguardian.com/world/2025/may/24/as-trump-focuses-on-his-trade-war-brazil-and-china-forge-closer-ties)
+
+Few world leaders can say they’ve been hugged by Xi Jinping, China’s typically **reserved** president. Last year, an **embrace** between Xi and his Russian counterpart, Vladimir Putin, seemed to **sum up** the **cosy** – if **at times** slightly awkward – relationship between China and Russia.
+
+Now Brazil’s president, Luiz Inácio Lula da Silva, can count himself among the **hallowed** few to have broken the handshake barrier with Chinese leader. Stepping off the stage after giving a speech in Beijing earlier this month, Lula shook Xi’s hand, but the moment swiftly **melted into** something more **affectionate**.
+
+Xi had good reason to be feeling warm towards the Brazilian leader. In Lula’s address to the China-CELAC forum, a dialogue between China and Latin American and Caribbean countries, he condemned US tariffs and said the Latin American region wanted to be “the axis of a multipolar order where the Global South is **duly** represented.” Such words echo the case that China has been trying to make to the world – particularly countries in the global south – about the dangers of the tariffs unleashed by US president Donald Trump since he entered the White House in January.
+
+China’s argument stands in contrast to the stance taken by the G7, a group of the world’s wealthiest nations, which on Thursday issued a joint communique in which they agreed to counter global “economic imbalances”, a veiled swipe at China.
+
+Lula’s presence at the forum was itself a **coup** for China as it seeks to expand its global influence in Latin America. Lula was one of three heads of states to attend the conference, along with the presidents of Chile and Colombia. That was no accident. China had specifically courted the leaders of countries seen as being influential in the region and closer to the US, rather than those from the countries more naturally aligned with the Chinese Communist party, such as Venezuela and Cuba, who lack regional clout. Lula in particular got a full **bells-and-whistles** welcome to Beijing, with a military performance in Tiananmen Square including a 21 gun **salute**.
+
+In a keynote speech at the forum, Xi identified China as a fellow member of the global south.
+
+“Independence and autonomy are our glorious tradition. Development and **revitalisation** are our inherent right,” Xi said. China and the Latin American and Caribbean community have a “shared future”, he added.
+
+Since Trump’s first term in office, Brazil has been at the forefront of deepening ties between China and Latin America. One key domain has been trade, which hit a record $157.5bn in 2023. Last year, China imported more than 70% of its soya beans from Brazil, while imports from US farmers have **plummeted**. Luckin Coffee, China’s largest coffee **chain**, has pledged to buy 240,000 tonnes of Brazilian coffee beans over a five year period, worth $1.38bn.
+
+“If it’s up to my government, our relationship with China will be indestructible,” Lula told business leaders in Beijing, as the two countries announced $4.5bn of upcoming Chinese investments in Brazil. In total, Brazil and China signed 20 agreements on agricultural trade, as well as deals on mining, nuclear energy, and currency swaps.
+
+“From a commercial point of view, the current US-China trade war has brought some export opportunities for Brazil, especially in the agricultural sector,” said Victoria Chonn-Ching, a non-resident fellow at the Atlantic Council.
+
+But with a trade policy landscape that can change overnight, Beijing is also trying to win the ideological argument on the global stage. Brazil, which China sees as a fellow leader in the global south, is an important player in that strategy.
+
+“From a geostrategic and diplomatic perspective, the US-China trade war places Brazil in a challenging position,” Chonn-Ching said.
+
+While Brazil has maintained strong ties with the US, on the other hand its relationship with China is significant, said Chonn-Ching, as “both countries promote multilateralism as part of their foreign policy and see themselves as having leading roles in their **respective** regions and in the Global South.”
+
+Unlike many other countries in Latin America, however, Brazil has not signed up to China’s belt and road initiative. Speaking in Beijing, Lula said that Latin America “does not want to be the stage of hegemonic disputes”.
+
+But while Trump’s vision for the global order is still coming into focus, Beijing has for years **trumpeted** the importance of a “multipolar” system of international cooperation. It is a sentiment that Lula echoes.
+
+Recent global events have also brought the two countries closer together. After the 7 October attacks in Israel, Brazil, as president of the UN security council, drafted a resolution condemning Hamas and calling for a humanitarian pause in hostilities as well as the release of hostages in Gaza. Many expected China, which had not until this month specifically condemned the attacks, to veto the resolution. But following rounds of back-room diplomacy with Brazil, China voted in favour. The resolution ultimately failed because of a US veto.
+
+Since then, Brazil and China have come closer together in attempts to cast themselves as mediators in global conflicts. The countries have twice released joint statements on the war in Ukraine, neither of which condemn the Russian invasion. And on his flight back from China, Lula’s plane stopped in Moscow, and he spoke to Xi’s “best friend”, Vladimir Putin, on the phone.
+
+#### [2025-05-24 ‘Alarming’ rise in regional internet censorship in China, study finds](https://www.theguardian.com/world/2025/may/24/alarming-rise-in-regional-internet-censorship-in-china-study-finds)
+
+China’s authorities appear to have implemented an enhanced version of the country’s internet censorship **regime** in the central province of Henan, subjecting tens of millions of residents to even stricter controls on access to information than people in the rest of the country.
+
+A research paper published this month by Great Firewall Report, an internet censorship monitoring platform, found that internet users in Henan, one of China’s most populous provinces, were, on average, denied access to five times more websites than a typical Chinese internet user between November 2023 and March 2025.
+
+“Our work documents an alarming sign of regional censorship emerging in China,” said the researchers, who include authors from the University of Massachusetts Amherst and Stanford University.
+
+China has the world’s most sophisticated and extensive internet censorship regime. Internet users cannot access most western news websites or social media platforms, including services provided by Google, Wikipedia and Meta.
+
+Within what has been dubbed the “great firewall”, online content is monitored and censored by a mixture of government authorities and private companies complying with laws that require them to delete any content considered “sensitive”. That includes any information about historical or current events that goes against the Chinese Communist party’s official narrative.
+
+The researchers began looking into the topic after internet users in Henan reported that websites accessible in other parts of China were inaccessible in their province. They found that millions of domains that were not blocked by China’s centralised firewall were at some point inaccessible in Henan.
+
+By buying servers from internet cloud providers, the authors tested the flow of internet traffic from locations within Henan. They tested the internet’s top 1m domains daily between November 2023 and March 2025, with a gap of several months in 2024. The results showed that the Henan firewall blocked nearly 4.2 million domains at some point during the research period, over five times more than the roughly 741,500 domains blocked by China’s national firewall.
+
+The domains that were specifically blocked in Henan were mainly from business-related websites. There have been several finance-related protests in Henan in recent years, which the researchers speculated could be the reason for the additional controls on access to information about the economy being controlled.
+
+In 2022, thousands of people in Henan took part in several demonstrations after they were blocked from withdrawing cash from their bank accounts. The crisis escalated when protesters reported that their mobile health codes, part of the pandemic control measures in place at the time, had turned red, preventing them from travelling or entering buildings. Five officials were later punished for abusing the health code system to **quell** the protests.
+
+Other parts of China have also been subjected to enhanced internet controls. In July 2009, following deadly ethnic **riots**, the Chinese government imposed an internet blackout in Xinjiang, a region in western China home to the Uyghur minority, that lasted 10 months. Since then, the use of the internet in Xinjiang has been much more tightly monitored than in the rest of the country. Online activities in Tibet are also strictly controlled.
+
+The **emergence** of a regional censorship regime in Henan is unusual because it is not a region of China that is normally considered especially **restive** by the Chinese authorities.
+
+The researchers could not determine if the enhanced controls were imposed by the local authorities in Henan or the central government in Beijing.
+
+Rapid advances in China’s artificial intelligence companies are a **boon** to both the censors and those who wish to **evade** them. China’s Ministry of Public Security (MPS) recently unveiled new surveillance tools that can monitor people who use virtual private networks, software that allows people to circumvent the internet firewall. The MPS’s research institute also showcased a tool that it claimed could monitor accounts on Telegram, a messaging app. The tool has already collected more than 30bn messages, the institute claimed.
+
+Mingshi Wu, the lead author of the Henan study, who uses a pseudonym to protect their identity, said: “On the one hand, AI could be leveraged to create more sophisticated, adaptive, and efficient censorship and surveillance tools. On the other hand, AI also enables new opportunities for those seeking to understand and circumvent censorship. For example, AI can assist in developing more **agile** testing tools for detecting censorship.”
+
+The Henan Cyberspace Affairs Commission could not be reached for comment.
