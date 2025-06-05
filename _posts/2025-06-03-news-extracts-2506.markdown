@@ -5,7 +5,7 @@ date:   2025-06-03 09:29:00 +0800
 ---
 
 * 目录
-  {:toc #markdown-toc}
+{:toc #markdown-toc}
 
 #### [2025-06-01 Ukraine launches major drone attack on Russian bombers, security official says](https://www.theguardian.com/world/2025/jun/01/ukraine-launches-major-drone-attack-on-russian-bombers-security-official-says)
 
@@ -204,3 +204,103 @@ One of the founding members, 88-year-old Zhang Xianling, gave a rare interview t
 Earlier this week Li Xiaoming, an ex-PLA officer who has lived in Australia for 25 years, gave an interview to Taiwan media, about his involvement at the Tiananmen crackdown as a junior soldier. Li said he was **compelled** to talk “as a warning to the world”, and also to Taiwan which is facing the threat of Chinese annexation.
 
 “Although the CCP leadership sees the 4 June incident as something shameful, what they learned from it is the need for strict control – eliminating any sign of unrest early on, controlling and blocking public opinion, and brainwashing to people. They work to crush all **instability** at the earliest stage,” he said according to CNA’s translation.
+
+#### [2025-06-04 Putin tells Trump Russia ‘will have to respond’ to Ukraine drone attack](https://www.theguardian.com/us-news/2025/jun/04/trump-putin-conversation-ukraine-drone-attack)
+
+Donald Trump spoke with Vladimir Putin for more than an hour on Wednesday, but he conceded the talks would not lead “to immediate peace” in Ukraine, and warned that Russia would respond to Ukraine’s successful attacks this week on its airfields.
+
+The US president, who repeatedly claimed he could end the Ukraine war in 24 hours during his election campaign, did not attempt to **discourage** the Russian leader from retaliation, according to his description of the discussion on his Truth Social platform.
+
+He noted instead that Putin had **offered to** participate in US talks with Iran about its nuclear programme, which Trump claimed Tehran had been “slowwalking”. The programme has expanded considerably since 2018, when Trump withdrew from a multilateral agreement to **constrain** it in exchange for sanctions relief.
+
+In separate remarks on Wednesday, Putin once again ruled out a comprehensive ceasefire in Ukraine, claiming it would just give Kyiv time to regroup and rearm, while Ukraine’s Volodymyr Zelenskyy described Moscow’s peace proposals presented earlier this week as nothing more than an “ultimatum”.
+
+The comments from both leaders confirmed negotiations in Istanbul on Monday had made no **headway** towards a truce, but the two sides signalled progress on other issues, including the transfer of captives and bodies.
+
+Russia said it was “working” on the return of more than 300 Ukrainian children who the Kyiv government and the international criminal court (ICC) say were abducted by invading forces.
+
+It also confirmed there would be a prisoner exchange in the coming days, and there were continuing discussions on plans to repatriate thousands of bodies of fallen soldiers from both sides.
+
+Zelenskyy said he expected 500 **PoWs** to be swapped this weekend, but he said that the broader peace proposal put forward by Russia in Istanbul **amounted to** “an ultimatum from the Russian side to us”.
+
+Immediately after Monday’s meeting, Ukrainian officials said they needed more time to study the document handed over by the Russians, but press reports at the time said that it simply restated Russia’s maximalist demand that Ukrainian forces withdraw from four regions under partial Russian occupation.
+
+Putin stated his position on Wednesday in the form of a televised virtual meeting with his aides.
+
+After being informed that Ukraine had proposed an unconditional ceasefire of 30 to 60 days, Putin asked: “Why reward them by giving them a break from the combat, which will be used to **pump** the regime with western arms, to continue their forced mobilisation and to prepare different terrorist acts?”
+
+He pointed to recent Ukrainian attacks on bridges inside Russia, one of which helped cause a train crash that killed seven people.
+
+On Sunday, Ukraine also carried out a remote-controlled mass drone attack on four Russian airfields, which Kyiv claims **knocked out** more than a third of Moscow’s heavy bombers capable of firing cruise missiles.
+
+Ukrainian officials said 41 Russian warplanes, including strategic bombers and other types of combat aircraft, were destroyed or damaged in Sunday’s operation, which they claimed had taken 18 months to plan. On Wednesday, they released additional drone footage of the attack, codenamed Operation Spiderweb.
+
+Satellite photos analysed and published by the Associated Press showed aircraft wreckage and **scorched** areas at Belaya base, one of the four airfields targeted.
+
+It said the images showed at least three Tu-95 and four Tu-22M bombers – both capable of firing cruise missiles – had been destroyed on the runway. Other aircraft at the base appeared **unscathed**.
+
+In his Truth Social post, Trump said the drone attacks on Russian airfields had come up in his hour-and-15-minute conversation with Putin on Wednesday.
+
+“We discussed the attack on Russia’s **docked** airplanes, by Ukraine, and also various other attacks that have been taking place by both sides,” Trump said.
+
+“It was a good conversation, but not a conversation that will lead to immediate Peace. President Putin did say, and very strongly, that he will have to respond to the recent attack on the airfields.”
+
+Trump told Putin that Ukraine did not inform him before the drone attacks, a Kremlin spokesperson said.
+
+Putin also spoke on Wednesday to Pope Leo XIV, in the US-born pontiff’s first call to the Russian leader since he became head of the world’s Catholics last month.
+
+The Vatican said in a statement that during the call, “the pope made an appeal for Russia to make a gesture that favours peace”.
+
+Before the Istanbul talks, Russia stepped up its aerial attacks on cities, and pushed further into Ukraine’s northern region of Sumy, seizing more than 150 sq km (58 sq miles) of the area in less than two weeks, according to Russian claims and Ukrainian open-source mapping.
+
+During his election campaign, Trump claimed more than 50 times he could end the Ukraine conflict within a day, but his comments on Wednesday did not involve any calls for **restraint**.
+
+While Putin has ruled out a comprehensive ceasefire, Russia has suggested two- to three-day local truces on different parts of the frontline, to allow the opposing armies to collect their dead, a proposal Moscow says Kyiv has rejected.
+
+However, both sides showed on Wednesday they were ready to continue with the exchange of PoWs, the bodies of dead soldiers, and to offer some cooperation on Kyiv’s priority, the return of Ukrainian children.
+
+In the televised government meeting on Wednesday, the chief Russian negotiator in Istanbul, Vladimir Medinsky, said Russia was “working” on the return of Ukrainian children, noting that Kyiv had presented a list of 339 of them.
+
+Russia has claimed Ukrainian children were taken to Russia for their safety, while Kyiv insisted they had been abducted. The Ukrainian view was **underpinned** by the ICC, which issued arrest warrants in March 2023 for Putin and his “**commissioner** for children’s rights”, Maria Lvova-Belova, for their role in the “unlawful **deportation**” of the Ukrainian children.
+
+After the Istanbul meeting, Zelenskyy said the Ukrainian delegation had handed the Russians a list of nearly 400 names of abducted Ukrainian children, but claimed that Russia had only offered to resolve the cases of 10 of them.
+
+After Monday’s talks, Turkey’s leader, Recep Tayyip Erdoğan, announced he wanted to host a Putin-Zelenskyy summit also involving Trump. Zelenskyy has been challenging his Russian counterpart to meet him face to face for some months.
+
+“We are ready for such a meeting any day,” the Ukrainian leader said on Wednesday, adding it was “pointless” to hold further talks with the midlevel Russian delegates Putin has sent to the talks – who Zelenskyy has previously dismissed as “empty heads” – since they were not **empowered** to agree a ceasefire.
+
+Putin maintained his opposition to a personal meeting with Zelenskyy, however, on the grounds of the recent attacks on railways in the Kursk and Bryansk border regions, which he described as “terrorist acts”.
+
+“How can any such summit meetings be conducted in such circumstances? What shall we talk about?” Putin asked in his video call with his officials.
+
+Since Trump’s return to the White House in January, European capitals have sought to take more of a leading role in bolstering Ukraine’s defence, and on Wednesday, a series of military industrial support measures were announced at a meeting of the 52-country strong Ukraine Defense Contact Group at Nato headquarters in Brussels, **chaired** jointly by the UK and Germany.
+
+#### [2025-06-05 Japan records lowest number of births in more than a century, as population fears grow](https://www.theguardian.com/world/2025/jun/05/japan-records-lowest-number-of-births-in-more-than-a-century-as-population-fears-grow)
+
+Japan’s struggle to encourage couples to have more children has been given greater urgency after data showed the annual number of births dropped to below 700,000 for the first time since records began more than a century ago.
+
+According to government data released this week, the number of births reached 686,061 in 2024, a decline of 5.7% from the previous year and the lowest since statistics were first kept in 1899. The data excludes babies born to foreign residents.
+
+The fertility rate – the average number of children a woman has in her lifetime – also fell to a record-low of 1.15, down from 1.20 in 2023, the health ministry said. That is well below the rate of 2.1 needed to keep the population stable. The ministry said 1.6m deaths had been recorded in 2024, up 1.9% from a year earlier.
+
+The number of births and the fertility rate have fallen for nine years **in a row**, although the number of marriages was slightly up last year, two years after it dipped below half a million for the first time.
+
+The number of marriages – a key factor in influencing birth trends in a country where relatively few children are born out of **wedlock** – rose for the first time in two years to 485,063, up by 10,322 from a year earlier. But the downward trend seen since the 1970s remains unchanged.
+
+Japan’s birthrate has been falling since it reached the second baby boom in 1973, falling below 1 million in 2016 and below 800,000 in 2022. Last year’s figure is about one-quarter of the all-time peak of 2.7 million births in 1949.
+
+The latest figures will make uncomfortable reading for officials, as the number of births has fallen into the 680,000 range 15 years earlier than forecast by the National Institute of Population and Social Security Research, according to the Kyodo news agency.
+
+If current trends persists, Japan’s population of about 124 million is **projected** to fall to 87 million by 2070, when 40% of the population will be 65 or over.
+
+A shrinking and ageing population could have serious **implications** for the economy and national security, as the country seeks to boost its military to counter potential threats from China and North Korea.
+
+The prime minister, Shigeru Ishiba, who has described Japan’s demographics as a “silent emergency”, recently unveiled measures to boost the birthrate, including an expansion of child **allowance** and free high school education, and a guarantee that couples will receive the equivalent of 100% of their take-home pay when they take **parental leave** at the same time.
+
+Ishiba’s predecessor, Fumio Kishida, warned that the falling birthrate, combined with rising numbers of deaths, threatened Japan’s ability “to function as a society”, adding the country had reached a “**now or never**” moment to address its demographic crisis.
+
+But attempts by **successive** governments to ease the financial pressure on couples have had little effect, with statistics showing that people continue to marry later in life, a trend that results in smaller families.
+
+The government has been criticised for focusing on married couples rather than on younger, single people who have been **put off** the idea of marriage. Many cite poor employment prospects and job security, the rising cost of living, and a **corporate culture** that makes it difficult for female employees to become working mothers.
+
+A 2023 survey by the Nippon Foundation found that only 16.5% of people aged 17 to 19 believed they would get married, even though a much larger proportion wanted to do so.
