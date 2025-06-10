@@ -449,21 +449,21 @@ A Chinese aircraft carrier group has entered an area of Japan’s territorial wa
 
 The Liaoning carrier, accompanied by two missile destroyers and a supply ship, entered Japan’s exclusive economic zone (EEZ) on Saturday evening, Japan’s defence ministry said, before exiting to conduct military drills.
 
-The chief cabinet secretary, Yoshimasa Hayashi, did not say if the government had lodged a formal protest, saying only that it had “conveyed an appropriate message to the Chinese side”.
+The chief cabinet secretary, Yoshimasa Hayashi, did not say if the government had **lodged** a formal protest, saying only that it had “conveyed an appropriate message to the Chinese side”.
 
 “We will do our utmost to perform our warning and surveillance duties at sea and in the air,” he added, according to the Kyodo news agency.
 
-The incursion into Pacific waters about 300km south-west of Minamitori island will add to concern in Tokyo and Washington about China’s increasingly assertive naval and air activity in and around Japanese waters.
+The incursion into Pacific waters about 300km south-west of Minamitori island will add to concern in Tokyo and Washington about China’s increasingly **assertive** naval and air activity in and around Japanese waters.
 
-The countries are embroiled in a longstanding territorial dispute over the Senkakus – uninhabited islets in the east China Sea that are administered by Japan but claimed by China, where they are known as the Diaoyu.
+The countries are **embroiled** in a longstanding territorial dispute over the Senkakus – uninhabited islets in the east China Sea that are administered by Japan but claimed by China, where they are known as the Diaoyu.
 
-This is the first time, however, that a Chinese vessel has entered that part of Japan’s EEZ – an area within 200 nautical miles (370km) of its coastline – a defence ministry spokesperson told Agence France-Presse.
+This is the first time, however, that a Chinese vessel has entered that part of Japan’s EEZ – an area within 200 **nautical** miles (370km) of its coastline – a defence ministry spokesperson told Agence France-Presse.
 
 “We think the Chinese military is trying to improve its operational capability and ability to conduct operations in distant areas,” the spokesperson said.
 
-After leaving the EEZ, the Chinese carrier group conducted landing and take-off drills involving fighter jets and helicopters, the ministry said, adding that Japan had deployed a warship, Haguro, to monitor the situation.
+After leaving the EEZ, the Chinese carrier group conducted **landing and take-off** drills involving fighter jets and helicopters, the ministry said, adding that Japan had deployed a warship, Haguro, to monitor the situation.
 
-Minamitori, the easternmost point of the Japanese archipelago, is surrounded by large deposits of rare metals. Last year, experts from the Nippon Foundation and Tokyo University said about 200m tonnes of manganese nodules rich in rare metals existed on the seabed near the island.
+Minamitori, the **easternmost** point of the Japanese **archipelago**, is surrounded by large **deposits** of rare metals. Last year, experts from the Nippon Foundation and Tokyo University said about 200m tonnes of **manganese** **nodules** rich in rare metals existed on the seabed near the island.
 
 No civilians live on Minamitori, located about 1,900km south-east of Tokyo, but it hosts a small number of personnel from the meteorological agency, the self-defence forces and the coast guard.
 
@@ -477,7 +477,7 @@ Big Chinese tech companies appear to have turned off some AI functions to preven
 
 More than 13.3 million students are sitting the four-day gaokao exams, which began on Saturday and determine if and where students can secure a limited place at university.
 
-This year, students hoping to get some assistance from increasingly advanced AI tools have been stymied.
+This year, students hoping to get some assistance from increasingly advanced AI tools have been **stymied**.
 
 In screenshots shared online, one Chinese user posted a photo of an exam question to Doubao, owned by TikTok’s parent company, ByteDance. The app responded: “During the college entrance examination, according to relevant requirements, the question answering service will be suspended”.
 
@@ -487,14 +487,14 @@ Another screenshot also revealed DeepSeek, a leading generative AI tool new to t
 
 Yuanbao, owned by the tech company Tencent, Alibaba’s Qwen, and Moonshot’s Kimi have also turned off their picture recognition functions during exam hours, Bloomberg reports.
 
-The Guardian has contacted the relevant companies for comment, none of which have made public statements about the functions freeze. The suspension appears to have been publicised largely by university students who have been locked out of tools to assist them in their study and assignments.
+The Guardian has contacted the relevant companies for comment, none of which have made public statements about the functions freeze. The suspension appears to have been publicised largely by university students who have been locked out of tools to assist them in their study and **assignments**.
 
 “College entrance exam candidates, you are all shit,” read one tongue-in-cheek complaint on Weibo. “I can’t use DeepSeek to upload pictures, I have to download ChatGPT again, I hope you all go to community college.”
 
 The AI suspension is not the only tool being used to prevent cheating in the gaokao exam week, which can decide a young person’s entire future. Several regions have previously announced they would be using AI monitoring tools to watch for “abnormal behaviours”, such as whispers or repeated glances between students, during exams.
 
-In Jiangxi province, for example, footage will be reviewed after the exam and any violations or misconduct “dealt with strictly in accordance with relevant regulations”, the state-backed Global Times reports.
+In Jiangxi province, for example, footage will be reviewed after the exam and any violations or **misconduct** “**dealt** with strictly in accordance with relevant regulations”, the state-backed Global Times reports.
 
-Late last month, Chinese authorities also announced stricter entry checks at exam points, biometric identification, enhanced screening for digital devices, and radio signal blockers, state media reported.
+Late last month, Chinese authorities also announced stricter entry checks at exam points, **biometric** identification, enhanced screening for digital devices, and radio signal blockers, state media reported.
 
-Reflecting how seriously Chinese society views the gaokao, some cities have postponed disruptive events such as public performances, delayed office starting hours and created dedicated priority traffic lanes to ensure students arrive to the test on time.
+Reflecting how seriously Chinese society views the gaokao, some cities have postponed **disruptive** events such as public performances, delayed office starting hours and created **dedicated** priority traffic **lanes** to ensure students arrive to the test on time.
