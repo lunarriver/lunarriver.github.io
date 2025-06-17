@@ -5,7 +5,7 @@ date:   2025-06-03 09:29:00 +0800
 ---
 
 * 目录
-  {:toc #markdown-toc}
+{:toc #markdown-toc}
 
 #### [2025-06-01 Ukraine launches major drone attack on Russian bombers, security official says](https://www.theguardian.com/world/2025/jun/01/ukraine-launches-major-drone-attack-on-russian-bombers-security-official-says)
 
@@ -821,11 +821,11 @@ An Israeli military official said in the coming days there would be more attacks
 
 Israeli forces issued an evacuation order to residents of a large part of Tehran on Monday, warning them of the imminent bombing of “military infrastructure” in the area in a social media post very similar to those regularly directed at Palestinians in Gaza over the past 20 months.
 
-The post on X was from the account of the Israel Defense Forces’ Arabic spokesperson, Col Avichay Adraee, and is a further sign of the evolving nature of the Israeli campaign against Iran, which began with attacks on air defences, nuclear sites and the military chain of command, but appears to have drifted towards a war of attrition focused on Iran’s oil and gas industry and on the capital.
+The post on X was from the account of the Israel Defense Forces’ Arabic spokesperson, Col Avichay Adraee, and is a further sign of the **evolving nature** of the Israeli campaign against Iran, which began with attacks on air defences, nuclear sites and the military chain of command, but appears to have drifted towards a war of attrition focused on Iran’s oil and gas industry and on the capital.
 
-In another sign of the changing targets of the Israeli offensive, Iran’s state TV announced on Monday evening that it was under attack during a live transmission.
+In another sign of the changing targets of the Israeli offensive, Iran’s state TV announced on Monday evening that it was under attack during a live **transmission**.
 
-The sound of an explosion could be heard, and the news presenter hurried off camera as dust and debris appeared in the studio. Cries of “Allahu Akbar” or “God is greatest” could be heard off-screen and the broadcast abruptly switched to pre-recorded programming. Live programming resumed some time later.
+The sound of an explosion could be heard, and the news **presenter** hurried off camera as dust and debris appeared in the studio. Cries of “Allahu Akbar” or “God is greatest” could be heard off-screen and the broadcast abruptly switched to pre-recorded programming. Live programming resumed some time later.
 
 Adraee’s online post included a map depicting a significant area of the third district in northern Tehran shaded in red in the same manner he has presented evacuation orders for Palestinians.
 
@@ -843,7 +843,7 @@ Speaking to personnel at Tel Nof air force base, the Israeli prime minister, Ben
 
 “When we control the skies over Tehran, we strike regime targets, as opposed to the criminal Iranian regime which targets our civilians and comes to kill women and children. We tell the people of Tehran to evacuate, and we act.”
 
-Netanyahu later said killing Iran’s supreme leader, Ayatollah Ali Hosseini Khamenei, would “end the conflict” in what would be another ominous escalation.
+Netanyahu later said killing Iran’s supreme leader, Ayatollah Ali Hosseini Khamenei, would “end the conflict” in what would be another **ominous** escalation.
 
 After the surprise Israeli attack on Friday morning, Iran has carried out retaliatory missile strikes on Israeli cities, focusing on the most populated areas between Tel Aviv and the port of Haifa.
 
@@ -855,39 +855,39 @@ The human cost of the war continued to escalate with both sides broadening their
 
 “They should talk, and they should talk immediately,” Trump said of Tehran during the summit. “I’d say Iran is not winning this war.”
 
-The Wall Street Journal reported on Monday that Iran was sending a message to Israel and the US through Arab intermediaries that it was seeking a cessation of hostilities and a resumption of talks on its nuclear programme.
+The Wall Street Journal reported on Monday that Iran was sending a message to Israel and the US through Arab **intermediaries** that it was seeking a cessation of hostilities and a resumption of talks on its nuclear programme.
 
-The same report, however, said its stance was that it would only go back to the table if Israel halted its offensive. There was no sign on Monday of Israel contemplating a pause.
+The same report, however, said its stance was that it would only go back to the table if Israel halted its offensive. There was no sign on Monday of Israel **contemplating** a pause.
 
-Iran’s health ministry said 224 people in Iran had been killed by Israeli attacks, 90% of them civilian, and more than 1,400 had been injured. Israel’s defence minister, meanwhile, threatened further bombing strikes on Tehran, where an exodus of residents has been reported, clogging roads out of the capital.
+Iran’s health ministry said 224 people in Iran had been killed by Israeli attacks, 90% of them civilian, and more than 1,400 had been injured. Israel’s defence minister, meanwhile, threatened further bombing strikes on Tehran, where an **exodus** of residents has been reported, **clogging** roads out of the capital.
 
-The Iranian Red Crescent said that three of its rescuers were killed in an Israeli airstrike in northwest Tehran, adding: “This incident is not only a crime against international humanitarian law but also a blatant attack on humanity and morality.”
+The Iranian Red Crescent said that three of its rescuers were killed in an Israeli airstrike in northwest Tehran, adding: “This incident is not only a crime against international humanitarian law but also a blatant attack on humanity and **morality**.”
 
 In Israel, at least 23 civilians have been killed in Iran’s retaliatory missile strikes since Israel’s initial surprise attack on Friday morning, and nearly 600 have been injured, according to official sources.
 
-The Iranian foreign ministry spokesperson, Esmaeil Baghaei, announced on Monday that Iran’s parliament, the Majlis, was preparing a bill that would withdraw the country from the 1968 NPT agreement, which obliges it to forego nuclear weapons and to undergo international inspections to verify compliance. Baghaei added that Tehran remained opposed to the development of weapons of mass destruction.
+The Iranian foreign ministry spokesperson, Esmaeil Baghaei, announced on Monday that Iran’s parliament, the Majlis, was preparing a bill that would withdraw the country from the 1968 NPT agreement, which **obliges** it to **forego** nuclear weapons and to **undergo** international inspections to verify **compliance**. Baghaei added that Tehran remained opposed to the development of weapons of mass destruction.
 
-The country’s president, Masoud Pezeshkian, also insisted that Iran did not intend to develop nuclear weapons but would pursue its right to nuclear energy and research. He pointed out that Ali Khamenei, had issued a religious edict against weapons of mass destruction.
+The country’s president, Masoud Pezeshkian, also insisted that Iran did not intend to develop nuclear weapons but would pursue its right to nuclear energy and research. He pointed out that Ali Khamenei, had issued a religious **edict** against weapons of mass destruction.
 
 Israel is the only Middle East state with nuclear weapons and did not sign the NPT, but has never formally acknowledged its arsenal.
 
-It is seeking to maintain its monopoly with airstrikes against Iranian nuclear facilities, claiming that Tehran was close to building a bomb. Previous assessments by US intelligence and the UN nuclear watchdog found no evidence that Iran had begun work on assembling a nuclear weapon.
+It is seeking to maintain its **monopoly** with airstrikes against Iranian nuclear facilities, claiming that Tehran was close to building a bomb. Previous assessments by US intelligence and the UN nuclear watchdog found no evidence that Iran had begun work on assembling a nuclear weapon.
 
-Israeli critics of the offensive say it cannot destroy Iran’s reserve of nuclear knowhow – though Israel has targeted Iranian nuclear scientists, claiming to have killed 14 – and could push the leadership into ordering the assembly of nuclear warheads.
+Israeli critics of the offensive say it cannot destroy Iran’s **reserve** of nuclear **knowhow** – though Israel has targeted Iranian nuclear scientists, claiming to have killed 14 – and could push the leadership into ordering the assembly of nuclear warheads.
 
-Rafael Grossi, head of the International Atomic Energy Agency, told the BBC it was very likely all the roughly 15,000 centrifuges at Iran’s biggest uranium enrichment plant at Natanz had been badly damaged or destroyed because of a power cut caused by an Israeli strike.
+Rafael Grossi, head of the International Atomic Energy Agency, told the BBC it was very likely all the roughly 15,000 **centrifuges** at Iran’s biggest uranium enrichment plant at Natanz had been badly damaged or destroyed because of a power cut caused by an Israeli strike.
 
 But he said there had been very limited or no damage at the separate Fordow plant.
 
-There were reports on Monday of Israeli strikes on the Tehran headquarters of the Revolutionary Guards al-Quds force, an expeditionary arm deployed in foreign wars.
+There were reports on Monday of Israeli strikes on the Tehran headquarters of the Revolutionary Guards al-Quds force, an **expeditionary** arm deployed in foreign wars.
 
 Despite Israeli claims to have air superiority over much of Iran, Iranian forces have still been able to launch ballistic missiles from their territory and some continue to evade Israel’s multi-layered air defences. Israel Defense Forces officials estimate that it is has been able to intercept 80-90% of Iran’s missiles, with 5-10% hitting actual residential areas.
 
 Eight more Israelis were killed overnight by Iranian missile strikes, including four in Petah Tikva where a missile hit an apartment block. Three people died from blasts in Haifa and an elderly man was killed when his home collapsed from the shockwave from an explosion in Bnei Brak, east of Tel Aviv.
 
-Iran’s Revolutionary Guards claimed to have begun “more powerful and deadly” strikes and to have found a way of causing confusion in Israeli air defence systems. There was no immediate way of independently verifying the claim.
+Iran’s Revolutionary Guards claimed to have begun “more powerful and deadly” strikes and to have found a way of causing **confusion** in Israeli air defence systems. There was no immediate way of independently verifying the claim.
 
-US forces have so far helped Israel intercept Iranian missiles, but have not taken part, at least overtly, in offensive bombing operations. On Monday, however, Reuters quoted two unnamed US officials as saying the movement of more than 30 military refuelling aircraft to Europe was intended to give Trump more options in the Middle East. Such tankers allow warplanes to refuel in mid-air and enable more sorties a day in wartime.
+US forces have so far helped Israel intercept Iranian missiles, but have not taken part, at least overtly, in offensive bombing operations. On Monday, however, Reuters quoted two unnamed US officials as saying the movement of more than 30 military **refuelling** aircraft to Europe was intended to give Trump more options in the Middle East. Such tankers allow warplanes to refuel in mid-air and enable more **sorties** a day in wartime.
 
 US defence secretary Pete Hegseth said on Monday he had ordered the deployment of additional defensive capabilities to the Middle East, but did not disclose what military capabilities he sent to the region.
 
@@ -897,11 +897,11 @@ The Iranian state-backed news agency Fars reported that the authorities had exec
 
 #### [2025-06-16 Donald Trump repeats call for Russia to be readmitted at G7 summit in Canada](https://www.theguardian.com/world/2025/jun/16/donald-trump-repeats-call-for-russia-to-be-readmitted-at-g7-summit-in-canada)
 
-Donald Trump has displayed his disdain for the collective western values supposedly championed by the G7 group of industrialised countries by again demanding that Russia be readmitted to the group. He also said the war in Ukraine would not have happened if Moscow had been kept in the club.
+Donald Trump has displayed his **disdain** for the collective western values **supposedly** **championed** by the G7 group of industrialised countries by again demanding that Russia be **readmitted** to the group. He also said the war in Ukraine would not have happened if Moscow had been kept in the club.
 
 Trump made his remarks in front of media, alongside Canada’s prime minister, Mark Carney, who is hosting the G7, at the start of the summit’s first round of talks.
 
-Russia was thrown out of the G8 after it invaded Crimea in 2014, and Trump’s defence of Vladimir Putin came a day before the US president is scheduled to meet his Ukrainian counterpart, Volodymyr Zelenskyy, on the fringes of the summit. It will be the first meeting between the two men since Pope’s Francis’s funeral in April.
+Russia was thrown out of the G8 after it invaded Crimea in 2014, and Trump’s defence of Vladimir Putin came a day before the US president is scheduled to meet his Ukrainian counterpart, Volodymyr Zelenskyy, on the **fringes** of the summit. It will be the first meeting between the two men since Pope’s Francis’s funeral in April.
 
 Zelenskyy is pressing for a reluctant Trump to respond to Putin’s refusal to agree a 30-day ceasefire by applying sanctions on Russia that the US Senate has already approved.
 
@@ -913,11 +913,11 @@ Earlier in the day he repeated his opinion that expelling Russia from the G8 was
 
 “You wouldn’t have that war,” he said. “You know you have your enemy at the table, I don’t even consider, he wasn’t really an enemy at that time.”
 
-He blamed the former Canadian prime minister Justin Trudeau and Barack Obama for Putin’s expulsion.
+He blamed the former Canadian prime minister Justin Trudeau and Barack Obama for Putin’s **expulsion**.
 
 “Obama didn’t want him, and the head of your country didn’t want him,” Trump said, naming Trudeau several times and calling the ousting a mistake.
 
-The European Commission president, Ursula von der Leyen, signalled that the EU would be asking the US and other G7 member states to tighten sanctions on Russia by lowering the cap at which Russian oil can be bought from $60 a barrel to $45.
+The European Commission president, Ursula von der Leyen, signalled that the EU would be asking the US and other G7 member states to tighten sanctions on Russia by lowering the **cap** at which Russian oil can be bought from $60 a barrel to $45.
 
 The aim is to reduce Russian revenues from oil sales. The G7 originally set up the complex price cap, so the EU needs the support of all G7 states to lower it.
 
@@ -927,7 +927,7 @@ Von der Leyen told reporters: “To achieve peace through strength we must put m
 
 The EU is preparing an 18th round of sanctions heavily focused on cutting off Russia’s oil revenues.
 
-Ahead of his meeting with Trump, Zelenskyy said: “Russia spits in the face of everything the international community is trying to do to stop this war.”
+Ahead of his meeting with Trump, Zelenskyy said: “Russia **spits** in the face of everything the international community is trying to do to stop this war.”
 
 He said the latest Russian attacks on energy infrastructure came right after Putin had spoken to Trump offering to act as a mediator in the Iran-Israel crisis.
 
@@ -939,4 +939,4 @@ Trump also gave no obvious ground on tariffs in his bilateral meeting with Carne
 
 “I think Mark has a more complex idea, but also very good.”
 
-Trump has imposed levies on steel, aluminium, cars and other Canadian products that do not comply with the continental free trade agreement’s rules of origin.
+Trump has imposed levies on steel, **aluminium**, cars and other Canadian products that do not comply with the **continental** free trade agreement’s rules of origin.
