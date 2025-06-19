@@ -1055,7 +1055,7 @@ Despite Netanyahu’s preference for a campaign of physical destruction, a deal 
 
 #### [2025-06-18 Trump undecided on joining war on Iran as Khamenei warns him not to attack](https://www.theguardian.com/world/2025/jun/18/iran-threatens-us-with-irreparable-damage-if-trump-joins-war)
 
-Donald Trump said he had not decided whether or not to take his country into Israel’s new war, as Iran’s supreme leader said the US would face “irreparable damage” if it deployed its military to attack.
+Donald Trump said he had not decided whether or not to take his country into Israel’s new war, as Iran’s supreme leader said the US would face “**irreparable** damage” if it deployed its military to attack.
 
 Ayatollah Ali Khamenei said Israel had made a “huge mistake” by launching the war, in his first comments since Friday.
 
@@ -1069,9 +1069,9 @@ He told reporters on the White House lawn that he felt “it’s very late to be
 
 “I may do it, I may not do it. I mean, nobody knows what I’m going to do,” he said.
 
-That lack of clarity about what comes next may extend to the president himself, who was still in deal-making mode, one ally said. The US is understood to want to keep all its options open to exert maximum pressure on Tehran.
+That lack of clarity about what comes next may extend to the president himself, who was still in **deal-making** mode, one ally said. The US is understood to want to keep all its options open to **exert** maximum pressure on Tehran.
 
-It was moving air tankers for midair refuelling to Spain and Greece, where they could be used to supply B-2 bombers on a long run from the Whiteman airbase in Missouri to Iran.
+It was moving air tankers for **midair** refuelling to Spain and Greece, where they could be used to supply B-2 bombers on a long run from the Whiteman airbase in Missouri to Iran.
 
 It is understood that no request has been put to the UK for use of the Diego Garcia airbase in the Indian Ocean for a B-2 bombing run or of the Akrotiri airbase in Cyprus for the refuelling aircraft, though the latter is considered likely.
 
@@ -1079,13 +1079,13 @@ Other US military assets are on their way. The Pentagon ordered the USS Nimitz a
 
 Qatar and Oman were trying to mediate a ceasefire, the Jerusalem Post reported, hours after at least one aircraft associated with the Iranian government flew to Muscat in Oman, flight tracking showed.
 
-Iran sent a message that it was willing to negotiate a deal with the US, but Israel needed to “calm things down”, a source told the Jerusalem Post.
+Iran sent a message that it was willing to negotiate a deal with the US, but Israel needed to “**calm things down**”, a source told the Jerusalem Post.
 
-Trump’s claim that Iranians had offered to come to the White House for talks prompted an enraged response from Iran’s mission to the UN. “No Iranian official has ever asked to grovel at the gates of the White House,” the mission posted on a social media account.
+Trump’s claim that Iranians had offered to come to the White House for talks prompted an **enraged** response from Iran’s mission to the UN. “No Iranian official has ever asked to **grovel** at the gates of the White House,” the mission posted on a social media account.
 
 The foreign ministers of the UK, France and Germany are planning to meet their Iranian counterpart, Abbas Araghchi, in Geneva on Friday in what could represent a potential diplomatic breakthrough after five days of Israeli bombing.
 
-Final confirmation from Tehran is still pending, but if confirmed it would represent the first face-to-face diplomatic meeting since the crisis began.
+Final confirmation from Tehran is still **pending**, but if confirmed it would represent the first face-to-face diplomatic meeting since the crisis began.
 
 In a social media post late on Wednesday, Araghchi wrote that Iran “remain[s] committed to diplomacy. As before, we are serious and forward-looking in our outlook.”
 
@@ -1111,9 +1111,9 @@ Trump reportedly vetoed an Israeli plan to assassinate Khamenei, and critics hav
 
 On Wednesday, the defence minister, Israel Katz, said Israel was bombing “symbols of power” in Iran and suggested the regime could be in its last days.
 
-“A tornado is sweeping through Tehran,” he wrote in a post on X. “Symbols of power are being bombed and collapsing, from the broadcasting authority and soon other targets, and masses of residents are fleeing. This is how dictatorships collapse.”
+“A **tornado** is sweeping through Tehran,” he wrote in a post on X. “Symbols of power are being bombed and collapsing, from the broadcasting authority and soon other targets, and masses of residents are fleeing. This is how dictatorships collapse.”
 
-The escalating conflict has prompted a growing international chorus of concern. The Russian president, Vladimir Putin, offered to mediate between Iran and Israel, after one of his top diplomats urged Washington not to consider “speculative options” for intervention.
+The escalating conflict has prompted a growing international **chorus** of concern. The Russian president, Vladimir Putin, offered to mediate between Iran and Israel, after one of his top diplomats urged Washington not to consider “**speculative** options” for intervention.
 
 On a sixth night of attacks, Israel bombed a site that manufactured uranium centrifuges and also said it had targeted a missile component factory and destroyed five attack helicopters.
 
@@ -1131,4 +1131,4 @@ Its Arrow interceptors are complex missiles that cost several million dollars ea
 
 Although the US has been supporting Israel’s defences with Thaad ground-based systems, interceptions by F-16 jets and missiles launched by the navy, it does not have unlimited supplies of these defensive systems either.
 
-Iran is thought to still have a substantial proportion of the estimated 2,000 missiles that were in its arsenal at the start of the war. Israeli strikes have focused on launcher systems that are needed to fire them.
+Iran is thought to still have a **substantial** **proportion** of the estimated 2,000 missiles that were in its arsenal at the start of the war. Israeli strikes have focused on launcher systems that are needed to fire them.
