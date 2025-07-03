@@ -5,7 +5,7 @@ date:   2025-07-01 19:20:00 +0800
 ---
 
 * 目录
-{:toc #markdown-toc}
+  {:toc #markdown-toc}
 
 #### [2025-07-01 Kim Jong-un pays rare public tribute to North Korean soldiers killed in Ukraine](https://www.theguardian.com/world/2025/jul/01/kim-jong-un-tribute-north-korea-soldiers-killed-ukraine-fighting)
 
@@ -125,21 +125,21 @@ The US is halting some shipments of weapons to Ukraine amid concerns that its ow
 
 Certain munitions were previously promised to Ukraine under the Biden administration to aid its defences during the more than three-year-old war. The pause reflects a new set of priorities under President Donald Trump and came after defence department officials scrutinised US stockpiles and raised concerns.
 
-“This decision was made to put America’s interests first following a review of our nation’s military support and assistance to other countries across the globe,” White House spokesperson Anna Kelly said in a statement. “The strength of the United States Armed Forces remains unquestioned – just ask Iran.”
+“This decision was made to put America’s interests first following a review of our nation’s military support and assistance to other countries across the globe,” White House spokesperson Anna Kelly said in a statement. “The strength of the United States Armed Forces remains **unquestioned** – just ask Iran.”
 
 That was a reference to Trump recently ordering US missile strikes against nuclear sites in Iran.
 
 The Pentagon review determined that stocks were too low on some weapons previously pledged, so pending shipments of some items won’t be sent, according to a US official who spoke on condition of anonymity to provide information that has not yet been made public.
 
-The defence department did not provide details on what specific weapons were being held back.
+The defence department did not provide details on what specific weapons were being **held back**.
 
-“America’s military has never been more ready and more capable,” spokesperson Sean Parnell said, adding that the major tax cut and spending package moving through Congress “ensures that our weapons and defence systems are modernised to protect against 21st century threats for generations to come.”
+“America’s military has never been more ready and more capable,” spokesperson Sean Parnell said, adding that the major tax cut and spending package moving through Congress “ensures that our weapons and defence systems are modernised to protect against 21st century threats for **generations to come**.”
 
-The halt of some weapons from the US is a blow to Ukraine as Russia has recently launched some of its biggest aerial attacks of the war, in an escalating bombing campaign that has further dashed hopes for a breakthrough in peace efforts championed by Trump. Talks between the sides have ground to a halt.
+The halt of some weapons from the US is a blow to Ukraine as Russia has recently launched some of its biggest aerial attacks of the war, in an escalating bombing campaign that has further **dashed** hopes for a breakthrough in peace efforts **championed** by Trump. Talks between the sides have ground to a halt.
 
-The US stoppage was first reported by Politico.
+The US **stoppage** was first reported by Politico.
 
-To date, the US has provided Ukraine more than $66bn worth of weapons and military assistance since Russia invaded its neighbour in February 2022.
+**To date**, the US has provided Ukraine more than $66bn worth of weapons and military assistance since Russia invaded its neighbour in February 2022.
 
 Over the course of the war, the US has routinely pressed for allies to provide air defence systems to Ukraine. But many are reluctant to give up the hi-tech systems, particularly countries in eastern Europe that also feel threatened by Russia.
 
@@ -149,8 +149,48 @@ Trump met with Ukrainian leader Volodymyr Zelenskyy on the sidelines of the Nato
 
 Those comments reflect a change of thinking about providing weapons to Ukraine across the administration in recent months.
 
-In testimony before lawmakers in June, defence secretary Pete Hegseth said he had moved quickly to quash wasteful programmes and redirect funding to Trump’s top objectives.
+In **testimony** before lawmakers in June, defence secretary Pete Hegseth said he had moved quickly to **quash** wasteful programmes and redirect funding to Trump’s top objectives.
 
-Hegseth said a negotiated peace between Russia and Ukraine, which has been promoted for months by Trump, makes America look strong, even though Moscow is the aggressor in the conflict. He also said the defence budget includes hard choices and “reflects the reality that Europe needs to step up more for the defence of its own continent. And President Trump deserves the credit for that.”
+Hegseth said a negotiated peace between Russia and Ukraine, which has been promoted for months by Trump, makes America look strong, even though Moscow is the aggressor in the conflict. He also said the defence budget includes hard choices and “reflects the reality that Europe needs to step up more for the defence of its own continent. And President Trump **deserves** the **credit** for that.”
 
-The defense secretary told lawmakers last month that some US security spending for Ukraine was still in the pipeline, without providing details. But he said such assistance – which has been robust for the past two years – would be reduced.
+The defense secretary told lawmakers last month that some US security spending for Ukraine was still in the **pipeline**, without providing details. But he said such assistance – which has been robust for the past two years – would be reduced.
+
+#### [2025-07-02 Dalai Lama defies China to say successor will be chosen by Tibetan tradition](https://www.theguardian.com/world/2025/jul/02/dalai-lama-says-there-will-be-search-for-his-successor-ending-years-of-speculation)
+
+The Dalai Lama has declared in a direct challenge to China that the **centuries-old** spiritual institution bearing his name will continue after his death and that only his inner circle, not Beijing, will have the authority to identify his successor.
+
+In a video message played on Wednesday during prayer celebrations ahead of his 90th birthday this weekend, the 14th Dalai Lama said the Gaden Phodrang Trust, which manages his affairs, would oversee the search for his **reincarnation**.
+
+“No one else has any such authority to interfere in this matter,” he said in Dharamshala, the northern Indian hill town that serves as the seat of the Tibetan government in exile. “In accordance with past tradition, the search for my reincarnation and the naming of a 15th Dalai Lama will be carried out.”
+
+The Dalai Lama had previously hinted he might be the last in the line, but he said consultations with senior spiritual leaders and appeals from the Tibetan public, including in Chinese-ruled Tibet, had persuaded him otherwise.
+
+“In accordance with all these requests, I am affirming that the **institution** of the Dalai Lama will continue,” he told the gathering of senior Buddhist monks. He said clear written instructions would be left behind, but did not **elaborate** on their contents.
+
+China annexed Tibet in 1951 and has retained tight control over the region ever since. It has said the choice of the next Dalai Lama lies only with Beijing, and has **enshrined** state **assent** for all senior Tibetan religious leaders in law. It insists the golden **urn** – a Qing dynasty **ritual** in which names are drawn by lot from a ceremonial vessel – is the only legitimate method for recognising reincarnated lamas. The Communist party must approve the final selection.
+
+Beijing has already used this approach to assert control. After the death of the 10th Panchen Lama, Tibet’s second-highest spiritual authority, in 1995, the Dalai Lama recognised a six-year-old boy as his reincarnation. The boy and his family vanished into Chinese **custody** days later and have not been seen since. China **installed** its own candidate, widely rejected by Tibetans. According to Chinese state media, the Beijing-backed Panchen Lama met President Xi Jinping just last month and pledged loyalty to the Communist party.
+
+The Dalai Lama has said his successor will be born in a free country, raising the possibility that the next reincarnation could emerge from among the Tibetan diaspora, which numbers about 140,000 globally, half of them in India. He has also said the next Dalai Lama might be an adult and not necessarily male.
+
+“Today’s message is that the Dalai Lama institution will continue,” Lobsang Tenzin, the trust’s second-most senior leader and known by his religious title Samdhong Rinpoche, told a news conference in Dharamshala. “There will be a 15th Dalai Lama. There will be a 16th.” He said the Dalai Lama would issue detailed instructions on how the search for the next reincarnation should proceed.
+
+Beijing swiftly rejected the Dalai Lama’s statement. “The reincarnation of the Dalai Lama, the Panchen Lama, and other great Buddhist figures must be chosen by drawing lots from a golden urn and approved by the central government,” said the Chinese foreign ministry spokesperson, Mao Ning.
+
+“Tibetan Buddhism was born in China and is a religion with Chinese characteristics,” she told a news briefing.
+
+The clash underscores a long-running power struggle between Beijing and the Dalai Lama over who controls Tibetan Buddhism’s most sacred office. Most Tibetan Buddhists, in Tibet and in exile, oppose China’s tight control of the region.
+
+Tibetan Buddhists believe the Dalai Lama is the **earthly** **manifestation** of Avalokiteshvara, a **revered** figure in Buddhism known as the **bodhisattva** of **compassion** – a spiritual being who remains in the world to guide others on the path to **enlightenment**.
+
+By tradition, only the current Dalai Lama, or those he appoints, can identify his successor, using visions, **omens** and consultation with senior lamas and protectors of the faith.
+
+Tenzin Gyatso was recognised the 14th reincarnation at the age of two. He assumed full authority at 15 and fled Tibet four years later when Chinese troops crushed an uprising in the Tibetan capital, Lhasa, in 1959. He has been living in exile in Dharamshala since.
+
+He was awarded the Nobel peace prize in 1989 “for advocating peaceful solutions based upon tolerance and mutual respect”.He wrote in a recent book: “The purpose of a reincarnation is to carry on the work of the predecessor. The new Dalai Lama will be born in the free world.”
+
+The deputy speaker of the Tibetan parliament in exile, Dolma Tsering Teykhang, said: “The world needs to hear directly from His Holiness. China tries to **vilify** him at every chance … It is trying to frame rules and regulations on how to have the reincarnation of the Dalai Lama in their hand.”
+
+The succession dispute has also sharpened tensions between China and India, which granted asylum to the Dalai Lama after he fled Tibet. More than 100,000 Tibetans live in exile in India. Delhi officially recognises Tibet as part of China, but it also allows the Tibetan government in exile to operate from Dharamshala.
+
+The reincarnation issue has drawn global attention. The US passed the Tibetan Policy and Support Act in 2020, threatening sanctions on Chinese officials who interfere in the selection process. The EU has voiced support for religious freedom in Tibet, but it has stopped short of taking a formal position on reincarnation.
