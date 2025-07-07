@@ -5,7 +5,7 @@ date:   2025-07-01 19:20:00 +0800
 ---
 
 * 目录
-  {:toc #markdown-toc}
+{:toc #markdown-toc}
 
 #### [2025-07-01 Kim Jong-un pays rare public tribute to North Korean soldiers killed in Ukraine](https://www.theguardian.com/world/2025/jul/01/kim-jong-un-tribute-north-korea-soldiers-killed-ukraine-fighting)
 
@@ -195,7 +195,7 @@ The succession dispute has also sharpened tensions between China and India, whic
 
 The reincarnation issue has drawn global attention. The US passed the Tibetan Policy and Support Act in 2020, threatening sanctions on Chinese officials who interfere in the selection process. The EU has voiced support for religious freedom in Tibet, but it has stopped short of taking a formal position on reincarnation.
 
-https://www.theguardian.com/world/2025/jul/04/hong-kong-code-of-conduct-sincerely-support-beijing
+#### [2025-07-04 Hong Kong code of conduct will oblige legislators to ‘sincerely support’ Beijing](https://www.theguardian.com/world/2025/jul/04/hong-kong-code-of-conduct-sincerely-support-beijing)
 
 A new **code** of conduct in Hong Kong will require legislators to “sincerely support” Beijing’s jurisdiction on the city and the chief executive, and **prohibits** anything that might “vilify” the government.
 
@@ -223,7 +223,7 @@ In an interview published by an academic journal this week, the UK’s Brenda Ma
 
 “Even though the foreign judges are not likely to be asked to sit on national security cases, they are being asked to give respectability to a system that despite the best efforts ... are not going to succeed.”
 
-https://www.theguardian.com/world/2025/jul/04/japan-submission-recession-trump-tariffs
+#### [2025-07-04 Japan walks line between recession and submission as it seeks to overcome Trump tariffs](https://www.theguardian.com/world/2025/jul/04/japan-submission-recession-trump-tariffs)
 
 It all seemed to be going so well. In April, Japan’s chief trade negotiator, Ryosei Akazawa, sat opposite Donald Trump in the Oval Office after “positive and constructive” talks, **sporting** a Maga baseball cap and giving a thumbs up for the cameras.
 
@@ -289,12 +289,88 @@ Amid rumours that he is preparing to make yet another trip to Washington this we
 
 “The probability of a deal being reached before next week’s tariff deadline appears increasingly low.”
 
+#### [2025-07-06 Dalai Lama celebrates his 90th birthday, triggering geopolitical questions for the future](https://www.theguardian.com/world/2025/jul/06/dalai-lama-celebrates-his-90th-birthday-triggering-geopolitical-questions-for-the-future)
 
+Leaders from India, the United States and Taiwan offered their support to Tibet’s exiled spiritual leader, the Dalai Lama, on his 90th birthday on Sunday, a landmark anniversary raising geopolitical questions for the future.
 
+Tibetans fear China will eventually name a rival successor to the Dalai Lama, bolstering Beijing’s control over Tibet, the territory it poured troops into in 1950 and has ruled ever since.
 
+The man who calls himself a “simple Buddhist monk” celebrated in India, where he has lived since he and thousands of other Tibetans fled Chinese troops who crushed an uprising in their capital, Lhasa, in 1959.
 
+The Dalai Lama says only his India-based office has the right to identify his eventual successor.
 
+“I join 1.4 billion Indians in extending our warmest wishes to His Holiness the Dalai Lama on his 90th birthday,” the Indian prime minister, Narendra Modi, said in a statement, read at celebrations in the Himalayan hill town where the Dalai Lama lives.
 
+“He has been an enduring symbol of love, compassion, patience and moral discipline,” he added.
 
+China insisted on Wednesday that it would have the final say on who succeeds the Tibetan spiritual leader.
 
+Modi’s effusive support is significant.
 
+India and China are intense rivals competing for influence across south Asia, but have sought to repair ties after a 2020 border clash.
+
+The US secretary of state, Marco Rubio, also said in a statement, read at the celebrations in India, that Washington was “committed to promoting respect for the human rights and fundamental freedoms of Tibetans”.
+
+“We support efforts to preserve Tibetans’ distinct linguistic, cultural and religious heritage, including their ability to freely choose and venerate religious leaders without interference,” the statement added.
+
+Taiwan’s president, Lai Ching-te – who leads an island that China says is part of its territory and has threatened to use force to seize – said in a statement read at the ceremony that the example set by the Dalai Lama “resonates with all who cherish freedom, democracy and respect for human rights”.
+
+Messages from three former US presidents were also broadcast.
+
+“At a time when we see the forces of division tearing at the fabric of our common humanity … I’m grateful for your enduring efforts to build a better, kinder, more compassionate world,” Bill Clinton said.
+
+“The world is a troubled place, and we need your spirit of kindness and compassion and love more than ever,” George W Bush added.
+
+Barack Obama wished a “very happy birthday to the youngest 90-year-old I know”.
+
+“It is humbling to realise that you’ve been a leader on the world stage for longer than I’ve been alive,” Obama said, in his message to his “dear friend”.
+
+“You’ve shown generations what it means to practise compassion, and speak up for freedom and dignity,” Obama added. “Not bad for someone who describes himself as a simple Buddhist monk.”
+
+#### [2025-07-07 Is Trump tariff deal really a win for Vietnam – or a way of punishing China?](https://www.theguardian.com/world/2025/jul/07/vietnam-trump-tariff-deal)
+
+As news spread that Vietnam would become just the second nation to reach an initial tariff agreement with Washington, shares in the clothing companies and manufacturers that have a large footprint in the country rose with optimism.
+
+Just hours later though, they declined sharply, as it became clear that the devil would be in the detail, and the most striking part of the deal might in fact be aimed at Vietnam’s powerful neighbour China.
+
+Dodging the severe levy of 46% that was threatened in April, Vietnam is instead facing a tariff of 20% for many goods, and in return US products coming into the country will have zero tariffs placed on them.
+
+However, a 40% tariff will remain for so-called transshipments – a provision that is aimed at Chinese companies accused of passing their products through Vietnam, or elsewhere, to avoid US tariffs.
+
+Businesses worry that “transshipment” is a politicised term, and that if the US defines it too broadly, many goods could be unfairly targeted.
+
+“Vietnam is a manufacturing hub – and as a hub you take inputs from other countries and make value-added stuff in Vietnam, and then export it to other countries,” says Dr Nguyen Khac Giang, visiting fellow at the ISEAS Yusof Ishak Institute.
+
+It is unrealistic, he adds, to expect most Vietnamese goods, other than agricultural products, would be made entirely in Vietnam. What remains to be decided is: what proportion of a product should be?
+
+How transshipments will be defined under the agreement – and how this policy will be enforced – remains to be seen, but it could have significant implications for global trade and tensions with China.
+
+“One lesson for other countries is that the US intends to use these deals to apply pressure on China,” said Stephen Olson, a former US trade negotiator.
+
+Vietnam, a booming manufacturing hub, benefited during the last Trump administration when punishing tariffs placed on China prompted many Chinese companies to shift their supply chains.
+
+However, this caused the Vietnamese trade surplus with the US to surge, attracting US ire and allegations that Vietnam was wrongly acting as a conduit for Chinese companies wanting access to the US market.
+
+China’s commerce ministry spokesperson He Yongqian responded to the US-Vietnam deal on Thursday stating: “We firmly oppose any party reaching a deal at the expense of China’s interests. If such a situation occurs, China will resolutely counter it to safeguard its legitimate rights and interests.”
+
+Vietnam’s manufacturing industry is closely intertwined with both the US and China. US exports account for 30% of Vietnam’s GDP, while China is Vietnam’s top import source, relied on for raw materials used to make anything from footwear to furniture and electronics.
+
+Vietnam is not alone in relying on China for such components, especially across electronic sectors. “[China] is completely interwoven into global supply chains,” says Dan Martin, international business adviser at Dezan Shira and Associates, based in Hanoi.
+
+If companies are expected to prove the origin of all goods, this could place an unwelcome burden on those in sectors such as textiles where margins are low, says Martin.
+
+However, he cautions that it remains to be seen whether the higher 40% tariff on transshipments will be actively enforced. It is also possible that Vietnam could benefit if US policy encourages suppliers to set up shop in Vietnam, Martin adds.
+
+Businesses are largely pausing decisions until a clearer picture emerges, say analysts.
+
+Policymakers in Hanoi remain on a diplomatic tightrope. Vietnam has long sought to balance relations with Washington and Beijing. It considers the US not only a key export market but a security partner that serves as a counterbalance to China’s assertiveness.
+
+However, if Beijing considers that Hanoi is helping Washington constrain it, this risks antagonising Vietnam’s northern neighbour. It could lead to economic measures from China, or pressure over the disputed South China Sea, a major flashpoint in the region, says Peter Mumford, head of practice for south-east Asia at Eurasia Group.
+
+As things stand, “aggressive retaliation” by Beijing against Hanoi is unlikely, he says: “Hanoi may even have given Beijing a rough indication of the steps it would have to take to secure a US trade deal.”
+
+Vietnam has made efforts to show goodwill towards China over recent months, while also courting Trump.
+
+In exchange for the 20% tariff rate, Trump said Vietnam would open up its market to US goods. US-made SUVs, “which do so well in the United States, will be a wonderful addition to the various product lines within Vietnam”, said Trump.
+
+However the market for cars remains small in Vietnam, where city streets are famously crammed with millions of motorbikes.
