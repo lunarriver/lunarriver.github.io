@@ -5,7 +5,7 @@ date:   2025-07-01 19:20:00 +0800
 ---
 
 * 目录
-{:toc #markdown-toc}
+  {:toc #markdown-toc}
 
 #### [2025-07-01 Kim Jong-un pays rare public tribute to North Korean soldiers killed in Ukraine](https://www.theguardian.com/world/2025/jul/01/kim-jong-un-tribute-north-korea-soldiers-killed-ukraine-fighting)
 
@@ -890,3 +890,55 @@ The Institute for the Study of war assessed that Ukrainian forces recently advan
 The EU was unable to approve a new package of sanctions against Russia on Tuesday as Slovakia demanded more guarantees that it would not be harmed by a separate EU plan to **phase out** Russian gas. The EU foreign policy chief Kaja Kallas said she was “really sad” the sanctions did not get approved, adding that “the ball is in Slovakia’s **court**” and she hoped a deal could be reached on Wednesday.
 
 Ukrainians celebrated Melania Trump on social media after Donald Trump suggested the first lady played a key role in pointing out to him Vladimir Putin’s duplicity, Luke Harding writes. “I go home, I tell the first lady: I spoke with Vladimir today. We had a wonderful conversation. She said: Really? Another city was just hit,” Trump said. One social media user posted a photo of “Agent Melania Trumpenko” looking **surreptitious** in a big hat and wearing a **blazer** with Ukraine’s **trident** **insignia**. Others **depicted** her being presented with a Ukrainian military cap and wearing the blue and yellow of Ukraine’s flag.
+
+#### [2025-07-17 Ukraine war briefing: Weapons will be Europe’s support to Ukraine – not Trump’s, Kallas suggests](https://www.theguardian.com/world/2025/jul/17/ukraine-war-briefing-weapons-will-be-europes-support-to-ukraine-not-trumps-kallas-suggests)
+
+Donald Trump’s move to **take credit** for the additional weapons headed to Ukraine at Europe’s expense has created some **mild** friction in EU-US relations. “If we pay for these weapons, it’s our support,” said Kaja Kallas, the EU foreign policy chief, on Wednesday. “So it’s European support, and we are doing as much as we can to help Ukraine … If you promise to give the weapons but say that somebody else is going to pay for it, it’s not really given by you, is it? … We welcome President Trump’s announcement to send more weapons to Ukraine, although we would like to see the US share the burden.”
+
+A meeting of Patriot owner nations and Ukraine donors – aiming to find additional Patriot air defence systems for Kyiv and chaired by Nato’s top military commander – could take place on Wednesday of next week, Reuters reported. A Nato official said the alliance would coordinate weapons deliveries through a mechanism known as Nato Security Assistance and Training for Ukraine based in Germany.
+
+Kurt Volker, a former US ambassador to Nato, **predicted** Ukraine could ultimately receive 12 to 13 Patriot batteries but it could take a year for them all to be delivered. Trump caused confusion by saying one country had 17 Patriots, some of which would go directly to Ukraine. No Nato member except the US is believed to have that number of Patriot systems.
+
+Ukraine must boost the proportion of weapons made at home to 50% within six months, Volodymyr Zelenskyy has declared. The president said he was **counting on** his new incoming government under prime minister Yulia Svyrydenko to **deliver** on the goal. Zelenskyy said that he, the outgoing PM and new defence minister Denys Shmyhal and the outgoing defence minister Rustem Umerov had met and decided that the defence ministry would have “greater influence in the domain of arms production”.
+
+“Ukrainian-made weapons now **make up** about 40% of those used at the front and in our operations,” Zelenskyy said in his nightly video address. “This is already significantly more than at any time in our country’s **independence** … Our goal is to reach 50% Ukrainian-made weaponry within the first six months of the new government, by expanding our domestic production. I am confident this is achievable, though not easy.” Ukraine’s arms production ramp-up so far has **emphasised** drones and air defences. Zelenskyy has in recent weeks stressed the importance of developing drone interceptors to tackle **swarms** of attacking drones.
+
+A Russian bomb hit a shopping centre and market in Dobropillia near the frontline, killing two people and injuring up to 27 on Wednesday. Vadym Filashkin, governor of the Donetsk region, said a 500kg (1,100lb) bomb was dropped at 5.20pm when shoppers were out. “The occupier specifically targeted the shopping centre. All nearby shopping centres have been either destroyed or damaged.” Zelenskyy described the attack as “simply **horrific**, stupid Russian terror. There is no military logic to their strikes, only an effort to take as many lives as possible.”
+
+Russia earlier bombed four Ukrainian cities overnight into Wednesday, injuring at least 15 people as it mostly targeted energy infrastructure, officials said. Russia launched 400 Shahed and decoy drones, as well as one ballistic missile, during the night, the Ukrainian air force said. The strikes targeted Kharkiv in Ukraine’s north-east, Kryvyi Rih in central Ukraine, Vinnytsia in the west and Odesa in the south.
+
+The Ukrainian foreign minister, Andrii Sybiha, urged the EU to **adopt** further sanctions against Moscow as he rejected as “lies, manipulation and distortion” Russian accusations that Kyiv didn’t want to **progress** peace talks. Sybiha reiterated that Kyiv was ready to hold them anytime. EU ambassadors were again unable to approve the 18th package of sanctions against Russia today as Slovakia maintained its opposition.
+
+**Bot** networks have targeted Ukrainians in Russian-controlled regions, posting thousands of comments on social media aimed at “manufacturing an artificial consensus in favour of Russia”, according to a report released by the Atlantic Council thinktank and a “cognitive defence” company called OpenMinds that works with governments including Ukraine. The report said short-lived “**disposable**” bots commented on posts – often leaving **nonsensical** remarks under meaningless names, suggesting the use of generative AI. One post said: “Lord, how wonderful that Putin advocates for the use of peaceful weapons.”
+
+#### [2025-07-17 Restaurant in China criticised for putting baby lion cuddles on menu](https://www.theguardian.com/world/2025/jul/17/restaurant-china-baby-lion-cuddles-menu)
+
+A restaurant in northern China has been criticised by animal **welfare** groups for offering an unusual item on the menu: lion **cub** **cuddles**.
+
+According to a screenshot of a menu circulating on social media, Wanhui – a restaurant in Taiyuan, the capital of Shanxi province – has a **four-course** set afternoon menu costing 1,192 yuan ($166/£124) that includes playtime with the in-house animals.
+
+The restaurant’s **profile** on Dazhong Dianping, a popular restaurant listings app, shows pictures of the lion cubs alongside other animals, such as deer and **alligators**.
+
+The menu on the Dianping page does not include lions in its list of animals but says customers can play with **llamas**, turtles and **meerkats**.
+
+Several photos show customers **snuggling** the baby lions.
+
+In one review posted this month, a customer sits with a lion cub on her **lap**, holding the its paw to wave to the camera.
+
+The woman’s review reads: “I can pet a cute little lion in a small shop! It’s called Simba, and looks so good. There are staff to guide you, so you don’t have to worry about safety issues!”
+
+While some influencers have jumped at the chance to post eye-catching photographs on social media, the reaction of Chinese people online has been mostly negative. “They’re putting profit above consumer safety – it’s way too dangerous,” wrote one Weibo user.
+
+Chinese media reported that the Shanxi forestry and grasslands bureau was investigating the matter, adding that this kind of human-animal contact was prohibited.
+
+Peter Li, a China policy expert for Humane World for Animals, told Reuters: “Exploiting wild animals for **selfies** and marketing **gimmicks** is not only **appallingly** bad animal welfare, it’s also potentially risky for customers.”
+
+It is not the first **exotic** animal welfare scandal in China. Last month, tourists visiting a zoo in Liaoning, in the north-east, were condemned for reaching through a metal grate to pull tufts of hair off a tiger.
+
+A hotel in Chongqing, a city in south-west China, recently attracted **scorn** for offering a “wake-up service” delivered by red pandas, which could climb into guests’ beds.
+
+Contact between humans and exotic animals has also been highlighted by experts as a potential risk for the spread of **zoonotic** diseases, such as Covid-19.
+
+Staff at Wanhui repeatedly hung up the phone when called by the Guardian.
+
+According to Reuters, the restaurant said the lion cubs were well cared for by **specialist staff**.
