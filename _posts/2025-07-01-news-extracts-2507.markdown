@@ -5,7 +5,7 @@ date:   2025-07-01 19:20:00 +0800
 ---
 
 * 目录
-  {:toc #markdown-toc}
+{:toc #markdown-toc}
 
 #### [2025-07-01 Kim Jong-un pays rare public tribute to North Korean soldiers killed in Ukraine](https://www.theguardian.com/world/2025/jul/01/kim-jong-un-tribute-north-korea-soldiers-killed-ukraine-fighting)
 
@@ -901,7 +901,7 @@ Kurt Volker, a former US ambassador to Nato, **predicted** Ukraine could ultimat
 
 Ukraine must boost the proportion of weapons made at home to 50% within six months, Volodymyr Zelenskyy has declared. The president said he was **counting on** his new incoming government under prime minister Yulia Svyrydenko to **deliver** on the goal. Zelenskyy said that he, the outgoing PM and new defence minister Denys Shmyhal and the outgoing defence minister Rustem Umerov had met and decided that the defence ministry would have “greater influence in the domain of arms production”.
 
-“Ukrainian-made weapons now **make up** about 40% of those used at the front and in our operations,” Zelenskyy said in his nightly video address. “This is already significantly more than at any time in our country’s **independence** … Our goal is to reach 50% Ukrainian-made weaponry within the first six months of the new government, by expanding our domestic production. I am confident this is achievable, though not easy.” Ukraine’s arms production ramp-up so far has **emphasised** drones and air defences. Zelenskyy has in recent weeks stressed the importance of developing drone interceptors to tackle **swarms** of attacking drones.
+“Ukrainian-made weapons now **make up** about 40% of those used at the front and in our operations,” Zelenskyy said in his nightly video address. “This is already significantly more than at any time in our country’s **independence** … Our goal is to reach 50% Ukrainian-made weaponry within the first six months of the new government, by expanding our domestic production. I am confident this is achievable, thoug   h not easy.” Ukraine’s arms production ramp-up so far has **emphasised** drones and air defences. Zelenskyy has in recent weeks stressed the importance of developing drone interceptors to tackle **swarms** of attacking drones.
 
 A Russian bomb hit a shopping centre and market in Dobropillia near the frontline, killing two people and injuring up to 27 on Wednesday. Vadym Filashkin, governor of the Donetsk region, said a 500kg (1,100lb) bomb was dropped at 5.20pm when shoppers were out. “The occupier specifically targeted the shopping centre. All nearby shopping centres have been either destroyed or damaged.” Zelenskyy described the attack as “simply **horrific**, stupid Russian terror. There is no military logic to their strikes, only an effort to take as many lives as possible.”
 
@@ -998,3 +998,71 @@ Russian troops have taken control of three villages in three different parts of 
 Russian lawmakers have advanced a bill that would **outlaw** opening or searching for content online judged “extremist”, such as songs glorifying Ukraine and material by **feminist** rock band Pussy Riot. Critics say the law, which has drawn a rare **backlash** from across Russia’s political spectrum, would **stifle** internet freedom. The legislation threatens **fines** of up to 5,000 rubles ($64) on anyone found to have deliberately searched for or gained access to material listed as extremist by the justice ministry. More than 5,000 entries are on the list, including webpages, political slogans, books, **artworks** and music albums.
 
 Slovakia will stop blocking the approval of the 18th package of European Union sanctions against Russia on Friday, the prime minister said. Robert Fico said on Thursday that Slovakia had achieved as much as it could at this point, after blocking the EU’s approval of the sanctions multiple times to demand guarantees against damages it fears from a separate EU plan to end all gas imports from Russia from 2028. EU countries’ ambassadors would meet on Friday morning to approve the new sanctions. The European Commission last month proposed the 18th package of sanctions against Russia for its 2022 invasion of Ukraine, aimed at Moscow’s energy revenue, banks and military industry.
+
+#### [2025-07-20 Japan PM Shigeru Ishiba vows to stay on despite losing upper house majority](https://www.theguardian.com/world/2025/jul/20/apan-pm-election-result-exit-polls-predict-loss-of-upper-house)
+
+Japanese prime minister Shigeru Ishiba’s has vowed to stay on despite his coalition losing its upper house majority in elections that saw strong gains by a rightwing populist party.
+
+While the ballot does not directly determine whether Ishiba’s minority government falls, it heaps pressure on the embattled leader, who also lost control of the more powerful lower house in October and who has never been popular within his own party.
+
+Ishiba told a news conference he would remain in office to oversee tariff talks with the United States and other pressing matters such as rising consumer prices that are straining the world’s fourth largest economy.
+
+His Liberal Democratic party (LDP) and coalition partner Komeito needed 50 seats to secure the 248-seat upper chamber in an election in which half the seats were up for grabs, but had only secured 47, with one seat left to declare, as of Monday morning.
+
+Speaking to NHK earlier, Ishiba, 68, said he “solemnly” accepted the “harsh result”.
+
+Asked whether he intended to stay on as prime minister and party leader, he said: “That’s right. It’s a difficult situation, and we have to take it very humbly and seriously.”
+
+But the result also weakens Ishiba’s position just days before the country needs to negotiate a deal with the Trump administration to avert the imposition of punishing tariffs in its largest export market.
+
+Ishiba later told TV Tokyo: “We are engaged in extremely critical tariff negotiations with the United States … we must never ruin these negotiations. It is only natural to devote our complete dedication and energy to realising our national interests.”
+
+Japan faces a deadline of 1 August to strike a trade deal with the US.
+
+Japanese imports are already subject to a 10% tariff, while the auto industry – which accounts for 8% of jobs – is reeling from a 25% levy.
+
+Weak export data last week, which showed plummeting US-bound auto deliveries, stoked fears that Japan could tip into a technical recession.
+
+The centre-left main opposition Constitutional Democratic party now has a total of 37 seats, with the centre-right Democratic Party for the People now on 22.
+
+The far-right Sanseito party won 14 seats, up from one seat, giving it a significant presence in the upper house. Birthed on YouTube in 2020, it has been the election’s surprise package with its “Japanese first” campaign and warnings about a “silent invasion” of foreigners.
+
+Turnout was 58%, six points higher than the last upper house vote, with a record number of people casting ballots in advance, in part due to the election falling in the middle of a three-day weekend. Sanseito has been appealing to a sizeable disillusioned segment of the population who feel ignored by the mainstream parties and rarely vote.
+
+Opposition parties advocating for tax cuts and welfare spending have struck a chord with voters, exit polls showed, as rising consumer prices – particularly a jump in the cost of rice – have sowed frustration at the government’s response.
+
+“The LDP was largely playing defence in this election, being on the wrong side of a key voter issue,” said David Boling, a director at the consulting firm Eurasia Group.
+
+“Polls show that most households want a cut to the consumption tax to address inflation, something that the LDP opposes. Opposition parties seized on it and hammered that message home.”
+
+The LDP has been urging for fiscal restraint, with one eye on a very jittery government bond market, as investors worry about Japan’s ability to refinance the world’s largest debt pile.
+
+Sanseito, which first emerged during the Covid pandemic spreading conspiracy theories about vaccinations and a cabal of global elites, has dragged once fringe political rhetoric into the mainstream and gained wider support among frustrated voters.
+
+It remains to be seen whether the party can follow the path of other far-right parties with which it has drawn comparisons, such as Germany’s AfD and Reform UK.
+
+“I am attending graduate school but there are no Japanese around me. All of them are foreigners,” said Yu Nagai, a 25-year-old student who voted for Sanseito earlier on Sunday.
+
+“When I look at the way compensation and money are spent on foreigners, I think that Japanese people are a bit disrespected,” he said after casting his ballot at a polling station in Tokyo’s Shinjuku ward.
+
+In Japan, which has the world’s oldest population, foreign-born residents hit a record of about 3.8 million last year.
+
+That is still just 3% of the total population, a much smaller fraction than in the US and Europe, but comes amid a tourism boom that has made foreigners far more visible across the country.
+
+#### [2025-07-21 Ukraine war briefing: Russia insists on sticking to its war demands amid Trump sanctions threat](https://www.theguardian.com/world/2025/jul/21/ukraine-war-briefing-russia-insists-on-sticking-to-its-war-demands-amid-trump-sanctions-threat)
+
+Russia has said it is open to peace with Ukraine but insists achieving its goals remains a priority, days after Donald Trump gave Moscow a 50-day deadline to agree to a ceasefire or face tougher sanctions. Kremlin spokesperson Dmitry Peskov reiterated Russia’s demands on Sunday, including Ukraine withdrawing from Russia-annexed regions and abandoning its Nato aspirations – terms that Kyiv and its allies have rejected. “The main thing for us is to achieve our goals,” Peskov told state TV. “Our goals are clear.”
+
+Ukrainian officials proposed a new round of peace talks this week, President Volodymyr Zelenskyy said on Saturday, while Russian state media said on Sunday that no date had yet been set for the negotiations but Istanbul would probably remain the host city. A week ago Trump, the US president, threatened Russia with “severe tariffs” unless a peace deal was reached within 50 days and announced a rejuvenated pipeline for US weapons to reach Ukraine amid his frustration at unsuccessful talks to end the war.
+
+Russia launched a barrage of drones and missiles at Ukraine in an overnight attack on Monday, killing at least one person and causing multiple fires in Kyiv, city officials said. Rescuers and medics were working on sites across four districts of the capital, said its mayor, Vitali Klitschko. A subway station in central Kyiv as well as commercial property, shops, houses and a kindergarten were damaged, officials said. Explosions were heard across the city as air defence units engaged in repelling the attack and many Kyiv residents took shelter in underground stations.
+
+Russia’s biggest oil producer Rosneft has condemned European Union sanctions on India’s Nayara Energy refinery as unjustified and illegal, saying the restrictions directly threatened India’s energy security. The EU’s 18th package of sanctions against Russia over Ukraine was approved on Friday and is aimed at further hitting Russia’s oil and energy industry. Rosneft said on Sunday it held less than 50% in Nayara – one of the targeted companies – and called the EU’s justification for the sanctions “far-fetched and false in context”. The EU foreign policy chief, Kaja Kallas, has said the sanctions package is one of the strongest yet against Russia and “we will keep raising the costs, so stopping the aggression becomes the only path forward for Moscow”.
+
+Two women were injured in southern Ukraine’s Zaporizhzhia region when a drone struck their house on Sunday, according to the regional military administration. Two more civilians were injured in the north-eastern Kharkiv province after a drone slammed into a residential building, local Ukrainian officials said.
+
+Drones struck a leafy square in the centre of Sumy later on Sunday, wounding a woman and her seven-year-old son, officials said. The strike also damaged a power line, leaving about 100 households without electricity, according to Serhii Krivosheienko of the municipal military administration.
+
+Ukraine’s air force said it shot down 18 of 57 Shahed-type and decoy drones launched by Russia overnight into Sunday, with seven more disappearing from radar. Russia’s defence ministry said its forces shot down 93 Ukrainian drones targeting Russian territory overnight, including at least 15 that appeared to head for Moscow.
+
+Ten more Ukrainian drones were downed on the approach to the Russian capital on Sunday, according to mayor Sergei Sobyanin. He said one drone struck a residential building in Zelenograd, on Moscow’s outskirts, damaging an apartment but causing no casualties.
