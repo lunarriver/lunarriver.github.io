@@ -67,82 +67,33 @@ He went to his local church and met with his **priest** and prayed for the presi
 
 #### [2025-03-24 Ukraine accuses Moscow of ‘hollow statements about peace’ after latest attack](https://www.theguardian.com/world/2025/mar/24/ukraine-accuses-moscow-of-hollow-statements-about-peace-after-latest-attack)
 
-================================================================================================================================================
-
-Ukraine has accused Moscow of making “**hollow** statements about peace” after 88 people were injured in a Russian missile attack.
-
-Russian media reported that a draft joint statement had been sent to Moscow and Washington for approval, with the parties **aiming to** release it on Tuesday.
-
-But uncertainty remains over how and when the partial ceasefire would take effect – and whether its scope would extend beyond energy infrastructure to include other critical sites, such as hospitals, bridges and **vital** **utilities**.
-
-US officials held initial talks with Ukraine on Sunday evening and negotiated separately with Russia on Monday, with most meetings taking place at the Ritz-Carlton hotel in **Riyadh**.
-
-The US is expected to **shuttle** between the two countries to **finalise** details and negotiate separate measures to ensure the safety of shipping in the Black Sea.
-
-As the Russia-US talks began in Riyadh, Trump said he expected Washington and Kyiv to sign a **revenue-sharing** agreement on Ukrainian critical minerals soon.
+The US is expected to **shuttle** between the two countries to finalise details and negotiate separate measures to ensure the safety of shipping in the Black Sea.
 
 Speaking to reporters in Washington, Trump listed issues he said were on the table: “We’re talking about territory right now. We’re talking about lines of **demarcation**, talking about power, power-plant ownership.”
 
-The **lead-up** to the talks was marked by a series of pro-Russian statements by Witkoff – **tapped** by Trump as his personal envoy to Putin – in which he appeared to **legitimise** Russia’s staged referendums in four Ukrainian regions.
+The **lead-up** to the talks was marked by a series of pro-Russian statements by Witkoff – **tapped** by Trump as his personal envoy to Putin – in which he appeared to legitimise Russia’s staged referendums in four Ukrainian regions.
 
-The referendums in Luhansk, Donetsk, Kherson and Zaporizhzhia provinces were widely rebuked in the west as illegitimate and are viewed as a **thinly** **veiled** attempt to justify Russia’s illegal annexation of the regions. Their annexation marked the largest **forcible** **seizure** of territory in Europe since the second world war.
+The referendums in Luhansk, Donetsk, Kherson and Zaporizhzhia provinces were widely rebuked in the west as illegitimate and are viewed as a thinly **veiled** attempt to justify Russia’s illegal annexation of the regions.
 
-In the interview with Carlson, Witkoff also claimed Putin had **commissioned** a portrait of Trump “by a **leading** Russian painter” that the envoy had brought back with him after a trip to Moscow.
-
-“I don’t regard Putin as a bad guy. That is a complicated situation, that war and all the **ingredients** that **led up to** it,” he added.
-
-In an interview with Time magazine published on Monday but **conducted** before Witkoff’s remarks, Zelenskyy said some US officials had begun to take Putin at his word even when it contradicted their own intelligence.
-
-Moscow and Kyiv remain far apart on what would be acceptable terms for a peace treaty, with no sign that Putin has **relinquished** any of his maximalist aims in the war against Ukraine.
-
-Ukraine remains deeply sceptical of any Russian agreement, pointing to past **instances** where Moscow failed to **honour** its commitments.
+“I don’t regard Putin as a bad guy. That is a complicated situation, that war and all the **ingredients** that led up to it,” he added.
 
 #### [2025-03-26 Russian strikes show Moscow does not want ‘real peace’, says Zelenskyy](https://www.theguardian.com/world/2025/mar/26/russian-ukraine-drone-strikes-zelenskyy-peace)
-
-Ukraine’s president has accused Russia of being **insincere** about making peace as he reported an attack by 117 drones.
-
-Volodymyr Zelenskyy said that launching **nationwide** strikes after negotiations over maritime and energy ceasefires was proof of Russia’s true intention.
-
-The country’s air force said it shot down 56 of the 117 incoming drones and another 48 were **decoys** that caused no damage.
-
-“Last night, there were another 117 proofs in our skies of how Russia continues to **drag out** this war,” Zelenskyy posted on X.
-
-Parallel talks between Russia and the US and the US and Ukraine in Saudi Arabia this week had reached agreement on implementing a ceasefire in the Black Sea and a 30-day halt to strikes on energy targets already agreed to **in principle** by the Ukrainian and Russian leaders.
 
 “We are satisfied with how pragmatically and constructively our dialogue is developing and by how it is **yielding** results,” he said.
 
 A list of Russian and Ukrainian targets to be covered by the energy **moratorium** had been agreed with the help of US negotiators.
 
-Ukraine’s leader said the energy ceasefire should be ready to **come into force** from today.
+Together they are trying to **stitch** together a “reassurance force” to provide security to Ukraine in the event of a negotiated **armistice** or peace.
 
-Together they are trying to **stitch** together a “**reassurance** force” to provide security to Ukraine in the event of a negotiated **armistice** or peace.
-
-Details about who will participate and the size of the force have been **sparse** with speculation that it could contain 10,000 to 30,000 troops plus fighter jet **policing** to secure Ukraine’s air space, as well as maritime patrols **de-mining** the Black Sea to protect grain exports.
-
-Ihor Zhovkva said the reassurance force had to be strong enough to **fend** off any Russian aggression, if necessary.
+Details about who will participate and the size of the force have been **sparse** with speculation that it could contain 10,000 to 30,000 troops plus fighter jet **policing** to secure Ukraine’s air space, as well as maritime patrols de-mining the Black Sea to protect grain exports.
 
 Donald Trump has been pressing for a full end to the fighting in Ukraine, declaring on the campaign trail before his election that he could end the war in 24 hours, though earlier this month he described his own statement as “a little bit **sarcastic**”.
-
-“I think that Russia wants to see an end to it, but it could be they’re **dragging their feet**,” Trump said in a TV interview.
 
 Ukraine’s strategy is to engage constructively in the talks, showing it is ready to agree to intermediate ceasefire proposals, and switch the **onus** on peace to Russia in the belief the Kremlin will raise more pre-conditions.
 
 #### [2025-04-28 Putin and Kim confirm for first time North Koreans fought for Russia in Ukraine war](https://www.theguardian.com/world/2025/apr/28/north-korea-troops-fighting-for-russia-ukraine-confirmed-kim-jong-un)
 
-
-The acknowledgment comes amid claims by the Kremlin – **contested** by Ukraine – that North Korean forces helped recapture Russia’s Kursk region.
-
-“The Russian people will never forget the **heroism** of the Korean special forces. We will always honour the Korean heroes who gave their lives for Russia and for our shared freedom, alongside their **brothers-in-arms** from the Russian **Federation**,” Putin said in a statement released by the Kremlin.
-
-The central military commission of North Korea’s ruling Workers’ party said Kim made the decision to deploy troops under the **comprehensive strategic partnership** treaty he signed with Putin in June 2024.
-
-“Under the order of the **head of state**, the sub-units of the armed forces of the Republic regarded the territory of Russia as one of their country and proved the firm alliance between the two countries,” KCNA cited the commission as saying.
-
-“We continue to be concerned by [North Korea’s] direct involvement in the war. [North Korea’s] military deployment to Russia and any support provided by the Russian Federation to [North Korea] in return must end,” a state department spokesperson said in an email, adding that third countries such as North Korea “**bear responsibility**” for the war.
-
-Kim, whose **material support** for Putin could earn North Korea access to Russian satellite and military technology to boost its nuclear missile programme, said a **monument** would soon be built in the capital, Pyongyang, to honour his soldiers’ “battle **feats**”.
-
-Kim’s reference to “the **tombstones** of the **fallen soldiers**” is seen as public confirmation by the regime that North Korean troops had been killed in **combat**.
+Kim, whose material support for Putin could earn North Korea access to Russian satellite and military technology to boost its nuclear missile programme, said a **monument** would soon be built in the capital, Pyongyang, to honour his soldiers’ “battle **feats**”.
 
 “The two countries agreed to disclose the deployment because they judged that the benefits of compensation for the troop deployment **outweighed** the potential damage to their international image,” Yang Moo-jin, president of the University of North Korean Studies in Seoul, told Agence France-Presse.
 
@@ -150,59 +101,37 @@ Kim’s reference to “the **tombstones** of the **fallen soldiers**” is seen
 
 #### [2025-05-07 Xi Jinping to begin four-day Russia visit after Ukrainian drones attack Moscow](https://www.theguardian.com/world/2025/may/07/xi-jinping-begins-russia-visit-china-ukrainian-drones-moscow)
 
-
 Xi Jinping is flying to Moscow for the start2 of a four-day visit during which he will attend Russia’s military **parade** **commemorating** the anniversary of the end of the second world war, known in Russia as Victory Day.
-
-The Chinese leader’s trip has **coincided with** mass Ukrainian drone attacks on the Russian capital. Moscow’s mayor, Sergei Sobyanin, said Russia’s air defence units destroyed at least 19 Ukrainian drones overnight.
-
-The attacks forced most of Moscow’s airports to close and Russia’s national carrier Aeroflot said it was reordering timetables to cope with the **disruption**.
 
 Aleksandar Vučić’s visit to Moscow, for which he has been heavily criticised by several major European capitals, had already faced complications after Latvia and Lithuania reportedly barred his plane from their airspace, forcing a significant **detour**.
 
-Russia’s defence ministry said the Russian military had shot down more than 500 drones in the past 24 hours, while airport **closures** affected at least 60,000 passengers.
-
-The Russian foreign ministry described the trip as “one of the **central** events in Russian-Chinese relations this year”.
-Xi is expected to hold talks with Putin on Thursday and to attend the Victory Day parade on Friday. China’s People’s Liberation Army will send an **honour guard** to participate in the ceremony in Moscow for the first time since 2015, and for the first time ever will send an honour guard to join in parallel celebrations in Minsk, the capital of Belarus.
-
 In an article published on Wednesday, Xi wrote: “China and Russia are both major countries with significant influence and are constructive forces in maintaining global strategic stability and improving global governance … Together we must **foil** all schemes to disrupt or undermine our **bonds** of **amity** and trust”.
 
-China maintains it is a neutral party in the war and that it supports a peaceful resolution to the conflict. But in recent months Kyiv has been increasingly **outspoken** about what it says is China’s direct aid for Moscow’s war efforts.
+But in recent months Kyiv has been increasingly **outspoken** about what it says is China’s direct aid for Moscow’s war efforts.
 
 #### [2025-05-08 Xi hails ‘confident’ China-Russia ties as Putin welcomes ‘dear friend’ to Kremlin](https://www.theguardian.com/world/2025/may/08/xi-jinping-vladimir-putin-china-russia-kremlin)
-
-Xi Jinping and Vladimir Putin exchanged warm words in the Kremlin on Thursday during a **grand** ceremony welcoming the Chinese leader for his 11th visit to Russia.
 
 Xi said the Sino-Russian relationship was “confident, stable and **resilient**” in the new era and that China was willing to work with Russia to promote a multipolar world.
 
 Xi, whose plane was escorted by Russian fighter jets, was greeted on Wednesday by a military band playing the national **anthems** of Russia and China.
 
-In an article published in Russian media on Wednesday, Xi said China and Russia had fought side by side in the second world war. “Today, 80 years later, **unilateralism**, hegemony and bullying are extremely harmful,” Xi wrote. “We must learn from history … [and] **resolutely** oppose all forms of hegemony and power politics, and jointly create a better future for mankind.”
+On Thursday he said the world was facing “unilateralism and acts of hegemonic bullying in the international **arena**”, a veiled reference to the US-China trade war, in which China has accused the US of coercive behaviour.
 
-On Thursday he said the world was facing “unilateralism and acts of **hegemonic** bullying in the international **arena**”, a veiled reference to the US-China trade war, in which China has accused the US of coercive behaviour.
-
-Hopes in some Washington **circles** that the Trump administration might have been able to perform a “reverse Nixon” and persuade Russia to decouple with China by **bolstering** the US-Russia relationship appear to have failed with Xi and Putin’s declaration that their countries are closer than ever before.
-
-The comments from Xi and Putin came a few hours after Lai Ching-te, the president of Taiwan, gave a punchy speech in Taipei calling on European leaders to stand with Taiwan in the face of “a new totalitarian group”, a veiled reference to China and its allies. Lai compared Taiwan’s current **predicament** to that of European countries before the start of the second world war.
-
-Xi has used this visit to underscore Russia’s support for China’s claims on Taiwan. “Russia has repeatedly reiterated that it adheres to the one-China principle, that Taiwan is an **inalienable** part of China’s territory, opposes any form of ‘Taiwan independence’, and firmly supports all measures taken by the Chinese government and people to achieve national reunification,” Xi wrote on Wednesday.
-
-Western leaders are increasingly worried that China could launch some form of assault on Taiwan in the next few years, with the war in Ukraine providing a blueprint for how such an attack might **play out** on the world stage.
+Lai compared Taiwan’s current **predicament** to that of European countries before the start of the second world war.
 
 #### [2025-05-09 China and Russia pledge to deepen ties as they criticise US on Victory Day](https://www.theguardian.com/world/2025/may/09/china-russia-ties-criticise-us-victory-day)
 
 In a lengthy statement published during Xi Jinping’s visit to Moscow for the commemoration of the 80th anniversary of the end of the second world war, which Russia celebrates on 9 May as Victory Day, Xi and his Russian counterpart Vladimir Putin said “certain countries … are attempting to **tamper** with the results of the victory of the second world war”.
 
-“The United States and its allies are trying to promote **Nato’s eastward expansion** into the Asia-Pacific region, build ‘small circles’ in the Asia-Pacific region, and **win over** countries in the region to promote their ‘Indo-Pacific strategy’, undermining regional peace, stability and prosperity,” the statement read.
-
-China has long **sympathised** with Russia’s argument that Nato expansion in Europe was a threat to its security.
+“The United States and its allies are trying to promote Nato’s eastward expansion into the Asia-Pacific region, build ‘small circles’ in the Asia-Pacific region, and **win over** countries in the region to promote their ‘Indo-Pacific strategy’, undermining regional peace, stability and prosperity,” the statement read.
 
 The statement also said that “unilateral coercive measures, including economic sanctions, that **bypass** the UN security council violate the UN Charter and other international laws and undermine international security interests”.
 
 This week’s meeting of the Chinese and Russian leaders underscores the close relationship between the two men who see themselves as a **bulwark** against US hegemony.
 
-China and Russia conducted 14 joint military exercises in 2024, according to data **compiled** by the ChinaPower project, which tracks military and economic developments.
-
 #### [2025-05-09 Chinese troops march with Russian forces as Xi joins Putin for Victory Day parade](https://www.theguardian.com/weather/2025/may/09/chinese-troops-march-with-russian-forces-as-xi-joins-putin-for-victory-day-parade)
+
+================================================================================================================================================
 
 Russian troops fighting in Ukraine have marched with Chinese forces on Moscow’s Red Square to mark the 80th anniversary of Nazi Germany’s defeat in a Victory Day celebration marked by greater **spectacle** than in recent years.
 
