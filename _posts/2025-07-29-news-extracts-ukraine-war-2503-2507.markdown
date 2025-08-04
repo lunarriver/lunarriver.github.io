@@ -205,17 +205,7 @@ The shipyard in Chongjin has primarily produced **cargo** vessels and fishing ve
 
 #### [2025-05-24 North Korea detains three over warship launch accident, state media reports](https://www.theguardian.com/world/2025/may/24/north-korea-detains-three-over-warship-launch-accident-state-media-reports)
 
-================================================================================================================================================
-
-Pyongyang has said that “a serious accident occurred” at Wednesday’s launch ceremony in the eastern port city of Chongjin for a newly built 5,000-tonne naval **destroyer**, in which sections of the bottom of the vessel were crushed.
-
-On Friday, KCNA reported that shipyard manager Hong Kil Ho had been **summoned** by law enforcement.
-
-Kim has ordered the ship to be restored before a ruling party meeting in June. KCNA said the **rehabilitation** plan was **pushing ahead**.
-
 South Korea’s military said US and Seoul intelligence authorities assessed that North Korea’s “side-launch attempt” of the ship failed, and the vessel was left **listing** in the water.
-
-KCNA, however, reported that an “underwater and internal inspection of the warship confirmed that, unlike the initial announcement, there were no holes made at the warship’s bottom”, calling the **extent** of the damage “not serious”.
 
 Satellite imagery shows the warship, covered in blue tarpaulins, lying on its side, with the stern **swung out** into the harbour, but the bow remaining on the side slipway, according to the US-based Center for Strategic and International Studies.
 
@@ -223,103 +213,55 @@ Satellite imagery shows the warship, covered in blue tarpaulins, lying on its si
 
 Volodymyr Zelenskyy has said Russia has **amassed** 50,000 of its troops in the Sumy region before a planned large-scale offensive.
 
-Zelenskyy said the government in Kyiv had undertaken steps to prevent Russia from carrying out wide-scale attacks in the area that borders the Russian oblast of Kursk, where Ukrainian troops carried out a surprise **seizure** of territory last August using drones and heavy western **armaments**.
-
 Germany’s freshly appointed chancellor received Zelenskyy in Berlin amid expectations he would announce new plans to aid Ukraine. Merz welcomed Zelenskyy with military honours at the **chancellery** building in the German capital.
 
 Berlin is one of Kyiv’s main backers, a **course** that Merz, who came into office last month, has promised to continue.
 
-This would enable Kyiv to defend itself more effectively without Berlin having to be concerned about being labelled a “war **monger**”. This in turn would make support for Ukraine more palatable to Merz’s domestic **audience**, among whom there is concern about Germany being dragged into a wider-scale conflict.
+This would enable Kyiv to defend itself more effectively without Berlin having to be concerned about being labelled a “war **monger**”.
 
 Speaking at a security conference in Moscow, Lavrov said the announcement was **reminiscent** of “the periods of the previous century when Germany twice became the leading military power and how much trouble this brought”.
 
 #### [2025-06-01 Ukraine launches major drone attack on Russian bombers, security official says](https://www.theguardian.com/world/2025/jun/01/ukraine-launches-major-drone-attack-on-russian-bombers-security-official-says)
 
-Ukraine has launched a “large-scale” drone attack against Russian military **bombers** in Siberia, striking more than 40 warplanes thousands of miles from its own territory, a security official has said, after it **smuggled** the drones to the **perimeter** of the airfields hidden in the roofs of wooden **sheds**.
-
-Video from several military airfields across Russia showed destroyed aircraft and planes **engulfed** in flames, though the full extent of the damage remained unclear.
-
-Ukraine’s SBU domestic intelligence agency said it had hit Russian military planes worth a **combined** $7bn (£5.2bn) in the wave of drone strikes.
+Ukraine smuggled the drones to the **perimeter** of the airfields hidden in the roofs of wooden sheds.
 
 The drones were first smuggled into Russia and later **concealed** under the roofs of small wooden sheds which were loaded on to trucks and driven to the perimeter of the airbases.
 
-Media reports said Ukraine’s president, Volodymyr Zelenskyy, had personally **overseen** the sophisticated operation.
-
-Photographs from Ukrainian security officials showed dozens of short-range **quadcopter** drones piled up in an industrial facility. Other images showed the wooden sheds with their metal roofing panels removed, and the drones sitting in the **cavities** between roof **beams**.
-
-Since the full-scale invasion began in February 2022, Ukraine has been **chronically** outgunned by Russia in terms of military firepower. But it has developed a **nimble** and **sizeable** fleet of attack drones used to strike Russia’s army and energy infrastructure.
-
-Ukraine had previously refused to **commit to** attending a new round of direct talks in Turkey but on Sunday Zelenskyy said a delegation led by his defence minister, Rustem Umerov, would be in Istanbul.
-
-Reuters reported Ukrainian negotiators in Istanbul would present a **proposed** plan for reaching a lasting peace settlement, with the current frontline as the starting point for negotiations about territory.
-
-Citing a copy of the document **laying out** the Ukrainian position, it said there would be no future restrictions on Ukraine’s military strength, no international recognition of Russian sovereignty over parts of Ukraine taken by Moscow’s forces, and **reparations** for Ukraine.
-
-Last year, Putin set out his opening **terms** for an immediate end to the war, demanding Ukraine drop its Nato membership ambitions and withdraw all of its troops from all four Ukrainian regions claimed and mostly controlled by Russia.
+But it has developed a **nimble** and **sizeable** fleet of attack drones used to strike Russia’s army and energy infrastructure.
 
 #### [2025-06-04 Putin tells Trump Russia ‘will have to respond’ to Ukraine drone attack](https://www.theguardian.com/us-news/2025/jun/04/trump-putin-conversation-ukraine-drone-attack)
 
-The US president, who repeatedly claimed he could end the Ukraine war in 24 hours during his election campaign, did not attempt to **discourage** the Russian leader from retaliation, according to his description of the discussion on his Truth Social platform.
-
-He noted instead that Putin had **offered to** participate in US talks with Iran about its nuclear programme, which Trump claimed Tehran had been “slowwalking”. The programme has expanded considerably since 2018, when Trump withdrew from a multilateral agreement to **constrain** it in exchange for sanctions relief.
+He noted instead that Putin had **offered to** participate in US talks with Iran about its nuclear programme, which Trump claimed Tehran had been “slowwalking”.
 
 The comments from both leaders confirmed negotiations in Istanbul on Monday had made no **headway** towards a truce, but the two sides signalled progress on other issues, including the transfer of captives and bodies.
 
-Zelenskyy said he expected 500 **PoWs** to be swapped this weekend, but he said that the broader peace proposal put forward by Russia in Istanbul **amounted to** “an ultimatum from the Russian side to us”.
-
-After being informed that Ukraine had proposed an unconditional ceasefire of 30 to 60 days, Putin asked: “Why reward them by giving them a break from the combat, which will be used to **pump** the regime with western arms, to continue their forced mobilisation and to prepare different terrorist acts?”
-
 On Sunday, Ukraine also carried out a remote-controlled mass drone attack on four Russian airfields, which Kyiv claims **knocked out** more than a third of Moscow’s heavy bombers capable of firing cruise missiles.
 
-Satellite photos analysed and published by the Associated Press showed aircraft wreckage and **scorched** areas at Belaya base, one of the four airfields targeted.
+Other aircraft at the base appeared **unscathed**.
 
-It said the images showed at least three Tu-95 and four Tu-22M bombers – both capable of firing cruise missiles – had been destroyed on the runway. Other aircraft at the base appeared **unscathed**.
-
-“We discussed the attack on Russia’s **docked** airplanes, by Ukraine, and also various other attacks that have been taking place by both sides,” Trump said.
-
-During his election campaign, Trump claimed more than 50 times he could end the Ukraine conflict within a day, but his comments on Wednesday did not involve any calls for **restraint**.
-
-Russia has claimed Ukrainian children were taken to Russia for their safety, while Kyiv insisted they had been abducted. The Ukrainian view was **underpinned** by the ICC, which issued arrest warrants in March 2023 for Putin and his “**commissioner** for children’s rights”, Maria Lvova-Belova, for their role in the “unlawful **deportation**” of the Ukrainian children.
-
-“We are ready for such a meeting any day,” the Ukrainian leader said on Wednesday, adding it was “pointless” to hold further talks with the midlevel Russian delegates Putin has sent to the talks – who Zelenskyy has previously dismissed as “empty heads” – since they were not **empowered** to agree a ceasefire.
-
-Since Trump’s return to the White House in January, European capitals have sought to take more of a leading role in bolstering Ukraine’s defence, and on Wednesday, a series of military industrial support measures were announced at a meeting of the 52-country strong Ukraine Defense Contact Group at Nato headquarters in Brussels, **chaired** jointly by the UK and Germany.
+The Ukrainian view was **underpinned** by the ICC, which issued arrest warrants in March 2023 for Putin and his “commissioner for children’s rights”, Maria Lvova-Belova, for their role in the “unlawful deportation” of the Ukrainian children.
 
 #### [2025-06-10 Zelenskyy calls for ‘concrete actions’ as Russian strikes hit seven of Kyiv’s 10 districts](https://www.theguardian.com/world/2025/jun/10/zelenskyy-russian-strikes-kyiv-ukraine-moscow)
 
-Volodymyr Zelenskyy has voiced his **frustration** with Donald Trump by calling for “concrete actions” rather than “silence” after Russia launched one of its largest attacks on Kyiv of the war, with seven of the Ukrainian capital’s 10 districts hit overnight.
-
 The **unrelenting** night-time raid stretched over five hours and will be seen as part of a continuing response by the Kremlin to Ukraine’s Operation Spiderweb, which struck Russia’s nuclear-capable bombers on Monday last week.
 
-In a statement on his Telegram channel, Zelenskyy appeared to criticise the lack of response from the US and others to the recent stepping up of Russia’s attacks. Trump has **prevaricated** over the question of further economic sanctions on the Kremlin.
+Trump has **prevaricated** over the question of further economic sanctions on the Kremlin.
 
-He added: “Ordinary houses and urban infrastructure were damaged, and even a **maternity** hospital in Odesa became a Russian target. Thirteen people were injured. Unfortunately, there are **fatalities**. My condolences to the relatives.
-
-The **buzzing** of drones followed by explosions could be heard throughout the night in Kyiv, where residents had been told by the local authorities to take shelter in **bunkers**.
-
-Timur Tkachenko, the head of Kyiv’s military district, said on Telegram: “A difficult night for all of us. Throughout the night, the enemy relentlessly **terrorised** Kyiv with attack drones. They targeted civilian infrastructure and peaceful residents of the city.”
+He added: “Ordinary houses and urban infrastructure were damaged, and even a **maternity** hospital in Odesa became a Russian target.”
 
 #### [2025-06-12 Ukraine war briefing: severely wounded soldiers next in prisoner exchanges](https://www.theguardian.com/world/2025/jun/12/ukraine-war-briefing-severely-wounded-soldiers-next-in-prisoner-exchanges)
 
 “Tomorrow, we will begin urgent ‘**sanitary** exchanges’ of severely wounded prisoners,” Russia’s top negotiator, Vladimir Medinsky, posted.
 
-On Wednesday, a Ukrainian government agency announced that “the bodies of 1,212 fallen **defenders** were returned to Ukraine”.
-
 Ukraine said its experts “will identify the **deceased** as soon as possible”.
 
-It **characterised** the plant as one of the main facilities in Russia’s military industrial complex, making gunpowder for small arms, artillery and rocket systems.
-
-The Ukrainian military also said it recorded explosions at an **ammunition** **depot** in Russia’s Kursk region and an airfield depot in Russia’s Voronezh region.
-
-Vucic told Serbian media on Wednesday that the signing of the “anti-Russian” declaration wasn’t “easy and simple for us”, noting its mention of sanctions as one reason for **abstaining**. “But I would like to once again express my full gratitude to President Volodymyr Zelenskyy for the **exceptional** **hospitality** here in Odessa,” Vucic said.
+Vucic told Serbian media on Wednesday that the signing of the “anti-Russian” declaration wasn’t “easy and simple for us”, noting its mention of sanctions as one reason for **abstaining**.
 
 Aircraft **leasing** companies have won a $4.7bn (£3.4bn) lawsuit against **insurers** over their planes **stranded** in Russia after the invasion of Ukraine in February 2022.
 
-Restoration work started on Wednesday on Kyiv’s Unesco-listed 11th-century Saint Sophia **Cathedral** – one of the main symbols of Ukraine – after it was damaged by Russian strikes a day earlier. Zelenskyy said part of the cathedral’s **facade** collapsed.
-
-Russia sent Tu-22M3 long-range bombers on a flight over the Baltic Sea on Wednesday, the defence ministry said, in the first such mission since Ukraine’s **stunning** 1 June attack where bombers were destroyed or badly damaged by drones at air bases in Siberia and the far north.
-
 #### [2025-06-16 Donald Trump repeats call for Russia to be readmitted at G7 summit in Canada](https://www.theguardian.com/world/2025/jun/16/donald-trump-repeats-call-for-russia-to-be-readmitted-at-g7-summit-in-canada)
+
+================================================================================================================================================
 
 Donald Trump has displayed his **disdain** for the collective western values **supposedly** **championed** by the G7 group of industrialised countries by again demanding that Russia be **readmitted** to the group. He also said the war in Ukraine would not have happened if Moscow had been kept in the club.
 
