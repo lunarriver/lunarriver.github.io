@@ -261,113 +261,63 @@ Aircraft **leasing** companies have won a $4.7bn (£3.4bn) lawsuit against **ins
 
 #### [2025-06-16 Donald Trump repeats call for Russia to be readmitted at G7 summit in Canada](https://www.theguardian.com/world/2025/jun/16/donald-trump-repeats-call-for-russia-to-be-readmitted-at-g7-summit-in-canada)
 
-================================================================================================================================================
-
-Donald Trump has displayed his **disdain** for the collective western values **supposedly** **championed** by the G7 group of industrialised countries by again demanding that Russia be **readmitted** to the group. He also said the war in Ukraine would not have happened if Moscow had been kept in the club.
-
-Russia was thrown out of the G8 after it invaded Crimea in 2014, and Trump’s defence of Vladimir Putin came a day before the US president is scheduled to meet his Ukrainian counterpart, Volodymyr Zelenskyy, on the **fringes** of the summit. It will be the first meeting between the two men since Pope’s Francis’s funeral in April.
+Donald Trump has displayed his **disdain** for the collective western values **supposedly** championed by the G7 group of industrialised countries by again demanding that Russia be **readmitted** to the group.
 
 He blamed the former Canadian prime minister Justin Trudeau and Barack Obama for Putin’s **expulsion**.
 
-The European Commission president, Ursula von der Leyen, signalled that the EU would be asking the US and other G7 member states to tighten sanctions on Russia by lowering the **cap** at which Russian oil can be bought from $60 a barrel to $45.
-
 Ahead of his meeting with Trump, Zelenskyy said: “Russia **spits** in the face of everything the international community is trying to do to stop this war.”
-
-Trump has imposed levies on steel, **aluminium**, cars and other Canadian products that do not comply with the **continental** free trade agreement’s rules of origin.
 
 #### [2025-06-20 Ukraine war briefing: Russia ‘on verge of recession’, Putin minister tells economic showcase](https://www.theguardian.com/world/2025/jun/20/ukraine-war-briefing-russia-on-verge-of-recession-putin-minister-tells-economic-showcase)
 
-Vladimir Putin’s economy minister has warned that Russia is “on the **verge**” of **recession** as he spoke on the second day of a signature event meant to bolster economic confidence.
+Vladimir Putin’s economy minister has warned that Russia is “on the **verge**” of recession as he spoke on the second day of a signature event meant to bolster economic confidence.
 
-Russia’s central bank raised interest rates to an **eye-watering** 21% in October 2024 to combat inflation and kept them at that level until this month when it eased them to 20%. Economists have warned since the war began that any Russian growth driven by the defence industry is unsustainable and does not reflect a real increase in **productivity**.
+Russia’s central bank raised interest rates to an **eye-watering** 21% in October 2024 to combat inflation and kept them at that level until this month when it eased them to 20%.
 
-The plant, illegally held by the Russians, has too many issues with cooling water and its need for electricity supplied from **offsite**, the IAEA said.
-
-Its deployment of Iranian-designed Shahed drones and North Korean munitions was proof that Kyiv’s allies were applying **insufficient** pressure against the Kremlin. “When one of their **accomplices** loses their capability to export war, Russia is weakened and tries to **interfere**. This is so **cynical** and proves time and again that aggressive regimes cannot be allowed to unite and become partners.”
+“When one of their **accomplices** loses their capability to export war, Russia is weakened and tries to interfere. This is so **cynical** and proves time and again that aggressive regimes cannot be allowed to unite and become partners.”
 
 The Ukrainian foreign minister, Andrii Sybiha, said the conflict between Israel and Iran had exposed Russian hypocrisy, with Moscow condemning strikes against Tehran while “**ruthlessly**” attacking Ukraine.
 
 Before joining the army in April 2024, Felipenko **starred** in several stage productions and TV shows, playing a lead role in Ukrainian crime serial The Colour of Passion.
 
-Fighting between Iran and Israel could **deflect** global attention from the Russian invasion of Ukraine and even bolster the Kremlin’s war effort, a senior Ukrainian political source told AFP.
-
 #### [2025-07-01 Kim Jong-un pays rare public tribute to North Korean soldiers killed in Ukraine](https://www.theguardian.com/world/2025/jul/01/kim-jong-un-tribute-north-korea-soldiers-killed-ukraine-fighting)
 
-Kim Jong-un has paid **tribute** to North Korean soldiers killed during Russia’s war with Ukraine, resting his hands on their repatriated **coffins** in a rare public acknowledgment that his armed forces have suffered fatalities in the conflict.
+One image **purportedly** showed pages from a blood-stained notebook, believed to have belonged to a North Korean soldier, that had been retrieved from a battlefield in Russia’s Kursk region.
 
-Photographs of the North Korean leader pausing in front of a line of half a dozen coffins draped in the country’s flag were displayed on a screen at a **gala** performance held on Sunday to mark the first anniversary of a military treaty between the North and Russia.
-
-The scenes showing Kim and the remains of fallen soldiers followed those of troops from both countries waving their national flags. One image purportedly showed pages from a blood-**stained** notebook, believed to have belonged to a North Korean soldier, that had been **retrieved** from a battlefield in Russia’s Kursk region.
-
-According to South Korea’s Yonhap news agency, the messages in the notebook read: “The **decisive** moment has finally come,” and “Let us bravely fight this sacred battle with the boundless love and trust **bestowed** upon us by our **beloved** Supreme Commander” – a reference to Kim.
-
-Having denied for months that North Korean soldiers had been sent to fight alongside Russian forces, the regime is now attempting to put a positive **spin** on its involvement in the Ukraine conflict.
-
-Kim said at the time that a **monument** would be built in Pyongyang to honour his soldiers, and that flowers would be laid before the tombstones of those who had died – seen as the first public confirmation by the regime that its troops had been killed in combat.
+“Let us bravely fight this sacred battle with the boundless love and trust **bestowed** upon us by our beloved Supreme Commander” – a reference to Kim.
 
 #### [2025-07-01 Ukraine war briefing: Russia claims to have seized all of Luhansk region](https://www.theguardian.com/world/2025/jul/01/ukraine-war-briefing-russia-claims-to-have-seized-all-of-luhansk-region-and-first-village-in-dnipropetrovsk)
 
 In remarks to Russia’s state TV Channel One that aired Monday evening, Pasechnik said he had received a report “**literally** two days ago” saying that “100%” of the region was now under the control of Russian forces.
 
-North Korea’s state media showed on Monday leader Kim Jong-un draping coffins with the national flag in what appeared to be the repatriation of soldiers killed fighting for Russia against Ukraine, as the countries marked a **landmark** military treaty. In a series of photographs displayed in the backdrop of a gala performance by North Korean and visiting Russian artists in Pyongyang, Kim is seen by rows of a half a dozen coffins, covering them with flags and pausing **briefly** with both hands resting on them.
+Brussels and Kyiv have been **wrangling** over the deal after protests from farmers saw the EU slap **quotas** on tariff-free Ukrainian agricultural imports into the bloc. Brussels added certain restrictions in 2024, when it extended the agreement for one additional year, by introducing a maximum ceiling on certain tariff-free products such as **cereals**, **poultry**, eggs, sugar and corn.
 
-The European Union said Monday it had agreed a new long-term trade deal with Ukraine, covering imports of food products from the **war-torn** country that have angered EU farmers. Brussels and Kyiv have been **wrangling** over the deal after protests from farmers saw the EU slap **quotas** on tariff-free Ukrainian agricultural imports into the bloc. Brussels added certain restrictions in 2024, when it extended the agreement for one additional year, by introducing a maximum **ceiling** on certain tariff-free products such as **cereals**, **poultry**, eggs, sugar and corn.
-
-The International Monetary Fund said on Monday it has completed its eighth review of Ukraine’s \$15.5bn four-year support program, paving the way for a **disbursement** of an additional \$500m to the war-torn country. That will bring total disbursements to $10.6bn, the IMF said in a statement, after its board’s approval of the review of Ukraine’s Extended Fund Facility. It warned of **ongoing** and “exceptionally high” risks to the country’s **outlook**.
-
-Russian President Vladimir Putin “wants to **subjugate** the whole of Ukraine and at the same time spread fear throughout Europe,” German Foreign Minister Johann Wadephul said on a visit to Kyiv on Monday, adding that Putin’s “alleged willingness to negotiate is just a **facade**.” Kyiv and its allies have accused Russia of sabotaging diplomatic efforts, which have stalled in recent weeks, despite Washington’s desires to reach a quick peace deal.
-
-US President Donald Trump’s senior envoy for Ukraine and Russia Keith Kellog also said on Monday that Russia cannot continue to stall for time “while it bombs civilian targets in Ukraine.” “We urge an immediate ceasefire and a move to **trilateral** talks to end the war,” Kellogg wrote on X.
+Russian President Vladimir Putin “wants to **subjugate** the whole of Ukraine and at the same time spread fear throughout Europe,” German Foreign Minister Johann Wadephul said on a visit to Kyiv on Monday.
 
 #### [2025-07-02 US halts weapons shipments to Ukraine over fears stockpiles are too low](https://www.theguardian.com/world/2025/jul/02/us-halts-ukraine-weapons-shipments)
 
-“This decision was made to put America’s interests first following a review of our nation’s military support and assistance to other countries across the globe,” White House spokesperson Anna Kelly said in a statement. “The strength of the United States Armed Forces remains **unquestioned** – just ask Iran.”
-
-The defence department did not provide details on what specific weapons were being **held back**.
-
-“America’s military has never been more ready and more capable,” spokesperson Sean Parnell said, adding that the major tax cut and spending package moving through Congress “ensures that our weapons and defence systems are modernised to protect against 21st century threats for **generations to come**.”
-
-The halt of some weapons from the US is a blow to Ukraine as Russia has recently launched some of its biggest aerial attacks of the war, in an escalating bombing campaign that has further **dashed** hopes for a breakthrough in peace efforts **championed** by Trump. Talks between the sides have ground to a halt.
-
 The US **stoppage** was first reported by Politico.
 
-**To date**, the US has provided Ukraine more than $66bn worth of weapons and military assistance since Russia invaded its neighbour in February 2022.
-
-In **testimony** before lawmakers in June, defence secretary Pete Hegseth said he had moved quickly to **quash** wasteful programmes and redirect funding to Trump’s top objectives.
-
-Hegseth said a negotiated peace between Russia and Ukraine, which has been promoted for months by Trump, makes America look strong, even though Moscow is the aggressor in the conflict. He also said the defence budget includes hard choices and “reflects the reality that Europe needs to step up more for the defence of its own continent. And President Trump **deserves** the **credit** for that.”
+In testimony before lawmakers in June, defence secretary Pete Hegseth said he had moved quickly to **quash** wasteful programmes and redirect funding to Trump’s top objectives.
 
 The defense secretary told lawmakers last month that some US security spending for Ukraine was still in the **pipeline**, without providing details. But he said such assistance – which has been robust for the past two years – would be reduced.
 
 #### [2025-07-08 Ukraine war briefing: US to resume shipments of weapons for Ukrainian defence](https://www.theguardian.com/world/2025/jul/08/ukraine-war-briefing-sanctions-over-russian-chemical-weapons-on-battlefield)
 
-Donald Trump said on Monday that the US would resume shipments of “defensive weapons, primarily” to Ukraine in a **reversal** of an only days-old decision to withhold their supply.
+The Joint Stock Company Federal Scientific and Production Centre Scientific Research Institute of Applied Chemistry was sanctioned for supplying the Russian military with RG-Vo riot control grenades whose use in warfare **contravenes** the international chemical weapons convention.
 
-Our framework for Potus to evaluate military shipments across the globe remains in effect and is **integral** to our America First defence priorities.”
-
-It imposed asset freezes and travel bans on Aleksey Viktorovich Rtishchev and Andrei Marchenko, the head and deputy head of Russia’s **radiological** chemical and biological defence troops. The Joint Stock Company Federal Scientific and Production Centre Scientific Research Institute of Applied Chemistry was sanctioned for supplying the Russian military with RG-Vo **riot** control **grenades** whose use in warfare **contravenes** the international chemical weapons convention.
-
-At least one person was killed and 71 were wounded in Russian drone strikes on Ukraine’s second biggest city, Kharkiv, officials said on Monday. **Apartment** buildings, a kindergarten and the regional **draft** office were damaged in two waves of strikes, local and military officials said.
+Apartment buildings, a kindergarten and the regional **draft** office were damaged in two waves of strikes, local and military officials said.
 
 Ukraine’s military said it struck a chemical plant in Russia’s Moscow region that manufactures explosives, ammunition and **thermobaric** warheads for Shahed attack drones.
 
-Ukraine’s drones also hit workshops at the Ilsky oil refinery in Russia’s Krasnodar region, causing a fire and **disrupting production**, according to a Ukrainian security service source cited in national media.
-
-The former deputy chief of the Russian army’s general staff was sentenced to 17 years in prison on Monday over a scheme involving theft of money from defence ministry contracts, the Tass news agency of Russia reported. Khalil Arslanov, a **colonel** general, and others were found guilty of stealing 1.6bn roubles (£14.9m/US$20.3m) from state contracts with Voentelecom, which provides telecommunications services and equipment to the Russian military.
+Khalil Arslanov, a **colonel** general, and others were found guilty of stealing 1.6bn roubles (£14.9m/US$20.3m) from state contracts with Voentelecom, which provides telecommunications services and equipment to the Russian military.
 
 #### [2025-07-09 Ukraine war briefing: US weapons supply pause ‘caught Trump off guard’](https://www.theguardian.com/world/2025/jul/09/ukraine-war-briefing-us-weapons-supply-pause-caught-trump-off-guard)
 
 Donald Trump was reportedly caught **off guard** by the Pentagon’s **abrupt** move to pause Ukraine weapons deliveries, which the president has overturned. The Associated Press cited three people familiar with the matter, one of whom described Trump as being caught “**flat footed**” by last week’s announcement. But asked by a reporter on Tuesday who had approved the pause, Trump **bristled** at the question while he was gathered with his Cabinet. “I don’t know. Why don’t you tell me?”
 
-Speaking at a cabinet meeting on Tuesday, Trump said he was getting increasingly **frustrated** with the Russian leader.
-
-Russian authorities claimed a Ukrainian drone attack on a beach in Kursk city killed three people, including a Russian **serviceman** and injured seven.There was no independent confirmation and throughout the war Ukraine has denied targeting civilians, with its strikes inside Russia focused on military facilities and personnel, individual senior commanders, and strategic national infrastructure such as fuel **depots** and refineries.
-
-Lawmakers say its revival is a response to a spike in the intelligence and **subversive** activities of foreign powers since Russia started the war.
-
-A group of men have been convicted over an **arson** attack ordered by the banned Russian terrorist group Wagner on an east London warehouse used to supply humanitarian aid and StarLink satellite equipment to Ukraine.
-
 #### [2025-07-10 Ukraine war briefing: Two Chinese nationals arrested in Neptune missile espionage case](https://www.theguardian.com/world/2025/jul/10/ukraine-war-briefing-two-chinese-under-arrest-in-neptune-missile-espionage-case)
+
+================================================================================================================================================
 
 Ukraine said it had arrested a Chinese father and son, both suspected of spying on Kyiv’s **Neptune** cruise missile programme. They later **swooped** on his father when he visited Ukraine from China to “personally coordinate” his son’s work and smuggle out the documents to the Chinese special services, the SBU said.
 
