@@ -317,98 +317,59 @@ Donald Trump was reportedly caught **off guard** by the Pentagon’s **abrupt** 
 
 #### [2025-07-10 Ukraine war briefing: Two Chinese nationals arrested in Neptune missile espionage case](https://www.theguardian.com/world/2025/jul/10/ukraine-war-briefing-two-chinese-under-arrest-in-neptune-missile-espionage-case)
 
-================================================================================================================================================
+On Wednesday, Russia **pummelled** Ukraine with its largest missile and drone attack in more than three years of war – a dark record that is seemingly reset higher every few days.
 
-Ukraine said it had arrested a Chinese father and son, both suspected of spying on Kyiv’s **Neptune** cruise missile programme. They later **swooped** on his father when he visited Ukraine from China to “personally coordinate” his son’s work and smuggle out the documents to the Chinese special services, the SBU said.
+“If so it is a **transformatory** moment, and a **vindication** for both Volodymyr Zelenskyy as he arrives in Rome for the annual Ukraine reconstruction conference and for those others, notably the British and the French governments, who have patiently helped the scales to fall from Trump’s eyes about Putin’s true intentions.
 
-The shipment paused last week included 30 Patriot missiles, 8,500 155mm artillery shells, more than 250 **precision** GMLRS missiles and 142 Hellfire air-to-surface missiles.
-
-On Wednesday, Russia **pummelled** Ukraine with its largest missile and drone attack in more than three years of war – a dark record that is seemingly reset higher every few days. Air force representatives said new Ukrainian drones played an important role in defending against the attacks and most of the Russian drones were **decoys**.
-
-A one-**storey** administrative building was destroyed and rescue teams pulled bodies out of the rubble. Firefighters **extinguished** blazes in four buildings.
-
-Volodymyr Zelenskyy and Keith Kellogg had a “**substantive**” conversation, the Ukrainian president said after meeting the US president’s Ukraine envoy in Rome. “We discussed weapons supplies and strengthening air defence … We also covered the purchase of American weapons, joint defence manufacturing, and **localisation** efforts in Ukraine.”
-
-The Guardian’s diplomatic editor, Patrick Wintour, considers whether the Trump-Putin bromance may have run its course. “If so it is a **transformatory** moment, and a **vindication** for both Volodymyr Zelenskyy as he arrives in Rome for the annual Ukraine reconstruction conference and for those others, notably the British and the French governments, who have patiently helped the scales to fall from Trump’s eyes about Putin’s true intentions.
-
-Europe’s top human rights court delivered **damning** judgments on Wednesday against Russia in four cases brought by Kyiv and the Netherlands. Judges at the European court of human rights ruled that Russia committed a string of human rights violations in backing anti-Kyiv separatists in eastern Ukraine from 2014, in the downing of the MH17 flight that year and in invading Ukraine in 2022. Russia violated the convention through “**extrajudicial** killing of civilians and Ukrainian military personnel” outside of combat, “**torture**”, “forced labour”, “unlawful and arbitrary detention of civilians” as well as looting in its invasion of Ukraine, the judges found.
+Europe’s top human rights court delivered **damning** judgments on Wednesday against Russia in four cases brought by Kyiv and the Netherlands. Russia violated the convention through “**extrajudicial** killing of civilians and Ukrainian military personnel” outside of combat, “torture”, “forced labour”, “unlawful and arbitrary detention of civilians” as well as looting in its invasion of Ukraine, the judges found.
 
 #### [2025-07-10 Russian attack on Kyiv leaves two dead a day after largest assault of war](https://www.theguardian.com/world/2025/jul/10/russia-largest-missile-drone-attack-kyiv-ukraine-war)
 
-The administration warned of a threat from drones and ballistic weapons and told all residents to “immediately head to the nearest shelters”. Dozens of residents of the capital took shelter in a central metro station during the attack, an Agence France-Presse reporter said, sleeping on **mats**, calming pets or waiting out the attack on **camping** furniture.
+Falling drone debris also caused fires at **garages** and a gas station in another capital district, Darnytsky.
 
-Kyiv’s mayor, Vitali Klitschko, said falling debris sparked fires at buildings in the districts of Solomyansky and Shevchenkivsky. Falling drone debris also caused fires at **garages** and a gas station in another capital district, Darnytsky.
-
-Russia’s record barrage points to a trend of escalating attacks that have piled pressure on Ukraine’s **thinly stretched** air defence capabilities and exhausted civilian population.
-
-Trump, who returned to power this year promising a swift end to the war that began in 2022, had taken a more **conciliatory** tone towards Moscow in a **departure** from predecessor Joe Biden’s staunch support for Kyiv.
+Trump, who returned to power this year promising a swift end to the war that began in 2022, had taken a more **conciliatory** tone towards Moscow in a departure from predecessor Joe Biden’s staunch support for Kyiv.
 
 #### [2025-07-11 Ukraine war briefing: Trump poised to send weapons under Biden-style drawdown, say sources](https://www.theguardian.com/world/2025/jul/11/ukraine-war-briefing-trump-poised-to-send-weapons-under-biden-style-drawdown-say-sources)
 
-
-Donald Trump may be preparing to send weapons to Ukraine using presidential **drawdown** authority (PDA) – a **discretion** that his predecessor, Joe Biden, used to urgently arm Kyiv’s forces. Sources told Reuters that Trump’s team would identify arms from US stockpiles to send to Ukraine under the PDA, with one saying the **tranche** could be worth about $300m. The president has $3.86bn worth of PDA for Ukraine remaining – the last drawdown was $500m by Biden on 9 January.
+Donald Trump may be preparing to send weapons to Ukraine using presidential **drawdown** authority (PDA) – a **discretion** that his predecessor, Joe Biden, used to urgently arm Kyiv’s forces. Sources told Reuters that Trump’s team would identify arms from US stockpiles to send to Ukraine under the PDA, with one saying the **tranche** could be worth about $300m.
 
 Much of what Biden sent using PDA was surplus equipment in US reserve stockpiles that was due for replacement or to be scrapped – a fact that **rebuts** the argument that arming Ukraine leaves the US short of weaponry for its own purposes.
 
-Ukraine again succeeded in shutting down Moscow airports as it launched drones at the Russian capital. Three airports in the Moscow area – Domodedovo, Vnukovo and Zhukovsky – suspended operations temporarily on Thursday, Russia’s **aviation authority** Rosaviatsiya said.
-
-A senior Ukrainian security officer was shot dead in a residential parking **lot** in Kyiv on Thursday before the killer fled on foot. Police said they were working to identify and detain the shooter. The agent was a colonel in the Security Service of Ukraine (SBU), an official told Reuters. The SBU, a **sprawling** domestic spy agency with thousands of staff, said it had opened a criminal investigation into the murder of one of its employees in Kyiv’s southern Holosiivskyi district.
-
-Dovilė Šakalienė, the Balkan country’s defence minister, said it was a Gerbera decoy drone intended to **imitate** the armed Shahed drones. Russia uses Gerberas to **tie up** Ukrainian air defences during its Shahed attacks.
+The SBU, a **sprawling** domestic spy agency with thousands of staff, said it had opened a criminal investigation into the murder of one of its employees in Kyiv’s southern Holosiivskyi district.
 
 Russian authorities have **confiscated** western assets worth about \$50bn over the past three years, research showed on Wednesday.
 
 #### [2025-07-11 North Korean defector to sue Kim Jong-un alleging torture and sexual violence in regime’s detention facilities](https://www.theguardian.com/world/2025/jul/11/north-korea-defector-to-sue-kim-jong-un)
 
-A North Korean defector has filed a lawsuit against Kim Jong-un in a South Korean court, **alleging** torture and sexual violence in the regime’s detention facilities.
-
-The complaints – seen by the Guardian – detail specific alleged incidents, including sexual assault during an **unsanitary** body **cavity** search without gloves, severe beatings that burst her right **eardrum** and left her unconscious, and systematic torture through forced stress positions lasting more than 15 hours daily.
-
-The Database Centre for North Korean Human Rights (NKDB), which supported the case, plans to use it as a foundation for **submissions** to UN human rights bodies and the international criminal court.
-
 “This case may serve as a **precedent-setting** moment in South Korean **jurisprudence**, as domestic courts have had little prior case law dealing with crimes against humanity,” said Seongyeop Lee, a human rights analyst at NKDB.
 
-“As other victims have also expressed interest in legal action, this case could lay the foundation for future collective lawsuits and contribute to broader **accountability** efforts.”
+The complaint draws heavily on the 2014 UN commission of **inquiry** that found North Korea committed widespread crimes against humanity, including torture, sexual violence and arbitrary detention.
 
-The complaint draws heavily on the 2014 UN commission of **inquiry** that found North Korea committed widespread crimes against humanity, including torture, sexual violence and arbitrary detention. The report documented systemic abuses in the country’s network of political prison camps, estimated to hold between 80,000 and 120,000 people.
-
-Previous civil lawsuits against North Korea include cases by former prisoners of war seeking compensation for forced labour, families of South Koreans abducted during the Korean war, and a 2023 case seeking damages for North Korea’s destruction of an inter-Korean **liaison** office.
+Previous civil lawsuits against North Korea include cases by former prisoners of war seeking compensation for forced labour, families of South Koreans **abducted** during the Korean war, and a 2023 case seeking damages for North Korea’s destruction of an inter-Korean **liaison** office.
 
 However, enforcement remains impossible as there is no mechanism to compel North Korea to pay damages even when **plaintiffs** win, making such victories largely symbolic.
 
 #### [2025-07-13 Ukraine war briefing: Kim Jong-un voices ‘unconditional’ support for Moscow as Russian foreign minister visits](https://www.theguardian.com/world/2025/jul/13/ukraine-war-briefing-kim-jong-un-voices-unconditional-support-for-moscow-as-russian-foreign-minister-visits)
 
-Kim told Lavrov that North Korea was “ready to unconditionally support and **encourage** all the measures taken by the Russian leadership as regards the tackling of the root cause of the Ukrainian crisis”.
-
 Lavrov **lauded** Wonsan as “a good tourist attraction”, adding: “We hope it will be popular not only with local citizens, but also with Russians.”
 
 Lavrov also warned the US, South Korea and Japan against forming a security partnership targeting North Korea, accusing the countries of what he called military **buildups** around North Korea. We respect North Korea’s **aspirations** and understand the reasons why it is pursuing nuclear development,” Lavrov said, according to Tass.
 
-“The Russians continue to use their specific tactics of terror against our country, striking **concentrated** blows at one city or another, at one region or another,” the Ukrainian president, Volodymyr Zelenskyy, said in his evening address.
+The Russian defence ministry said it had targeted companies in Ukraine’s military-industrial complex in Lviv, Kharkiv and Lutsk and a military **aerodrome**.
 
-Zelenskyy said that some of the drones sent by Russia had been “**simulators**” intended to “overload the air-defence system and make it more difficult to shoot down the ‘suicide drones’. This is their deliberate and **despicable** terror.” The Russian defence ministry said it had targeted companies in Ukraine’s military-industrial complex in Lviv, Kharkiv and Lutsk and a military **aerodrome**.
-
-Ukraine was stepping up production of its own interceptor systems, he added. The US special envoy Keith Kellogg is due to begin his latest visit to Ukraine on Monday as a Washington-led peace effort **flounders**.
+The US special envoy Keith Kellogg is due to begin his latest visit to Ukraine on Monday as a Washington-led peace effort **flounders**.
 
 #### [2025-07-14 Kyiv hails US weapons deal as Moscow dismisses Trump’s sanctions threat](https://www.theguardian.com/world/2025/jul/14/kyiv-hails-us-weapons-deal-as-moscow-dismisses-trump-sanctions-threat)
 
-He promised that additional Patriot systems would arrive within days, funded by Germany and other Nato partners, which would be a significant step in helping Ukraine to defend itself. Kyiv is believed to have only six **functioning** Patriot batteries.
-
-The independent MP Mariana Bezuhla – a **prominent** critic of Zelenskyy and his top military team – dismissed the announcement as an empty “game”. “Trump gave Putin another 50 days to seize Ukraine,” she posted on social media.
-
-Referring to cities in the east of the country, where Russian troops are advancing, she said: “Well, then, let’s see, **carte blanche**, so to speak. To the Dnipro or Kramatorsk – everything is so **appetising**.”
-
-Some voices in Moscow, however, **lamented** that Trump’s once-positive relationship with Putin may have fundamentally shifted. “A new reality on Ukraine began today with Trump’s statement,” said Sergei Markov, a pro-Kremlin commentator.
-
-“As of today, he’s **pressuring** only Russia and supporting Ukraine,” he wrote on Telegram.
-
-Russia **pounded** Kyiv in a seven-hour attack last week, killing two people, and dispatched a record 741 drones and ballistic missiles across the country.
+Some voices in Moscow, however, **lamented** that Trump’s once-positive relationship with Putin may have fundamentally shifted.
 
 The journalist and blogger Illia Ponomarenko suggested Trump had allowed himself to be **deceived** in his dealings with Putin.
 
 Rather, Trump had believed he could ‘“achieve peace’ by **indulging** and encouraging the aggressor’s appetite”, he said.
 
 #### [2025-07-14 Trump does deal with Nato allies to arm Ukraine and warns Russia of severe sanctions](https://www.theguardian.com/world/2025/jul/14/trump-does-deal-with-nato-allies-to-arm-ukraine-and-warns-russia-of-severe-sanctions)
+
+================================================================================================================================================
 
 Donald Trump said he has **sealed** an agreement with Nato allies that will lead to large-scale arms deliveries to Ukraine, including Patriot missiles, and warned Russia that it will face severe sanctions if Moscow does not make peace within 50 days.
 
