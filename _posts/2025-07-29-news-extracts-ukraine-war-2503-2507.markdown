@@ -369,35 +369,13 @@ Rather, Trump had believed he could ‘“achieve peace’ by **indulging** and 
 
 #### [2025-07-14 Trump does deal with Nato allies to arm Ukraine and warns Russia of severe sanctions](https://www.theguardian.com/world/2025/jul/14/trump-does-deal-with-nato-allies-to-arm-ukraine-and-warns-russia-of-severe-sanctions)
 
-================================================================================================================================================
-
-Donald Trump said he has **sealed** an agreement with Nato allies that will lead to large-scale arms deliveries to Ukraine, including Patriot missiles, and warned Russia that it will face severe sanctions if Moscow does not make peace within 50 days.
-
-After a meeting with the Nato secretary general, Mark Rutte, Trump said they had agreed “a very big deal”, in which “billions of dollars’ worth of military equipment is going to be purchased from the United States, going to Nato … And that’s going to be quickly **distributed** to the battlefield.”
-
-“It’s everything: it’s Patriots. It’s all of them. It’s a full **complement**, with the batteries,” Trump said.
-
-He did not go into any more detail, but made clear the weapons would be entirely paid for by Washington’s European allies, and that initial missile deliveries would come “within days” from European stocks, on the **understanding** they would be **replenished** with US supplies.
-
-Such an arms delivery would represent a significant reinforcement of Ukraine’s air defences. Kyiv is currently thought to have only six Patriot **batteries**, at a time when it is coming under frequent and intense Russian drone and missile bombardments.
-
-He gave the Russian president a new deadline of 50 days to end the fighting or face 100% tariffs on Russian goods, and more importantly, sweeping “secondary tariffs”, suggesting trade sanctions would be imposed on countries who continue to pay for Russian oil and other **commodities**.
-
-The announcement marked a dramatic change for the administration, both in **substance** and tone.
-
-The Trump White House had not only made clear it would continue its predecessor’s policy of continuing to supply Ukraine out of US stocks, but the president and his top officials have been **derisive** about Kyiv’s chances of **prevailing**.
+The president and his top officials have been **derisive** about Kyiv’s chances of **prevailing**.
 
 On Monday, Trump delivered his most admiring language on Ukraine and its European backers to date, with Rutte on one side and the US vice-president, JD Vance, the administration’s biggest **sceptic** on US involvement in Europe, on the other.
-
-“They fought with **tremendous** courage, and they continue to fight with tremendous courage,” Trump said of the Ukrainians.
 
 “The level of **esprit** de corps spirit that they have is amazing,” he said. “They really think it’s very, very important.
 
 Trump described his deepening **disillusion** with Putin, and suggested his wife, Melania, may have played a role in pointing out the Russian leader’s **duplicity** in talks over a peace deal.
-
-“Look, I don’t want to say he’s an **assassin**, but he’s a tough guy. It’s been proven over the years. He’s fooled a lot of people,” Trump said, listing his predecessors in the White House.
-
-Russian officials and pro-war bloggers on Monday largely **shrugged off** Trump’s announcement, declaring it to be less significant than anticipated.
 
 Konstantin Kosachev, a senior Russian lawmaker, wrote on Telegram that it amounted to “**hot air**”.
 
@@ -405,25 +383,15 @@ Illia Ponomarenko, a Ukrainian journalist and blogger wrote: “How many Ukraini
 
 #### [2025-07-16 Ukraine wing of US-founded terrorist group says it was involved in killing of intelligence officer in Kyiv](https://www.theguardian.com/world/2025/jul/16/the-base-terrorist-group-ukraine-assassination)
 
-The Ukrainian wing of an internationally **proscribed** far-right terrorist organization with suspected links to Russia is claiming involvement in the **brazen** assassination of an intelligence officer in Kyiv.
+The Ukrainian wing of an internationally proscribed far-right terrorist organization with suspected links to Russia is claiming involvement in the **brazen** assassination of an intelligence officer in Kyiv.
 
-The same post, translated from Ukrainian, added that the group’s members were “proud of our **associates**” who carried out the killing and said they didn’t care if **naysayers** thought of them as “terrorists and extremists”. In another message to subscribers, the account also threatens other Ukrainian public figures and promises: “The hunt continues!”
+The same post, translated from Ukrainian, added that the group’s members were “proud of our associates” who carried out the killing and said they didn’t care if **naysayers** thought of them as “terrorists and extremists”.
 
-Sources in the counter-terrorism field reviewed the posts and said they appeared credible and represented an escalation from the Base, which is now either **endorsing** **treasonous** murders inside of Ukraine, actively **commissioning** them, or both.
+Sources in the counter-terrorism field reviewed the posts and said they appeared credible and represented an escalation from the Base, which is now either endorsing treasonous murders inside of Ukraine, actively **commissioning** them, or both.
 
 On Sunday, the SBU announced it had killed the two suspects they say were instructed and supplied with a **pistol** to assassinate Voronych on behalf of “Russian special services” handlers.
 
-Although originally a **stateside** extremist group, the Base had never publicly allied itself to the geopolitical goals of the Russian government of President Vladimir Putin, until very recently.
-
-In April, the Base started waging what it described as an **insurgency** to establish an all-white **ethnostate** in the western Ukrainian oblast of Zakarpattia. So far, videos of arson attacks against what appear to be police and military vehicles, electric boxes and other targets have been uploaded to its accounts on Telegram, along with dozens of other geolocated videos inside Ukraine.
-
-Nazzaro, who is a former Pentagon **contractor** with the US special forces, declined to comment on the Ukraine cell of the Base and the killing when reached on his Telegram account.
-
-Multiple requests for comment sent to a **chatbot** and an active email address associated with the Ukrainian cell went unanswered.
-
-Rai continued: “While we cannot confirm whether the Base was truly responsible for this recent assassination of an SBU official, this action is very much in line with what they have been threatening to do for months and shows the **severity** of the threat they pose.”
-
-In 2018, the Base became the subject of a relentless FBI counter-terrorism investigation that led to dozens of arrests and governments around the world **designating** it as a terrorist organization. Recently, the Base has **doubled down** on its recruitment efforts in Europe, and, with several new national cells across the continent – it has regrown its ranks inside the US and is clearly exporting its brand abroad – just as the Trump administration continues pulling FBI resources away from domestic terrorism investigations.
+In April, the Base started waging what it described as an **insurgency** to establish an all-white ethnostate in the western Ukrainian oblast of Zakarpattia.
 
 Nazzaro, who lives the life of a semi-**defected** American in St Petersburg with his Russian wife and family, has for years denied any associations with Russian intelligence, going so far as to tell a Kremlin-controlled television channel that he had “never had any contact with any Russian security services”.
 
@@ -431,57 +399,33 @@ But the digital **forensics** of the group and Nazzaro’s public history say ot
 
 #### [2025-07-16 Ukraine war briefing: Don’t bomb Moscow, Trump says, after reportedly giving Zelenskyy the idea](https://www.theguardian.com/world/2025/jul/16/ukraine-morning-briefing-dont-bomb-moscow-trump-says-after-reportedly-giving-zelenskyy-the-idea)
 
-Ukraine on Tuesday was waiting for further details of the “billions of dollars” worth of US military equipment promised by Donald Trump, amid confusion **as to** how many Patriot air defence systems will be sent. On Monday, Trump said an unnamed country was ready to immediately provide “17 Patriots”.
+The EU was unable to approve a new package of sanctions against Russia on Tuesday as Slovakia demanded more guarantees that it would not be harmed by a separate EU plan to **phase out** Russian gas.
 
-Several European countries said they were willing to buy US arms for Ukraine as **outlined** by Trump but did not yet know what was being asked of them.
-
-Thom Tillis, a Republican senator from North Carolina, said: “The 50-day delay worries me that Putin would try to use the 50 days to win the war, or to be better positioned to negotiate a peace agreement after having murdered and potentially **collected** more ground.
-
-Russian drones and missiles attacked widely **separated** areas of Ukraine, officials said in the early hours of Wednesday, with at least two people reported killed. The head of the military administration in the south-eastern town of Kryvyi Rih, Oleksander Vilkul, said an **extended** missile and drones attack knocked out power and water supplies and caused injuries.
-
-The EU was unable to approve a new package of sanctions against Russia on Tuesday as Slovakia demanded more guarantees that it would not be harmed by a separate EU plan to **phase out** Russian gas. The EU foreign policy chief Kaja Kallas said she was “really sad” the sanctions did not get approved, adding that “the ball is in Slovakia’s **court**” and she hoped a deal could be reached on Wednesday.
-
-One social media user posted a photo of “Agent Melania Trumpenko” looking **surreptitious** in a big hat and wearing a **blazer** with Ukraine’s **trident** **insignia**. Others **depicted** her being presented with a Ukrainian military cap and wearing the blue and yellow of Ukraine’s flag.
+One social media user posted a photo of “Agent Melania Trumpenko” looking **surreptitious** in a big hat and wearing a **blazer** with Ukraine’s **trident** **insignia**.
 
 #### [2025-07-17 Ukraine war briefing: Weapons will be Europe’s support to Ukraine – not Trump’s, Kallas suggests](https://www.theguardian.com/world/2025/jul/17/ukraine-war-briefing-weapons-will-be-europes-support-to-ukraine-not-trumps-kallas-suggests)
 
-Donald Trump’s move to **take credit** for the additional weapons headed to Ukraine at Europe’s expense has created some **mild** friction in EU-US relations.
+Donald Trump’s move to **take credit** for the additional weapons headed to Ukraine at Europe’s expense has created some mild friction in EU-US relations.
 
 Kurt Volker, a former US ambassador to Nato, **predicted** Ukraine could ultimately receive 12 to 13 Patriot batteries but it could take a year for them all to be delivered.
 
-Ukraine must boost the proportion of weapons made at home to 50% within six months, Volodymyr Zelenskyy has declared. The president said he was **counting on** his new incoming government under prime minister Yulia Svyrydenko to **deliver** on the goal.
+Ukraine’s arms production ramp-up so far has **emphasised** drones and air defences.
 
-“Ukrainian-made weapons now **make up** about 40% of those used at the front and in our operations,” Zelenskyy said in his nightly video address. “This is already significantly more than at any time in our country’s **independence** … Our goal is to reach 50% Ukrainian-made weaponry within the first six months of the new government, by expanding our domestic production. I am confident this is achievable, thoug   h not easy.” Ukraine’s arms production ramp-up so far has **emphasised** drones and air defences. Zelenskyy has in recent weeks stressed the importance of developing drone interceptors to tackle **swarms** of attacking drones.
-
-“The occupier specifically targeted the shopping centre. All nearby shopping centres have been either destroyed or damaged.” Zelenskyy described the attack as “simply **horrific**, stupid Russian terror. There is no military logic to their strikes, only an effort to take as many lives as possible.”
-
-The Ukrainian foreign minister, Andrii Sybiha, urged the EU to **adopt** further sanctions against Moscow as he rejected as “lies, manipulation and distortion” Russian accusations that Kyiv didn’t want to **progress** peace talks. Sybiha reiterated that Kyiv was ready to hold them anytime. EU ambassadors were again unable to approve the 18th package of sanctions against Russia today as Slovakia maintained its opposition.
-
-**Bot** networks have targeted Ukrainians in Russian-controlled regions, posting thousands of comments on social media aimed at “manufacturing an artificial consensus in favour of Russia”, according to a report released by the Atlantic Council thinktank and a “cognitive defence” company called OpenMinds that works with governments including Ukraine. The report said short-lived “**disposable**” bots commented on posts – often leaving **nonsensical** remarks under meaningless names, suggesting the use of generative AI. One post said: “Lord, how wonderful that Putin advocates for the use of peaceful weapons.”
+Zelenskyy described the attack as “simply **horrific**, stupid Russian terror.
 
 #### [2025-07-18 Ukraine war briefing: US moving ‘with haste’ to enable weapons shipments to Kyiv, says Washington](https://www.theguardian.com/world/2025/jul/18/ukraine-war-briefing-us-moving-with-haste-to-enable-weapons-shipments-to-kyiv-says-washington)
 
-“We are all moving with **haste** to facilitate this and get this done, and, you know, I think things are actually moving very quickly,” the US ambassador to Nato, Matthew Whitaker, told journalists on Thursday. “But I can’t verify a date that this will all be completed.”
-
-The **Swiss** government, meanwhile, said delivery of US Patriot systems to Switzerland would be delayed as Washington **reprioritised** to provide more support to Ukraine.
-
-Donald Trump’s decision to ramp up arms shipments to Ukraine is a signal to Kyiv to abandon peace efforts, Russia said, vowing it would not accept the “**blackmail**” of Washington’s new sanctions ultimatum. Russia’s foreign ministry condemned the move, with spokesperson Maria Zakharova saying: “It is obvious that the Kyiv regime consistently **perceives** such decisions by the **collective** west as a signal to continue the slaughter and abandon the peace process.”
-
-Official Ukrainian reports of activity along the 1,000km (600-mile) front **disputed** part of the Russian account, particularly concerning a key village in the south-east.
-
-Russian lawmakers have advanced a bill that would **outlaw** opening or searching for content online judged “extremist”, such as songs glorifying Ukraine and material by **feminist** rock band Pussy Riot. Critics say the law, which has drawn a rare **backlash** from across Russia’s political spectrum, would **stifle** internet freedom. The legislation threatens **fines** of up to 5,000 rubles ($64) on anyone found to have deliberately searched for or gained access to material listed as extremist by the justice ministry. More than 5,000 entries are on the list, including webpages, political slogans, books, **artworks** and music albums.
+Critics say the law, which has drawn a rare **backlash** from across Russia’s political spectrum, would **stifle** internet freedom. 
 
 #### [2025-07-21 Ukraine war briefing: Russia insists on sticking to its war demands amid Trump sanctions threat](https://www.theguardian.com/world/2025/jul/21/ukraine-war-briefing-russia-insists-on-sticking-to-its-war-demands-amid-trump-sanctions-threat)
-
-Kremlin spokesperson Dmitry Peskov reiterated Russia’s demands on Sunday, including Ukraine withdrawing from Russia-annexed regions and abandoning its Nato aspirations – **terms** that Kyiv and its allies have rejected.
 
 A week ago Trump, the US president, threatened Russia with “severe tariffs” unless a peace deal was reached within 50 days and announced a **rejuvenated** pipeline for US weapons to reach Ukraine amid his frustration at unsuccessful talks to end the war.
 
 Two more civilians were injured in the north-eastern Kharkiv province after a drone **slammed** into a residential building, local Ukrainian officials said.
 
-Drones struck a **leafy** square in the centre of Sumy later on Sunday, wounding a woman and her seven-year-old son, officials said. The strike also damaged a power line, leaving about 100 **households** without electricity, according to Serhii Krivosheienko of the **municipal** military administration.
-
 #### [2025-07-23 Ukraine war briefing: Mirage fighter jet crashes after pilot ejects due to technical fault](https://www.theguardian.com/world/2025/jul/23/ukraine-war-briefing-mirage-fighter-jet-crashes-after-pilot-ejects-due-to-technical-fault)
+
+================================================================================================================================================
 
 A **Mirage** 2000 fighter jet supplied to Ukraine from France crashed on Tuesday after an **equipment failure**, with the pilot ejecting safely, Ukraine’s military said. “The pilot then acted **competently**, as is expected in crisis situations, and successfully ejected.
 
