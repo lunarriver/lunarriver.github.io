@@ -33,47 +33,25 @@ Guo was asked about Pope Francis’s repeated wishes that he could visit China a
 
 #### [2025-04-27 Taiwan cracks down on holders of Chinese ID amid fears over propaganda and espionage](https://www.theguardian.com/world/2025/apr/27/taiwan-chinese-passport-id-card-crackdown)
 
-================================================================================================================================================
-
-Taiwan has launched a crackdown on holders of illegal Chinese identity documents, **revoking** the Taiwanese **status** of more than 20 people and putting tens of thousands of Chinese-born residents under scrutiny.
-
-In the past decade, hundreds of people have had their Taiwanese **papers** or passports cancelled for also holding Chinese ID, effectively revoking their **citizenship**.
-
-The campaign has sparked a nationwide **debate** about identity, loyalty and how to balance the island’s **treasured** political freedoms with its national security.
-
 The current **furore** began in December, with an online **documentary** revealing local Chinese authorities were secretly offering Chinese IDs to Taiwanese people.
 
-The documentary identified three **recipients** who had moved to the Chinese province of Fujian and applied for Chinese identity cards.
-
-Su Shih-er was one of the three. He chose the **coastal province** for its large Taiwanese community and generous government **subsidies** for **entrepreneurs** opening “local” businesses.
-
-In March Taiwan’s president, Lai Ching-te, announced new measures to counter China’s **malign** efforts, which included increased scrutiny of cross-strait travel and **resettlement**.
-
-In March, three Chinese-born women were accused of using their popular social media accounts to advocate for a **hostile** Chinese **takeover** of Taiwan.
+In March Taiwan’s president, Lai Ching-te, announced new measures to counter China’s **malign** efforts.
 
 The opposition accused the government of deporting people without **due process** for views it didn’t like.
 
-But government figures said the posts were **essentially** enemy war propaganda, exempt from free-speech protection.
-
 The case highlighted “the unique **dilemma** of Taiwan’s existence”, wrote two local academics, Michelle Kuo and Albert Wu.
 
-But, they added: “Taiwan is under **exceptional** threat. Can we apply human rights principles around family unity and freedom of speech when facing such a massive danger?”
+**Rescinding** hukou can only be done in person, in China. Convicted of unspecified acts of “**inciting** **secession**”, he remains in a Chinese jail.
 
-In March the MAC sent **questionnaires** to public sector workers, university employees and military personnel, asking them if they ever held Chinese ID.
-
-Then, earlier this month, the National Immigration Agency (NIA) began contacting more than 10,000 Chinese-born **spouses** in Taiwan, claiming they had never provided proof they had given up their Chinese hukuo – a requirement for permanent residency.
-
-**Rescinding** hukou can only be done in person, in China. Some commenters pointed to the case of Li Yanhe, a Chinese-born, Taiwan-based publisher of critical books about the CCP. In 2023 Li was arrested in Shanghai, reportedly there to rescind his hukou. Convicted of unspecified acts of “**inciting** **secession**”, he remains in a Chinese jail.
-
-The MAC deputy head, Liang Wen-chieh, said last week they were demonstrating “utmost **leniency** towards such individuals”. But amid an **outcry** the government announced **case-by-case** exemptions, including for people who are elderly, haven’t returned to China in more than 10 years, or feared **persecution** if they did.
+The MAC deputy head, Liang Wen-chieh, said last week they were demonstrating “utmost **leniency** towards such individuals”. But amid an **outcry** the government announced case-by-case exemptions, including for people who are elderly, haven’t returned to China in more than 10 years, or feared persecution if they did.
 
 During the furore over the deported influencers, academics Kuo and Wu warned that the government “may have **inadvertently** handed Beijing an easy propaganda victory”.
 
-The Guardian’s conversations with people in or close to the government have revealed a **perplexity** over the **backlash**, and a belief that any concerns are **outweighed** by the need to address any vulnerability China could exploit.
-
-“More than 360,000 Chinese spouses live in Taiwan today,” Kuo and Wu wrote in their essay. “While they may appear to be a demographic minority, their family networks make up a significant portion of society – one the government now risks **alienating**.”
+The Guardian’s conversations with people in or close to the government have revealed a **perplexity** over the backlash.
 
 #### [2025-05-08 Taiwan president says country faces similar threat to Europe before WW2](https://www.theguardian.com/world/2025/may/08/taiwan-president-europe-second-world-war)
+
+================================================================================================================================================
 
 Taiwan’s president, Lai Ching-te, has compared his nation to the European countries **heading for** conflict with Nazi Germany in the 1930s, in a **punchy** speech commemorating the end of the second world war in Europe.
 
