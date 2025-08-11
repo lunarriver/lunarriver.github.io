@@ -425,81 +425,23 @@ Two more civilians were injured in the north-eastern Kharkiv province after a dr
 
 #### [2025-07-23 Ukraine war briefing: Mirage fighter jet crashes after pilot ejects due to technical fault](https://www.theguardian.com/world/2025/jul/23/ukraine-war-briefing-mirage-fighter-jet-crashes-after-pilot-ejects-due-to-technical-fault)
 
-================================================================================================================================================
-
-A **Mirage** 2000 fighter jet supplied to Ukraine from France crashed on Tuesday after an **equipment failure**, with the pilot ejecting safely, Ukraine’s military said. “The pilot then acted **competently**, as is expected in crisis situations, and successfully ejected.
-
-Volodymyr Zelenskyy has approved a **contentious** bill weakening Ukraine’s anti-corruption bodies, according to reports, hours after the first serious protests against his government took place in Kyiv.
-
-Russian authorities have systematically involved children in the design and testing of drones for the war through nationwide competitions that begin with **innocent-seeming** video games and end up with the most talented students **headhunted** by defence companies, an investigation by the exiled Russian news outlet the Insider has found. The Insider spoke with three teenage **finalists** from the competition working on drone technology, who explained how it worked and detailed how they were fully aware of the military application of certain projects but were encouraged to hide it.
-
-Trump, though, has also **continually** extended, reset or failed to **honour** deadlines – starting with his **unmet** promise to end the war in 24 hours – and placed low expectations on Russia’s behaviour.
-
-A Russian drone and missile **salvo** on Ukraine killed a 10-year-old boy in the eastern frontline city of Kramatorsk, and wounded more than a dozen people across the country on Tuesday, Kyiv’s authorities said.
-
-Howard Phillips, 65, has been found guilty of assisting a foreign intelligence service after handing over personal details of the then British defence secretary, Grant Shapps, to two **undercover** officers who posed as Russian agents. Phillips, from Harlow in Essex, handed a **USB stick** containing details relating to Shapps, including his home address and the location of his private plane, to one of the officers, the trial heard.
+Trump, though, has also continually extended, reset or failed to honour deadlines – starting with his **unmet** promise to end the war in 24 hours – and placed low expectations on Russia’s behaviour.
 
 #### [2025-07-23 Zelenskyy pledges new bill on anti-corruption agencies’ independence as protests continue](https://www.theguardian.com/world/2025/jul/23/zelenskyy-corruption-agency-eu-protests-ukraine)
 
 Volodymyr Zelenskyy promised a new bill to strengthen the rule of law in Ukraine on Wednesday, in an apparent attempt to **assuage** popular anger at his decision to weaken the powers of two independent anti-corruption agencies.
 
-They want him to **scrap** a controversial law that effectively places the agencies under government control. In a video address, Zelenskyy sought to **deflect** criticism by promising a new presidential bill.
-
-It would guarantee the independence of anti-corruption institutions and at the same time ensure there was “no Russian influence”, he said. “Of course, everyone has heard what people are saying these days – on social media, to each other, on the streets. It’s not **falling on deaf ears**,” he added.
-
 But the apparent concession left protesters **unimpressed**. They said Zelenskyy has not agreed to scrap the controversial aspects of Tuesday’s bill and pointed out that the Verkhovna Rada – Ukraine’s parliament, which approved the changes – has gone on holiday for the summer **recess**.
 
-Olha Ivanova, who has worked in the anti-corruption sector, said the government was calculating that the protests would **fizzle out**. She predicted they would continue. “Civil society is huge in Ukraine. **From time to time** we have to remind the people in power that we elect them,” she said.
+Critics say they have been **stripped** of their autonomy, making them **indistinguishable** from ordinary law enforcement bodies.
 
-Ivanova held up a **placard** in English and Ukrainian that read: “Have you lost your mind?” She said she hoped Zelenskyy would reverse his decision, adding: “He’s not a dictator. Nobody would say this. He’s a president in a very difficult political context during a war.”
-
-Ukraine’s European backers including Germany, France and Sweden have echoed concerns about the new legislation, which the Ukrainian president approved on Tuesday night. They warned it could **hamper** Kyiv’s attempt to join the EU and **hinder** the fight against corruption.
-
-The bill gives sweeping powers to the prosecutor general’s office. It can now decide which cases the two independent agencies – the national anti-corruption bureau and the specialised anti-corruption prosecutor’s office – are allowed to **pursue**.
-
-The two institutions have been key to fighting high-level corruption and protecting billions in international aid and investment. Critics say they have been **stripped** of their autonomy, making them **indistinguishable** from ordinary law enforcement bodies.
-
-Zelenskyy says the **shake-up** was needed to clean Ukraine’s “anti-corruption infrastructure” of alleged Russian connections. On Wednesday, he convened a meeting with the heads of law enforcement and anti-corruption agencies at his presidential office in Kyiv.
-
-Olena Kurnytska, a 21-year-old student at York University, took part in Wednesday’s protest for the first time. She waved a placard saying “I would like to see the future, not the **flashbacks**”. She said: “We feel like its our **civic** duty to be here. It’s an easy situation to exploit. A wartime government can twist democracy more easily.”
-
-In a **pointed** message to Kyiv, the EU’s defence commissioner, Andrius Kubilius, said trust during wartime was “easy to lose with one significant mistake by the leadership … Transparency and open European dialogue is the only way to repair it.”
-
-The popular backlash against the bill is turning into the biggest domestic political crisis of Zelenskyy’s **premiership**. The crowd on Wednesday was larger than the night before. The street protests, which took place in several cities, were the first since Vladimir Putin’s 2022 full-scale invasion.
-
-Civil-society leaders have accused the presidential administration of violating an informal contract with society. They say the agreement with government – that it was **inappropriate** to criticise official abuses because of the war with Russia – is definitively over.
-
-Yuriy Sak, a former adviser to Ukraine’s defence ministry, said Ukrainians had a strong historical tradition of protesting against anything that **resembled** authoritarianism or dictatorship, in Soviet times and today.
+Zelenskyy says the **shake-up** was needed to clean Ukraine’s “anti-corruption infrastructure” of alleged Russian connections.
 
 “It’s in our DNA. We have a very good sense for where the red line is, and for when people cross this line. If anyone tries to tighten their grip on power people pour into the streets,” he said, citing the uprisings in 2004 and 2014 against perceived government **misrule**.
 
-Sak **likened** the collective mood to the air raid alerts that sound most evenings, when Kyiv and other cities came under Russian missile attack. “Whenever we see authoritarianism on the move, a silent siren goes off in Ukrainian heads,” he suggested.
+Sak **likened** the collective mood to the air raid alerts that sound most evenings, when Kyiv and other cities came under Russian missile attack.
 
 #### [2025-07-24 North Korea’s military is being transformed on the battlefields of Ukraine – so why is Seoul silent?](https://www.theguardian.com/world/2025/jul/24/north-koreas-military-is-being-transformed-on-the-battlefields-of-ukraine-so-why-is-seoul-silent)
 
-“We definitely should be alarmed,” says Chun In-bum, a former South Korean special forces commander. “But it’s just the nature of people to avoid catastrophe or be **indifferent** to the terrors of reality.”
-
-An additional 6,000 soldiers are now joined by 1,000 military engineers, hundreds of railway engineers, bridge-building specialists, logistics personnel, **electricians**, military police, and even interpreters, focused largely on rebuilding the battle-**scarred** Kursk region, according to Ukrainian officials.
-
-This military partnership with Moscow has been **invaluable** for Kim Jong-un’s regime, Maj Gen Vadym Skibitskyi, deputy head of Ukraine’s military intelligence agency, the HUR, told the Guardian.
-
-The ideological **commitment** of their forces became clear when Ukraine captured two wounded North Korean prisoners in January.
-
-“We were shocked by them. They were **bio-robots**. They tried to kill themselves by biting their own **veins**,” Skibitskyi says. When one was asked if he wanted to return home, he replied: “Yes, because I will be treated like a hero. I fought in a modern war.”
-
-However, a mix of strategic, economic and political factors are **discouraging** more visible action from South Korea, says Dr Yang Uk, a defence expert at the Asan Institute for Policy Studies in Seoul.
-
-Some analysts see Seoul’s silence as an extension of its longstanding “strategic **ambiguity**”: a **reluctance** to engage in foreign conflicts or unnecessarily **alienate** key powers, particularly those that might retain influence over Pyongyang.
-
-Domestic politics also play a role. Lee’s Democratic party supports engagement with the North, reflecting how South Korea’s left-right divide centres more on North Korea policy than on western **progressive** values. Voices on the left argue South Korea owes Ukraine nothing.
-
-Some of Seoul’s **inertia** may be bureaucratic. Chun points to **procurement** and planning processes that can take years, even as threats evolve within months.
-
-“We are dealing with a level 10 super **Godzilla**,” he said. “But the bureaucracy only sees a tiger.”
-
-North Koreans are already **employing** what they have learned in battle, he warns. “This should be a real wake-up call.”
-
-Skibitskyi echoes that concern, suggesting South Korea’s military **doctrine** is outdated and modelled on a pre-drone era.
-
-“The participation of North Korean military personnel in the war in Ukraine **constitutes** a **flagrant** violation of the UN charter and relevant UN security council resolutions,” a spokesperson said. “The Republic of Korea strongly condemns such **inhumane** and unlawful acts **in concert with** the international community.”
+“The Republic of Korea strongly condemns such inhumane and unlawful acts in concert with the international community.”
 
