@@ -51,143 +51,77 @@ The Guardian’s conversations with people in or close to the government have re
 
 #### [2025-05-08 Taiwan president says country faces similar threat to Europe before WW2](https://www.theguardian.com/world/2025/may/08/taiwan-president-europe-second-world-war)
 
-================================================================================================================================================
-
 Taiwan’s president, Lai Ching-te, has compared his nation to the European countries **heading for** conflict with Nazi Germany in the 1930s, in a **punchy** speech commemorating the end of the second world war in Europe.
 
-“Eighty years after the end of the European war, the **message** of history is clear. Today, 80 years later, we **share** the same values ​​and face similar challenges as many of the democracies that participated in the European war,” Lai said to a group of foreign **dignitaries** gathered in Taipei.
-
-The conflict is a **thorny** topic in cross-strait relations. China at the time was ruled by the Kuomintang, or the nationalists, under the **banner** of the Republic of China. During the war, the Kuomintang fought alongside the Chinese Communist party (CCP) against the Japanese, before resuming their own civil conflict, which led to the Kuomintang fleeing to Taiwan in 1949 and establishing the Republic of China there. This remains the island’s official name. The CCP established the People’s Republic of China in Beijing.
-
-In a **veiled reference** to China, Lai called on “freedom-loving people and countries” to work together to counter authoritarian regimes.
-
-“Taiwan and Europe are jointly facing the threat of a new **totalitarian** group,” Lai said. “The bitter experience of world war two tells us that **appeasement** will only make the invaders more greedy and expand their ambitions.”
-
-Thursday’s event opened with a short video **featuring** clips of the D-day landings in Normandy and audio recordings of Winston Churchill’s famous “We shall fight on the beaches” speech. The top British representative in Taiwan, Ruth Bradley-Jones, spoke at the event, as did Lutz Güllner, the head of the European Economic and Trade Office in Taiwan
-
-Marcin Jerzewski, the head of the Taiwan office of the European Values Center for Security Policy, said Lai was “trying to send the message that security and prosperity of Taiwan and Europe are still **interconnected**, so that European partners fearing possible withdrawal of American security guarantees from Europe don’t turn away from their engagements with the Indo-Pacific and security in the Taiwan Strait.”
-
-Lai is **steering** Taiwan through a fraught geopolitical moment. The self-governing island is claimed by China, which has vowed to annex it with the use of force if necessary. Since Donald Trump took office as US president in January, the commitment of the US, Taiwan’s main security backer, to helping Taiwan defend itself has been unclear.
-
-China frequently **rehearses** blockades of Taiwan. So-called “greyzone” tactics such as disinformation campaigns have been increasing.
+Lai said to a group of foreign **dignitaries** gathered in Taipei.
 
 Wen-Ti Sung, a non-resident fellow at the Atlantic Council’s Global China Hub, said Lai also wanted to show that “Taiwan wants to be a partner, not just a recipient, of western **largesse**”.
-
-In an article published in Russian media on Wednesday about Chinese and Soviet cooperation during the second world war, Xi **devoted** a **lengthy** section to the war’s **implications** for China’s claims on Taiwan.
 
 #### [2025-05-12 Taiwan ex-president Tsai Ing-wen to visit UK as China ratchets up threats against Taipei](https://www.theguardian.com/world/2025/may/12/tsai-ing-wen-uk-visit-former-taiwan-president)
 
 Tsai was invited by “friends in Britain’s parliament” in a trip that is designed to deepen friendship between Taiwan and Britain, the office said in a statement, adding Tsai, who has a **doctorate** from the London School of Economics, will meet unspecified British politicians.
 
-Tsai had been due to visit London in October last year, but that coincided with a trip to Beijing by British foreign secretary David Lammy at a time when London was trying to reset **strained** ties with China. Tsai did not **end up going**.
+Tsai had been due to visit London in October last year, but that coincided with a trip to Beijing by British foreign secretary David Lammy at a time when London was trying to reset **strained** ties with China.
 
-Tsai last year visited the **Czech** Republic, France, **Belgium** and Canada, drawing condemnation from Beijing which has repeatedly **denounced** Tsai as a “separatist”.
+Tsai last year visited the **Czech** Republic, France, **Belgium** and Canada, drawing condemnation from Beijing which has repeatedly denounced Tsai as a “separatist”.
 
 China says Taiwan is one of its provinces with no right to the **trappings** of a state, a position Taipei’s government strongly rejects.
 
 #### [2025-05-20 Taiwan president calls for peace and dialogue with China amid heightened military activity](https://www.theguardian.com/world/2025/may/20/taiwan-president-calls-for-peace-and-dialogue-with-china-amid-heightened-military-activity)
 
-Taiwan’s president has reiterated calls for peace and dialogue with China as he marked one year in office, amid heightened Chinese military activity and **worsening** political division at home.
-
-Lai Ching-te, who was inaugurated a year ago, told reporters on Tuesday that a war would have “no winners”, but Taiwan would continue to strengthen its defences to **ward off** a Chinese invasion or attempt to annex it by force.
-
-“It is the aggressor who undermines peace … Taiwan is a peace-loving nation, and our society values **goodwill**,” he said on Tuesday in response to questions after his formal address. “I am deeply committed to peace, because peace is priceless, and in war there are no winners.”
-
 “However, **whilst** our pursuit of peace is sincere, it must not be naive.”
 
 He urged Beijing to restart dialogue with his government on equal terms, “using exchanges to replace **hemming in**, dialogue to replace confrontation”.
 
-“Since taking office, the Lai Ching-te administration has **brazenly** pursued ‘Taiwan independence’ to **serve** partisan and personal gain, charging **headlong** down a path of division and confrontation that threatens the peace and stability of the Taiwan Strait,” it said.
+“Since taking office, the Lai Ching-te administration has brazenly pursued ‘Taiwan independence’ to serve partisan and personal gain, charging **headlong** down a path of division and confrontation that threatens the peace and stability of the Taiwan Strait,” it said.
 
-Taiwan authorities had publicly warned of likely Chinese retaliation or pre-emptive activity in response to the speech. Last week government officials told reporters they couldn’t rule out military drills in the days after Lai spoke, and on Monday the coast guard said Beijing could launch “political warfare” to disrupt public **morale** in Taiwan.
-
-“The trade de-escalation reached between Beijing and Washington has generated anxiety in Taipei over whether the issue of Taiwan may emerge in future US-China talks,” said Amanda Hsiao, a director in Eurasia Group’s China practice, referring to fears Beijing may seek a **softening** of the US’s longstanding support of Taiwan.
-
-The KMT and another rival party, the TPP, control the majority of seats in Taiwan’s **legislature** and have been accused of blocking Lai’s agenda.
-
-The opposition parties have accused Lai and his Democratic Progressive party of increasing tensions with China and **stifling** opposition.
+Last week government officials told reporters they couldn’t rule out military drills in the days after Lai spoke, and on Monday the coast guard said Beijing could launch “political warfare” to disrupt public **morale** in Taiwan.
 
 #### [2025-06-04 World won’t forget Tiananmen Square, US and Taiwan say on 36th anniversary of massacre](https://www.theguardian.com/world/2025/jun/04/world-wont-forget-tiananmen-square-us-and-taiwan-say-on-36th-anniversary-of-massacre)
 
-“Today we commemorate the **bravery** of the Chinese people who were killed as they tried to exercise their fundamental freedoms, as well as those who continue to suffer persecution as they seek accountability and justice for the events of June 4, 1989,” said Marco Rubio, the US’s top diplomat, in a statement.
-
-The date of 4 June remains one of China’s strictest **taboos**, and the Chinese government employs extensive and increasingly sophisticated resources to censor any discussion or acknowledgment of it inside China. Internet censors scrub even the most obscure references to the date from online spaces, and activists in China are often put under increased surveillance or sent on enforced “holidays” away from Beijing.
+The date of 4 June remains one of China’s strictest **taboos**, and the Chinese government employs extensive and increasingly sophisticated resources to censor any discussion or acknowledgment of it inside China.
 
 New research from human rights workers has found that the sensitive date also sees heightened **transnational** **repression** of Chinese government critics overseas by the government and its proxies.
 
 The report published on Wednesday by Article 19, a human rights research and **advocacy** group, said that the Chinese government “has engaged in a systematic international campaign of transnational repression targeting protesters critical of the Chinese Communist party,” with Uyghurs, Tibetans and Hongkongers particularly likely to be affected.
 
-“Protesters targeted by transnational repression frequently live in fear of surveillance; targeting; abduction and forced **repatriation**, especially around embassies and consulates; and ‘collective punishment’ retaliation against relatives still in China, which also leads people to cut ties with their family,” the report said.
+The Article 19 researchers found that, with Tiananmen Square vigils **snuffed** out in China, pro-CCP agents appear to be targeting commemorations in other parts of the world.
 
-The Article 19 researchers found that, with Tiananmen Square **vigils** **snuffed** out in China, pro-CCP agents appear to be targeting commemorations in other parts of the world.
+In 2022, a replica of a statue known as the “Pillar of Shame”, by Danish artist Jens Galschiøt, was **vandalised** in Taipei.
 
-In 2022, a **replica** of a statue known as the “Pillar of Shame”, by Danish artist Jens Galschiøt, was **vandalised** in Taipei. The statue is designed to memorialise the people who died on 4 June 1989. The original was on display at the University of Hong Kong for 23 years before it was removed by university authorities in 2021.
-
-But since the 2019 pro-democracy protests and the **ensuing** crackdown on civil liberties in Hong Kong, the annual 4 June vigil in Victoria Park has been banned. In recent years some high profile activists have been **prosecuted** over attempts to mark the day. For the last three years a government-sponsored food **carnival** has been held on the site during the week of the anniversary.
-
-A performance artist, Chan Mei-tung, was stopped and searched, and later **escorted** from the area by police. She was standing on the road chewing gum, according to the outlet.
-
-A key criticism of Hong Kong’s national security laws are that they are broad and the **proscribed** crimes are ill-defined.
-
-One of the few groups of people in China who are still outspoken about the events of 36 years ago are the rapidly ageing “Tiananmen Mothers”, parents of young people killed in the massacre, who have called for an official **reckoning**.
+For the last three years a government-sponsored food **carnival** has been held on the site during the week of the anniversary.
 
 Li said he was **compelled** to talk “as a warning to the world”, and also to Taiwan which is facing the threat of Chinese annexation.
 
-They work to crush all **instability** at the earliest stage,” he said according to CNA’s translation.
-
 #### [2025-06-06 Frequent TikTok users in Taiwan more likely to agree with pro-China narratives, study finds](https://www.theguardian.com/world/2025/jun/06/frequent-tiktok-users-in-taiwan-more-likely-to-agree-with-pro-china-narratives-study-finds)
 
-Social media is a key **battleground** in China’s information warfare, as it seeks to convince or coerce Taiwan into accepting annexation without military conflict.
-
-The DoubleThink Lab report claimed the more active TikTok users showed stronger **correlations** with an openness to Chinese propaganda and the idea that unification with China is inevitable and democracy should be sacrificed for peace.
-
-There was also correlation with unhappiness about current domestic issues, including opposition-driven accusations of **judicial** unfairness and **erosions** of free speech.
-
-“Our analysis suggests that active TikTok use is more likely to influence users’ political attitudes toward being more anti-democratic **establishment** and positive attitudes toward PRC governance, even among groups traditionally opposed to the CCP,” said the report’s author, Eric Hsu.
-
 TikTok is owned by the Chinese company ByteDance, and fears of it being used to spread pro-CCP propaganda have already resulted in restrictions or threats of **outright** bans in several countries, including the US. In Taiwan, there are rules against TikTok being used on government devices.
-
-In 2019, the Guardian revealed how ByteDance used TikTok to **advance** Beijing’s foreign policy aims by moderating sensitive content.
-
-Tai said Taiwan was on the frontline of China’s propaganda efforts, and its digital environment was “complex”. She added: “TikTok is not the only app young people use”, noting that Douyin – the Chinese domestic version of TikTok, which some Taiwanese also use – is very different in content and **moderation** to TikTok.
 
 He said it could not be ruled out that users were just more **inclined** to agree with such views and so were being fed content that aligned with their interests.
 
 #### [2025-06-11 Four former staff of Taiwan’s ruling party charged with spying for China](https://www.theguardian.com/world/2025/jun/11/four-former-officials-in-taiwans-ruling-party-charged-with-spying-for-china-ntwnfb)
 
-They had been accused of sharing state secrets with China over a **prolonged** period of time, including “important and sensitive diplomatic information” that significantly harmed national security, prosecutors alleged in a statement. One of the accused, who worked for a Taipei city **councillor**, is accused of transmitting information to China “via a specific messaging app”. Other alleged **offences** include money laundering.
-
-Prosecutors are seeking prison sentences ranging from five to more than 18 years, and the **confiscation** of more than NT$8.3m (£205,000/US$277,000) in illicit gains.
-
-Two **defendants** confessed but two others, including the former Wu staffer, had denied the allegations against them, prosecutors said.
-
-Taiwan has ramped up its efforts to **root out** Taiwanese spies working for the Chinese government.
-
-Taiwan and China have spied on each other for decades, but analysts say Taiwan is under greater threat **given** Beijing’s annexation intentions. Chinese authorities in May announced small **bounties** for information leading to the capture of 20 Taiwanese nationals they accused of hacking into a Guangzhou tech company, an accusation Taiwan dismissed as false.
+Chinese authorities in May announced small **bounties** for information leading to the capture of 20 Taiwanese nationals they accused of hacking into a Guangzhou tech company, an accusation Taiwan dismissed as false.
 
 #### [2025-06-11 Hong Kong police tell people not to download ‘secessionist’ mobile game](https://www.theguardian.com/games/2025/jun/11/hong-kong-police-taiwan-mobile-games-reversed-front)
 
-Hong Kong police have warned people against downloading a Taiwan-developed mobile game which they say is “**secessionist**” and could lead to arrest.
-
 The game, Reversed Front: Bonfire, allows users to “pledge **allegiance**” to various groups linked to locations that have been major flashpoints or targets for China including Taiwan, Hong Kong, Tibet, Uyghurs, Kazakhs and Manchuria, in order to “overthrow the communist regime” known as the “People’s Republic”.
 
-While some aspects and place names of the game’s worldview are imagined, the website says the game is “a work of NON-**FICTION**” and “any similarity to actual agencies, policies, or ethnic groups of the PRC China in this game is **INTENTIONAL**”.
+While some aspects and place names of the game’s worldview are imagined, the website says the game is “a work of NON-**FICTION**” and “any similarity to actual agencies, policies, or ethnic groups of the PRC China in this game is INTENTIONAL”.
 
-Downloading the game could lead to players being charged with possessing **seditious** material, while making in-app purchases could be viewed as providing funding to the developers “for the commission of secession or subversion”, the police said.
-
-Recommending the game could also **constitute** the offence of “incitement to secession”.
-
-In Reversed Front’s worldview, communists have conquered surrounding lands and formed a mega state, ruling it as a “colonial power with unprecedented **cruelty**”, and forcing many of the conquered peoples to flee. Decades later, only Taiwan still stands its ground, “**fending** off the persistent **aggravation**”.
+Downloading the game could lead to players being charged with possessing **seditious** material.
 
 The game asks players if Taiwan can stay safe by avoiding provocative action, or if it should “refrain from repeating the same mistakes of the last 30 years which allowed the communists to grow into the **behemoth** today”.
 
-In player descriptions, the game describes the communists as “heavy-handed, reckless and **inept**” and accused of “widespread corruption, **embezzlement**, **exploitation**, **slaughter** and **defilement**”.
+In player descriptions, the game describes the communists as “heavy-handed, reckless and **inept**” and accused of “widespread corruption, **embezzlement**, exploitation, slaughter and **defilement**”.
 
-The developers vowed not to actively filter or review any words or phrases in the game – a **nod** to recent controversies over censorship in Chinese-made or China-related games. It is unclear where ESC Taiwan is based.
+The developers vowed not to actively filter or review any words or phrases in the game – a **nod** to recent controversies over censorship in Chinese-made or China-related games.
 
-The police warning over the game forms part of an ongoing crackdown on pro-democracy opposition in Hong Kong, where CCP control has steadily tightened around the once semi-autonomous city. In 2020 Beijing imposed the national security law on Hong Kong, with the city government’s **blessing**, **outlawing** a broad range of dissenting behaviours as criminal.
+In 2020 Beijing imposed the national security law on Hong Kong, with the city government’s **blessing**, outlawing a broad range of dissenting behaviours as criminal.
 
 #### [2025-06-18 Malfunctions, overreactions and a steep learning curve: wargaming a Chinese attack on Taiwan](https://www.theguardian.com/world/2025/jun/18/taiwan-war-games-china-attack)
+
+================================================================================================================================================
 
 Last week former senior military and government officials from the US, Japan, and Taiwan convened in Taipei for a **tabletop** exercise, led by the Taipei School of Economics and Political Science Foundation. The event was described as the first civilian-led military simulation held in Taiwan, testing responses to a **hypothetical** attempt by China to annex the territory.
 
