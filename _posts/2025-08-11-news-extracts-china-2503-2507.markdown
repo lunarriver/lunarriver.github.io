@@ -121,109 +121,61 @@ In 2020 Beijing imposed the national security law on Hong Kong, with the city go
 
 #### [2025-06-18 Malfunctions, overreactions and a steep learning curve: wargaming a Chinese attack on Taiwan](https://www.theguardian.com/world/2025/jun/18/taiwan-war-games-china-attack)
 
-================================================================================================================================================
+Last week former senior military and government officials from the US, Japan, and Taiwan convened in Taipei for a **tabletop** exercise, led by the Taipei School of Economics and Political Science Foundation.
 
-Last week former senior military and government officials from the US, Japan, and Taiwan convened in Taipei for a **tabletop** exercise, led by the Taipei School of Economics and Political Science Foundation. The event was described as the first civilian-led military simulation held in Taiwan, testing responses to a **hypothetical** attempt by China to annex the territory.
-
-Three teams were presented with scenarios set in 2030 but based on China’s current strategies and their expected military advancements. A fourth team represented China’s People’s Liberation Army (PLA), while a control group of the games’ organisers drove proceedings and ran **feedback sessions**.
-
-The exercises highlighted how much the defence of Taiwan **hinges** on **assumptions**, with for example, the US team quickly offering military defence to Taiwan before the scenarios escalated into a fully **fledged** war. Such **unequivocal** US support is by no means guaranteed.
-
-The US refuses to confirm if it will defend Taiwan militarily, under a decades-old doctrine of “strategic **ambiguity**” designed to discourage either side from making provocative moves. Joe Biden signalled that – under his presidency at least – the US military would probably back Taiwan against a Chinese invasion.
+The exercises highlighted how much the defence of Taiwan hinges on **assumptions**. Such **unequivocal** US support is by no means guaranteed.
 
 The current US administration is still projecting an image of the superpower protector, but the **volatility** of Trump and his team has sparked concern about its continuing support for Taiwan.
 
-“The view from the US is that this part of the world, and this relationship is on a **hair trigger**, and the worry is that any incident of some significance could cause very rapid escalation,” said a US team member.
-
-“The red line for Washington, based on the outcome of the exercise, seems to be Beijing’s **initiation** of a blockade,” said William Yang, a senior north-east Asia analyst for the International Crisis Group who witnessed the two days of games.
-
 “But the lack of **coherence** and clarity in the Trump administration’s Taiwan policy has exacerbated scepticism toward Washington’s support for Taiwan since he won the election last November.”
 
-The games raised other vulnerabilities, particularly among the Taiwanese strategists, who were initially overcautious and then overreacted, according to the assessment of control group **supervisors**.
+An attempt to deflect a key decision by saying it was for a country’s president was **chided** by organisers.
 
-An early decision by the Taiwan team, to not respond to a PLA incursion inside the island’s 12-nautical mile marine border, was **ridiculed** by local media, and an attempt to deflect a key decision by saying it was for a country’s president was **chided** by organisers.
-
-Japan’s team also expressed concern about minimal communication from Taiwan, saying the team did not **adequately** convey what it wanted from Japan during scenarios.
-
-“The tabletop exercise seemed quite realistic, especially in regards to Taiwan’s communication,” said participant Takei Tomohisa, a former chief of staff of Japan’s Maritime Self-Defence Force. “The exercise clearly showed limitations and some **malfunctions**.”
+“The exercise clearly showed limitations and some **malfunctions**.”
 
 #### [2025-07-17 ‘Preparation is our only option’: sirens wail as Taiwan simulates China attack in city streets](https://www.theguardian.com/world/2025/jul/17/taiwan-simulates-china-attack-city-streets-urban-warfare-annual-drill)
 
-Usually people in Taipei walk quite slowly. **Notoriously** so. But at 1.27pm on Thursday some were almost sprinting through the busy shopping district of Ximen.
+Usually people in Taipei walk quite slowly. **Notoriously** so.
 
-Cars and buses **pulled over** in Ximen, and everyone was **ushered** into the nearby metro station. Mr Liu, 70, was not quite fast enough to get to his meeting and was **pacing** the station entrance looking at his watch.
+Cars and buses pulled over in Ximen, and everyone was **ushered** into the nearby metro station.
 
-**Nevertheless** he said he supported the drills because they helped people “feel safe” and taught them what to do if one day the real thing – a Chinese airstrike – hits the city.
+The annual drills have become increasingly significant in recent years, as China’s leader, Xi Jinping, **forges ahead** with his plans to annex Taiwan as Chinese territory, by force if his current strategy of intimidation and coercion fails. 
 
-The annual drills have become increasingly significant in recent years, as China’s leader, Xi Jinping, **forges ahead** with his plans to annex Taiwan as Chinese territory, by force if his current strategy of intimidation and coercion fails. The wars in Ukraine and the Middle East also make the drills feel less **hypothetical**.
+This year the drill has been **incorporated** into much larger civilian urban resilience exercises, in partnership with local governments and private companies such as supermarket chains.
 
-This year the drill has been **incorporated** into much larger civilian urban resilience exercises, in partnership with local governments and private companies such as supermarket chains. They are also being held **concurrently** with Han Kuang, Taiwan’s annual military exercises, which themselves have doubled in length and **ballooned** in size.
+The exercises are normally **confined** to military bases, offshore islands, or **cordoned-off** beaches. But this year they have come much closer to the people, with urban warfare simulations in the city streets and on inter-county bridges, **repelling** assaults on airports and installing newly bought Himars multiple-launch rocket systems on the riverside bike path.
 
-The exercises – a key demonstration of Taiwan’s defensive preparations against the threat of Chinese invasion – are normally **confined** to military bases, offshore islands, or **cordoned-off** beaches. But this year they have come much closer to the people, with urban warfare simulations in the city streets and on inter-county bridges, **repelling** assaults on airports and installing newly bought Himars multiple-launch rocket systems on the riverside bike path.
+More than 20,000 **reservists** were involved in the force’s largest ever mobilisation.
 
-More than 20,000 **reservists** were involved in the force’s largest ever mobilisation, and about 52,000 of a planned 4 million people had been trained as disaster relief volunteers, the deputy interior minister, Maa Shyh-yuan, said this week. There are also proposed budget measures to better resource local village authorities.
+It is thought the estimated 100,000 air raid shelters marked on public safety maps and apps include all known underground spaces such as car parks or **basements**.
 
-Since taking office in May last year, Taiwan’s president, Lai Ching-te, has continued his predecessor’s boosting of the armed forces, **sharpened** laws and language against Chinese aggression, and **prioritised** civilian defence and resilience.
-
-The increased **incorporation** of civilians has been welcomed by some non-government groups that have been lobbying for it for years.
-
-There are still some concerns. It is thought the estimated 100,000 air raid shelters marked on public safety maps and apps include all known underground spaces such as car parks or **basements**, which do not necessarily have **adequate** **ventilation** or power supply.
-
-China’s ruling Communist party is obviously watching. It has labelled the drills “**futile**” provocations, and has increased the already **elevated** number of warplane and ship incursions into Taiwan’s air defence zone.
+It has labelled the drills “**futile**” provocations.
 
 ### Tariffs War
 
 #### [2025-04-04 China hits back hard at ‘bullying’ Trump tariffs as global recession fears grow](https://www.theguardian.com/us-news/2025/apr/04/china-donald-trump-tariffs-recession--us-stock-market)
 
-China has hit back hard against Donald Trump’s “bullying” tariffs, raising fears that the escalating trade war could trigger a global **recession** and prompting fresh turmoil in financial markets.
+The tariffs “clearly represent a significant risk to the global outlook at a time of **sluggish** growth,” said the IMF managing director, Kristalina Georgieva.
 
-The tariffs “clearly represent a significant risk to the global **outlook** at a time of **sluggish** growth,” said the IMF managing director, Kristalina Georgieva.
+There was little sign of such moderation in China’s **trenchant** response to the Trump tariffs, however.
 
-The UK chancellor, Rachel Reeves, said ministers would continue to negotiate with Washington, in the hope that the 10% levy on UK exports could be **lifted**.
+Still, in the UK, some economists suggested the tariffs may have only a **modest** impact. 
 
-“I would have thought the central expectation now must be that if she is **sticking to** her fiscal rules, she’ll need to increase taxes in the autumn by possibly some significant amount,” said Paul Johnson, the director of the Institute for Fiscal Studies.
-On Wall Street, the tech-focused Nasdaq index entered bear market territory – meaning it has lost more than 20% of its value since the **sell-off** began. It was down 5.8% on Friday alone. The S&P 500 fell 9.1%, its worst five-day trading **stretch since** March 2020.
-
-There was little sign of such **moderation** in China’s **trenchant** response to the Trump tariffs, however.
-
-The president has promised voters his “liberation day” policies will bring jobs and investment **pouring back** into the US. But investors fear the higher prices that are likely to result will depress consumer demand in the US, and put the brakes on export-dependent economies worldwide.
-
-The market **meltdown** has also been fuelled by Trump’s unpredictability, which makes it impossible to forecast whether he will negotiate away some of the tariffs in exchange for **concessions** – or double down.
-
-“Markets are crashing because markets are based on the stock value of companies who today are **embedded** in modes of production that are bad for the US,” he claimed.
-
-Still, in the UK, some economists suggested the tariffs may have only a **modest** impact. James Smith, an economist at the analysts ING, said: “The **overall** hit from tariffs on Britain’s GDP is perhaps only 0.2% or so. Certainly not enough to decisively change the outlook for UK growth. And remember there are some **decent** **tailwinds** for growth this year, notably from government spending.”
+“And remember there are some decent **tailwinds** for growth this year, notably from government spending.”
 
 #### [2025-04-08 Trump confirms 104% tariffs on Chinese goods as part of unfolding global trade war](https://www.theguardian.com/us-news/2025/apr/08/trump-global-tariffs)
 
+Donald Trump is poised to unleash his trade war with the world on Wednesday, pressing ahead with a **slew** of tariffs on the US’s largest trading partners despite fears of widespread economic damage and calls to reconsider.
 
-Donald Trump is poised to **unleash** his trade war with the world on Wednesday, **pressing ahead** with a **slew** of tariffs on the US’s largest trading partners despite fears of widespread economic damage and calls to reconsider.
-
-However, Beijing vowed to “fight to the end” after Trump threatened to hit Chinese exports with additional 50% tariffs if the country **proceeds with plans** to retaliate against his initial **vow** to impose tariffs of 34% on its products.
-
-“President Trump has a **spine** of steel and he will not break,” the **press secretary**, Karoline Leavitt, said.
-
-The New Civil Liberties Alliance is a **libertarian** group.
-
-The latest tariffs are higher than the 10% **flat rate** imposed on all global imports to the US on Friday last week and are **tailored** to specific countries based on a formula that has been criticised by economists that divides trade in goods deficit by twice the total value of imports.
-
-Earlier in the day, the FTSE 100 rallied by 2.7% in London, recovering some of the losses it has endured since Trump’s announcement – on what was **dubbed** “liberation day” by his aides – last week. The Nikkei 225 **rallied** 6% in Tokyo. The Hang Seng Index rose 1.5% in Hong Kong.
-
-If they come to the table with **solid** proposals, I think we can end up with some good deals.”
+The latest tariffs are higher than the 10% **flat rate** imposed on all global imports to the US on Friday last week.
 
 But he again raised the prospect of agreements with countries on Tuesday, **trailing** a potential deal with South Korea.
 
-The president added: “‘**ONE STOP SHOPPING**’ is a beautiful and efficient process!!! China also wants to make a deal, badly, but they don’t know how to get it started. We are waiting for their call. It will happen!”
-
-Rachel Reeves, the UK chancellor, sought to ease concerns about market **volatility**, telling parliament she had spoken to Andrew Bailey, the governor of the Bank of England, who confirmed “markets are functioning effectively and that our banking system is **resilient**”.
-
-“What we don’t want to see is a trade war, with Britain becoming **inward-looking**.”
-
-China adopted an **altogether** different stance. In a **scathing** editorial, the official state news outlet Xinhua accused the US president of “**naked** **extortion**”.
-
-“**Utterly** **absurd** is the underlying logic of the United States: ‘I can hit you at my will, and you must not respond. Instead, you must surrender unconditionally,’” it said. “This is not diplomacy. It is **blunt** coercion dressed up as policy.”
+In a **scathing** editorial, the official state news outlet Xinhua accused the US president of “**naked** **extortion**”.
 
 #### [2025-05-12 Brazil’s president seeks ‘indestructible’ links with China amid Trump trade war](https://www.theguardian.com/world/2025/may/12/brazil-china-trade-lula-da-silva-trump)
+
+================================================================================================================================================
 
 The Brazilian president, Luiz Inácio Lula da Silva, has **heralded** his desire to build “**indestructible**” relations with China, as the leaders of three of Latin America’s biggest economies flew to Beijing against the backdrop of Donald Trump’s trade war and the **profound** international uncertainty his presidency has generated.
 
