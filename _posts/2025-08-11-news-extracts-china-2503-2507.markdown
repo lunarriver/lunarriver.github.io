@@ -175,25 +175,19 @@ In a **scathing** editorial, the official state news outlet Xinhua accused the U
 
 #### [2025-05-12 Brazil’s president seeks ‘indestructible’ links with China amid Trump trade war](https://www.theguardian.com/world/2025/may/12/brazil-china-trade-lula-da-silva-trump)
 
-================================================================================================================================================
+The Brazilian president, Luiz Inácio Lula da Silva, has **heralded** his desire to build “indestructible” relations with China, as the leaders of three of Latin America’s biggest economies flew to Beijing against the backdrop of Donald Trump’s trade war and the **profound** international uncertainty his presidency has generated.
 
-The Brazilian president, Luiz Inácio Lula da Silva, has **heralded** his desire to build “**indestructible**” relations with China, as the leaders of three of Latin America’s biggest economies flew to Beijing against the backdrop of Donald Trump’s trade war and the **profound** international uncertainty his presidency has generated.
+Hours later Colombia’s president, Gustavo Petro, arrived, making a **beeline** for the Great Wall of China and declaring his desire for the South American country to not “only look one way” towards the US.
 
-Hours later Colombia’s president, Gustavo Petro, arrived, making a **beeline** for the Great Wall of China and declaring his desire for the South American country to not “only look one way” towards the US. “We have decided to take a profound step forward between China and Latin America,” Petro said.
-
-Addressing hundreds of Chinese and Brazilian business chiefs in the Chinese capital on Monday, Lula **hit out** at Trump’s tariffs, saying he could not accept the measures “that the president of the US tried to impose on planet Earth, **from one day to the next**”.
+Addressing hundreds of Chinese and Brazilian business chiefs in the Chinese capital on Monday, Lula hit out at Trump’s tariffs, saying he could not accept the measures “that the president of the US tried to impose on planet Earth, **from one day to the next**”.
 
 The Brazilian leftist said he hoped to build an “indispensable” relationship with China – already Brazil’s top trading partner – and **heaped** praise on his Communist party hosts as his officials announced $4.6bn (£3.5bn) of Chinese investment in their country.
 
-The visit of the three South American leaders to China underlines the east Asian country’s rapidly growing **footprint** in a region where, over the past 25 years, it has become a **voracious** consumer of commodities such as **soybeans**, **iron ore** and copper. Chinese companies have also **poured into** the region. Electric cars made by the Chinese manufacturer BYD can be seen **cruising** the streets of Brazilian cities, from Brasília to Boa Vista, deep in the Amazon.
+The visit of the three South American leaders to China underlines the east Asian country’s rapidly growing **footprint** in a region where, over the past 25 years, it has become a **voracious** consumer of commodities such as soybeans, **iron ore** and copper.
 
 The visits also come amid global **jitters** over Trump’s volatile presidency and Latin American anxiety and suspicion over the US president’s plans for a region where he has threatened to “take back” the Panama **canal** – by force if necessary.
 
-“It tells us that countries around the world are willing to go out … to exploit all the opportunities that are there in the international system – and there are many. Because, as America turns away from free trade and as America **adopts** a policy that is … instead of **transactional**, **predatory** – countries have an incentive to engage with those who are transactional,” Spektor said, pointing to recent trips Lula made to Japan and Vietnam.
-
-“Lula is very proactively trying to open trade for Brazil at a time when America is **undoing** the previous rules of the game, and the new rules of the game are not yet born … These Latin American countries want to shape the norms that are likely to emerge now. And those rules are not going to emerge in Washington DC. They are going to be made globally,” Spektor added.
-
-“What happened on 20 January with Trump’s return to power is that the **barrage** of policy change coming from Washington DC has accelerated the belief that was already in place that the axis of global power has for a while been moving towards the east, and somewhat towards the south.”
+“It tells us that countries around the world are willing to go out … to exploit all the opportunities that are there in the international system – and there are many. Because, as America turns away from free trade and as America adopts a policy that is … instead of **transactional**, **predatory** – countries have an incentive to engage with those who are transactional,” Spektor said, pointing to recent trips Lula made to Japan and Vietnam.
 
 #### [2025-05-13 China cautiously welcomes pause in US tariff war](https://www.theguardian.com/world/2025/may/13/china-cautiously-welcomes-pause-in-us-tariff-war)
 
@@ -201,83 +195,49 @@ After two days of talks between officials in Geneva over the weekend, China and 
 
 Donald Trump hailed the talks as a “total reset” of the bilateral relationship but China’s responses made it clear that Beijing was still angry, and still blamed the US for **wreaking** economic chaos.
 
-On Tuesday afternoon, China’s foreign ministry continued to condemn the “unreasonable” tariffs, urging the US to “stop smearing and **shifting blame**” for its fentanyl crisis on to China.
+“While we are glad to see the resumption of dialogue, we are also fully prepared for the long-term, complex and **arduous** nature of resolving differences between the two countries,” it said.
 
-Chinese officials have repeatedly said Beijing opposes all tariffs and does not want to enter into a mutually **destructive** trade war but is willing to “fight to the end”.
+On Monday, China’s commerce and finance ministries held discussions with foreign trade representatives about navigating the next three months and **weathering** the shocks of the tariffs.
 
-“While we are glad to see the resumption of dialogue, we are also fully prepared for the long-term, complex and **arduous** **nature** of resolving differences between the two countries,” it said.
-
-The tariff war has had an extraordinary impact on Chinese traders and manufacturers, with **shipments** grinding to a halt and an estimated 16m jobs at risk.
-
-China now joins dozens of other countries in waiting to see if it can reach an agreement with the US not to restart **crushing** tariffs. On Monday, China’s commerce and finance ministries held discussions with foreign trade representatives about navigating the next three months and **weathering** the shocks of the tariffs.
-
-Ms Bao, an assistant to the general manager of a Ningbo foreign trade company, said 30% of their **export volume** went to the US, and they were feeling cautiously optimistic about the 90-day pause.
-
-One reader commenting on the Paper’s report said: “**Persistence** is victory!”
-
-Others were more **sarcastic** about the “victory”. “Oh, did we win again?” said one person on Weibo. “The stock indexes react like we just lose.”
-
-On Xiaohongshu, China’s Instagram, a user likened the pause to “changing the **ventilator** … on a dying patient”. “He can breathe, but he’s still far from being able to walk **briskly**,” they wrote.
+“He can breathe, but he’s still far from being able to walk **briskly**,” they wrote.
 
 #### [2025-05-22 World’s seven wealthiest countries agree to counter China’s trade practices](https://www.theguardian.com/world/2025/may/22/g7-china-trade)
 
-Top finance officials from the world’s seven wealthiest democracies have set aside **stark differences** on US tariffs and agreed to counter global “economic imbalances”, a swipe at China’s **trade practices**.
-
 Ahead of the meeting of G7 finance ministers and central bank governors there had been doubt about whether there would be a final **communique**, given divisions over US tariffs and Washington’s **reluctance** to refer to Russia’s war on Ukraine as illegal.
 
-But after talks that stretched over three days, participants signed a lengthy document that was **devoid** of previous **language** on fighting climate change, left out their traditional defence of free trade and softened references to the Ukraine war.
+But after talks that stretched over three days, participants signed a lengthy document that was **devoid** of previous language on fighting climate change, left out their traditional defence of free trade and softened references to the Ukraine war.
 
-“We found common ground on the most **pressing** global issues that we face,” Canadian finance minister Francois-Philippe Champagne told the closing press conference on Thursday.
+“We found common ground on the most **pressing** global issues that we face.”
 
-The high-profile gathering of officials from the US, Canada, the UK, Japan, Germany, France and Italy appeared to be more **congenial** than an earlier meeting of G7 foreign ministers in March. That meeting, also in Canada, occurred as Donald Trump was in the middle of threatening **stiff** tariffs on Canada and suggesting it could become the 51st state.
-
-“Our hand is **extended**,” Klingbeil added.
-
-Champagne downplayed the lack of communique language on tariffs, but said ministers “were not **skating around**” the issue and discussed the effects during the meeting. Canada is seeking a deal to eliminate Trump’s 25% tariffs on many goods, including steel and **aluminium**.
+The **high-profile** gathering of officials from the US, Canada, the UK, Japan, Germany, France and Italy appeared to be more **congenial** than an earlier meeting of G7 foreign ministers in March. That meeting, also in Canada, occurred as Donald Trump was in the middle of threatening **stiff** tariffs on Canada and suggesting it could become the 51st state.
 
 The description of the Ukraine war was **watered down** from the prior G7 statement issued in October, before Trump’s re-election, calling it an “illegal, unjustifiable, and unprovoked war of aggression against Ukraine”.
 
 Trump has diminished US support for Ukraine and has made statements suggesting that Kyiv was to blame for the conflict as he tries to **coax** Russia into peace talks.
 
-The finance meeting sets the stage for a G7 leaders summit June 15-17 in the nearby mountain **resort** area of Kananaskis. Trump will attend the summit, the White House confirmed on Thursday.
-
 #### [2025-05-24 As Trump focuses on his trade war, Brazil and China forge closer ties](https://www.theguardian.com/world/2025/may/24/as-trump-focuses-on-his-trade-war-brazil-and-china-forge-closer-ties)
 
-Few world leaders can say they’ve been hugged by Xi Jinping, China’s typically **reserved** president. Last year, an **embrace** between Xi and his Russian counterpart, Vladimir Putin, seemed to **sum up** the **cosy** – if **at times** slightly awkward – relationship between China and Russia.
+Few world leaders can say they’ve been hugged by Xi Jinping, China’s typically **reserved** president.
 
-Now Brazil’s president, Luiz Inácio Lula da Silva, can count himself among the **hallowed** few to have broken the handshake barrier with Chinese leader. Stepping off the stage after giving a speech in Beijing earlier this month, Lula shook Xi’s hand, but the moment swiftly **melted into** something more **affectionate**.
+Now Brazil’s president, Luiz Inácio Lula da Silva, can count himself among the **hallowed** few to have broken the handshake barrier with Chinese leader. Stepping off the stage after giving a speech in Beijing earlier this month, Lula shook Xi’s hand, but the moment swiftly melted into something more **affectionate**.
 
-Xi had good reason to be feeling warm towards the Brazilian leader. In Lula’s address to the China-CELAC forum, a dialogue between China and Latin American and Caribbean countries, he condemned US tariffs and said the Latin American region wanted to be “the axis of a multipolar order where the Global South is **duly** represented.”
+In Lula’s address to the China-CELAC forum, a dialogue between China and Latin American and Caribbean countries, he condemned US tariffs and said the Latin American region wanted to be “the axis of a multipolar order where the Global South is **duly** represented.”
 
-Lula’s presence at the forum was itself a **coup** for China as it seeks to expand its global influence in Latin America. Lula was one of three heads of states to attend the conference, along with the presidents of Chile and Colombia. That was no accident. China had specifically courted the leaders of countries seen as being influential in the region and closer to the US, rather than those from the countries more naturally aligned with the Chinese Communist party, such as Venezuela and Cuba, who lack regional clout. Lula in particular got a full **bells-and-whistles** welcome to Beijing, with a military performance in Tiananmen Square including a 21 gun **salute**.
-
-“Independence and autonomy are our glorious tradition. Development and **revitalisation** are our inherent right,” Xi said. China and the Latin American and Caribbean community have a “shared future”, he added.
-
-While Brazil has maintained strong ties with the US, on the other hand its relationship with China is significant, said Chonn-Ching, as “both countries promote multilateralism as part of their foreign policy and see themselves as having leading roles in their **respective** regions and in the Global South.”
+Lula’s presence at the forum was itself a **coup** for China as it seeks to expand its global influence in Latin America. Lula in particular got a full bells-and-whistles welcome to Beijing, with a military performance in Tiananmen Square including a 21 gun **salute**.
 
 But while Trump’s vision for the global order is still coming into focus, Beijing has for years **trumpeted** the importance of a “multipolar” system of international cooperation. It is a sentiment that Lula echoes.
 
 #### [2025-06-05 Donald Trump to meet Xi Jinping in China after ‘very good’ call on trade](https://www.theguardian.com/us-news/2025/jun/05/donald-trump-xi-jinping-china-phone-call-invitation-trade-tariffs)
 
-He wrote: “The call lasted approximately one and a half hours, and resulted in a very positive conclusion for both Countries. There should no longer be any questions **respecting** the complexity of Rare Earth products. Our respective teams will be meeting shortly at a location to be determined … During the conversation, President Xi **graciously** invited the First Lady and me to visit China, and I **reciprocated**.”
-
-The agreement allowed for a reduction in tariffs during a 90-day **moratorium** before talks to resolve differences, especially over the export of Chinese rare earth **metals**, which are crucial to making electric cars and mobile phones.
-
-China’s decision in April to suspend exports of a wide range of critical minerals and **magnets** has disrupted supplies needed by carmakers, computer chip manufacturers and military contractors around the world.
+He wrote: “During the conversation, President Xi **graciously** invited the First Lady and me to visit China, and I reciprocated.”
 
 #### [2025-06-11 US and China agree framework deal to extend trade war truce](https://www.theguardian.com/world/2025/jun/11/us-china-trade-talks-framework-deal-amid-dispute-over-rare-earths)
 
-Officials from the US and China have agreed on a “framework” to move forward on trade after two days of talks in London **stemming** from their confrontation over tariffs.
-
-The US commerce secretary, Howard Lutnick, expressed optimism on Tuesday that concerns about **critical** or “rare earth” minerals and magnets “will be resolved” as the deal is implemented.
-
-Lutnick told reporters that the framework puts “meat on the bones” of a deal reached last month in Geneva to ease retaliatory tariffs. Its implementation had **faltered** over China’s curbs on critical mineral exports. The deal also would remove some US export restrictions that were recently put in place, Lutnick said.
-
-Lutnick said China’s restrictions on exports of critical minerals and magnets to the US would be resolved as a “fundamental” part of the framework agreement. “Also, there were a number of measures the United States of America put on when those rare earths were not coming,” Lutnick said. “You should expect those to **come off**, sort of as President Trump said, in a balanced way.”
-
-All eyes were on the outcomes of negotiations as both sides were at an **impasse** over export restrictions, with US officials earlier accusing Beijing of slow-walking approvals for shipments of critical minerals.
+Its implementation had **faltered** over China’s curbs on critical mineral exports.
 
 #### [2025-07-07 Is Trump tariff deal really a win for Vietnam – or a way of punishing China?](https://www.theguardian.com/world/2025/jul/07/vietnam-trump-tariff-deal)
+
+================================================================================================================================================
 
 Just hours later though, they declined sharply, as it became clear that the **devil** would be in the detail, and the most **striking** part of the deal might in fact be aimed at Vietnam’s powerful neighbour China.
 
