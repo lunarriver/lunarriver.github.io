@@ -237,27 +237,17 @@ Its implementation had **faltered** over China’s curbs on critical mineral exp
 
 #### [2025-07-07 Is Trump tariff deal really a win for Vietnam – or a way of punishing China?](https://www.theguardian.com/world/2025/jul/07/vietnam-trump-tariff-deal)
 
-================================================================================================================================================
+However, a 40% tariff will remain for so-called transshipments – a **provision** that is aimed at Chinese companies accused of passing their products through Vietnam, or elsewhere, to avoid US tariffs.
 
-Just hours later though, they declined sharply, as it became clear that the **devil** would be in the detail, and the most **striking** part of the deal might in fact be aimed at Vietnam’s powerful neighbour China.
-
-However, a 40% tariff will remain for so-called **transshipments** – a **provision** that is aimed at Chinese companies accused of passing their products through Vietnam, or elsewhere, to avoid US tariffs.
-
-However, this caused the Vietnamese **trade surplus** with the US to surge, attracting US **ire** and allegations that Vietnam was wrongly acting as a **conduit** for Chinese companies wanting access to the US market.
+However, this caused the Vietnamese trade surplus with the US to surge, attracting US **ire** and allegations that Vietnam was wrongly acting as a **conduit** for Chinese companies wanting access to the US market.
 
 Vietnam’s manufacturing industry is closely **intertwined** with both the US and China. US exports account for 30% of Vietnam’s GDP, while China is Vietnam’s top import source, relied on for raw materials used to make anything from **footwear** to furniture and electronics.
 
-Vietnam is not alone in relying on China for such components, especially across electronic sectors. “China is completely **interwoven** into global supply chains,” says Dan Martin, international business adviser at Dezan Shira and Associates, based in Hanoi.
+“China is completely **interwoven** into global supply chains,” says Dan Martin.
 
-If companies are expected to prove the origin of all goods, this could place an unwelcome burden on those in sectors such as **textiles** where margins are low, says Martin.
+It considers the US not only a key export market but a security partner that serves as a counterbalance to China’s **assertiveness**.
 
-Businesses are largely pausing decisions until a clearer **picture** emerges, say analysts.
-
-Policymakers in Hanoi remain on a diplomatic tightrope. Vietnam has long sought to balance relations with Washington and Beijing. It considers the US not only a key export market but a security partner that serves as a counterbalance to China’s **assertiveness**.
-
-However, if Beijing considers that Hanoi is helping Washington constrain it, this risks **antagonising** Vietnam’s northern neighbour. It could lead to economic measures from China, or pressure over the disputed South China Sea, a major flashpoint in the region, says Peter Mumford, head of practice for south-east Asia at Eurasia Group.
-
-Vietnam has made efforts to show goodwill towards China over recent months, while also **courting** Trump.
+However, if Beijing considers that Hanoi is helping Washington constrain it, this risks **antagonising** Vietnam’s northern neighbour.
 
 However the market for cars remains small in Vietnam, where city streets are famously **crammed** with millions of motorbikes.
 
@@ -265,49 +255,37 @@ However the market for cars remains small in Vietnam, where city streets are fam
 
 #### [2025-05-02 ‘For a better life’: CIA releases videos to lure disgruntled CCP officials to spy on China](https://www.theguardian.com/world/2025/may/02/cia-china-videos-communist-party-spying-recruitment)
 
-The CIA is on a **recruitment drive** for foreign spies. In their sights are Chinese officials and workers, who the US intelligence agency hopes to turn against Beijing via some newly released **glossy** videos.
+In their sights are Chinese officials and workers, who the US intelligence agency hopes to turn against Beijing via some newly released **glossy** videos.
 
-The two videos touch on probable **anxieties** among some inside the Communist party machine – getting stuck in a lowly job assisting an increasingly wealthy corrupt official, or becoming victim to the endless purges that have targeted millions of party members at all levels since Xi Jinping came to power.
+“The information you can provide is important and we value your **insights** on these topics.”
 
-“As I rise within the party, I watch those above me being discarded like worn-out shoes, but now I realise that my fate was just as precarious as theirs,” a **narrator** says in one video, adding that he must protect his family whose fate is tied to his.
+The agency has said it has had previous success **enlisting** Russians.
 
-“Do you have any information about economic, fiscal, or trade policies?” the CIA asks in the **caption**.
-
-“Do you work in the defence industry? Do you work in national security, diplomacy, science, advanced technology, or deal with people who work in these fields? Please contact us. The information you can provide is important and we value your **insights** on these topics.”
-
-The campaign follows earlier efforts which began in October, with instructions posted online for potential assets in China, Iran and North Korea to get in touch with the CIA. The agency has said it has had previous success **enlisting** Russians.
-
-The CIA has a particular focus on rebuilding an espionage network inside China. A couple of years before Xi came to power in 2012, China’s ministry of state security reportedly dismantled a US spy ring, jailing and **executing** at least a dozen CIA **assets**.
-
-“It is intent on dominating the world economically, militarily, and technologically,” CIA director John Ratcliffe said in a statement. “Our agency must continue responding to this threat with urgency, creativity, and **grit**, and these videos are just one of the ways we are doing this.”
+“Our agency must continue responding to this threat with urgency, creativity, and **grit**, and these videos are just one of the ways we are doing this.”
 
 #### [2025-05-24 ‘Alarming’ rise in regional internet censorship in China, study finds](https://www.theguardian.com/world/2025/may/24/alarming-rise-in-regional-internet-censorship-in-china-study-finds)
 
-China’s authorities appear to have implemented an enhanced version of the country’s internet censorship **regime** in the central province of Henan, subjecting tens of millions of residents to even stricter controls on access to information than people in the rest of the country.
+China’s authorities appear to have implemented an enhanced version of the country’s internet censorship **regime** in the central province of Henan.
 
-In 2022, thousands of people in Henan took part in several demonstrations after they were blocked from withdrawing cash from their bank accounts. The crisis escalated when protesters reported that their mobile health codes, part of the pandemic control measures in place at the time, had turned red, preventing them from travelling or entering buildings. Five officials were later punished for abusing the health code system to **quell** the protests.
+Five officials were later punished for abusing the health code system to **quell** the protests.
 
-Other parts of China have also been subjected to enhanced internet controls. In July 2009, following deadly ethnic **riots**, the Chinese government imposed an internet blackout in Xinjiang, a region in western China home to the Uyghur minority, that lasted 10 months. Since then, the use of the internet in Xinjiang has been much more tightly monitored than in the rest of the country. Online activities in Tibet are also strictly controlled.
+The emergence of a regional censorship regime in Henan is unusual because it is not a region of China that is normally considered especially **restive** by the Chinese authorities.
 
-The **emergence** of a regional censorship regime in Henan is unusual because it is not a region of China that is normally considered especially **restive** by the Chinese authorities.
+Rapid advances in China’s artificial intelligence companies are a **boon** to both the censors and those who wish to **evade** them.
 
-Rapid advances in China’s artificial intelligence companies are a **boon** to both the censors and those who wish to **evade** them. China’s Ministry of Public Security (MPS) recently unveiled new surveillance tools that can monitor people who use virtual private networks, software that allows people to circumvent the internet firewall. The MPS’s research institute also showcased a tool that it claimed could monitor accounts on Telegram, a messaging app. The tool has already collected more than 30bn messages, the institute claimed.
-
-Mingshi Wu, the lead author of the Henan study, who uses a pseudonym to protect their identity, said: “On the one hand, AI could be leveraged to create more sophisticated, adaptive, and efficient censorship and surveillance tools. On the other hand, AI also enables new opportunities for those seeking to understand and circumvent censorship. For example, AI can assist in developing more **agile** testing tools for detecting censorship.”
+For example, AI can assist in developing more **agile** testing tools for detecting censorship.”
 
 #### [2025-05-27 Poorest 75 nations face ‘tidal wave’ of debt repayments to China in 2025, study warns](https://www.theguardian.com/world/2025/may/27/poorest-750-nations-face-tidal-wave-of-debt-repayments-to-china-in-2025-study-warns)
 
-The most vulnerable nations on Earth are facing a “**tidal** wave” of debt repayments as a Chinese **lending boom** starts to be called in, a new report has warned.
+The most vulnerable nations on Earth are facing a “tidal wave” of debt repayments as a Chinese **lending boom** starts to be called in, a new report has warned.
 
-The pressure to repay was putting strain on local **funding** for health and education as well as climate change **mitigation**.
+The pressure to repay was putting strain on local funding for health and education as well as climate change **mitigation**.
 
-“China’s lending has collapsed exactly when it is needed most, instead creating large **net financial outflows** when countries are already under intense economic pressure,” it said.
-
-The loans were largely issued under President Xi Jinping’s **signature** belt and road initiative (BRI), a state-backed global infrastructure investment programme which has **underwritten** national projects from schools, bridges and hospitals to **major roads** and shipping and air ports.
+The loans were largely issued under President Xi Jinping’s signature belt and road initiative (BRI), a state-backed global infrastructure investment programme which has **underwritten** national projects from schools, bridges and hospitals to major roads and shipping and air ports.
 
 The lending **spree** turned China into the largest supplier of bilateral loans, peaking with a total of more than $50bn in 2016 – more than all western creditors combined.
 
-The BRI focused primarily in developing nations, where governments struggled to access private or other state-backed investment. But the practice has raised concerns about Chinese influence and control and drawn accusations that Beijing was seeking to **entrap** recipient nations with **unserviceable** debt. Last month another analysis by the Lowy Institute found that Laos was now trapped in a severe debt crisis, in part because of over-investment in the domestic energy sector, mostly **financed** by China.
+But the practice has raised concerns about Chinese influence and control and drawn accusations that Beijing was seeking to **entrap** recipient nations with unserviceable debt.
 
 China’s government denies accusations it deliberately creates debt traps, and recipient nations have also **pushed back**, saying China was a more reliable partner and offered crucial loans when others refused.
 
@@ -315,18 +293,15 @@ But the situation also put China in a **bind**, pulled between diplomatic pressu
 
 #### [2025-06-09 Chinese tech firms freeze AI tools in crackdown on exam cheats](https://www.theguardian.com/world/2025/jun/09/chinese-tech-firms-freeze-ai-tools-exam-cheats-universities-gaokao)
 
-This year, students hoping to get some assistance from increasingly advanced AI tools have been **stymied**.
-
-The Guardian has contacted the relevant companies for comment, none of which have made public statements about the functions freeze. The suspension appears to have been publicised largely by university students who have been locked out of tools to assist them in their study and **assignments**.
-
-In Jiangxi province, for example, footage will be reviewed after the exam and any violations or **misconduct** “**dealt** with strictly in accordance with relevant regulations”, the state-backed Global Times reports.
+In Jiangxi province, for example, footage will be reviewed after the exam and any violations or **misconduct** “dealt with strictly in accordance with relevant regulations”, the state-backed Global Times reports.
 
 Late last month, Chinese authorities also announced stricter entry checks at exam points, **biometric** identification, enhanced screening for digital devices, and radio signal blockers, state media reported.
 
-Reflecting how seriously Chinese society views the gaokao, some cities have postponed **disruptive** events such as public performances, delayed office starting hours and created **dedicated** priority traffic **lanes** to ensure students arrive to the test on time.
+Reflecting how seriously Chinese society views the gaokao, some cities have postponed disruptive events such as public performances, delayed office starting hours and created **dedicated** priority traffic lanes to ensure students arrive to the test on time.
 
 #### [2025-06-27 Top Chinese general ousted from body that oversees China’s military](https://www.theguardian.com/world/2025/jun/27/top-chinese-general-miao-hua-ousted-from-body-that-oversees-china-military)
 
+================================================================================================================================================
 
 A top Chinese general has been dismissed from the body that oversees the Chinese military in the latest sign that Xi Jinping’s anti-corruption drive has reached the highest **echelons** of the armed forces.
 
