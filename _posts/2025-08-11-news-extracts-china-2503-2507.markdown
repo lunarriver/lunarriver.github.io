@@ -301,67 +301,35 @@ Reflecting how seriously Chinese society views the gaokao, some cities have post
 
 #### [2025-06-27 Top Chinese general ousted from body that oversees China’s military](https://www.theguardian.com/world/2025/jun/27/top-chinese-general-miao-hua-ousted-from-body-that-oversees-china-military)
 
-================================================================================================================================================
+He was suspended last year and placed under investigation for “serious violations of discipline”, a **byword** for corruption.
 
-A top Chinese general has been dismissed from the body that oversees the Chinese military in the latest sign that Xi Jinping’s anti-corruption drive has reached the highest **echelons** of the armed forces.
+Miao’s dismissal reflects the latest **ructions** in China’s armed forces.
 
-Miao Hua, a senior admiral from the People’s Liberation Army (PLA) navy, was the director of the political work department of the central military commission (CMC), making him responsible for ideology and loyalty within the armed forces. The six-person CMC is one of the most powerful institutions in China and is headed by Xi himself.
+Since then, millions of officials have been investigated, and hundreds of thousands reportedly penalised, including high-profile people being expelled or **prosecuted**.
 
-On Friday, a statement from the Chinese government confirmed that Miao had been dismissed. He was suspended last year and placed under investigation for “serious violations of discipline”, a **byword** for corruption. He was expelled from the National People’s Congress, China’s parliament, in April.
-
-The **dismissal** makes Miao one of the highest-ranking CMC officials to be purged since the 1960s, and the latest in a rush of senior military figures targeted.
-
-He Weidong, a vice-chair of the CMC, is also reported to be under investigation.
-
-The CMC is the governing body of the PLA, and oversees China’s coastguard. Xi is the chair of the CMC, as well as being the leader of China’s ruling Communist party (CCP) and the president.
-
-Miao’s dismissal reflects the latest **ructions** in China’s armed forces. Beijing is keen to present an image of strength and stability on the world stage. The purges risk disrupting that image, although at a time when global attention is focused on wars in the Middle East and Ukraine, senior personnel changes in China’s military may garner less attention.
-
-US-China military dialogue, seen as essential for avoiding accidental conflicts, particularly in the Taiwan strait, have been limited under the presidency of Donald Trump, who has also fired several senior military officials. US military representatives travelled to Shanghai for talks in April, but there have been no public signs of high-ranking meetings.
-
-The US and Chinese defence ministers sometimes meet at the Shangri-la Dialogue, an annual defence forum which was held in Singapore last month. But this year China only sent a small, lower-ranking delegation.
-
-In the past two years, Xi has dismissed two defence ministers, Li Shangfu and Wei Fenghe; two heads of the PLA’s rocket force, which is responsible for missiles and the nuclear arsenal, and two senior CMC officials. Senior aerospace and defence business leaders have also been removed from a CCP advisory body.
-
-Many of the recent oustings appear to be related to an investigation into corruption in military **procurement**. Li, who was dismissed as defence minister in 2023 and expelled from the CCP last year, previously led the equipment procurement department. Several of his associates from the military and the equipment procurement department were also purged.
-
-Xi took power with a promise to root out corruption in China, vowing to come after both the “tigers and the flies”. Since then, millions of officials have been investigated, and hundreds of thousands reportedly **penalised**, including high-profile people being expelled or **prosecuted**.
-
-Having now ruled for more than a decade, however, many of the senior figures coming into the **crosshairs** of anti-corruption campaigns are people, such as Miao and Li, who Xi had personally appointed, raising questions about his ability to **vet** important appointments.
-
-Speculation that he was under investigation ran **rampant** until October when Beijing announced he had been removed from his post. No reason was given.
+Speculation that he was under investigation ran **rampant** until October when Beijing announced he had been removed from his post.
 
 #### [2025-07-04 Hong Kong code of conduct will oblige legislators to ‘sincerely support’ Beijing](https://www.theguardian.com/world/2025/jul/04/hong-kong-code-of-conduct-sincerely-support-beijing)
 
-A new **code** of conduct in Hong Kong will require legislators to “sincerely support” Beijing’s jurisdiction on the city and the chief executive, and **prohibits** anything that might “vilify” the government.
-
-The proposal for the new code, introduced on Wednesday, included **tiered** penalties for legislators who breach the code, including **suspension** without payment for the most serious offences.
+A new **code** of conduct in Hong Kong will require legislators to “sincerely support” Beijing’s jurisdiction on the city and the chief executive, and prohibits anything that might “**vilify**” the government.
 
 It **stipulated** that legislators must “sincerely support the central government’s overall jurisdiction while securing the Hong Kong SAR’s special administrative region’s high degree of autonomy”, as well as the principle of “patriots administering Hong Kong”, referring to election reforms which ensure that only pro-Beijing candidates can run.
 
 Hong Kong’s governance system has undergone major **overhauls** in recent years, after a crackdown on the city’s pro-democracy movement and politicians saw major interventions by the government in Beijing.
 
-Every major democratic party has **disbanded** or begun the process of disbandment, and thousands of people – including politicians and activists – have been prosecuted under national security laws.
+A separate proposal this week flags new prison rules which include only allowing visits pre-approved by the correctional services department, would empower the department to consider restrictions on **clergy** visits, and seek rulings to bar visits by specific legal representatives to imprisoned clients.
 
-A separate proposal this week flags new prison rules which include only allowing visits pre-approved by the **correctional** services department, would empower the department to consider restrictions on **clergy** visits, and seek rulings to bar visits by specific legal representatives to imprisoned clients.
-
-“In fact, they are using soft means to influence prisoners, intending to incite them to resist the **supervision** of the correctional services department, **arouse** their hatred towards the central government and the SAR government, and even make them become potential risks to national security and public safety after returning to society.”
-
-Senior foreign judges have left or resigned from Hong Kong’s **appeal court**, with several specifically citing concerns over the new environment. Hong Kong authorities reject the claims.
+“In fact, they are using soft means to influence prisoners, intending to incite them to resist the supervision of the correctional services department, **arouse** their hatred towards the central government and the SAR government, and even make them become potential risks to national security and public safety after returning to society.”
 
 #### [2025-07-07 China’s human rights lawyers speak out, 10 years after crackdown](https://www.theguardian.com/world/2025/jul/07/chinas-human-rights-lawyers-speak-out-10-years-after-crackdown)
 
-A decade on from China’s biggest crackdown on human rights lawyers in modern history, lawyers and activists say that the Chinese Communist party’s control over the legal **profession** has tightened, making rights defence work next to impossible.
-
 The environment for human rights law has “steadily **regressed**, especially after the pandemic”, said Ren Quanniu, a **disbarred** human rights lawyer. During that time judicial organs were attacked as “**bourgeois**” and the **nascent** court system was largely suspended.
 
-According to human rights groups and the US government, about 300 people from the loose collective of a **burgeoning** rights defence movement, known as weiquan, were targeted in the **round-up**. At least 10 were convicted of crimes such as “subversion of state power” and given jail terms, while dozens more have been subjected to **surveillance**, harassment and the revocation of their professional licences in the years since.
+According to human rights groups and the US government, about 300 people from the loose collective of a **burgeoning** rights defence movement, known as weiquan, were targeted in the round-up. At least 10 were convicted of crimes such as “subversion of state power” and given jail terms, while dozens more have been subjected to **surveillance**, harassment and the revocation of their professional licences in the years since.
 
 Lawyers scored wins for defendants in cases ranging from **tainted** baby milk formula scandals to the abuse of migrant workers.
 
-“It’s hard to say we achieved success – we can only say that the services we provided have made it more difficult for the authorities to **persecute** certain groups,” said Jiang Tianyong, a 54-year-old former human rights lawyer known for taking on cases involving religious and ethnic minorities who served two years in prison for “inciting subversion of state power”.
-
-The **daily grind** was not about **promulgating** foreign ideas, said Ren.
+The daily grind was not about **promulgating** foreign ideas, said Ren.
 
 Under Xi’s rule, activists have been rounded up, independent law firms and NGOs have been **reined** in, and any kind of organised activity outside the **auspices** of the Communist party (CCP) has been tightly restricted.
 
@@ -369,29 +337,21 @@ Under Xi’s rule, activists have been rounded up, independent law firms and NGO
 
 Ren escaped the first wave of **reprisals** after the 709 incident.
 
-Those without licences try to offer **informal** advice to people in need, but their ability is severely limited.
-
 “Although the year of the 709 incident marked a major regression in the rule of law in China … people, I believe, are gradually building resilience, **maturing** and becoming stronger.”
 
 #### [2025-07-22 China blocks US federal employee from leaving](https://www.theguardian.com/world/2025/jul/22/china-blocks-us-federal-employee-from-leaving)
-
-The federal employee works for the US **Patent** and **Trademark** Office, and was visiting China in a **personal capacity**, according to the state department.
-
-Exit bans are a controversial mechanism used by the Chinese government to bar both Chinese citizens and foreigners from leaving, for reasons ranging from criminal investigations to unsettled **civil disputes**, but is also used as a **leverage tool** in diplomatic disputes.
-
-The exact reasons for the federal employee’s exit ban are unclear, but the Washington Post had previously reported that the worker, whose identity has not been released, was stopped from leaving the country after he failed to **disclose** his government employment on the visa application. He reportedly had also served in the US Army.
-
-“Chenyue Mao is involved in a criminal case currently being handled by Chinese **law-enforcement authorities** and is subject to exit restrictions in accordance with the law,” Guo said.
 
 Wells Fargo has since banned all employees from travelling to China since Mao – a **naturalised** US citizen of **Chinese descent** – was stopped from leaving.
 
 A 2023 report by Safeguard Defenders said that since Xi Jinping came to power in 2012, “China has expanded the **legal landscape** for exit bans and increasingly used them, sometimes outside legal justification”.
 
-Exit bans have been used against activists and journalists – including foreign **correspondents** – and family members of the people actually of interest to the Chinese government. In 2019 two American siblings were allowed to return home after three years trapped in China. Cynthia and Victor Liu were subject to an exit ban, despite not facing any criminal allegations. Their father, a former bank official and **fugitive** Liu Changming, was wanted in China to face **fraud charges**.
+Cynthia and Victor Liu were subject to an exit ban, despite not facing any criminal allegations. Their father, a former bank official and **fugitive** Liu Changming, was wanted in China to face fraud charges.
 
 ### Others
 
 #### [2024-04-28 China and Philippines display competing flags on disputed South China Sea sandbank](https://www.theguardian.com/world/2025/apr/28/china-philippines-flags-sandy-cay-south-china-sea)
+
+================================================================================================================================================
 
 China and the Philippines have displayed their national flags in competing photo opportunities on a disputed **sandbank** in the South China sea, **ratcheting** up longstanding regional tensions between the two countries.
 
