@@ -351,135 +351,67 @@ Cynthia and Victor Liu were subject to an exit ban, despite not facing any crimi
 
 #### [2024-04-28 China and Philippines display competing flags on disputed South China Sea sandbank](https://www.theguardian.com/world/2025/apr/28/china-philippines-flags-sandy-cay-south-china-sea)
 
-================================================================================================================================================
+The latest confrontation appears to have emerged on Thursday, when Chinese state media reported the Coast Guard landed on the disputed reef two weeks ago, **unfurled** a flag and “exercised sovereign jurisdiction”.
 
-China and the Philippines have displayed their national flags in competing photo opportunities on a disputed **sandbank** in the South China sea, **ratcheting** up longstanding regional tensions between the two countries.
+“The facts on the ground **belie** their statements,” National Security Council spokesperson Jonathan Malaya said.
 
-The dispute played out at Sandy Cay, which is part of the disputed Spratly Islands, and comes days after the US and the Philippines launched their annual joint military drills called “Balikatan”, or “shoulder to shoulder”, which this year will include an **integrated** air and missile defence **simulation** for the first time.
-
-The latest confrontation appears to have emerged on Thursday, when Chinese state media reported the Coast Guard landed on the disputed **reef** two weeks ago, **unfurled** a flag and “exercised sovereign jurisdiction”.
-
-On Sunday, China’s coast guard then accused six Filipino personnel of “illegally boarding” Sandy Cay, which Beijing calls Tiexian Reef, earlier that day despite “warnings and **dissuasion**” from the Chinese side.
-
-Sandy Cay is just a few kilometres from Thitu island, where the Philippines maintains a military **outpost**.
-
-“The **facts on the ground** **belie** their statements,” National Security Council spokesperson Jonathan Malaya said. “It is not to the benefit of any nation if these things are happening, nor it is to the benefit of any nation if such **irresponsible** announcements and statements are released to the public and to the world.”
-
-Chinese state broadcaster CCTV published a photograph of five **black-clad** people standing on the **uninhabited** reef as a dark inflatable boat **bobbed** in the nearby water. The group also “cleaned up **leftover** plastic bottles, wooden sticks and other debris and garbage on the reef”, the broadcaster reported.
+The group also “cleaned up **leftover** plastic bottles, wooden sticks and other debris and garbage on the reef”, the broadcaster reported.
 
 #### [2025-06-01 China accuses Pete Hegseth of sowing division in Asia in speech ‘filled with provocations’](https://www.theguardian.com/world/2025/jun/01/china-accuses-pete-hegseth-of-sowing-division-in-asia-in-speech-filled-with-provocations)
 
-On Saturday Hegseth said China was “**credibly** preparing to potentially use military force to alter the balance of power in the Indo-Pacific”, and was rehearsing for “the **real deal**” of invading Taiwan.
-
-“There’s no reason to **sugar coat** it. The threat China **poses** is real, and it could be imminent,” the US defence secretary said in a keynote address at the Shangri-la Dialogue defence forum, calling for Asian countries to increase defence spending.
-
-“Hegseth deliberately ignored the call for peace and development by countries in the region, and instead touted the cold war mentality for bloc confrontation, **vilified** China with **defamatory** allegations, and falsely called China a ‘threat’,” it said.
-
 Speaking to reporters on Sunday morning, Australia’s defence minister, Richard Marles, rejected the **premise** of China’s criticism of Hegseth.
-
-“What we have seen from China is the single biggest increase in military capability and buildup in a **conventional sense** by any country since the end of the second world war,” he said.
-
-“That is one of the key features of the **complexity** of the strategic landscape which all of us face within the region and which is faced around the world.”
-
-The US is not a **signatory** to that convention.
 
 Past years have often seen the US and China trade **barbs**, but also occasionally hold significant meetings, including last year with China’s defence minister, Dong Jun, and Hegseth’s predecessor, Lloyd Austin.
 
-This year, however, China sent only a small delegation led by a vice-president of the People’s Liberation Army’s national defence university, **Rear Adm** Hu Gangfeng.
-
 Referencing China’s absence, Chan said Beijing should use “every opportunity” available to **get** its position **across**.
 
-“But **regardless of** whether China attends the dialogue, it is **incumbent** on all of us to reach out to China in different forums … to not end up in a situation where either side **misinterprets**, miscalculates, or **misrepresents** each other’s position. That is dangerous.”
+“But regardless of whether China attends the dialogue, it is **incumbent** on all of us to reach out to China in different forums … to not end up in a situation where either side misinterprets, miscalculates, or misrepresents each other’s position. That is dangerous.”
 
 #### [2025-06-09 Chinese aircraft carrier group enters waters near Japan’s easternmost island for first time](https://www.theguardian.com/world/2025/jun/09/chinese-aircraft-carrier-japan-exclusive-economic-zone-waters)
 
-The chief cabinet secretary, Yoshimasa Hayashi, did not say if the government had **lodged** a formal protest, saying only that it had “conveyed an appropriate message to the Chinese side”.
-
-The incursion into Pacific waters about 300km south-west of Minamitori island will add to concern in Tokyo and Washington about China’s increasingly **assertive** naval and air activity in and around Japanese waters.
-
 The countries are **embroiled** in a longstanding territorial dispute over the Senkakus – uninhabited islets in the east China Sea that are administered by Japan but claimed by China, where they are known as the Diaoyu.
 
-This is the first time, however, that a Chinese vessel has entered that part of Japan’s EEZ – an area within 200 **nautical** miles (370km) of its coastline – a defence ministry spokesperson told Agence France-Presse.
-
-After leaving the EEZ, the Chinese carrier group conducted **landing and take-off** drills involving fighter jets and helicopters, the ministry said, adding that Japan had deployed a warship, Haguro, to monitor the situation.
-
-Minamitori, the **easternmost** point of the Japanese **archipelago**, is surrounded by large **deposits** of rare metals. Last year, experts from the Nippon Foundation and Tokyo University said about 200m tonnes of **manganese** **nodules** rich in rare metals existed on the seabed near the island.
+Minamitori, the easternmost point of the Japanese **archipelago**, is surrounded by large deposits of rare metals.
 
 #### [2025-06-26 China breaks more records with surge in solar and wind power](https://www.theguardian.com/world/2025/jun/26/china-breaks-more-records-with-massive-build-up-of-wind-and-solar-power)
 
-China installed 93 GW of solar capacity last month – almost 100 solar panels every second, according to an analysis by Lauri Myllyvirta, a senior fellow at the Asia Society Policy Institute. Wind power installations reached 26 GW, the equivalent of about 5,300 **turbines**.
+Wind power installations reached 26 GW, the equivalent of about 5,300 **turbines**.
 
 Trump withdrew from many major environmental protection treaties, such as the Paris climate agreement which aims to limit global warming to well below two degrees **celsius** above preindustrial levels.
 
-China is the world’s biggest emitter of **greenhouse gases** but is also the world’s biggest supplier and installer of clean energy technology.
-
-Xi Jinping, China’s leader, is increasingly connecting China’s climate ambitions with the growth of the clean energy technology sector, which he sees as vital to boosting China’s **flagging** economy.
-
-But the **hyper-competitiveness** of China’s economy is also putting pressure on clean energy firms, with prices of solar panels barely covering the cost of production.
-
 #### [2025-07-02 Quad countries agree to diversify critical mineral supplies amid China concerns](https://www.theguardian.com/world/2025/jul/02/quad-countries-agree-to-diversify-critical-mineral-supplies-amid-china-concerns)
-
-The four countries said in a joint statement that they were establishing the Quad Critical Minerals Initiative, aimed at “collaborating on securing and **diversifying**” supply chains.
-
-They offered little detail but made clear the goal was to reduce reliance on China, which has used restrictions **as leverage** as the US in turn curbs its access to semiconductors and threatens steep tariffs.
 
 China holds major reserves of several key minerals including the vast majority of the world’s **graphite**, which is crucial for electric vehicles.
 
 In a joint statement, the Quad countries said: “Reliance on any one country for processing and refining critical minerals and **derivative** goods production exposes our industries to economic coercion, price manipulation and supply chain disruptions.”
 
-Rubio had welcomed the Quad foreign ministers on 21 January in his first meeting after Trump’s inauguration, seen as a sign the new administration would prioritise engagement with **like-minded** countries to counter China.
-
-But to the surprise of many, China has not topped the **early agenda** of Trump, who has spoken respectfully about his counterpart, Xi Jinping, and moved to ease tensions in a wider trade war between the world’s two largest economies.
-
-Both the Indian and Japanese foreign ministers said they wanted the Quad to focus on a “free and open Indo-Pacific” – a **phrasing** that is a **veiled** **allusion** to opposing Chinese dominance in Asia.
-
-“It is **essential** that nations of the Indo-Pacific have the freedom of choice, so essential to make right decisions on development and security,” Indian foreign minister Subrahmanyam Jaishankar said.
-
 At Jaishankar’s urging, the Quad also condemned a May attack on the Indian side of Kashmir that killed mostly Hindu civilians and called for “the **perpetrators**, organisers and financiers of this **reprehensible** act to be brought to justice without any delay”.
-
-In a key concern for Japan, the Quad condemned North Korea for its “destabilising launches” of missiles and insisted on its “complete **denuclearisation**”.
 
 India has maintained its long relationship with Russia despite the invasion of Ukraine, while both India and Japan also have historically enjoyed **cordial** ties with Iran.
 
 #### [2025-07-02 ‘A billion people backing you’: China transfixed as Musk turns against Trump](https://www.theguardian.com/technology/2025/jul/02/a-billion-people-backing-you-china-transfixed-as-musk-turns-against-trump)
 
-Few **break-ups** have as many **gossiping** observers as the fallout between the once **inseparable** Donald Trump and Elon Musk.
+Few **break-ups** have as many gossiping observers as the fallout between the once inseparable Donald Trump and Elon Musk.
 
 The ill-fated bromance between the US president and the world’s richest man, which once raised questions about American **oligarchy**, is now being **pored** over by social media users in China, many of whom are Team Musk.
 
-Musk had already vowed to unseat lawmakers who backed Trump’s **flagship** piece of legislation, which is expected to increase US national debt by $3.3tn.
-
-One comment **summed up** the mood on the platform: “Brother Musk, you’ve got over a billion people on our side backing you.”
-
-Musk, the CEO of Tesla and SpaceX, is widely **venerated** in China for his business **acumen** and technological achievements. Tesla’s electric vehicles are the only western brand on Chinese roads that can rival domestic firms, and the company’s biggest factory by volume is in Shanghai. Musk is known to have a close relationship with China’s premier, Li Qiang, while Musk’s mother, Maye Musk, is a social media celebrity **in her own right** in China.
-
-Musk’s popularity in China follows a well-established trend of Chinese audiences **enthusiastically** embracing US tech innovators. Walter Isaacson’s biography of Steve Jobs was a bestseller in China, as was his biography of Musk.
-
-Trump, however, is seen by many as being an unpredictable funnyman who has launched the most **aggressive** trade war on China in recent history.
-
-Some internet users commented that Trump and Musk should grow up. “These two grown men argue **nonstop** over the smallest things – and the whole world ends up knowing about it,” wrote one user, while another joked: “Every day, Musk is basically live-streaming ‘How Billionaires Argue’”.
+Musk, the CEO of Tesla and SpaceX, is widely **venerated** in China for his business **acumen** and technological achievements.
 
 The conversation has been allowed to **flourish** on China’s tightly controlled social media, suggesting that at least some censors are betting that the US political chaos could be no bad thing for China.
 
 #### [2025-07-02 Dalai Lama defies China to say successor will be chosen by Tibetan tradition](https://www.theguardian.com/world/2025/jul/02/dalai-lama-says-there-will-be-search-for-his-successor-ending-years-of-speculation)
 
-The Dalai Lama has declared in a direct challenge to China that the **centuries-old** spiritual institution bearing his name will continue after his death and that only his inner circle, not Beijing, will have the authority to identify his successor.
-
 In a video message played on Wednesday during prayer celebrations ahead of his 90th birthday this weekend, the 14th Dalai Lama said the Gaden Phodrang Trust, which manages his affairs, would oversee the search for his **reincarnation**.
 
-“In accordance with all these requests, I am affirming that the **institution** of the Dalai Lama will continue,” he told the gathering of senior Buddhist monks. He said clear written instructions would be left behind, but did not **elaborate** on their contents.
+It has said the choice of the next Dalai Lama lies only with Beijing, and has enshrined state **assent** for all senior Tibetan religious leaders in law. It insists the golden urn – a Qing dynasty **ritual** in which names are drawn by lot from a ceremonial vessel – is the only legitimate method for recognising reincarnated lamas.
 
-China annexed Tibet in 1951 and has retained tight control over the region ever since. It has said the choice of the next Dalai Lama lies only with Beijing, and has **enshrined** state **assent** for all senior Tibetan religious leaders in law. It insists the golden **urn** – a Qing dynasty **ritual** in which names are drawn by lot from a ceremonial vessel – is the only legitimate method for recognising reincarnated lamas. The Communist party must approve the final selection.
-
-The boy and his family vanished into Chinese **custody** days later and have not been seen since. China **installed** its own candidate, widely rejected by Tibetans. According to Chinese state media, the Beijing-backed Panchen Lama met President Xi Jinping just last month and pledged loyalty to the Communist party.
-
-Tibetan Buddhists believe the Dalai Lama is the **earthly** **manifestation** of Avalokiteshvara, a **revered** figure in Buddhism known as the **bodhisattva** of **compassion** – a spiritual being who remains in the world to guide others on the path to **enlightenment**.
+Tibetan Buddhists believe the Dalai Lama is the **earthly** manifestation of Avalokiteshvara, a **revered** figure in Buddhism known as the bodhisattva of compassion – a spiritual being who remains in the world to guide others on the path to **enlightenment**.
 
 By tradition, only the current Dalai Lama, or those he appoints, can identify his successor, using visions, **omens** and consultation with senior lamas and protectors of the faith.
 
-The deputy speaker of the Tibetan parliament in exile, Dolma Tsering Teykhang, said: “The world needs to hear directly from His Holiness. China tries to **vilify** him at every chance … It is trying to frame rules and regulations on how to have the reincarnation of the Dalai Lama in their hand.”
-
 #### [2025-07-06 Dalai Lama celebrates his 90th birthday, triggering geopolitical questions for the future](https://www.theguardian.com/world/2025/jul/06/dalai-lama-celebrates-his-90th-birthday-triggering-geopolitical-questions-for-the-future)
+
+================================================================================================================================================
 
 “He has been an **enduring** symbol of love, compassion, patience and moral discipline,” he added.
 
