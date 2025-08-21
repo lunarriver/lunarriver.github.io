@@ -457,8 +457,6 @@ Environmentalists have also expressed concern about wildlife in the region, as w
 
 #### [2025-07-22 Arrests in China after more than 230 kindergarten children poisoned by lead paint in food](https://www.theguardian.com/world/2025/jul/22/arrests-in-china-after-more-than-230-kindergarten-children-poisoned-by-lead-paint-in-food-ntwnfb)
 
-================================================================================================================================================
-
 An investigative report released by the Gansu provincial party committee on Sunday found a **litany** of failures in safety and oversight, as well as attempts to cover up the incident, bribe people in charge and modify test results.
 
 The report said the **principal** at the Tianshui kindergarten had wanted to attract more **enrolments** by “enhancing” the colour and look of the food served to children. The school’s cook bought industrial-grade **pigment** online, adding it to dishes despite the packages saying it was “not for consumption”.
