@@ -411,108 +411,60 @@ By tradition, only the current Dalai Lama, or those he appoints, can identify hi
 
 #### [2025-07-06 Dalai Lama celebrates his 90th birthday, triggering geopolitical questions for the future](https://www.theguardian.com/world/2025/jul/06/dalai-lama-celebrates-his-90th-birthday-triggering-geopolitical-questions-for-the-future)
 
-================================================================================================================================================
-
-“He has been an **enduring** symbol of love, compassion, patience and moral discipline,” he added.
-
 Modi’s **effusive** support is significant.
 
-“We support efforts to preserve Tibetans’ **distinct** **linguistic**, cultural and religious **heritage**, including their ability to freely choose and venerate religious leaders without interference,” the statement added.
+“We support efforts to preserve Tibetans’ distinct **linguistic**, cultural and religious heritage, including their ability to freely choose and venerate religious leaders without interference,” the statement added.
 
-Taiwan’s president, Lai Ching-te – who leads an island that China says is part of its territory and has threatened to use force to seize – said in a statement read at the ceremony that the example set by the Dalai Lama “**resonates** with all who **cherish** freedom, democracy and respect for human rights”.
+Taiwan’s president, Lai Ching-te – who leads an island that China says is part of its territory and has threatened to use force to seize – said in a statement read at the ceremony that the example set by the Dalai Lama “resonates with all who **cherish** freedom, democracy and respect for human rights”.
 
 “At a time when we see the forces of division tearing at the **fabric** of our common humanity … I’m grateful for your enduring efforts to build a better, kinder, more compassionate world,” Bill Clinton said.
 
 #### [2025-07-14 Caught in the contest between China and the west, the Cook Islands asks where its future lies](https://www.theguardian.com/world/2025/jul/14/caught-in-the-contest-between-china-and-the-west-the-cook-islands-asks-where-its-future-lies)
 
-On a remote stretch of land in the Cook Islands lies a second world war **airstrip**. Once used as a wartime supply route by American forces, the narrow runway is in **dire** need of **resealing** to allow larger tourist jets to land.
-
 The country of about 17,000 people has seen ties with its biggest ally and former colonial partner New Zealand **fray** as leaders draw it closer to Beijing.
 
-But others, such as the opposition leader, Tina Browne, were **vocal** in their criticism of Beijing building its influence in the Cook Islands.
+“We don’t want a Cook Islands passport, that’s a bloody **dead-end** passport.”
 
-In the sleepy seaside town, one of the main attractions is standing at the **seawall** to watch planes land.
+“New Zealand has been increasingly clear over the years that, particularly in the security **realm**, that it sees China as a disruptor and a destabilising actor in the Pacific.”
 
-Fruit and vegetable seller Teremoana Napa spent 40 years living and working in New Zealand before returning to the Cook Islands. She is now on New Zealand’s **pension**.
-
-“The New Zealand passport gives us so much,” she says. “We don’t want a Cook Islands passport, that’s a **bloody** **dead-end** passport.”
-
-Others share concern over the loss of crucial aid from Wellington. Outside the country’s main hospital, Calais Ngatan helps his heavily **pregnant** wife to the car.
-
-The deal signed in February between the Cook Islands and China **encompasses** a series of cooperation agreements designed to support the domestic economy.
-
-The two countries have agreed to collaborate on scientific research, joint **expeditions**, education and training. Powles says there is a “race” for critical minerals for their defence application and for that reason China is “actively engaged in finding opportunities and **formalising** partnerships with countries who are interested in mining their deep-sea minerals within their waters”.
-
-The activity has prompted concern in Rarotonga. Don Beer, head of Cook Islands’ Fishing Association, is firmly opposed to seabed mineral exploration, citing concerns about its potential impact on already declining fish stocks. His **unease** is **compounded** by China’s growing interest not just in minerals but also in the Cook Islands’ **maritime** resources.
-
-Powles says that for Beijing, deepening relations with the Cook Island **shores up** “closer diplomatic ties with Pacific Island partners and that helps to influence and shape a regional order”. From New Zealand’s perspective, she notes, the aid freeze was a sign of just how fragile the relationship has become.
-
-“It is quite an extreme move to pause aid,” she says. “New Zealand has been increasingly clear over the years that, particularly in the security **realm**, that it sees China as a **disruptor** and a destabilising actor in the Pacific.”
-
-Next month, the Cook Islands will mark 60 years of self-government in free association with New Zealand. As preparations for a massive inter-island celebration unfold, the event is **tinged** with diplomatic unease. Cook Islands has invited New Zealand to attend – Wellington says their attendance is still “under consideration”.
-
-At a press briefing in Beijing last month, Foreign ministry spokesperson Guo Jiakun said China’s cooperation with the Cook Islands “targets no third party, nor should it be **interfered** with or **constrain**ed by any third party”.
+As preparations for a massive inter-island celebration unfold, the event is **tinged** with diplomatic unease.
 
 #### [2025-07-17 Restaurant in China criticised for putting baby lion cuddles on menu](https://www.theguardian.com/world/2025/jul/17/restaurant-china-baby-lion-cuddles-menu)
 
 A restaurant in northern China has been criticised by animal **welfare** groups for offering an unusual item on the menu: lion **cub** **cuddles**.
 
-According to a screenshot of a menu circulating on social media, Wanhui – a restaurant in Taiyuan, the capital of Shanxi province – has a **four-course** set afternoon menu costing 1,192 yuan ($166/£124) that includes playtime with the in-house animals.
-
-The restaurant’s **profile** on Dazhong Dianping, a popular restaurant listings app, shows pictures of the lion cubs alongside other animals, such as deer and **alligators**.
+The restaurant’s profile on Dazhong Dianping, a popular restaurant listings app, shows pictures of the lion cubs alongside other animals, such as deer and **alligators**.
 
 The menu on the Dianping page does not include lions in its list of animals but says customers can play with **llamas**, turtles and **meerkats**.
 
 Several photos show customers **snuggling** the baby lions.
 
-In one review posted this month, a customer sits with a lion cub on her **lap**, holding the its paw to wave to the camera.
-
 Peter Li, a China policy expert for Humane World for Animals, told Reuters: “Exploiting wild animals for **selfies** and marketing **gimmicks** is not only **appallingly** bad animal welfare, it’s also potentially risky for customers.”
 
 It is not the first **exotic** animal welfare scandal in China. Last month, tourists visiting a zoo in Liaoning, in the north-east, were condemned for reaching through a metal grate to pull tufts of hair off a tiger.
 
-A hotel in Chongqing, a city in south-west China, recently attracted **scorn** for offering a “wake-up service” delivered by red pandas, which could climb into guests’ beds.
-
 Contact between humans and exotic animals has also been highlighted by experts as a potential risk for the spread of **zoonotic** diseases, such as Covid-19.
-
-According to Reuters, the restaurant said the lion cubs were well cared for by **specialist staff**.
 
 #### [2025-07-21 China starts building world’s biggest hydropower dam](https://www.theguardian.com/world/2025/jul/21/china-starts-building-world-biggest-hydropower-dam-yarlung-tsangpo-river-tibet)
 
-Construction of the world’s biggest **hydropower** megadam has begun, China’s premier has said, calling it the “project of the century”.
-
-The dam has drawn criticism from India and **Bangladesh**, through which the river runs, as well as Tibetan groups and environmentalists.
-
-The project announced by Li is planned for the **lower reaches** of the river, according to the official state news outlet, Xinhua. Xinhua reported that the project would consist of five cascade hydropower stations, producing an estimated 300 million **megawatt** hours of electricity annually at a cost of about 1.2tn yuan (£124bn).
-
 In comparison, the Three **Gorges** dam cost 254.2bn yuan and generates 88.2m MWh.
 
-China, the world’s biggest carbon emitter, is operating a huge renewable energy **expansion** as it seeks to reach emissions reduction goals and stabilise its power supply. It has tens of thousands of hydropower projects, far more than any other country.
+The Yarlung Tsangpo megadam will reportedly **harness** the power created by the river dropping 2km in about 50km as it winds through a **canyon** on a U-shaped bend.
 
-The Yarlung Tsangpo megadam will reportedly **harness** the power created by the river dropping 2km in about 50km as it winds through a **canyon** on a U-shaped **bend**.
-
-“China can always weaponise this water in terms of blocking it or diverting it,” Neeraj Singh Manhas, **special adviser** for South Asia at the Parley Policy Initiative, told the BBC in January.
-
-Last year hundreds of people were arrested while protesting against the Kamtok dam on the upper reaches of the Yangtze river, which they said threatened to displace thousands of residents and submerge ancient Buddhist **monasteries**. The Three Gorges Dam is estimated to have displaced about 1.5 million people.
+Last year hundreds of people were arrested while protesting against the Kamtok dam on the upper reaches of the Yangtze river, which they said threatened to displace thousands of residents and submerge ancient Buddhist **monasteries**.
 
 Environmentalists have also expressed concern about wildlife in the region, as well as the significant **tectonic** shifting, severe landslides and extreme geography where the dam is expected to go.
 
-The Chinese government rejects the criticism, and says the project will stimulate jobs in the region, increase domestic energy supplies and **spur** on development in the renewables sector. “Special emphasis must be placed on **ecological** **conservation** to prevent environmental damage,” Li said.
-
 #### [2025-07-22 Arrests in China after more than 230 kindergarten children poisoned by lead paint in food](https://www.theguardian.com/world/2025/jul/22/arrests-in-china-after-more-than-230-kindergarten-children-poisoned-by-lead-paint-in-food-ntwnfb)
 
-Chinese authorities have arrested six people and launched disciplinary investigations into almost 30 others after more than 230 kindergarten children were poisoned by food coloured with industrial-grade **lead paint**.
+================================================================================================================================================
 
-The incident, which occurred in Gansu province earlier this month, is one of China’s worst school food safety incidents and has drawn national attention. An investigative report released by the Gansu provincial party committee on Sunday found a **litany** of failures in safety and oversight, as well as attempts to **cover up** the incident, **bribe** people in charge and modify test results.
+An investigative report released by the Gansu provincial party committee on Sunday found a **litany** of failures in safety and oversight, as well as attempts to cover up the incident, bribe people in charge and modify test results.
 
-The report said the **principal** at the Tianshui kindergarten had wanted to attract more **enrolments** by “enhancing” the colour and look of the food served to children. The school’s cook bought industrial-grade **pigment** online, adding it to dishes despite the packages saying it was “not for **consumption**”.
+The report said the **principal** at the Tianshui kindergarten had wanted to attract more **enrolments** by “enhancing” the colour and look of the food served to children. The school’s cook bought industrial-grade **pigment** online, adding it to dishes despite the packages saying it was “not for consumption”.
 
-Initially, 235 students were hospitalised after eating the coloured food. Local state media quoted a parent at the time saying children had suffered stomach pain and **nausea**, and some children’s teeth had turned black.
+Local state media quoted a parent at the time saying children had suffered stomach pain and **nausea**, and some children’s teeth had turned black.
 
 It said the Gansu Provincial Centre for Disease Control and Prevention **neglected** the case after accepting it, and took samples in a way that violated health regulations and led to a “huge difference” in the test results and the actual levels.
 
-“The management of Tianshui Second People’s hospital and its **laboratory** department was chaotic, job responsibilities were not fully implemented, laboratory quality control was not fully implemented and **relevant** inspection personnel lacked systematic training,” the report said.
-
 It said the children had been treated and all but one had been **discharged** after the first round of treatment, during which lead levels dropped by an average of 40%.
-
-The footage showed officers using physical force, including **batons**, and angry parents confronting individuals in **plain clothes**, questioning their use of violence. As police cars appeared to try to escort the plain-clothed individuals away, parents blocked the road, shouting: “Hand over those who beat people up.”
