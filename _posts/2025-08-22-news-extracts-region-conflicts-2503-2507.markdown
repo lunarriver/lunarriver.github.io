@@ -73,33 +73,23 @@ Such tankers allow warplanes to refuel in mid-air and enable more **sorties** a 
 
 #### [2025-06-18 Israeli strikes have not knocked out Iran’s nuclear programme - or its nuclear ambitions](https://www.theguardian.com/world/2025/jun/18/israels-gamble-on-force-could-push-iran-to-accelerate-nuclear-plans)
 
-================================================================================================================================================
-
 It has been a powerful display of Israeli military and intelligence dominance, but has not critically damaged Iran’s widely dispersed and heavily protected nuclear programme, Israeli military commanders and international nuclear **proliferation** experts agree.
 
 And far from curbing nuclear proliferation, Israel’s gamble on force could drive Iran to speed up its efforts to get a bomb if the current conflict ends without full destruction of the programme or a deal with **iron-clad** controls and broad inspection powers.
 
 But US intelligence officials believe Tehran was up to three years away from being able to deliver a weapon and not actively pursuing a bomb, CNN reported on Tuesday – which would make that delay relatively **inconsequential**.
 
-What the attacks have achieved is to **stir** up fear among the Iranian leadership and anger among Iran’s population. The hatred many Iranians **harbour** for their own government did not blunt the horror of a missile strike that killed dozens of children in their homes, and Israeli orders to evacuate entire neighbourhoods evoked the **grim** **spectre** of Gaza’s fate.
+The hatred many Iranians **harbour** for their own government did not blunt the horror of a missile strike that killed dozens of children in their homes, and Israeli orders to evacuate entire neighbourhoods evoked the **grim** **spectre** of Gaza’s fate.
 
-Israel developed its own nuclear arsenal as a deterrent, though it has never officially acknowledged what is an open secret. Many in Iran are convinced they need the same, and this war will probably have mitigated public **resentment** of the cost of those advances.
-
-After the collapse over the past year of regional proxies that had served as the regime’s defensive shield, there was a greater focus inside Iran on the possibility of a nuclear programme, according to Sima Shine, Iran **specialist** and former head of research at Israel’s the Mossad intelligence agency.
-
-It houses centrifuges and much of the country’s highly enriched uranium, and the only bombs that might be able to destroy it are the US’s most powerful **bunker-busting** munitions.
+Many in Iran are convinced they need the same, and this war will probably have mitigated public **resentment** of the cost of those advances.
 
 Amid Israeli **euphoria** at the impact of the first strikes, national security adviser Tzachi Hanegbi warned the Israel Defense Forces cannot dismantle Iran’s nuclear programme alone.
 
-“It cannot be done via **kinetic** means,” he told Israeli media. The military can instead create conditions for a long-term deal, brokered by the US that would totally block Iran’s nuclear programme, added.
+“It cannot be done via **kinetic** means,” he told Israeli media.
 
 “We underestimate the **psychological** impact of the Gaza war, including on Iranians who hate the government,” said Vali Nasr, professor of international affairs at Johns Hopkins University.
 
-“Gaza also has a bad, **vicious** government that has been used as justification for action against it. Israel has shown a kind of willingness to kill at will, especially civilians.”
-
-“There was a belief that the international liberal order would keep Israel in check, that Europe and the US would not tolerate Israel using its military might with abandon,” Nasr said. Confidence in any capacity to restrain was **blown apart** in the rubble of Gaza.
-
-“There has always been a **fixation** in Israel and in the world with bombing the nuclear sites. Even if it is impossible to destroy Fordow from the air, other methods exist,” said Alex Grinberg, an analyst and former Iran researcher in the IDF intelligence research division.
+“There has always been a **fixation** in Israel and in the world with bombing the nuclear sites.
 
 Israel’s capture of much of an extensive nuclear archive likely gave it access to plans for Fordow, which could make it easier to **cripple** support systems, block access or even send in special forces to destroy the plant in a ground operation.
 
@@ -107,95 +97,51 @@ Last year Israel sent special forces **commandos** to destroy an underground Hez
 
 #### [2025-06-18 Trump undecided on joining war on Iran as Khamenei warns him not to attack](https://www.theguardian.com/world/2025/jun/18/iran-threatens-us-with-irreparable-damage-if-trump-joins-war)
 
-Donald Trump said he had not decided whether or not to take his country into Israel’s new war, as Iran’s supreme leader said the US would face “**irreparable** damage” if it deployed its military to attack.
-
-That lack of clarity about what comes next may extend to the president himself, who was still in **deal-making** mode, one ally said. The US is understood to want to keep all its options open to **exert** maximum pressure on Tehran.
-
-It was moving air tankers for **midair** refuelling to Spain and Greece, where they could be used to supply B-2 bombers on a long run from the Whiteman airbase in Missouri to Iran.
-
-Iran sent a message that it was willing to negotiate a deal with the US, but Israel needed to “**calm things down**”, a source told the Jerusalem Post.
-
-Trump’s claim that Iranians had offered to come to the White House for talks prompted an **enraged** response from Iran’s mission to the UN. “No Iranian official has ever asked to **grovel** at the gates of the White House,” the mission posted on a social media account.
-
-Final confirmation from Tehran is still **pending**, but if confirmed it would represent the first face-to-face diplomatic meeting since the crisis began.
-
-“A **tornado** is sweeping through Tehran,” he wrote in a post on X. “Symbols of power are being bombed and collapsing, from the broadcasting authority and soon other targets, and masses of residents are fleeing. This is how dictatorships collapse.”
-
-The escalating conflict has prompted a growing international **chorus** of concern. The Russian president, Vladimir Putin, offered to mediate between Iran and Israel, after one of his top diplomats urged Washington not to consider “**speculative** options” for intervention.
-
-Iran is thought to still have a **substantial** **proportion** of the estimated 2,000 missiles that were in its arsenal at the start of the war. Israeli strikes have focused on launcher systems that are needed to fire them.
+“No Iranian official has ever asked to **grovel** at the gates of the White House,” the mission posted on a social media account.
 
 #### [2025-06-19 Israel’s attack has exposed Iran’s lack of firepower](https://www.theguardian.com/world/2025/jun/19/israels-attack-has-exposed-irans-lack-of-firepower-but-conflict-could-yet-turn-in-tehrans-favour)
 
-Israel has been able to achieve **superiority** over Iran’s skies at extraordinary speed, within hours of launching its surprise assault.
+In response, Iran’s most effective weapon has been its stock of high-speed ballistic missiles, estimated at about 2,000 by Israel’s Defense Force (IDF) at the **outset** of hostilities last week.
 
-In response, Iran’s most effective weapon has been its stock of high-speed ballistic missiles, estimated at about 2,000 by Israel’s Defense Force (IDF) at the **outset** of hostilities last week. But the **heavy targeting** by Israel of launch sites in western Iran, in underground bases such as at Kermanshah – **coupled with** Israel’s **grimly** effective targeted killing of Iran’s top military commanders – have left Iran struggling to respond militarily and presenting a significant threat.
+The **sheer** speed of ballistic missiles makes them dangerous weapons and a number – about 10% – continue to evade Israel’s sophisticated air defences, including a strike on the Soroka Medical Center in the southern city of Beersheba on Thursday that wounded 76.
 
-The **sheer** speed of ballistic missiles makes them dangerous weapons and a number – about 10% – continue to evade Israel’s sophisticated air defences, including a strike on the Soroka Medical Center in the southern city of Beersheba on Thursday that wounded 76. But the munitions mostly do not appear to be effectively targeted at Israel’s military-industrial complex, **aside from** an attack on the refinery at Haifa in northern Israel on Sunday that led to the shutting down of the facilities there.
-
-Intercepting ballistic missiles is primarily the task of Israel’s newest air defence system, Arrow 3, which have a 1,500-mile range and can knock out incoming missiles beyond the Earth’s atmosphere, and its predecessor Arrow 2, though the US has been providing help with a Thaad system and destroyers based in the eastern **Mediterranean**.
-
-A key question, however, is how many interceptors does Israel’s military have available – worries **compounded** by a report in the Wall Street Journal, which cited an anonymous US official as saying that Israel was running low.
-
-The country’s jets face almost no air defence threat as they fly over western and central Iran – Israel has so far acknowledged the loss of one drone – meaning they are able to target sites in the country with apparent **impunity**.
-
-Iran’s capabilities have been “exposed as **inefficient**”, **concluded** the missile analyst Fabian Hinz in a paper for the International Institute of Strategic Studies, while the “Israeli leadership, at least for the time being, is accepting the risks of ballistic missile strikes on its population centres”. As Hinz puts it, the “deterrence balance” between the two countries is **unravelling** – and it may only change back in Tehran’s favour if a suddenly a greater number or higher proportion of its remaining ballistic missiles strike population centres or key sites in Israel. There is no sign of that yet.
+As Hinz puts it, the “deterrence balance” between the two countries is **unravelling** – and it may only change back in Tehran’s favour if a suddenly a greater number or higher proportion of its remaining ballistic missiles strike population centres or key sites in Israel. There is no sign of that yet.
 
 #### [2025-06-20 Fear and shock in Iran: ‘I’m constantly afraid a missile might hit my home’](https://www.theguardian.com/world/2025/jun/20/fear-iran-war-tehran-kerman)
 
-It was very difficult to get out because **gasoline** was **rationed** – each person is allowed only 25 **litres** – and at every gas station we had to beg and **plead** to get more fuel.
-
-Many food products are no longer as easily available as before – for example, fruit that used to be brought in from other provinces – because no truck drivers are willing to travel on **intercity** roads. Rice, chicken, meat and fruit have doubled in price.
-
-**Dairy** products have gone up by 20% but all of these items are still available, just with less variety than before. However, I know that the situation in Tehran is much worse.
-
-Due to **business closures**, there is also a high chance we won’t receive our salaries. My next fear is the high cost of living and not having enough money.
-
-Our situation in Iran is very complicated. Many people oppose the regime. For years we have been **striving** to change this government but the government arrests, suppresses and executes us.
+For years we have been **striving** to change this government but the government arrests, suppresses and executes us.
 
 #### [2025-07-09 Gaza aid workers overwhelmed by ‘mass casualty incidents’ at food distribution sites](https://www.theguardian.com/world/2025/jul/09/gaza-aid-workers-overwhelmed-by-mass-casualty-incidents-at-food-distribution-sites)
 
-Medical officials, humanitarian workers and doctors in Gaza say they have been **overwhelmed** by almost daily “mass casualty incidents” as they struggle to deal with those wounded by Israeli fire on Palestinians seeking aid.
+Others have been injured as huge crowds form around convoys sent into Gaza by the UN, many of which are stopped and **looted**.
 
-Others have been injured as huge crowds form around **convoys** sent into Gaza by the UN, many of which are stopped and **looted**.
-
-“The scenes are truly shocking – they **resemble** the horrors of judgment day.
-
-“Every bed is occupied by a patient, and these additional injuries place an unimaginable burden on us. We are forced to treat patients on the floor of the emergency department … Most of these injuries are gunshot wounds to the chest and head … Patients are arriving with **amputated** legs and arms,” Saqr told the Guardian.
+“Patients are arriving with **amputated** legs and arms,” Saqr told the Guardian.
 
 Since the launch of the new aid distribution system, which Israel insists is necessary to prevent Hamas **diverting** humanitarian assistance, the ICRC’s 60-bed field hospital in Rafah, in the south of Gaza, has treated more than 2,200 weapon-wounded patients and has registered more than 200 deaths.
-
-“Among the wounded are toddlers, teenagers, elderly, mothers – and **overwhelmingly**, young men and boys. Most say they were simply trying to get food or aid for their families.”
 
 One patient with severe **abdominal** wounds told Jeffrys he had been injured as he picked up a box of food at a distribution site.
 
 There was no independent confirmation of the claim and the GHF has **strenuously** denied that any injuries were inflicted at any of its sites, blaming Israeli troops firing on Palestinians who are trying to reach the four hubs they have established in southern and central Gaza.
 
-It said in a statement: “To date, there have been no incidents or fatalities at or in the immediate **vicinity** of any of our distribution sites during our operating hours.”
+The Israeli military has repeatedly said it does not target civilians, takes all **feasible** precautions to avoid harm to non-combatants and **abides** by international law.
 
-The organisation said this week it has distributed 62m meals in the territory and was “working **tirelessly** to distribute free food aid directly to the people of Gaza safely and without interference”.
-
-The Israeli military has repeatedly said it does not target civilians, takes all **feasible** **precautions** to avoid harm to non-combatants and **abides** by international law.
-
-“We are really struggling … We are running out of external **fixators**, which are vital for treating open **fractures**, and critical medicines including pain killers, antibiotics and **anaesthetics**. For some things, there is just zero stock,” she said.
+“We are really struggling … We are running out of external fixators, which are vital for treating open **fractures**, and critical medicines including pain killers, antibiotics and anaesthetics.” she said.
 
 The healthcare system in Gaza has been **decimated** during the 21-month conflict, which was triggered in October 2023 when Hamas militants launched a surprise attack into Israel, killing 1,200, mostly civilians, and taking 250 hostages.
 
-In the **ensuing** offensive that Israel launched into Gaza, more than 57,000 Palestinians have been killed, mostly civilians, and much of the territory reduced to rubble.
-
-Nearly half of the territory’s 36 hospitals have been put out of service and the remaining facilities are operating at a **fraction** of their usual capacity. All struggle with acute shortages of essential medical supplies and basic equipment such as **respirators**, X-ray machines, scanners or even lamps for operating theatres.
+All struggle with acute shortages of essential medical supplies and basic equipment such as **respirators**, X-ray machines, scanners or even lamps for operating theatres.
 
 Shortages are now more **acute** than since the beginning of the war, medics told the Guardian, with a lack of fuel, which runs generators that provide almost all power, threatening an almost total shutdown of all medical services.
 
-For 11 weeks, Israel blocked all food, medicine and other supplies from entering Gaza, accusing Hamas of diverting aid to fund its military and other activities, though the UN said its monitoring systems were robust. Since mid-May, Israel has allowed in a **trickle** of aid, including medical supplies.
-
-On 2 July, an Israeli airstrike killed Dr Marwan al-Sultan, a **renowned** and highly experienced **cardiologist** and director of the Indonesian hospital in Gaza.
+On 2 July, an Israeli airstrike killed Dr Marwan al-Sultan, a **renowned** and highly experienced cardiologist and director of the Indonesian hospital in Gaza.
 
 Among the healthcare workers killed in the past 50 days were three other doctors, the chief nurses of the Indonesian hospital and al-Nasser children’s hospital, one of Gaza’s most senior **midwives**, a senior radiology technician and dozens of young medical graduates and **trainee** nurses.
 
 ### India vs Pakistan
 
 #### [2025-04-24 How has India reacted to attack in Kashmir and why are tensions in region so high](https://www.theguardian.com/world/2025/apr/24/how-has-india-reacted-to-attack-in-kashmir-and-why-are-tensions-in-region-so-high)
+
+================================================================================================================================================
 
 Tensions between the **arch-rivals** India and Pakistan have escalated rapidly after the massacre of 25 Indian tourists and a Nepalese citizen in the disputed Himalayan Kashmir region on Tuesday, prompting warnings of a return to conflict.
 
