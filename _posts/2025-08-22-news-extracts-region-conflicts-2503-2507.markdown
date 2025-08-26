@@ -141,137 +141,65 @@ Among the healthcare workers killed in the past 50 days were three other doctors
 
 #### [2025-04-24 How has India reacted to attack in Kashmir and why are tensions in region so high](https://www.theguardian.com/world/2025/apr/24/how-has-india-reacted-to-attack-in-kashmir-and-why-are-tensions-in-region-so-high)
 
-================================================================================================================================================
-
-Tensions between the **arch-rivals** India and Pakistan have escalated rapidly after the massacre of 25 Indian tourists and a Nepalese citizen in the disputed Himalayan Kashmir region on Tuesday, prompting warnings of a return to conflict.
-
-Among a string of punitive measures announced since Tuesday, India has downgraded diplomatic ties, suspended a crucial water-sharing treaty and revoked all visas **issued** to Pakistani nationals.
-
 The region, in the **foothills** of the Himalayas, has been disputed since India and Pakistan **came into being** in 1947.
 
-India and Pakistan have gone to war a further two times over Kashmir, **most recently** in 1999.
-
-The dispute **stems from** the **partition** of colonial India in 1947, when small, **semi-autonomous** “**princely** states” across the subcontinent were being folded into India or Pakistan, and the local ruler chose to become part of India despite the fact the area had a Muslim majority.
-
-In 2019 Narendra Modi’s government launched a severe security **crackdown** in Indian-administered Kashmir and revoked the region’s special status, which had granted it limited **autonomy** since 1949.
-
-The move **fulfilled** a longstanding **Hindu**-nationalist pledge and was widely welcomed across India, but angered many in the territory itself. Against a backdrop of widespread **repression**, insurgent violence tapered off and tourists returned to the region.
+ Against a backdrop of widespread **repression**, insurgent violence tapered off and tourists returned to the region.
 
 New rules were implemented that allowed outsiders to buy land in Kashmir for the first time, which many saw as an attempt by the Bharatiya Janata party (BJP) to **dispossess** them from their land and change the Muslim demography of the region.
 
 With the new **domicile** rule, India widened who was **eligible** to live and work in Kashmir, leading to accusations that it was trying to change the demographic make-up of the region.
 
-The attack – in the **midst** of a visit by the US vice-president, JD Vance – was highly embarrassing for Modi and his BJP party, which has been boasting since 2019 about the success of its security policies in Kashmir.
-
-The anger in India has been exacerbated by the **sectarian** nature of the attack, during which some of the male tourists were reportedly asked to **recite** Islamic **verses** to determine who would be killed.
+The anger in India has been exacerbated by the **sectarian** nature of the attack, during which some of the male tourists were reportedly asked to recite Islamic verses to determine who would be killed.
 
 While some of the **bellicose** rhetoric that has been visible in the past few days is familiar from past crises between India and Pakistan that have fallen short of war, India’s decision to suspend the 1964 Indus Waters treaty is a very big deal.
 
 Pakistani agriculture’s massive reliance on the Indus system’s waters for **irrigation** makes the treaty crucial for the country.
 
-While much is made of the fact that both countries **retain** nuclear weapons, **conventional wisdom** is that this has tended to limit rather than exacerbate the danger of serious conflict in recent decades.
-
 #### [2025-05-06 Pakistan decries ‘act of war’ as it retaliates against India missile attack](https://www.theguardian.com/world/2025/may/06/pakistan-vows-to-retaliate-after-wave-of-indian-missiles-hit-country)
 
-Pakistan declared the strikes to be an “**act of war**” and claimed it had shot down five Indian air force jets and a drone. “Pakistan gives a **befitting** reply to India,” said the Pakistan government in a statement.
+“Pakistan gives a **befitting** reply to India,” said the Pakistan government in a statement.
 
-One Indian missile strike hit a **mosque** in the city of Bahawalpur in Punjab, Pakistan’s most populous province, killing 13 people, including two three-year-old girls. Other locations hit were near Muridke in Punjab and Kotli in Pakistan-controlled Kashmir, where a strike on a mosque killed several people, including a 16-year-old girl.
+Speaking at the press conference, Col Sudhir Chamoli alleged that Indian intelligence had uncovered evidence that “further attacks against India were **impending**” and said India needed to “both to deter and pre-empt”.
 
-In a press conference held by the Indian army on Wednesday morning, it claimed the **overnight** strikes had targeted “terrorist training camps” and “terrorists likely to be sent across to India”, mostly associated with the Islamist militant groups Lashkar-e-Taib and Jaish-e-Mohammed.
-
-Speaking at the press conference, Col Sudhir Chamoli **alleged** that Indian intelligence had uncovered evidence that “further attacks against India were **impending**” and said India needed to “both to deter and pre-empt”.
-
-“These actions were measured, not escalatory, **proportionate** and responsible,” Chamoli said of the Indian strikes.
-
-Pakistan said the strikes had been carried out from the Indian side of the border. “At no time any of their aircraft were allowed to enter into Pakistan’s airspace and also at no time, none of Pakistan’s aircraft went into Indian airspace,” said Gen Ahmed Chaudhry, the director general of Pakistan’s **inter-services** public relations, the media wing of the military.
-
-In a statement on Wednesday afternoon, after Sharif convened a meeting of the national security council, Pakistan emphasised its right to “**avenge** the loss of innocent Pakistani lives and **blatant** violation of its sovereignty” and said the military had been authorised to take action to do so.
-
-The missile attacks were reported at about 1am local time. Pictures shared on social media showed the bloody body of a dead child and a seriously injured adult lying on **stretchers**.
-
-There was no immediate comment from India on the reports of the downed military aircraft. Local people reported that pieces of the aircraft were **scattered** throughout the village and there was a strong smell of jet fuel.
-
-On Wednesday morning, police and authorities blocked access to the main area of the crash as they cleared the wreckage. Sources said the pilot had **ejected** safely and was being treated at a nearby army hospital.
-
-The strikes, carried out as part of “Operation Sindhoor”, were met with a **chorus** of approval across political lines in India. “The world must show zero tolerance for terrorism,” said India’s foreign minister, Subrahmanyam Jaishankar, while the defence minister, Rajnath Singh, wrote on X: “Victory to Mother India”. Mallikarjun Kharge, the president of the opposition Congress party, said India was “extremely proud of our Indian armed forces … We applaud their resolute **resolve** and courage”.
-
-Several major airlines said they were suspending flights to Pakistan and over **swathes of** northern India until midday local time on Wednesday.
+Mallikarjun Kharge, the president of the opposition Congress party, said India was “extremely proud of our Indian armed forces … We applaud their resolute **resolve** and courage”.
 
 The escalation comes amid soaring tensions between the neighbours in the aftermath of the attack in the Baisaran Valley, a **picturesque** **meadow** in Pahalgam, a well-known tourist town in Kashmir.
-
-Wednesday’s missile strikes are a dangerous **heightening** of tension between the south Asian neighbours, who have fought multiple wars since they were carved out of British colonial India in 1947.
 
 #### [2025-05-10 India and Pakistan agree Kashmir ceasefire but accuse each other of breaches](https://www.theguardian.com/world/2025/may/10/india-pakistan-immediate-us-mediated-ceasefire)
 
 India and Pakistan have agreed to a US-mediated ceasefire with immediate effect, though its **longevity** was thrown into question after reports of cross-border shelling and explosions in Indian-administered Kashmir just hours after it was announced.
 
-“It was agreed between them that both sides would stop all firing and military action on land, and in the air and sea. Instructions have been given on both sides to **give effect** to this **understanding**.” The top military officials would speak again on 12 May, Misri added.
-
-The Pakistani foreign ministry said in the early hours of Sunday that it “remains **committed to** **faithful** implementation” of the ceasefire it has agreed to with India.
+The Pakistani foreign ministry said in the early hours of Sunday that it “remains committed to **faithful** implementation” of the ceasefire it has agreed to with India.
 
 “We commend prime ministers Modi and Sharif on their wisdom, **prudence**, and **statesmanship** in choosing the path of peace,” he added.
 
 In Uri, near the border in Indian-administered Kashmir, one of the worst-hit towns in the recent cross-border violence, Tanveer Chalko, 30, described scenes of **jubilation**.
 
-But Lal Din, 55, a resident of Poonch, a border town in Indian-administered Kashmir where many were killed and injured in this week’s violence along the LoC, said the news of the ceasefire was **bittersweet**. His home was destroyed in cross-border shelling and two of his relatives were killed.
-
-Historically, the US has played an important role as a mediator between India and Pakistan when hostilities have **flared** up. The Trump administration’s **proactive** role in brokering peace was, however, a notable reversal of Vance’s position 48 hours earlier, when he said the US would not intervene in the India-Pakistan conflict as it was “none of our business”.
-
-The ceasefire appeared to give both sides the opportunity to walk away claiming victory. “India has consistently maintained a firm and uncompromising stance against terrorism in all its forms and **manifestations**,” said India’s foreign minister, Subrahmanyam Jaishankar.
-
-In Pakistan it was met with **a chorus of approval**. “Congratulations to the civil and military leadership for emerging out of the war with dignity, **professionalism** and national resolve **unequivocally** **intact**,” said the Pakistani senator Sherry Rehman.
-
-The ceasefire came after India and Pakistan accused each other of cross-border missile strikes against significant military targets on Saturday, with many fearful it would escalate into **all-out** war.
+“Congratulations to the civil and military leadership for emerging out of the war with dignity, professionalism and national resolve unequivocally **intact**,” said the Pakistani senator Sherry Rehman.
 
 The fighting this week was first **inflamed** on Wednesday after Indian missiles struck nine sites in Pakistan, killing 31 people.
 
-The situation escalated further after India accused Pakistan of two **consecutive** nights of drone attacks.
-
 #### [2025-05-14 Pakistan’s use of J-10C jets and missiles exposes potency of Chinese weaponry](https://www.theguardian.com/world/2025/may/14/pakistans-use-of-j-10c-jets-and-missiles-exposes-potency-of-chinese-arms)
-
-As India and Pakistan **traded** missile strikes over the weekend, and the world watched with horror as the two nuclear-armed neighbours erupted into open conflict, military analysts **spotted** something curious. Pakistan, it seemed, had used Chinese jets to shoot down India’s planes.
-
-Andrew Small, a Berlin-based senior fellow at the German Marshall Fund, said China gets particular benefit from seeing its weapons used against western **equivalents**. “It gives them a chance to **assess** their performance under far more complex and challenging conditions than usual, and with Pakistan this is not just about the fighter jets themselves, it’s about the missiles, the radar systems, and the whole technology spine of the Pakistani military, from electronic warfare capabilities to satellite systems.”
-
-Hu Xijin, the former editor of the **nationalistic** Chinese state-linked tabloid Global Times, said the incident showed Taiwan should feel “even more scared”.
 
 Part of China’s **contingency** planning is an expectation that the US military and potentially others would be involved in defending Taiwan.
 
-The apparent success of the J-10C against the Rafales also boosts China’s **reputation** as a manufacturer and seller of weapons. While China is the world’s fourth largest arms exporter, more than half goes to Pakistan and the rest is mostly to smaller developed nations. It must work around US sanctions.
-
-Wezeman said the shooting was too limited to draw a lot of firm conclusions about the state of China’s military, which has also been **mired** in corruption scandals in recent years.
-
 #### [2025-05-15 India blocks X accounts of Chinese state media over coverage of Kashmir crisis](https://www.theguardian.com/world/2025/may/15/india-blocks-x-accounts-of-chinese-state-media-over-coverage-of-kashmir-crisis)
 
-Both China and Turkey are allies of Pakistan, with China providing the **bulk** of its weapons purchases. On Thursday, the Global Times account was restored, reportedly after a legal request.
+Unverified reporting and propaganda has been **rife** throughout social and traditional media from both sides during the short conflict.
 
-India has targeted thousands of social media accounts in the last week, including a number of **reputable** media outlets and reporters, sparking criticism from press freedom groups.
-
-India and Pakistan have given very different **accounts** of last week’s military clashes, in what was the worst violence between the two nuclear-armed nations in decades. Unverified reporting and propaganda has been **rife** throughout social and traditional media from both sides during the short conflict.
-
-On Sunday, China’s government announced a new batch of “**standardised**” placenames for what it says are Chinese locations in the north-eastern state of Arunachal Pradesh – which China calls Zangnan.
-
-The release prompted a **rebuke** from India, which called it “vain and preposterous”.
-
-India and China, the world’s two most populous nations, have had a fractious relationship, with **occasional** military clashes of their own along a 3,800km stretch of disputed border in the Himalayas. A deadly fight between **opposing** soldiers in 2020 saw 20 Indian soldiers and at least four Chinese soldiers killed.
+A deadly fight between **opposing** soldiers in 2020 saw 20 Indian soldiers and at least four Chinese soldiers killed.
 
 #### [2025-05-20 Uneasy India-Pakistan ceasefire holds but is a return to war inevitable?](https://www.theguardian.com/world/2025/may/20/uneasy-india-pakistan-ceasefire-holds-but-is-a-return-to-war-inevitable)
 
 Against the **odds**, the ceasefire that followed India and Pakistan’s almost-war has held; fragile, uneasy but still unbroken.
 
-There is a sense among analysts and diplomats that Delhi has not emerged from the conflict as **triumphant** as it had hoped, leaving little room for further de-escalation or political engagement.
+While India is seen to have achieved some tactical victories – successfully targeting known militant bases in Pakistan, firing targeted missiles into Rawalpindi, the heart of Pakistan’s military and largely rebuffing Pakistani missiles – the strategic wins have been more **elusive**.
 
-Meanwhile, Pakistan’s army, after going through a period of **reputational** decline, is once again the country’s most **revered** institution – proving that nothing works better for the fortunes of Pakistan’s generals than an altercation with India.
-
-He was **sceptical** that India’s missile strikes into Pakistan had done much to deter any future militant attacks, which India’s defence minister said would be taken as an “act of war”.
-
-While India is seen to have achieved some tactical victories – successfully targeting known militant bases in Pakistan, firing targeted missiles into Rawalpindi, the heart of Pakistan’s military and largely **rebuffing** Pakistani missiles – the strategic wins have been more **elusive**.
-
-Instead, India is now grappling with some more uncomfortable outcomes. As noted by Pratap Bhanu Mehta, an Indian political scientist, in his Indian Express column, the armed conflict has “no decisive victory and no clear political end simply **reinstates** the India-Pakistan **hyphenation**” – a reference to an age-old **tendency** to lump the two countries together as a **singular** **quarrelling** entity on the international stage. In recent years, as India soared ahead of Pakistan and positioned itself as a global economic and geopolitical superpower, there was a feeling in the corridors of New Delhi that they had broken free of the hyphenation **burden**. However, recent events showed that **perceptions**, particularly in the US, had not changed much.
+As noted by Pratap Bhanu Mehta, an Indian political scientist, in his Indian Express column, the armed conflict has “no decisive victory and no clear political end simply reinstates the India-Pakistan **hyphenation**” – a reference to an age-old tendency to lump the two countries together as a singular quarrelling entity on the international stage. However, recent events showed that **perceptions**, particularly in the US, had not changed much.
 
 The deep-rooted **instinct** of the Modi government to tightly control the flow of information (Modi has not done an in-person press conference in 10 years) meant that as Operation Sindhoor was launched, their accounts of the operation were limited to a few brief, highly **choreographed** press conferences led by civil servants.
 
-In Pakistan meanwhile, ministers were at the end of the phone and on TV news shows **non-stop**, briefing the world constantly on the Pakistani version of events, such as claims that Pakistan had downed five Indian military jets.
+================================================================================================================================================
 
 Amid vast information gaps left by the Indian government an unprecedented amount of misinformation and disinformation **proliferated**. False claims fuelled an **insatiable** appetite for war among the Indian public.
 
