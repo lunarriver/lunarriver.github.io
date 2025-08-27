@@ -199,86 +199,42 @@ As noted by Pratap Bhanu Mehta, an Indian political scientist, in his Indian Exp
 
 The deep-rooted **instinct** of the Modi government to tightly control the flow of information (Modi has not done an in-person press conference in 10 years) meant that as Operation Sindhoor was launched, their accounts of the operation were limited to a few brief, highly **choreographed** press conferences led by civil servants.
 
-================================================================================================================================================
+False claims fuelled an **insatiable** appetite for war among the Indian public.
 
-Amid vast information gaps left by the Indian government an unprecedented amount of misinformation and disinformation **proliferated**. False claims fuelled an **insatiable** appetite for war among the Indian public.
+The fury among the hyper-nationalist far right – Modi’s political base and where much of the disinformation originated – was particularly **potent** and the **clamour** for a return to war has still not entirely **dissipated**.
 
-As a result, on 10 May, when Donald Trump **abruptly** announced a ceasefire before India or Pakistan had a chance, it was met with a widespread reaction of betrayal and anger in India. Many could not understand why the government would agree to a ceasefire, let alone one that seemed to have been imposed by the US. The fury among the hyper-nationalist far right – Modi’s political base and where much of the disinformation originated – was particularly **potent** and the **clamour** for a return to war has still not entirely **dissipated**.
+While he joins a long line of US presidents who have been drawn into disputes between the neighbours, it is historically done far more **discreetly** and largely on terms favourable to India.
 
-Trump’s boastful claims of brokering the ceasefire have been a source of frustration to New Delhi. While he joins a long line of US presidents who have been drawn into disputes between the neighbours, it is historically done far more **discreetly** and largely on terms favourable to India.
+This time, India was so infuriated at Trump’s version of events, including that coercion over trade led both sides to lay down arms, that it openly **repudiated** several of the president’s statements.
 
-This time, India was so **infuriated** at Trump’s version of events, including that coercion over trade led both sides to lay down arms, that it openly **repudiated** several of the president’s statements.
+Pakistan **leapt at** the offer; in India it was met with **stony** silence.
 
-Trump’s involvement has also resulted in another strategic upset for India: the re-internationalisation of the Kashmir issue. India’s **immovable** position is that its dispute with Pakistan over the region, which dates back to 1947, is a purely internal issue that should have no outside interference or third-party negotiation. But in **flagrant** disregard for this, Trump offered, post-ceasefire, to mediate between the two countries to find a “solution”. Pakistan **leapt at** the offer; in India it was met with **stony** silence.
+But while among the political class in Islamabad there is optimistic **chatter** of post-ceasefire talks in the Gulf or London – where even Kashmir could be on the table – New Delhi has avoided the subject. “The dilemma is that this war does not compel negotiations. Nor is it likely to build even a **modicum** of trust that can allow a political negotiation,” wrote Mehta.
 
-But while among the political class in Islamabad there is **optimistic chatter** of post-ceasefire talks in the Gulf or London – where even Kashmir could be on the table – New Delhi has avoided the subject. “The **dilemma** is that this war does not compel negotiations. Nor is it likely to build even a **modicum** of trust that can allow a political negotiation,” wrote Mehta.
-
-On a deeper, **existential** level, analysts say there remains little incentive on either side to de-escalate. In India, anti-Pakistan fervour has only driven up support for Modi and helped his strongman Hindu nationalist government win elections. In Pakistan, the ever-present threat of India has long been used to justify the dominating role of the military in running the country.
+On a deeper, **existential** level, analysts say there remains little incentive on either side to de-escalate.
 
 Bajpaee is among those who has a **pessimistic** view of any suggestion of post-conflict political dialogue between the two countries, calling that a “dead end” as both sides are “essentially talking past each other”.
 
 #### [2025-05-28 How social media lies fuelled a rush to war between India and Pakistan](https://www.theguardian.com/media/2025/may/28/how-social-media-lies-fuelled-a-rush-to-war-between-india-and-pakistan)
 
-As missiles and drones **crisscrossed** the night skies above India and Pakistan earlier this month, another invisible war was taking place.
-
 What began as **disparate** claims on social media platforms such as X soon became a **cacophony** of declarations of India’s military might, broadcast as “breaking news” and “exclusives” on the country’s biggest news programmes.
 
-According to these posts and reports, India had **variously** shot down multiple Pakistani jets, captured a Pakistani pilot as well as Karachi port and taken over the Pakistani city of Lahore. Another false claim was that Pakistan’s powerful military chief had been arrested and a coup had taken place. “We’ll be having breakfast in Rawalpindi tomorrow,” was a widely **reshared** post in the midst of hostilities, referring to the Pakistani city where its military is headquartered.
-
-A ceasefire on 10 May brought the two countries back from the brink of all-out war after the latest conflict, which marked the biggest crisis in decades between the nuclear-armed rivals, and was **ignited** after militants opened fire at a beauty spot in Indian-controlled Kashmir, killing 26 people, mainly Indian tourists. India blamed Pakistan for the attack – a charge Islamabad has denied.
-
-Yet even as military hostilities have ceased, analysts, **factcheckers** and activists have documented how a fully fledged war of disinformation took place online.
-
-**Misinformation** and **disinformation** was also being circulated widely in Pakistan. The Pakistan government removed a ban on X shortly before the conflict broke out, and researchers found it immediately became a source of misinformation, though not on the same scale as in India.
-
-Recycled and AI-generated footage **purportedly** showing Pakistani military victories was shared widely on social media and then amplified by both its mainstream media, respected journalists and government ministers to make fake claims such as the capture of an Indian pilot, a coup in the Indian army and Pakistani strikes wiping out India’s defences.
-
-There were also widely circulated fake reports that a Pakistani cyber-attack had wiped out most of the Indian power grid and that Indian soldiers had raised a white flag in surrender. In particular, video game simulations proved to be a popular tool in spreading disinformation about Pakistan “**delivering** justice” against India.
-
-A report into the social media war that surrounded the India-Pakistan conflict, released last week by the civil society organisation The London Story, detailed how X and Facebook “became **fertile** ground for the spread of war narratives, hate speech, and emotionally **manipulative** disinformation” and “drivers of nationalist **incitement**” in both countries.
-
-While disinformation and misinformation were **rampant** on both sides, in India “the scale went beyond what we have seen before”, said Joyojeet Pal, associate professor at the school of information at the University of Michigan.
-
-Analysts say that it is evidence of a new digital frontier in warfare, where an **onslaught** of tactical misinformation is used to manipulate the narrative and escalate tensions. Factcheckers say misinformation including the **repurposing** of old footage and widespread fake claims of military victories mirrored much of what had come out of Russia in the early days of the Russia-Ukraine war.
-
-The Washington DC-based Centre for the Study of Organized Hate (CSOH), which tracked and documented the misinformation coming from both sides, warned that the weaponisation of misinformation and disinformation in the the most recent India-Pakistan conflict was “not an isolated phenomenon, but part of a broader global trend in **hybrid warfare**”.
-
-**Fabricated** reports from India first emerged largely on X and Facebook, Naik said, often shared or reposted by verified rightwing accounts.
+A report into the social media war that surrounded the India-Pakistan conflict, released last week by the civil society organisation The London Story, detailed how X and Facebook “became **fertile** ground for the spread of war narratives, hate speech, and emotionally manipulative disinformation” and “drivers of nationalist incitement” in both countries.
 
 Video game imagery was **passed off** as real-life footage of India’s air force downing one of Pakistan’s JF-17 fighter jets, while footage from the Russian-Ukraine war was claimed to be scenes of “massive airstrikes on Pakistan”. **Doctored** AI visuals were circulated widely to show Pakistan’s defeat and visuals of a Turkish pilot was used in fabricated reports of a captured Pakistani pilot.
 
-India’s mainstream media, which have already suffered a major loss of credibility owing to their heavy pro-government stance under Modi, are facing difficult questions. Some prominent **anchors** have already issued apologies.
+Some prominent **anchors** have already issued apologies.
 
 Citizens for Justice and Peace (CJP), an Indian human rights organisation, has filed formal complaints to the broadcasting watchdog for “serious **ethical** breaches” of six of the country’s most prominent television news channels in their reporting of Operation Sindoor.
 
-Kanchan Gupta, a senior adviser to the Indian ministry of information and broadcasting, denied any government role in the misinformation campaign. He said the government had been “very alert” to the issue of misinformation and has issued **explicit** advice to mainstream media reporting on the conflict.
-
-“We set up a monitoring centre which operated 24-7 and **scrutinised** every bit of disinformation that could have a **cascading** impact, and a fact check was put out immediately.  Whatever was in the **ambit** of the law to stop this was done.”
-
-Nonetheless, he emphasised that the “fog of war is **universally** accepted as a reality. It is a fact that in any conflict situation, whether **overt** or **covert** conflict, the nature of reportage tends to go **high-pitch**”.
+Whatever was in the **ambit** of the law to stop this was done.
 
 ### Others
 
 #### [2025-07-24 Why are Thailand and Cambodia engaged in a border conflict?](https://www.theguardian.com/world/2025/jul/24/why-thailand-cambodia-border-clash-conflict)
 
-The dispute between Thailand and Cambodia **dates back** more than a century, to when France, which occupied Cambodia until 1953, first mapped the land border.
-
-The dispute over the border, which stretches across more than 508 miles (817km), has repeatedly erupted over the years, **fanned** by nationalist sentiment.
-
-Tensions escalated further on Wednesday when five Thai military personnel were injured by **landmines** while on **patrol**.
-
-Cambodia is **effectively** a one-party state.
-
-Others note that the dispute may provide a welcome **distraction** from economic problems. Both Cambodia and Thailand are facing the prospect of a 36% US tariff from 1 August.
+Others note that the dispute may provide a welcome **distraction** from economic problems.
 
 Paetongtarn also made **disparaging** remarks about a senior Thai military commander – undermining an institution that is very powerful in Thailand, and which has frequently intervened in politics.
 
-Anwar Ibrahim, the prime minister of Malaysia, which now chairs the regional bloc **Association** of Southeast Asian Nations (Asean), called on Thailand and Cambodia to “stand down”.
-
 However, it is **improbable**, said Sanglee, that Asean, known for its non-interference policy, would be capable of trying to mediate the dispute – or willing to try.
-
-“China is the only **viable** external mediator because it has direct leverage over Cambodia and also Thailand,” she added.
-
-Thailand’s **caretaker** prime minister, Phumtham Wechayachai, said fighting must stop before negotiations could take place. There had been no declaration of war and conflict was not spreading into more provinces, he said on Thursday.
-
-Hun Manet has requested the UN security council convene an urgent meeting to discuss the crisis, accusing Thailand of “**unprovoked** military aggression”.
