@@ -1,0 +1,290 @@
+---
+layout: post
+title:  "25年3月至25年7月美国、日韩新闻摘选"
+date:   2025-07-31 11:23:00 +0800
+---
+
+* 目录
+{:toc #markdown-toc}
+
+### US and Trump
+
+#### [2025-03-26 Republican senators break ranks to call for investigation of Signal leak scandal](https://www.theguardian.com/us-news/2025/mar/26/signal-investigation-republican-senators)
+
+Senior national security officials testified before the Senate intelligence committee on Tuesday, where the national intelligence director, Tulsi Gabbard, and CIA director, John Ratcliffe, were **grilled** by lawmakers over the scandal.
+
+However, he did not describe how the leak happened and **trashed** Goldberg, calling him “the bottom-scum of journalists”.
+
+#### [2025-04-05 Trump tariffs come into effect in ‘seismic’ shift to global trade](https://www.theguardian.com/us-news/2025/apr/05/trump-tariffs-come-into-effect-in-seismic-shift-to-global-trade)
+
+Shaw said: “This is a pretty **seismic** and significant shift in the way that we trade with every country on Earth.”
+
+#### [2025-05-18 US treasury secretary says Walmart will ‘eat some of the tariffs’ after Trump demand](https://www.theguardian.com/us-news/2025/may/18/trump-walmart-tariffs)
+
+The statement provoked an angry response from Trump, who posted a **rant** to his Truth Social network on Saturday saying the company should “eat the tariffs and not charge valued customers anything”.
+
+On Thursday, McMillon said in the earnings call that his company, a **bellwether** of US consumer health, was moving to protect itself against the impacts of Trump’s tariffs, despite the president’s administration announcing a pause in its trade war with China that analysts called “capitulation day”.
+
+For too long, he said, the US had been “looted, **pillaged**, raped and **plundered** by nations near and far”, and he presented a list of countries and territories that would receive tariffs, ranging from numerous US allies and longtime trade partners to **barren**, remote islands near **Antarctica** occupied only by penguins.
+
+He has since attempted to walk back many of the **excesses** of the policy, including this week’s announcement that, for an initial 90-day period, tariffs on China – a dominant supplier to Walmart and **myriad** other US companies – would be cut from 145% to 30%.
+
+#### [2025-06-05 Impeachment, Epstein and bitter acrimony: Trump and Musk joust in astonishing social media duel](https://www.theguardian.com/us-news/2025/jun/05/trump-elon-musk-fallout)
+
+The deterioration of their once close relationship into bitter **acrimony** came over the course of several remarkable hours during which the president and the world’s richest person **hurled** deeply personal insults over matters significant and insignificant.
+
+In the most **churlish** moment of the astonishing saga, Musk said on X the reason the Trump administration had not released the files into Epstein was because they **implicated** the president. He later quote-tweeted a post calling for Trump to be removed and said Trump’s tariffs would cause a recession.
+
+For weeks, Musk has complained about the budget bill, and used the non-partisan Congressional Budget Office estimating the bill would add $2.4tn to the deficit over the next decade as an opening to condemn the legislation as a “disgusting **abomination**”.
+
+On Thursday, Trump appeared to finally have had enough of Musk’s complaints. Speaking in the Oval Office as the German chancellor, Friedrich Merz, looked on in **bemusement**, Trump mocked Musk’s recent black eye and questioned why he didn’t cover it up.
+
+But then Trump posted on Truth Social that he had fired Musk from his role as a special adviser because he was “**wearing thin**” at the White House, and Musk responded: “Such an obvious lie. So sad.”
+
+Musk spent hundreds of millions of dollars on Trump’s re-election campaign through his specially created America Pac, which **shouldered** a large portion of Trump’s door-knocking campaign, although the actual impact of that ground-game effort is unclear.
+
+#### [2025-06-08 Newsom is warned of ‘criminal tax evasion’ if he withholds federal taxes](https://www.theguardian.com/us-news/2025/jun/08/newsom-warned-tax-evasion)
+
+The US treasury secretary, Scott Bessent, has warned California governor Gavin Newsom that he would be guilty of “criminal tax evasion” if he **withholds** his state’s tax payments to the federal government amid threats of a funding cut by Donald Trump.
+
+In a statement on Friday, the White House spokesperson Kush Desai criticized California’s energy, immigration and other positions as “lunatic anti-energy, soft-on-crime, pro-child **mutilation**, and pro-**sanctuary** policies”.
+
+“No taxpayer should be forced to fund the **demise** of our country,” Desai said.
+
+Soon before Newsom made his threat, California assembly speaker Robert Rivas described the rumored grant cancellations as “unconstitutional and **vindictive**.”
+
+#### [2025-06-10 Protests across US as anger grows over Trump’s immigration crackdown](https://www.theguardian.com/us-news/2025/jun/10/us-protests-immigration-trump)
+
+Shirley, a 29-year-old protester, condemned the Trump administration for targeting workers, which she called **antithetical** to the country’s **essence**.
+
+After a rally, the protesters **barricaded** driveways with e-bikes and e-scooters to block homeland security vehicles thought to be transporting detained immigrants.
+
+### Japan and South Korean
+
+#### [2025-04-22 Rice crisis: Japan imports grain from South Korea for first time in more than 25 years](https://www.theguardian.com/world/2025/apr/22/japan-south-korea-rice-import-crisis)
+
+================================================================================================================================================
+
+The quantity of South Korean rice, which was sold online and at supermarkets, is still relatively low at just two **tonnes**, but there are plans to ship a further 20 tonnes in the coming days, the public broadcaster NHK said.
+
+Hirano told Reuters that the price of the Californian product he now served had doubled since his first purchase last summer, but was still cheaper than **homegrown** rice.
+
+And he has had no **complaints** from diners, including Miki Nihei, who was surprised to find out the rice she had eaten wasn’t grown in Japan. “I had no idea,” she said. “I have no **qualms** about eating imported rice. Prices have gone up, so I’m always looking for cheaper options.”
+
+The trend has forced the Japanese government to take the unusual step of **dipping** into its vast rice **reserves**. In March it began releasing 210,000 tonnes of stockpiled rice in an attempt to **arrest** price rises caused by a combination of record summer heat, panic buying and distribution problems.
+
+Japan had previously dipped into its rice reserves in the aftermath of natural disasters or crop failures, but this was the first time it had **intervened** over **distribution** issues.
+
+Japan’s rice stockpiles had already **depleted** after record-breaking temperatures affected the 2023 crop.
+
+#### [2025-05-01 Snake on a train line: Japan’s busiest bullet train route brought to a halt](https://www.theguardian.com/world/2025/may/01/japan-snake-bullet-train)
+
+Japan’s busiest bullet train line was brought to a halt on Wednesday after a metre-long snake wrapped itself around a power line, **shorting** the electricity supply and **stranding** hundreds of passengers.
+
+**Shinkansen** trains running between Tokyo and **Osaka** were brought to a **standstill** by the snake, with news reports showing footage of people inside trains waiting for services to resume. Power did not appear to have been cut inside trains, with lights and air conditioning still functioning, according to passengers.
+
+The **outage** happened at 5.25pm between Maibara and Gifu-Hashima stations, after the snake appeared to have climbed an electricity **pole**, meeting its **demise** as it attempted to **slither** along the overhead line. Power was not restored until after 7pm.
+
+The line connects Tokyo, **Nagoya** and Osaka with more than 370 trains daily carrying an average of 430,000 passengers.
+
+It has an **exemplary** safety record, with not a single injury or accident recorded, and trains running to within an average of 1.6 minutes of their scheduled times, according to operator Central Japan Railway Co. (JR Tokai).
+
+A 40cm snake inside a **carriage** on a Nagoya to Tokyo service in April last year caused **consternation** among passengers. Staff were unable to find the creature, and the carriage was replaced, resulting in a 17-minute delay.
+
+In 2009, an electricity outage was also caused by a snake climbing on to power lines, stopping trains between Tokyo and **Fukushima**.
+
+#### [2025-05-01 Japanese police arrest man after alleged car attack on schoolchildren, say reports](https://www.theguardian.com/world/2025/may/01/man-arrested-in-japan-after-allegedly-driving-a-car-into-schoolchildren-say-reports)
+
+A seven-year-old girl suffered a broken jaw and the other children – boys and girls aged seven and eight – are reported to have relatively light injuries. All appeared to be **conscious** as they were taken to hospital.
+
+A mother in her 20s who had come to pick up her son, and who saw the attack, told NHK: “The car was being driven **erratically**, and it seems that it continued to move forward even after it had hit the children.
+
+“My son was very shocked and has been crying the whole time. He only just started elementary school last month, and then something like this happened. It’s scary. I saw the man who had been driving the car. He was very quiet and appeared to be in a **daze**.”
+
+#### [2025-05-19 Runaway rice prices spell danger for Japan’s prime minister as elections loom](https://www.theguardian.com/world/2025/may/19/runaway-rice-prices-spell-danger-for-japans-prime-minister-as-elections-loom)
+
+Attempts to bring down the price of the Japanese **staple** have had little effect, prompting calls for a reduction in the consumption (sales) tax to ease the cost-of-living crisis.
+
+Approval ratings for Ishiba’s cabinet stand at 27.4%, according to the poll, the lowest since he took office last October and a **dip** of more than five percentage points in the past month, Kyodo said.
+
+Ishiba’s ruling Liberal Democratic party (LDP) has so far ruled out a cut in the 10% consumption tax, which **promises** to be a focal point of upper house elections in July.
+
+Ishiba is already under pressure after the LDP and its **junior** coalition partner lost their lower house majority last autumn. Significant losses in the upper house will only add to calls from opponents inside the party for him to go.
+
+Almost three-quarters of **respondents** said the tax, which is levied on a wide range of goods and services, should be cut “only for food items”, “for all products” or be abolished altogether, the poll found.
+
+More worrying for Ishiba, just over 87% of respondents said government efforts to **rein** in the price of rice had been “insufficient”, while more than 74% said they did not expect ongoing US-Japan tariff talks – including negotiations on American imports of rice and other **foodstuffs** – to end favourably to Japan.
+
+In March it began releasing stockpiled rice in an attempt to arrest price rises that have been blamed on a combination of factors, including higher demand fuelled in part by the tourism boom, distribution bottlenecks, and suspected **hoarding** by **wholesalers** and distributors in anticipation of further shortages.
+
+But the move, which is usually reserved for shortages caused by natural disasters and crop failures, did not have the desired effect, with prices of domestic rice falling only **marginally**.
+
+#### [2025-05-21 Japanese minister resigns after saying he doesn’t buy rice because he gets it free](https://www.theguardian.com/world/2025/may/21/japan-farm-minister-resigns-rice-price)
+
+Etō had initially sympathised with the “hardship” felt by consumers after the government released about 300,000 tons of rice from emergency stockpiles earlier this year in the hope of bringing down prices. But speaking at a **fundraiser** last weekend, Etō said he had “never bought rice myself because my supporters donate so much to me that I can **practically** sell it”.
+
+Etō’s comment **incensed** consumers, who are having to pay nearly double for a bag of rice compared with a year ago, according to figures published in April.
+
+“I asked myself whether it is appropriate for me to stay at the **helm** of the agriculture ministry at a critical time for rice prices, and I concluded that it is not,” Etō added, according to the Kyodo news agency.
+
+Japan’s rice **shortfall** has been blamed on several factors, including poor harvests due to hot weather in 2023 and panic-buying prompted by a “megaquake” warning in 2024.
+
+The ongoing rice crisis and rising household food and energy bills have **dented** the popularity of Ishiba’s government, weeks before it faces voters in upper house elections that could determine his future as prime minister.
+
+Junya Ogawa, secretary general of the main opposition Constitutional Democratic party, described Etō’s comments as “extremely inappropriate, **out of touch** and intolerable”.
+
+#### [2025-05-28 Fukushima soil headed to Japan PM’s flower beds to allay nuclear safety fears](https://www.theguardian.com/world/2025/may/28/fukushima-radioactive-soil-japan-pm-garden)
+
+Slightly radioactive soil from near the damaged Fukushima Daiichi nuclear power plant will be transported to Tokyo and used in flower beds in the prime minister’s garden, in an attempt to prove to a **skeptical public** that the material is safe.
+
+The decision comes 14 years after the plant suffered a triple **meltdown** in the world’s worst nuclear accident since **Chornobyl**.
+
+The sample will be taken from 14 million cubic metres of soil – enough to fill 10 baseball stadiums – that has been removed from near the plant during work to make local neighbourhoods **fit for** the return of evacuated residents.
+
+The soil is in temporary storage at a vast site near the plant, but authorities have struggled to make progress on a legal **obligation** to find permanent homes for the material outside Fukushima by 2045.
+
+The government has suggested the material, which it describes as low risk, could be used to build roads and other infrastructure in other parts of Japan. It would be used as foundation material and covered with **topsoil** thick enough to keep **radiation** at **negligible** levels.
+
+Officials said they hoped the **gesture** by the prime minister, Shigeru Ishiba, would convince other locations that accepting quantities of the soil would not pose a risk to public health or the environment.
+
+“The government will **take the lead** in setting an example, and we will do so at the prime minister’s office,” the chief cabinet secretary, Yoshimasa Hayashi, said at a meeting held to discuss the issue.
+
+The Fukushima Daiichi plant released large quantities of radiation into the atmosphere after it was struck by a powerful earthquake and **tsunami** on 11 March 2011.
+
+Work to remove 880 tonnes of highly dangerous damaged fuel from reactor **containment** **vessels** has barely begun. So far, specially designed devices have successfully retrieved two tiny samples of fuel, but removing all of it is expected to take decades and cost trillions of yen.
+
+The plant’s operator, Tokyo Electric Power, has also had to **contend** with huge quantities of water that becomes **contaminated** when it is used to cool the damaged reactors.
+
+The removal of topsoil, trees and other debris from near homes, schools, medical facilities and other public buildings created a stockpile of contaminated waste that now fills a site **straddling** the towns of Futaba and Okuma, located close to the plant.
+
+In its final report on the recycling and **disposal** of the soil last year, the International Atomic Energy Agency said the work had been consistent with its safety standards.
+
+But the public is yet to be convinced. Last month, local opposition forced the environment ministry to abandon a pilot project to use some of the Fukushima soil as **landfill** for flower beds and **lawns** at public parks in and around Tokyo.
+
+#### [2025-06-05 Japan records lowest number of births in more than a century, as population fears grow](https://www.theguardian.com/world/2025/jun/05/japan-records-lowest-number-of-births-in-more-than-a-century-as-population-fears-grow)
+
+The number of births and the fertility rate have fallen for nine years **in a row**, although the number of marriages was slightly up last year, two years after it dipped below half a million for the first time.
+
+The number of marriages – a key factor in influencing birth trends in a country where relatively few children are born out of **wedlock** – rose for the first time in two years to 485,063, up by 10,322 from a year earlier. But the downward trend seen since the 1970s remains unchanged.
+
+If current trends persists, Japan’s population of about 124 million is **projected** to fall to 87 million by 2070, when 40% of the population will be 65 or over.
+
+A shrinking and ageing population could have serious **implications** for the economy and national security, as the country seeks to boost its military to counter potential threats from China and North Korea.
+
+The prime minister, Shigeru Ishiba, who has described Japan’s demographics as a “silent emergency”, recently unveiled measures to boost the birthrate, including an expansion of child **allowance** and free high school education, and a guarantee that couples will receive the equivalent of 100% of their take-home pay when they take **parental leave** at the same time.
+
+Ishiba’s predecessor, Fumio Kishida, warned that the falling birthrate, combined with rising numbers of deaths, threatened Japan’s ability “to function as a society”, adding the country had reached a “**now or never**” moment to address its demographic crisis.
+
+But attempts by **successive** governments to ease the financial pressure on couples have had little effect, with statistics showing that people continue to marry later in life, a trend that results in smaller families.
+
+The government has been criticised for focusing on married couples rather than on younger, single people who have been **put off** the idea of marriage. Many cite poor employment prospects and job security, the rising cost of living, and a **corporate culture** that makes it difficult for female employees to become working mothers.
+
+#### [2025-07-04 Japan walks line between recession and submission as it seeks to overcome Trump tariffs](https://www.theguardian.com/world/2025/jul/04/japan-submission-recession-trump-tariffs)
+
+It all seemed to be going so well. In April, Japan’s chief trade negotiator, Ryosei Akazawa, sat opposite Donald Trump in the Oval Office after “positive and constructive” talks, **sporting** a Maga baseball cap and giving a thumbs up for the cameras.
+
+Japan’s economic **revitalisation** minister drew criticism back home for the gesture, forcing him to insist there was “no political significance” behind it. But the backdrop to the offending photo was far more significant than the uncomfortable **optics**.
+
+Akazawa’s trade delegation was in Washington to begin tariff negotiations with its American counterparts that officials in Tokyo were initially optimistic would end with Japan’s exemption from Trump’s most **egregious** protectionist **instincts**.
+
+Eleven weeks and seven rounds of talks later, Japan and the US have reached an impasse, with Trump unleashing on his country’s most important ally in the Asia-Pacific the kind of **invective** he once reserved for China and the European Union: “They won’t take our RICE, and yet they have a massive rice shortage,” he wrote online, adding it showed “how **spoiled** countries have become”.
+
+The friction is beginning to **seep** into other parts of the bilateral relationship, with Tokyo and Washington at odds, to varying degrees, on the cost of hosting American troops in Japan and recent attacks by the US and Israel on Iran.
+
+**To add insult to injury**, the **chasm** that has opened up between Tokyo and Washington on trade came as the US agreed to slash reciprocal tariffs on Vietnamese imports from 46% to 20%.
+
+But if anything, the **mood music** from Washington indicates that Trump is even less inclined to make **concessions** ahead of the president’s second tariff “liberation day”, despite constant reminders from senior politicians in Tokyo of the value Japan brings to the US economy.
+
+Just days earlier, Trump had framed Japan in terms that prompted as much **consternation** as anger on this side of the Pacific.
+
+Speaking to reporters on Air Force One, he floated the idea of raising tariffs on imports from Japan to 30% or 35%, and **bemoaned** its consumers’ lack of enthusiasm for American cars and rice.
+
+That will not put the brakes on Trump’s mission to **hack away** at Japan’s $68bn trade **surplus** with the US – hence his recent demands that it increase imports of US oil and other goods.
+
+The **trade row** has landed Ishiba and his government in a predicament every bit as sticky as the early-summer heat and humidity **blanketing** Japan.
+
+**Battered** by funding scandals, soaring rice prices and a cost-of-living crisis, Ishiba’s administration is **limping** into the campaign for upper house elections on 20 July, nine months after his Liberal Democratic party (LDP) and its junior coalition partner lost their majority in the lower house.
+
+Any **inkling** that Tokyo is prepared to bend to Trump’s demands will not go down well with voters, while analysts warn that the economic impact of accepting higher tariffs could push the Japanese economy – the world’s fifth biggest – into recession.
+
+Japan’s rice crisis has also become a point of **contention**, as the government attempts to bring down prices with the release of almost all of its 1m tonnes of stockpiled grain, along with a rise in cheaper imports.
+
+“We intend to advance bilateral talks in a sincere and **faithful** manner toward reaching an agreement that will benefit both Japan and the United States.”
+
+Tariffs, though, are putting **strain** on what the former US ambassador to Tokyo, Mike Mansfield, once described as the “most important bilateral relationship in the world, **bar none**”.
+
+Japan also declined to offer **full-throated** support for the US attacks on Iran, saying only that it “understood” Washington’s determination to halt Tehran’s nuclear weapons programme.
+
+This week, the US secretary of state, Marco Rubio, **called off** his first visit to Japan and South Korea, saying he was needed in Washington for talks with the Israeli prime minister, Benjamin Netanyahu.
+
+Amid rumours that he is preparing to make yet another trip to Washington this weekend, Akazawa has limited room for **manoeuvre** – and precious little time, according to analysts.
+
+“Practical and **electoral** constraints will prevent Japan from offering major concessions on autos, rice, and oil, with negotiators set to continue their slow-and-steady approach,” said James Brady, vice-president of the political risk advisory firm Teneo.
+
+#### [2025-07-20 Japan PM Shigeru Ishiba vows to stay on despite losing upper house majority](https://www.theguardian.com/world/2025/jul/20/apan-pm-election-result-exit-polls-predict-loss-of-upper-house)
+
+Japanese prime minister Shigeru Ishiba’s has vowed to stay on despite his **coalition** losing its upper house majority in elections that saw strong gains by a rightwing **populist** party.
+
+While the **ballot** does not directly determine whether Ishiba’s minority government falls, it **heaps** pressure on the **embattled** leader, who also lost control of the more powerful lower house in October and who has never been popular within his own party.
+
+Ishiba told a news conference he would remain in office to oversee tariff talks with the United States and other **pressing** matters such as rising consumer prices that are straining the world’s fourth largest economy.
+
+His Liberal Democratic party (LDP) and coalition partner Komeito needed 50 seats to secure the 248-seat upper **chamber** in an election in which half the seats were up for grabs, but had only secured 47, with one seat left to declare, as of Monday morning.
+
+Speaking to NHK earlier, Ishiba, 68, said he “**solemnly**” accepted the “harsh result”.
+
+Asked whether he intended to stay on as prime minister and party leader, he said: “That’s right. It’s a difficult situation, and we have to take it very **humbly** and seriously.”
+
+But the result also weakens Ishiba’s position just days before the country needs to negotiate a deal with the Trump administration to **avert** the imposition of punishing tariffs in its largest export market.
+
+Japanese imports are already subject to a 10% tariff, while the auto industry – which accounts for 8% of jobs – is **reeling from** a 25% levy.
+
+Weak export data last week, which showed **plummeting** US-bound auto deliveries, **stoked** fears that Japan could tip into a technical recession.
+
+Opposition parties advocating for tax cuts and welfare spending have struck a **chord** with voters, exit polls showed, as rising consumer prices – particularly a jump in the cost of rice – have sowed frustration at the government’s response.
+
+The LDP has been urging for fiscal restraint, with one eye on a very **jittery** government bond market, as investors worry about Japan’s ability to **refinance** the world’s largest debt pile.
+
+Sanseito, which first emerged during the Covid pandemic spreading conspiracy theories about vaccinations and a **cabal** of global elites, has dragged once **fringe** political rhetoric into the mainstream and gained wider support among frustrated voters.
+
+#### [2025-07-25 ‘Japanese First’: breakthrough by rightwing populists sparks fears of anti-foreigner backlash in Japan](https://www.theguardian.com/world/2025/jul/25/japan-upper-house-election-sanseito-japanese-first)
+
+The party, Sanseito, has successfully tapped into unease around an expanding **immigrant** population and a huge **influx** of tourists after the pandemic. But many see the underlying cause as economic insecurity among a population that both understands the need for overseas labour and visitors, and feels anxiety at the changes they bring and **symbolise**.
+
+Sanseito’s new **contingent** of 14 upper house lawmakers, up from a single seat in the previous election, is undoubtedly a breakthrough, but still leaves it a minor force in the 248-seat chamber.
+
+“I think that leads to things like **patriotism** and **xenophobia**.”
+
+But as its GDP growth **stagnated** and neighbours such as China and South Korea began to leave it behind in sectors from electronics to shipbuilding, he suggests Japan has struggled to adjust to its new reality.
+
+“It **struck a chord** with people who feel like they need to protect Japanese culture and way of life.”
+
+There are around a dozen Vietnamese at the company where Akio Ono installs air **conditioners**, “I get on well with them, most of the guys do. But when they go to customers’ homes, they still have to go with a Japanese colleague as there is still **prejudice**, as well as language issues.”
+
+Reports of crimes by foreigners, often circulated on social media, have also raised **hackles**, even though police statistics show immigrants commit **proportionally** fewer offences than the native population. Ono believes news stories about Vietnamese and Chinese theft rings are “a big part of what is driving the concerns about immigration.”
+
+Toyonori Sugita, who runs a **metalworking** factory just south of Tokyo, leans right but also rejected Sanseito. He sees the **electorate**’s main concerns as the economy and the sales tax, which Sanseito promised to cut.
+
+The tourist boom has also **aroused** conflicting emotions. While the money spent by visitors on luxury **accommodation** and high-end dining that now seem cheap by global standards boosts the economy, it is a stark reminder of Japan’s decline from its glory days.
+
+“The reality is that Japan has become a cheap country. You can’t deny that wages are higher overseas or that there are 10,000-yen [£50] sea urchin lunches aimed at foreigners. So, in order to protect their emotional **wellbeing** and maintain their sense of self-worth, people **cling** to the idea that Japanese culture is the best.”
+
+#### [2025-06-03 Lee Jae-myung wins election as South Korean president](https://www.theguardian.com/world/2025/jun/03/lee-jae-myung-elected-as-south-korean-president-exit-polls-say)
+
+Liberal candidate Lee Jae-myung has won the vote to become South Korea’s new president after a **snap election** triggered by a brief period of martial law imposed by the now-impeached former leader, Yoon Suk Yeol.
+
+With 100% of the ballots counted, Lee won 49.42% of nearly 35 million **votes cast**, while his conservative rival Kim Moon-soo had taken 41.15%, according to national election commission data, which said **turnout** was the highest for a presidential election since 1997.
+
+The order, which was overturned in **a matter of** hours, sparked South Korea’s biggest political crisis in decades. The country is also battling an economic downturn, income inequality and doubts over the US’s commitment to its security under Donald Trump.
+
+Kim, however, struggled to win over moderate swing voters while his People Power party **feuded** over how to view Yoon’s legacy.
+
+“The economy has gotten so much worse since December … Not just for me but I hear that from everybody,” said Kim Kwang-ma, an 81-year-old voter. “And we as a people have become so **polarised** … I wish we could come together so that Korea can develop again.”
+
+Lee, a **frontrunner** since the start of the campaign, will face several major challenges, including a slowing economy, Trump’s trade war and the nuclear threat posed by North Korea.
+
+Kim, a former labour minister under Yoon, warned that a **victorious** Lee would abuse his powers to retaliate against his political opponents and use his party’s majority in the national assembly to protect him in several court cases that will resume after the election.
+
+Lee, who headed the opposition-led campaign to oust Yoon, is a highly **divisive** figure in South Korean politics. He faces criminal trials including charges of bribery and alleged involvement in a property development scandal.
+
+But he wants to move away from Yoon’s **confrontational** approach towards North Korea and re-engage with the South’s nuclear-armed neighbour. He has conceded, though, that it will be “very difficult” to quickly resume summits with the North’s leader, Kim Jong-un.
