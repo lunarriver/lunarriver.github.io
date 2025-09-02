@@ -63,43 +63,25 @@ After a rally, the protesters **barricaded** driveways with e-bikes and e-scoote
 
 #### [2025-04-22 Rice crisis: Japan imports grain from South Korea for first time in more than 25 years](https://www.theguardian.com/world/2025/apr/22/japan-south-korea-rice-import-crisis)
 
-================================================================================================================================================
+“I have no **qualms** about eating imported rice. Prices have gone up, so I’m always looking for cheaper options.”
 
-The quantity of South Korean rice, which was sold online and at supermarkets, is still relatively low at just two **tonnes**, but there are plans to ship a further 20 tonnes in the coming days, the public broadcaster NHK said.
-
-Hirano told Reuters that the price of the Californian product he now served had doubled since his first purchase last summer, but was still cheaper than **homegrown** rice.
-
-And he has had no **complaints** from diners, including Miki Nihei, who was surprised to find out the rice she had eaten wasn’t grown in Japan. “I had no idea,” she said. “I have no **qualms** about eating imported rice. Prices have gone up, so I’m always looking for cheaper options.”
-
-The trend has forced the Japanese government to take the unusual step of **dipping** into its vast rice **reserves**. In March it began releasing 210,000 tonnes of stockpiled rice in an attempt to **arrest** price rises caused by a combination of record summer heat, panic buying and distribution problems.
-
-Japan had previously dipped into its rice reserves in the aftermath of natural disasters or crop failures, but this was the first time it had **intervened** over **distribution** issues.
+The trend has forced the Japanese government to take the unusual step of **dipping** into its vast rice reserves.
 
 Japan’s rice stockpiles had already **depleted** after record-breaking temperatures affected the 2023 crop.
 
 #### [2025-05-01 Snake on a train line: Japan’s busiest bullet train route brought to a halt](https://www.theguardian.com/world/2025/may/01/japan-snake-bullet-train)
 
-Japan’s busiest bullet train line was brought to a halt on Wednesday after a metre-long snake wrapped itself around a power line, **shorting** the electricity supply and **stranding** hundreds of passengers.
-
-**Shinkansen** trains running between Tokyo and **Osaka** were brought to a **standstill** by the snake, with news reports showing footage of people inside trains waiting for services to resume. Power did not appear to have been cut inside trains, with lights and air conditioning still functioning, according to passengers.
-
-The **outage** happened at 5.25pm between Maibara and Gifu-Hashima stations, after the snake appeared to have climbed an electricity **pole**, meeting its **demise** as it attempted to **slither** along the overhead line. Power was not restored until after 7pm.
-
-The line connects Tokyo, **Nagoya** and Osaka with more than 370 trains daily carrying an average of 430,000 passengers.
+The **outage** happened at 5.25pm between Maibara and Gifu-Hashima stations.
 
 It has an **exemplary** safety record, with not a single injury or accident recorded, and trains running to within an average of 1.6 minutes of their scheduled times, according to operator Central Japan Railway Co. (JR Tokai).
 
 A 40cm snake inside a **carriage** on a Nagoya to Tokyo service in April last year caused **consternation** among passengers. Staff were unable to find the creature, and the carriage was replaced, resulting in a 17-minute delay.
 
-In 2009, an electricity outage was also caused by a snake climbing on to power lines, stopping trains between Tokyo and **Fukushima**.
-
 #### [2025-05-01 Japanese police arrest man after alleged car attack on schoolchildren, say reports](https://www.theguardian.com/world/2025/may/01/man-arrested-in-japan-after-allegedly-driving-a-car-into-schoolchildren-say-reports)
-
-A seven-year-old girl suffered a broken jaw and the other children – boys and girls aged seven and eight – are reported to have relatively light injuries. All appeared to be **conscious** as they were taken to hospital.
 
 A mother in her 20s who had come to pick up her son, and who saw the attack, told NHK: “The car was being driven **erratically**, and it seems that it continued to move forward even after it had hit the children.
 
-“My son was very shocked and has been crying the whole time. He only just started elementary school last month, and then something like this happened. It’s scary. I saw the man who had been driving the car. He was very quiet and appeared to be in a **daze**.”
+“He was very quiet and appeared to be in a **daze**.”
 
 #### [2025-05-19 Runaway rice prices spell danger for Japan’s prime minister as elections loom](https://www.theguardian.com/world/2025/may/19/runaway-rice-prices-spell-danger-for-japans-prime-minister-as-elections-loom)
 
@@ -107,51 +89,23 @@ Attempts to bring down the price of the Japanese **staple** have had little effe
 
 Approval ratings for Ishiba’s cabinet stand at 27.4%, according to the poll, the lowest since he took office last October and a **dip** of more than five percentage points in the past month, Kyodo said.
 
-Ishiba’s ruling Liberal Democratic party (LDP) has so far ruled out a cut in the 10% consumption tax, which **promises** to be a focal point of upper house elections in July.
-
-Ishiba is already under pressure after the LDP and its **junior** coalition partner lost their lower house majority last autumn. Significant losses in the upper house will only add to calls from opponents inside the party for him to go.
-
-Almost three-quarters of **respondents** said the tax, which is levied on a wide range of goods and services, should be cut “only for food items”, “for all products” or be abolished altogether, the poll found.
-
-More worrying for Ishiba, just over 87% of respondents said government efforts to **rein** in the price of rice had been “insufficient”, while more than 74% said they did not expect ongoing US-Japan tariff talks – including negotiations on American imports of rice and other **foodstuffs** – to end favourably to Japan.
-
-In March it began releasing stockpiled rice in an attempt to arrest price rises that have been blamed on a combination of factors, including higher demand fuelled in part by the tourism boom, distribution bottlenecks, and suspected **hoarding** by **wholesalers** and distributors in anticipation of further shortages.
+In March it began releasing stockpiled rice in an attempt to arrest price rises that have been blamed on a combination of factors, including higher demand fuelled in part by the tourism boom, distribution bottlenecks, and suspected **hoarding** by wholesalers and distributors in anticipation of further shortages.
 
 But the move, which is usually reserved for shortages caused by natural disasters and crop failures, did not have the desired effect, with prices of domestic rice falling only **marginally**.
 
 #### [2025-05-21 Japanese minister resigns after saying he doesn’t buy rice because he gets it free](https://www.theguardian.com/world/2025/may/21/japan-farm-minister-resigns-rice-price)
 
-Etō had initially sympathised with the “hardship” felt by consumers after the government released about 300,000 tons of rice from emergency stockpiles earlier this year in the hope of bringing down prices. But speaking at a **fundraiser** last weekend, Etō said he had “never bought rice myself because my supporters donate so much to me that I can **practically** sell it”.
+But speaking at a **fundraiser** last weekend, Etō said he had “never bought rice myself because my supporters donate so much to me that I can **practically** sell it”.
 
 Etō’s comment **incensed** consumers, who are having to pay nearly double for a bag of rice compared with a year ago, according to figures published in April.
 
 “I asked myself whether it is appropriate for me to stay at the **helm** of the agriculture ministry at a critical time for rice prices, and I concluded that it is not,” Etō added, according to the Kyodo news agency.
 
-Japan’s rice **shortfall** has been blamed on several factors, including poor harvests due to hot weather in 2023 and panic-buying prompted by a “megaquake” warning in 2024.
-
-The ongoing rice crisis and rising household food and energy bills have **dented** the popularity of Ishiba’s government, weeks before it faces voters in upper house elections that could determine his future as prime minister.
-
-Junya Ogawa, secretary general of the main opposition Constitutional Democratic party, described Etō’s comments as “extremely inappropriate, **out of touch** and intolerable”.
-
 #### [2025-05-28 Fukushima soil headed to Japan PM’s flower beds to allay nuclear safety fears](https://www.theguardian.com/world/2025/may/28/fukushima-radioactive-soil-japan-pm-garden)
 
-Slightly radioactive soil from near the damaged Fukushima Daiichi nuclear power plant will be transported to Tokyo and used in flower beds in the prime minister’s garden, in an attempt to prove to a **skeptical public** that the material is safe.
+It would be used as foundation material and covered with topsoil thick enough to keep radiation at **negligible** levels.
 
-The decision comes 14 years after the plant suffered a triple **meltdown** in the world’s worst nuclear accident since **Chornobyl**.
-
-The sample will be taken from 14 million cubic metres of soil – enough to fill 10 baseball stadiums – that has been removed from near the plant during work to make local neighbourhoods **fit for** the return of evacuated residents.
-
-The soil is in temporary storage at a vast site near the plant, but authorities have struggled to make progress on a legal **obligation** to find permanent homes for the material outside Fukushima by 2045.
-
-The government has suggested the material, which it describes as low risk, could be used to build roads and other infrastructure in other parts of Japan. It would be used as foundation material and covered with **topsoil** thick enough to keep **radiation** at **negligible** levels.
-
-Officials said they hoped the **gesture** by the prime minister, Shigeru Ishiba, would convince other locations that accepting quantities of the soil would not pose a risk to public health or the environment.
-
-“The government will **take the lead** in setting an example, and we will do so at the prime minister’s office,” the chief cabinet secretary, Yoshimasa Hayashi, said at a meeting held to discuss the issue.
-
-The Fukushima Daiichi plant released large quantities of radiation into the atmosphere after it was struck by a powerful earthquake and **tsunami** on 11 March 2011.
-
-Work to remove 880 tonnes of highly dangerous damaged fuel from reactor **containment** **vessels** has barely begun. So far, specially designed devices have successfully retrieved two tiny samples of fuel, but removing all of it is expected to take decades and cost trillions of yen.
+Work to remove 880 tonnes of highly dangerous damaged fuel from reactor **containment** **vessels** has barely begun.
 
 The plant’s operator, Tokyo Electric Power, has also had to **contend** with huge quantities of water that becomes **contaminated** when it is used to cool the damaged reactors.
 
@@ -159,27 +113,17 @@ The removal of topsoil, trees and other debris from near homes, schools, medical
 
 In its final report on the recycling and **disposal** of the soil last year, the International Atomic Energy Agency said the work had been consistent with its safety standards.
 
-But the public is yet to be convinced. Last month, local opposition forced the environment ministry to abandon a pilot project to use some of the Fukushima soil as **landfill** for flower beds and **lawns** at public parks in and around Tokyo.
+But the public is yet to be convinced. Last month, local opposition forced the environment ministry to abandon a pilot project to use some of the Fukushima soil as **landfill** for flower beds and lawns at public parks in and around Tokyo.
 
 #### [2025-06-05 Japan records lowest number of births in more than a century, as population fears grow](https://www.theguardian.com/world/2025/jun/05/japan-records-lowest-number-of-births-in-more-than-a-century-as-population-fears-grow)
 
-The number of births and the fertility rate have fallen for nine years **in a row**, although the number of marriages was slightly up last year, two years after it dipped below half a million for the first time.
-
 The number of marriages – a key factor in influencing birth trends in a country where relatively few children are born out of **wedlock** – rose for the first time in two years to 485,063, up by 10,322 from a year earlier. But the downward trend seen since the 1970s remains unchanged.
 
-If current trends persists, Japan’s population of about 124 million is **projected** to fall to 87 million by 2070, when 40% of the population will be 65 or over.
-
-A shrinking and ageing population could have serious **implications** for the economy and national security, as the country seeks to boost its military to counter potential threats from China and North Korea.
-
-The prime minister, Shigeru Ishiba, who has described Japan’s demographics as a “silent emergency”, recently unveiled measures to boost the birthrate, including an expansion of child **allowance** and free high school education, and a guarantee that couples will receive the equivalent of 100% of their take-home pay when they take **parental leave** at the same time.
-
-Ishiba’s predecessor, Fumio Kishida, warned that the falling birthrate, combined with rising numbers of deaths, threatened Japan’s ability “to function as a society”, adding the country had reached a “**now or never**” moment to address its demographic crisis.
-
-But attempts by **successive** governments to ease the financial pressure on couples have had little effect, with statistics showing that people continue to marry later in life, a trend that results in smaller families.
-
-The government has been criticised for focusing on married couples rather than on younger, single people who have been **put off** the idea of marriage. Many cite poor employment prospects and job security, the rising cost of living, and a **corporate culture** that makes it difficult for female employees to become working mothers.
+The prime minister, Shigeru Ishiba, who has described Japan’s demographics as a “silent emergency”, recently unveiled measures to boost the birthrate, including an expansion of child **allowance** and free high school education, and a guarantee that couples will receive the equivalent of 100% of their take-home pay when they take parental leave at the same time.
 
 #### [2025-07-04 Japan walks line between recession and submission as it seeks to overcome Trump tariffs](https://www.theguardian.com/world/2025/jul/04/japan-submission-recession-trump-tariffs)
+
+================================================================================================================================================
 
 It all seemed to be going so well. In April, Japan’s chief trade negotiator, Ryosei Akazawa, sat opposite Donald Trump in the Oval Office after “positive and constructive” talks, **sporting** a Maga baseball cap and giving a thumbs up for the cameras.
 
