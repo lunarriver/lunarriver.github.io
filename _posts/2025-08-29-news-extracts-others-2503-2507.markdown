@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "25年3月至25年7月美国、日韩新闻摘选"
-date:   2025-07-31 11:23:00 +0800
+date:   2025-08-29 11:23:00 +0800
 ---
 
 * 目录
@@ -123,112 +123,67 @@ The prime minister, Shigeru Ishiba, who has described Japan’s demographics as 
 
 #### [2025-07-04 Japan walks line between recession and submission as it seeks to overcome Trump tariffs](https://www.theguardian.com/world/2025/jul/04/japan-submission-recession-trump-tariffs)
 
-================================================================================================================================================
+But the backdrop to the offending photo was far more significant than the uncomfortable **optics**.
 
-It all seemed to be going so well. In April, Japan’s chief trade negotiator, Ryosei Akazawa, sat opposite Donald Trump in the Oval Office after “positive and constructive” talks, **sporting** a Maga baseball cap and giving a thumbs up for the cameras.
-
-Japan’s economic **revitalisation** minister drew criticism back home for the gesture, forcing him to insist there was “no political significance” behind it. But the backdrop to the offending photo was far more significant than the uncomfortable **optics**.
-
-Akazawa’s trade delegation was in Washington to begin tariff negotiations with its American counterparts that officials in Tokyo were initially optimistic would end with Japan’s exemption from Trump’s most **egregious** protectionist **instincts**.
+Akazawa’s trade delegation was in Washington to begin tariff negotiations with its American counterparts that officials in Tokyo were initially optimistic would end with Japan’s exemption from Trump’s most **egregious** protectionist instincts.
 
 Eleven weeks and seven rounds of talks later, Japan and the US have reached an impasse, with Trump unleashing on his country’s most important ally in the Asia-Pacific the kind of **invective** he once reserved for China and the European Union: “They won’t take our RICE, and yet they have a massive rice shortage,” he wrote online, adding it showed “how **spoiled** countries have become”.
 
 The friction is beginning to **seep** into other parts of the bilateral relationship, with Tokyo and Washington at odds, to varying degrees, on the cost of hosting American troops in Japan and recent attacks by the US and Israel on Iran.
 
-**To add insult to injury**, the **chasm** that has opened up between Tokyo and Washington on trade came as the US agreed to slash reciprocal tariffs on Vietnamese imports from 46% to 20%.
-
-But if anything, the **mood music** from Washington indicates that Trump is even less inclined to make **concessions** ahead of the president’s second tariff “liberation day”, despite constant reminders from senior politicians in Tokyo of the value Japan brings to the US economy.
-
-Just days earlier, Trump had framed Japan in terms that prompted as much **consternation** as anger on this side of the Pacific.
+To add insult to injury, the **chasm** that has opened up between Tokyo and Washington on trade came as the US agreed to slash reciprocal tariffs on Vietnamese imports from 46% to 20%.
 
 Speaking to reporters on Air Force One, he floated the idea of raising tariffs on imports from Japan to 30% or 35%, and **bemoaned** its consumers’ lack of enthusiasm for American cars and rice.
 
-That will not put the brakes on Trump’s mission to **hack away** at Japan’s $68bn trade **surplus** with the US – hence his recent demands that it increase imports of US oil and other goods.
+That will not put the brakes on Trump’s mission to **hack away** at Japan’s $68bn trade surplus with the US – hence his recent demands that it increase imports of US oil and other goods.
 
-The **trade row** has landed Ishiba and his government in a predicament every bit as sticky as the early-summer heat and humidity **blanketing** Japan.
+The **trade row** has landed Ishiba and his government in a predicament every bit as sticky as the early-summer heat and humidity blanketing Japan.
 
-**Battered** by funding scandals, soaring rice prices and a cost-of-living crisis, Ishiba’s administration is **limping** into the campaign for upper house elections on 20 July, nine months after his Liberal Democratic party (LDP) and its junior coalition partner lost their majority in the lower house.
+Battered by funding scandals, soaring rice prices and a cost-of-living crisis, Ishiba’s administration is **limping** into the campaign for upper house elections on 20 July, nine months after his Liberal Democratic party (LDP) and its junior coalition partner lost their majority in the lower house.
 
 Any **inkling** that Tokyo is prepared to bend to Trump’s demands will not go down well with voters, while analysts warn that the economic impact of accepting higher tariffs could push the Japanese economy – the world’s fifth biggest – into recession.
 
-Japan’s rice crisis has also become a point of **contention**, as the government attempts to bring down prices with the release of almost all of its 1m tonnes of stockpiled grain, along with a rise in cheaper imports.
-
-“We intend to advance bilateral talks in a sincere and **faithful** manner toward reaching an agreement that will benefit both Japan and the United States.”
-
-Tariffs, though, are putting **strain** on what the former US ambassador to Tokyo, Mike Mansfield, once described as the “most important bilateral relationship in the world, **bar none**”.
+Tariffs, though, are putting strain on what the former US ambassador to Tokyo, Mike Mansfield, once described as the “most important bilateral relationship in the world, **bar none**”.
 
 Japan also declined to offer **full-throated** support for the US attacks on Iran, saying only that it “understood” Washington’s determination to halt Tehran’s nuclear weapons programme.
 
 This week, the US secretary of state, Marco Rubio, **called off** his first visit to Japan and South Korea, saying he was needed in Washington for talks with the Israeli prime minister, Benjamin Netanyahu.
 
-Amid rumours that he is preparing to make yet another trip to Washington this weekend, Akazawa has limited room for **manoeuvre** – and precious little time, according to analysts.
-
-“Practical and **electoral** constraints will prevent Japan from offering major concessions on autos, rice, and oil, with negotiators set to continue their slow-and-steady approach,” said James Brady, vice-president of the political risk advisory firm Teneo.
-
 #### [2025-07-20 Japan PM Shigeru Ishiba vows to stay on despite losing upper house majority](https://www.theguardian.com/world/2025/jul/20/apan-pm-election-result-exit-polls-predict-loss-of-upper-house)
 
 Japanese prime minister Shigeru Ishiba’s has vowed to stay on despite his **coalition** losing its upper house majority in elections that saw strong gains by a rightwing **populist** party.
 
-While the **ballot** does not directly determine whether Ishiba’s minority government falls, it **heaps** pressure on the **embattled** leader, who also lost control of the more powerful lower house in October and who has never been popular within his own party.
-
 Ishiba told a news conference he would remain in office to oversee tariff talks with the United States and other **pressing** matters such as rising consumer prices that are straining the world’s fourth largest economy.
-
-His Liberal Democratic party (LDP) and coalition partner Komeito needed 50 seats to secure the 248-seat upper **chamber** in an election in which half the seats were up for grabs, but had only secured 47, with one seat left to declare, as of Monday morning.
-
-Speaking to NHK earlier, Ishiba, 68, said he “**solemnly**” accepted the “harsh result”.
-
-Asked whether he intended to stay on as prime minister and party leader, he said: “That’s right. It’s a difficult situation, and we have to take it very **humbly** and seriously.”
 
 But the result also weakens Ishiba’s position just days before the country needs to negotiate a deal with the Trump administration to **avert** the imposition of punishing tariffs in its largest export market.
 
 Japanese imports are already subject to a 10% tariff, while the auto industry – which accounts for 8% of jobs – is **reeling from** a 25% levy.
 
-Weak export data last week, which showed **plummeting** US-bound auto deliveries, **stoked** fears that Japan could tip into a technical recession.
+Weak export data last week, which showed plummeting US-bound auto deliveries, **stoked** fears that Japan could tip into a technical recession.
 
-Opposition parties advocating for tax cuts and welfare spending have struck a **chord** with voters, exit polls showed, as rising consumer prices – particularly a jump in the cost of rice – have sowed frustration at the government’s response.
+The LDP has been urging for fiscal restraint, with one eye on a very **jittery** government bond market, as investors worry about Japan’s ability to refinance the world’s largest debt pile.
 
-The LDP has been urging for fiscal restraint, with one eye on a very **jittery** government bond market, as investors worry about Japan’s ability to **refinance** the world’s largest debt pile.
-
-Sanseito, which first emerged during the Covid pandemic spreading conspiracy theories about vaccinations and a **cabal** of global elites, has dragged once **fringe** political rhetoric into the mainstream and gained wider support among frustrated voters.
+Sanseito, which first emerged during the Covid pandemic spreading conspiracy theories about vaccinations and a **cabal** of global elites, has dragged once fringe political rhetoric into the mainstream and gained wider support among frustrated voters.
 
 #### [2025-07-25 ‘Japanese First’: breakthrough by rightwing populists sparks fears of anti-foreigner backlash in Japan](https://www.theguardian.com/world/2025/jul/25/japan-upper-house-election-sanseito-japanese-first)
 
-The party, Sanseito, has successfully tapped into unease around an expanding **immigrant** population and a huge **influx** of tourists after the pandemic. But many see the underlying cause as economic insecurity among a population that both understands the need for overseas labour and visitors, and feels anxiety at the changes they bring and **symbolise**.
-
 Sanseito’s new **contingent** of 14 upper house lawmakers, up from a single seat in the previous election, is undoubtedly a breakthrough, but still leaves it a minor force in the 248-seat chamber.
 
-“I think that leads to things like **patriotism** and **xenophobia**.”
+“I think that leads to things like patriotism and **xenophobia**.”
 
 But as its GDP growth **stagnated** and neighbours such as China and South Korea began to leave it behind in sectors from electronics to shipbuilding, he suggests Japan has struggled to adjust to its new reality.
 
-“It **struck a chord** with people who feel like they need to protect Japanese culture and way of life.”
+Reports of crimes by foreigners, often circulated on social media, have also raised **hackles**, even though police statistics show immigrants commit proportionally fewer offences than the native population.
 
-There are around a dozen Vietnamese at the company where Akio Ono installs air **conditioners**, “I get on well with them, most of the guys do. But when they go to customers’ homes, they still have to go with a Japanese colleague as there is still **prejudice**, as well as language issues.”
+He sees the **electorate**’s main concerns as the economy and the sales tax, which Sanseito promised to cut.
 
-Reports of crimes by foreigners, often circulated on social media, have also raised **hackles**, even though police statistics show immigrants commit **proportionally** fewer offences than the native population. Ono believes news stories about Vietnamese and Chinese theft rings are “a big part of what is driving the concerns about immigration.”
-
-Toyonori Sugita, who runs a **metalworking** factory just south of Tokyo, leans right but also rejected Sanseito. He sees the **electorate**’s main concerns as the economy and the sales tax, which Sanseito promised to cut.
-
-The tourist boom has also **aroused** conflicting emotions. While the money spent by visitors on luxury **accommodation** and high-end dining that now seem cheap by global standards boosts the economy, it is a stark reminder of Japan’s decline from its glory days.
-
-“The reality is that Japan has become a cheap country. You can’t deny that wages are higher overseas or that there are 10,000-yen [£50] sea urchin lunches aimed at foreigners. So, in order to protect their emotional **wellbeing** and maintain their sense of self-worth, people **cling** to the idea that Japanese culture is the best.”
+“So, in order to protect their emotional wellbeing and maintain their sense of self-worth, people **cling** to the idea that Japanese culture is the best.”
 
 #### [2025-06-03 Lee Jae-myung wins election as South Korean president](https://www.theguardian.com/world/2025/jun/03/lee-jae-myung-elected-as-south-korean-president-exit-polls-say)
 
+================================================================================================================================================
+
 Liberal candidate Lee Jae-myung has won the vote to become South Korea’s new president after a **snap election** triggered by a brief period of martial law imposed by the now-impeached former leader, Yoon Suk Yeol.
-
-With 100% of the ballots counted, Lee won 49.42% of nearly 35 million **votes cast**, while his conservative rival Kim Moon-soo had taken 41.15%, according to national election commission data, which said **turnout** was the highest for a presidential election since 1997.
-
-The order, which was overturned in **a matter of** hours, sparked South Korea’s biggest political crisis in decades. The country is also battling an economic downturn, income inequality and doubts over the US’s commitment to its security under Donald Trump.
-
-Kim, however, struggled to win over moderate swing voters while his People Power party **feuded** over how to view Yoon’s legacy.
-
-“The economy has gotten so much worse since December … Not just for me but I hear that from everybody,” said Kim Kwang-ma, an 81-year-old voter. “And we as a people have become so **polarised** … I wish we could come together so that Korea can develop again.”
-
-Lee, a **frontrunner** since the start of the campaign, will face several major challenges, including a slowing economy, Trump’s trade war and the nuclear threat posed by North Korea.
 
 Kim, a former labour minister under Yoon, warned that a **victorious** Lee would abuse his powers to retaliate against his political opponents and use his party’s majority in the national assembly to protect him in several court cases that will resume after the election.
 
-Lee, who headed the opposition-led campaign to oust Yoon, is a highly **divisive** figure in South Korean politics. He faces criminal trials including charges of bribery and alleged involvement in a property development scandal.
-
-But he wants to move away from Yoon’s **confrontational** approach towards North Korea and re-engage with the South’s nuclear-armed neighbour. He has conceded, though, that it will be “very difficult” to quickly resume summits with the North’s leader, Kim Jong-un.
