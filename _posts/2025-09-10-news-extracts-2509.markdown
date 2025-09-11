@@ -1,0 +1,103 @@
+---
+layout: post
+title:  "25年9月新闻摘选"
+date:   2025-09-10 11:23:00 +0800
+---
+
+* 目录
+{:toc #markdown-toc}
+
+#### https://www.theguardian.com/world/2025/sep/09/nepal-protests-social-media-ban-lifted-gen-z-kathmandu
+
+Nepal’s prime minister, KP Sharma Oli, has resigned after some of the worst unrest in decades rocked the country this week, set off by a ban on social media and **discontentment** at political corruption and **nepotism**.
+
+```
+discontentment ~ noun ~ a feeling of wanting better treatment or an improved situation
+
+nepotism ~ noun
+the act of using your power or influence to get good jobs or unfair advantages for members of your own family
+```
+
+The government decision to roll back the ban on sites such as Facebook, WhatsApp, YouTube and X late on Monday night did nothing to **quell** the anger among young people, who continued what was called the “Gen Z” protests.
+
+```
+quell ~ verb ~ to stop something, especially by using force
+```
+
+In defiance of **curfews**, protests continued to erupt across the country on Tuesday and thousands stormed the federal parliament building in the capital, Kathmandu, and set it on fire. Car **tyres** were burned in the streets of Kathmandu and riot police were **pelted** with stones.
+
+```
+curfew ~ noun ~ a rule that everyone must stay at home between particular times, usually at night, especially during a war or a period of political trouble
+
+tyre ~ noun ~ a thick rubber ring, often filled with air, that is fitted around the outer edge of the wheel of a vehicle, allowing the vehicle to stick to the road surface and to travel over the ground more easily
+
+pelt ~ verb ~ to throw a number of things quickly at someone or something
+```
+
+As calls for the resignation of Oli grew on Tuesday, his home was set **alight**, while homes of other prominent ministers and leaders and political offices were also attacked.
+
+```
+alight ~ adjective ~ burning
+```
+
+“Our prime minister, KP Sharma Oli, is extremely authoritarian and **egoistic**. As the guardian of the nation, he failed to stand on the side of the nation’s children. Now the entire generation will come after them.”
+
+```
+egoistic ~ adjective ~ ?
+```
+
+Amnesty International said live **ammunition** had been used against protesters on Monday, and the United Nations demanded a swift and transparent inquiry.
+
+```
+ammunition ~ noun ~ objects that can be shot from a weapon, such as bullets or bombs
+```
+
+The ban on social media came after Nepal’s government gave social media firms a seven-day deadline to register under new regulations, including to establish a point of contact and **designate** resident grievance and compliance officers.
+
+```
+designate ~ verb ~ to choose someone officially to do a particular job
+```
+
+“The social media ban was not the only agenda of the Gen Z movement. The corruption that has **permeated** every level of the country must end,” said Raksha Bam, 26. “But instead of stopping that corruption, they shut down the civic space of our generation. That is why Gen Z gathered in one place.”
+
+```
+permeate ~ verb ~ to spread through something and be present in every part of it
+```
+
+#### https://www.theguardian.com/world/2025/sep/10/trump-asks-eu-to-impose-high-tariffs-on-india-and-china-to-put-pressure-on-russia
+
+The move by Trump follows Putin strengthening his relationship with his Chinese counterpart, Xi Jinping, and India’s prime minister, Narenda Modi, at a **showpiece** summit in China.
+
+```
+showpiece ~ noun ~ an extremely good example of something that deserves to be admired
+```
+
+#### https://www.theguardian.com/world/2025/sep/09/ukraine-war-briefing-putin-awards-courage-medal-to-russian-general-sought-by-icc-over-alleged-crimes-against-humanity-in-ukraine
+
+Army general Valery Gerasimov, chief of the general staff of Russia’s armed forces and one of the most powerful men in the Russian military, is **credited** as the chief architect of Russia’s modern warfare strategy.
+
+The two are accused of the war crimes of directing attacks at civilian objects and of causing excessive **incidental** harm to civilians or damage to civilian objects, and are also accused of crimes against humanity.
+
+The Order of Courage, a **prestigious** state decoration, was given to him “for courage, bravery and **dedication** displayed in the fulfilment of military duty”, according to a decree published on Russia’s official legal acts website late on Monday.
+
+```
+credit ~ B2 [ U ] ~ praise, approval, or honour
+
+incidental ~ adjective ~ less important than the thing something is connected with or part of
+
+prestigious ~ adjective ~ very much respected and admired, usually because of being important
+
+dedication ~ noun ~ the willingness to give a lot of time and energy to something because it is important
+```
+
+Ukrainian president Volodymyr Zelenskyy’s **chief of staff**, Andriy Yermak, said he discussed Sunday’s attack – the first of its kind in the war – with US secretary of state Marco Rubio on Monday.
+
+While visiting the building, the European Union’s ambassador to Ukraine, Katarina Mathernova, noted the “**gaping** hole” left by the impact and missile **remnants** and said: “It’s only because the missile was unable to fully **detonate** that the entire building wasn’t turned into ruins.”
+
+```
+gaping ~ adjective ~ A gaping hole or other opening is very large.
+
+remnant ~ noun ~ a small piece or amount of something that is left from a larger original piece or amount
+
+detonate ~ verb ~ to (cause something to) explode
+```
