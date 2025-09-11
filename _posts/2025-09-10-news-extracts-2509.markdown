@@ -64,14 +64,6 @@ designate ~ verb ~ to choose someone officially to do a particular job
 permeate ~ verb ~ to spread through something and be present in every part of it
 ```
 
-#### https://www.theguardian.com/world/2025/sep/10/trump-asks-eu-to-impose-high-tariffs-on-india-and-china-to-put-pressure-on-russia
-
-The move by Trump follows Putin strengthening his relationship with his Chinese counterpart, Xi Jinping, and India’s prime minister, Narenda Modi, at a **showpiece** summit in China.
-
-```
-showpiece ~ noun ~ an extremely good example of something that deserves to be admired
-```
-
 #### https://www.theguardian.com/world/2025/sep/09/ukraine-war-briefing-putin-awards-courage-medal-to-russian-general-sought-by-icc-over-alleged-crimes-against-humanity-in-ukraine
 
 Army general Valery Gerasimov, chief of the general staff of Russia’s armed forces and one of the most powerful men in the Russian military, is **credited** as the chief architect of Russia’s modern warfare strategy.
@@ -101,3 +93,129 @@ remnant ~ noun ~ a small piece or amount of something that is left from a larger
 
 detonate ~ verb ~ to (cause something to) explode
 ```
+
+#### https://www.theguardian.com/world/2025/sep/10/trump-asks-eu-to-impose-high-tariffs-on-india-and-china-to-put-pressure-on-russia
+
+The move by Trump follows Putin strengthening his relationship with his Chinese counterpart, Xi Jinping, and India’s prime minister, Narenda Modi, at a **showpiece** summit in China.
+
+```
+showpiece ~ noun ~ an extremely good example of something that deserves to be admired
+```
+
+#### https://www.theguardian.com/world/2025/sep/10/anti-islamic-biker-gang-infidels-mc-gaza-aid-sites
+
+The investigation found that more than 10 members of Infidels MC, a US biker gang that uses the **Crusader** cross as its symbol and whose members have anti-Islamic **tattoos**, have been hired by UG Solutions and deployed to food aid sites run by the Gaza Humanitarian Foundation.
+
+```
+Crusader ~ noun ~ a Christian who fought in one of the religious wars of the 11th, 12th, 13th, and 17th centuries, mostly against Muslims in Palestine
+
+tattoo ~ noun ~ a permanent image, pattern, or word on the skin that is created by using needles to put colours under the skin
+```
+
+Mulford, whose **affiliation** with GHF was public, accidentally sent an email to the BBC telling other leaders of the group not to comment on inquiries – inadvertently revealing the identities of several other senior **Infidels** members also working for UG Solutions.
+
+```
+affiliation ~ noun ~ a connection with a political party or religion, or with a larger organization
+
+Infidel ~ noun  ~ (used especially between Christians and Muslims) someone who does not have the same religious beliefs as the person speaking
+```
+
+GHF’s operations have come under scrutiny as the US and Israeli-backed group has **supplanted** nearly every other major humanitarian organisation working in the Gaza Strip in what critics have called a deliberate effort to politicise humanitarian aid.
+
+```
+supplant ~ verb ~ to replace
+```
+
+“We do not **screen** for personal hobbies or affiliations unrelated to job performance or security standards.”
+
+```
+screen ~ verb ~ to test or examine someone or something to discover if there is anything wrong with him, her, or it
+```
+
+In a statement to the Guardian, GHF said: “The Gaza Humanitarian Foundation maintains a strict zero-tolerance policy toward any form of hateful or **discriminatory** behavior.”
+
+```
+discriminatory ~ adjective ~ treating a person or group differently from and usually worse than other people, because of their race, gender, sexuality, etc.
+```
+
+#### https://www.theguardian.com/world/2025/sep/10/israel-threats-outrage-qatar-strike-hamas
+
+Netanyahu has responded **defiantly** to international criticism for the attack, including a White House statement that the “unilateral bombing” inside Qatar “does not advance Israel or America’s goals.”
+
+```
+defiantly ~ adverb ~ in a way that proudly refuses to obey authority
+```
+
+Hamas said in a statement that all of its leaders were safe, but five lower-ranked members were reportedly killed. A senior Israeli official admitted on Wednesday that optimism about the success of the strikes was **waning**.
+
+```
+wane ~ verb ~ to become weaker in strength or influence
+```
+
+“Why does the prime minister insist on blowing up every small chance for a deal? Why? The people of Israel are tired of this war. End it **already** and bring everyone back,” said Einav Zangauker, whose son Matan was kidnapped from his **kibbutz**.
+
+```
+kibbutz ~ noun ~ a farm or factory in Israel where profits and duties are shared and all work is considered equally important
+```
+
+Successive polls have shown broad support in Israel for a deal to end the war and free the hostages, while Netanyahu has been accused of prolonging the conflict for political **ends**.
+
+```
+end ~ noun ~ an aim, intention, or purpose
+```
+
+“In Israel … the vast majority of the people now are in favour of ending the war and bringing back the hostages … So that might look like the concluding **remarks** of the war,” Nadan said.
+
+```
+remark ~ noun ~ something that you say, giving your opinion about something or stating a fact
+```
+
+Meanwhile in Sana’a, people said Wednesday’s attack had struck a **hideout** between two mountains that was used as a command-and-control headquarters. The extent of any damage was not immediately clear.
+
+```
+hideout ~ noun ~ a secret place where someone can go when they do not want to be found by other people
+```
+
+#### https://www.theguardian.com/world/2025/sep/11/ukraine-war-briefing-cheap-shahed-like-gerbera-drones-used-in-poland-violation
+
+It is made of materials like **plywood** and **foam**, and driven by a **motor** and propeller at the back.
+
+```
+plywood ~ noun ~ wood that consists of several thin layers of wood stuck together
+
+foam ~ noun ~ a mass of very small bubbles formed on the surface of a liquid
+
+motor ~ noun ~ a device that changes electricity or fuel into movement and makes a machine work
+```
+
+Ukrainian and western analysts say Russia uses the Gerbera as a decoy to **saturate** Ukraine’s air defences. China denies shipping **wares** to Russia for use against Ukraine.
+
+```
+saturate ~ verb ~ to make something or someone completely wet
+
+ware ~ noun ~ used, often in shops, to refer to objects of the same material or type, especially things used in cooking and serving food
+```
+
+Ukraine had presented proposals for joint protection of European airspace “in a coordinated, **well-thought-out**, joint way …
+
+The UK will **mass** produce low-cost Ukrainian-designed interceptor drones to help Ukraine fight off Russian UAV attacks.
+
+```
+mass ~ adjective ~ having an effect on or involving a large number of people or forming a large amount
+```
+
+Indian buyers are demanding bigger discounts on Russian crude oil because of the risk posed by dodging the international price cap, oil industry analysts have told Reuters – with some Russian sellers responding by saying they will send oil **cargoes** to China instead.
+
+```
+cargo ~ noun ~ the goods carried by a ship, aircraft, or other large vehicle
+```
+
+The EU has lowered the price cap for Russian oil from October to 47.60 a **barrel**, down from 60. Richard Bronze is the head of geopolitics at **consultancy** Energy Aspects. The EU was considering a faster **phase-out** of Russian fossil fuels as part of new sanctions.
+
+```
+barrel ~ noun ~ a large container, made of wood, metal, or plastic, with a flat top and bottom and curved sides that make it fatter in the middle
+
+consultancy ~ noun ~ a company that gives advice on a particular subject
+```
+
+The US Congress still needs to **sign off** on the transaction.
