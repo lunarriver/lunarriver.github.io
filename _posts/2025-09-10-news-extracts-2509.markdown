@@ -331,3 +331,93 @@ The supreme court is set to hear Trump’s appeal against that **verdict** in th
 ```
 verdict ~ noun ~ an opinion or decision made after judging the facts that are given, especially one made at the end of a trial
 ```
+
+#### https://www.theguardian.com/world/2025/sep/12/north-korea-executes-citizens-distribute-foreign-tv-shows-un-finds
+
+Surveillance has grown more **pervasive** since 2014 with the help of new technologies.
+
+```
+pervasive ~ adjective ~ present or noticeable in every part of a thing or place
+```
+
+“They’re often children from the lower level of society, because they’re the ones who can’t **bribe** their way out of it, and these **shock brigades** are engaged in often very hazardous and dangerous work,” said Heenan.
+
+```
+bribe ~ verb ~ to try to make someone do something for you by giving them money, presents, or something else that they want
+```
+
+#### https://www.theguardian.com/technology/2025/sep/15/trump-china-tiktok-sale-ban
+
+“We would like to stress that the outcomes of the trade and economic consultations are **hard won**” Li said in Madrid.
+
+```
+accommodate ~ noun ~ the intentional ending of a pregnancy
+```
+
+The Department of Justice last year said TikTok had gathered the sensitive data of American users based off gun control, **abortion** and religion through its use of Lark, a workplace communication platform similar to Slack or Microsoft Teams, according to court documents.
+
+```
+abortion ~ 
+```
+
+Security experts have long pointed to three main areas of concern: Chinese influence campaigns, mass data collection on US citizens, and potential vulnerabilities that could **compromise** users’ devices.
+
+```
+compromise ~ verb ~ to allow your principles to be less strong or your standards or morals to be lower
+```
+
+The TikTok ownership saga stretches back to 2020, when Trump first ordered ByteDance to **divest** TikTok or face a shutdown. Microsoft initially pursued a potential **acquisition** worth billions of dollars, with CEO Satya Nadella engaging directly with Trump, but it fell apart in what Nadella dubbed at the time “the strangest deal” he has ever worked on.
+
+```
+divest ~ verb ~ to sell something, especially a business or a part of a business
+```
+
+Soon after, Walmart and Oracle came close to buying TikTok’s US **arm**, proposing a joint acquisition of a new entity called TikTok Global, but it was shelved indefinitely after the Biden administration conducted its own review of Chinese tech companies.
+
+```
+arm ~ noun ~ a long, moving part of a machine or piece of equipment
+```
+
+“We’re not going to be in the business of having **repetitive** extensions,” Greer said. “We have a deal.”
+
+```
+repetitive ~ adjective ~ involving doing or saying the same thing several times, especially in a way that is boring:
+```
+
+#### https://www.theguardian.com/business/2025/sep/15/chinese-economy-weakens-as-consumer-spending-and-factory-output-slows
+
+The disappointing data adds pressure on Beijing to roll out more stimulus to fend off a sharp slowdown, with a debt crisis denting the country’s once-booming property sector and exports facing stronger **headwinds**.
+
+```
+headwind ~ noun ~ a wind blowing in the opposite direction to the one you are moving in
+```
+
+A spokesperson for China’s statistics bureau said on Monday that more efforts were needed to support China’s **ailing** property sector and that the “external environment is very severe”.
+
+```
+ailing ~ adjective ~ experiencing difficulty and problems
+```
+
+Although the two countries agreed a pause on tariffs until 10 November, China recorded a **slump** in US-bound exports last month.
+
+```
+slump ~ verb ~ (of prices, values, or sales) to fall suddenly
+```
+
+“The activity data point to a further loss of **momentum**,” Zichun Huang, China economist at Capital Economics, wrote in a note.
+
+```
+momentum ~ noun ~ the force that keeps an object moving
+```
+
+Authorities are leaning on manufacturers to find new markets to **offset** Trump’s unpredictable tariff policies and weak consumer spending.
+
+```
+offset ~ verb ~ to balance one influence against an opposing influence, so that there is no great difference as a result
+```
+
+“Policies and measures to support service consumption are expected to offset the impact of **aggregate** demand this month,” he said.
+
+```
+aggregate ~ adjective ~ total
+```
