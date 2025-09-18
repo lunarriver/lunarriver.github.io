@@ -422,76 +422,62 @@ offset ~ verb ~ to balance one influence against an opposing influence, so that 
 aggregate ~ adjective ~ total
 ```
 
-#### https://www.theguardian.com/world/2025/sep/16/ukraine-war-briefing-russian-strikes-kill-two-as-governor-decries-targeted-attack-on-civilians
-
-Five members of the feminist protest collective Pussy Riot have been sentenced in absentia to prison on charges relating to anti-war performances critical of Russia’s military actions, Rolling Stone and the group-linked media outlet Mediazona have reported. The jail terms handed down by the court in Moscow ranged from eight to 13 years, the outlets reported. The charges stemmed from a December 2022 music video titled Mama, Don’t Watch TV, which authorities alleged spread “false information” about the Russian military, and an April 2024 performance in Munich, Germany, in which a Pussy Riot member urinated on a portrait of Russian president Vladimir Putin, the outlets reported, with the story also carried in The Moscow Times. The five Pussy Riot members – Maria Alyokhina, Taso Pletner, Olga Borisova, Diana Burkot and Alina Petrova – rejected the charges, saying the trial and sentences were politically motivated, reported Rolling Stone, citing the band’s legal representatives. Burkot confirmed the sentences in a post on X and said in a statement that as the author of the music in Mama, Don’t Watch TV, she stood “by every single word and my anti-war stance is clear”. She added: “And I continue to believe: Ukraine must win, and Putin must face trial in The Hague.”
-
-Russian strikes in Ukraine killed two people, injured at least nine others and triggered a large numbers of fires, Ukrainian officials said. A massive attack on the south-eastern city of Zaporizhzhia left one person dead and nine wounded, including a child, said the regional military administration’s head, Ivan Fedorov. Pictures he posted online showed firefighters battling blazes in private homes and other buildings. There were at least 10 strikes on the city, public broadcaster Suspilne reported. In the southern Mykolaiv region, Russian troops attacked a farm, killing a tractor driver as he worked in the field, said the regional governor, Vitaliy Kim. “This was a targeted attack on civilians,” he wrote on Telegram. Moscow has denied targeting civilians in the war.
-
-One of Russia’s largest oil refineries, in the north-western town of Kirishi, has halted a key processing unit following a Ukrainian drone attack on the weekend, industry sources said. Russian officials have said Surgutneftegaz’s Kirishinefteorgsintez plant – one of Russia’s top two refineries – was among the targets attacked by Ukrainian drones on Sunday. Reuters quoted two sources speaking anonymously as saying on Monday that a unit at the plant was halted after the fire caused by the drones. The unit accounts for almost 40% of the plant’s total processing capacity of about 400,000 barrels a day. Surgutneftegaz did not immediately reply to a request for comment.
-
-Russia’s defence ministry on Monday said its forces had seized the village of Olhivske in Zaporizhzhia region. Vladimir Rogov, a senior Moscow-appointed official in Russian-held parts of the region, told Russia’s RIA news agency that Moscow’s forces had burst through Ukrainian defences and captured about 30 sq km (11.5 sq miles) of ground. It comes amid Russian forces’ westward drive focusing on the Donetsk region, with the logistics hub of Pokrovsk a key target. Ukraine’s military issued a statement quoting a commander in the area, Andriy Kryshchenko, as saying Ukrainian forces had halted a Russian advance near Pokrovsk. Ukraine’s DeepState military blog said Ukrainian forces had scored successes against Russian forces near the town of Dobropillia, north of Pokrovsk. The battlefield reports could not be independently verified.
-
-Ukraine’s top military commander has sacked two senior officers after Kyiv’s army gave up territory in areas under their command, Ukrainian media has reported, quoting military sources. Oleksandr Syrskyi ordered the dismissal of the two officers in charge of the 17th and 20th army corps over the past two weeks, according to reports from Ukrainska Pravda and Interfax-Ukraine on Monday. Ukrainska Pravda said the 17th army corps – headed by Volodymyr Silenko – was located in Zaporizhzhia region, where the Ukrainian military had lost at least one village on the banks of the Dnipro River. The 20th army corps – headed by Maksym Kituhin – was based on the administrative border between eastern Donetsk region and central Dnipropetrovsk region, where Russian forces have announced a series of successes, capturing a number of villages. Interfax said the two officers had been transferred to other duties.
-
-US military officers observed joint war games between Russia and Belarus on Monday for the first time since Moscow used Belarus as a launchpad to enter Ukraine, as Donald Trump deepens ties with Moscow’s closest ally. The presence of the US officers – less than a week after neighbouring Poland shot down Russian drones that crossed into its airspace – is the latest sign that Washington is seeking to warm ties with Belarus. Trump representative John Coale visited Minsk and last week said the US president wanted to reopen the US embassy there soon, normalise ties and revive trade. The US military did not immediately respond to Reuters requests for comment.
-
 #### https://www.theguardian.com/world/2025/sep/16/israel-launches-ground-offensive-deep-inside-gaza-city
 
 “We will not **relent** until the mission is completed.”
 
 ```
-relent ~ 
+relent ~ verb ~ to act in a less severe way towards someone and allow something that you had refused to allow before
 ```
 
 They estimated that the invading force would be met by up to 3,000 Hamas and **allied** fighters, and said the Israeli forces would advance cautiously.
 
 ```
-allied ~ 
+allied ~ adjective ~ connected by a political or military agreement
 ```
 
 “This phase is defined by a coordinated and gradual manoeuvre combining precise intelligence, air and ground forces targeting Hamas’s central stronghold and aimed at dismantling its **grip** in this area.”
 
 ```
-grip ~ 
+grip ~ verb ~ to hold very tightly
 ```
 
 “It is clear that there is an intent to destroy the Palestinians in Gaza through acts that meet the **criteria** set forth in the genocide convention,” said Navi Pillay.
 
 ```
-criteria ~ 
+criteria ~ plural of criterion ~ noun ~ a standard by which you judge, decide about, or deal with something
 ```
 
 “**Suspending** trade concessions and imposing sanctions on extremist ministers and violent settlers would clearly signal that the EU demands an end to this war,” she said.
 
 ```
-suspend ~ 
+suspend ~ verb ~ to stop something from being active, either temporarily or permanently
 ```
 
 Netanyahu sought to brace the country for greater economic isolation in a speech on Monday in which he said it would have to “adapt to an economy with **autarkic** features”, suggesting it would have to be more self-reliant with fewer trade options.
 
 ```
-autarkic ~ 
+autarkic ~ adjective ~ of countries; not relying on imports
 ```
 
 Tess Ingram, a spokesperson for the UN child protection agency, Unicef, said there was no safe **haven** for the displaced population.
 
 ```
-haven ~ 
+haven ~ noun ~ a safe or peaceful place
 ```
 
 “It is inhumane to expect nearly half a million children, battered and **traumatised** by over 700 days of unrelenting conflict, to flee one **hellscape** and end up in another.”.
 
 ```
-traumatise ~ 
+traumatise ~ verb ~ to shock and upset someone severely and for a long time
 
-hellscape ~ 
+hellscape ~ noun ~ an area that looks extremely unpleasant, especially because everything there has been destroyed, or a picture that represents this
 ```
 
 His critics have long argued he has prolonged the Gaza war to put off elections, stay in office and thereby preserve his legal **immunity**.
 
 ```
-immunity ~ 
+immunity ~ noun ~ a situation in which you are protected against disease or from legal action
 ```
 
 Once the ground offensive was launched, Donald Trump directed blame at Hamas, telling reporters at the White House that the militants would have “**hell to pay**” if it used the surviving hostages as human shields during the assault.
@@ -501,35 +487,35 @@ Once the ground offensive was launched, Donald Trump directed blame at Hamas, te
 But that certainty shifted slightly this month when the threat **catapulted** into the headlines, as Beijing used a military parade commemorating Japan’s defeat in the second world war to unveil a range of new military hardware – including a weapon dubbed the “Guam Killer” by Chinese media.
 
 ```
-catapult ~ 
+catapult ~ verb ~ to throw someone or something with great force
 ```
 
 For that reason, displays of China’s increasing military **prowess** – this month’s event included nuclear-capable intercontinental ballistic missiles, anti-drone **lasers** and four-legged “robot wolves” – **loom** large in the territory.
 
 ```
-prowess ~ 
+prowess ~ noun ~ great ability or skill
 
-laser ~ 
+laser ~ noun ~ (a device that produces) a powerful, narrow beam of light that can be used as a tool to cut metal, to perform medical operations, or to create patterns of light for entertainment
 
-loom ~ 
+loom ~ verb ~ to appear as a large, often frightening or unclear shape or object
 ```
 
 “Guam should be aware of the threat, even if not so worried,” says Col Grant Newsham, a retired US marine officer, noting that the Chinese military has **outpace** the US in some areas.
 
 ```
-outpace ~ 
+outpace ~ verb ~ to move or develop faster than someone or something else
 ```
 
 “That can alter regional and global diplomacy and make coordinated actions more likely. It’s alarming because it can be a military and security **allegiance**,” Reilly says.
 
 ```
-allegiance ~ 
+allegiance ~ noun ~ loyalty and support for a ruler, country, group, or belief
 ```
 
 Local officials, however, continue to insist that defending Guam is of **paramount** importance to the US military.
 
 ```
-paramount ~ 
+paramount ~ adjective ~ more important than anything else
 ```
 
 #### https://www.theguardian.com/world/2025/sep/17/ukraine-war-briefing-russian-oil-system-struggling-under-ukrainian-attacks-report
@@ -537,31 +523,39 @@ paramount ~
 Von der Leyen announced the commission would soon present its 19th package of sanctions aimed at Russia’s war effort – targeting **crypto**, banks, and energy.
 
 ```
-crypto ~ 
+crypto ~ noun ~ short form of cryptocurrency ~ a digital currency produced by a public network, rather than any government, that uses cryptography to make sure payments are sent and received safely
 ```
 
 Europe has in fact greatly reduced its purchase of Russian oil and gas, though two big **holdouts** are Hungary and Slovakia, whose rightwing prime ministers are both friendly with Putin and Trump.
 
 ```
-holdout ~ 
+holdout ~ noun ~ a person, organization, or country that continues to do something, despite other people trying to force them not to
 ```
 
 The editorial listed how Trump’s promises and threats concerning the Ukraine war have all failed to produce results – including how “an 8 August deadline for Mr Putin to agree to a ceasefire somehow **morphed** into a red carpet welcome in Alaska”.
 
 ```
-morph ~ 
+morph ~ verb ~ to gradually change, or change someone or something, from one thing to another
 ```
 
 A Russian drone, missile or **glide** bomb hit an educational building in Kharkiv city’s southern Slobidskyi district on Tuesday. Some reports described the building as the pharmaceutical university.
 
 ```
-glide ~ 
+glide ~ verb ~ to fly by floating on air currents instead of using power from wings or an engine
 
-pharmaceutical ~ 
+pharmaceutical ~ adjective ~ relating to the production of medicines
 ```
 
 A Ukrainian arrested in Italy last month over the 2022 sabotage of the Nord Stream gas pipelines from Russia to Europe must be **extradited** to Germany, a court in Bologna ruled on Tuesday. The man, identified as Serhii K, has denied taking part and will appeal against his **extradition** to Italy’s supreme court, his lawyer said.
 
 ```
-extradit ~ 
+extradite ~ verb ~ to make someone return for trial to another country or state where they have been accused of doing something illegal
 ```
+
+#### https://www.theguardian.com/world/2025/sep/17/eu-calls-for-closer-ties-with-india-despite-modi-ties-to-russia
+
+
+#### https://www.theguardian.com/world/2025/sep/17/trump-celebrates-tiktok-deal-as-beijing-suggests-us-app-would-use-chinas-algorithm
+
+
+
