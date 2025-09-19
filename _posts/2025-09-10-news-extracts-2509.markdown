@@ -714,96 +714,125 @@ medieval ~ adjective ~ related to the Middle Ages (= the period in European hist
 merchant ~ noun ~ a person whose job is to buy and sell products in large amounts, especially by trading with other countries
 ```
 
-========================================================================================================================
-
 The **opprobrium** comes from ordinary people who see riches as being spiritually **corrosive**, and, increasingly, from the government, which under the leadership of Xi Jinping has cracked down on excess wealth and corruption.
 
 ```
-opprobrium ~ 
+opprobrium ~ noun ~ severe criticism and blame
 
-corrosive ~ 
+corrosive ~ adjective ~ A corrosive substance causes damage by chemical action.
 ```
 
-China’s temples have swung in and out of political **favour** in modern Chinese history. But as China entered a period of economic reform and opening up in the 1980s, temples were back in **vogue**, with many turning to tourism to support themselves, often with explicit government support.
+But as China entered a period of economic reform and opening up in the 1980s, temples were back in **vogue**, with many turning to tourism to support themselves, often with explicit government support.
 
 ```
-favour ~ 
-
-vogue ~ 
+vogue ~ noun ~ a fashion or general liking, especially one that is temporary
 ```
 
 Gift shops selling Shaolin-branded **merchandise** also opened, and Shaolin **Inc** was born.
 
 ```
-merchandise ~ 
+merchandise ~ noun ~ goods that are bought and sold
 ```
 
 Over the years he took a **troupe** of **martial** arts monks to Moscow for a special performance at the invitation of Vladimir Putin. It led one worker near the Shaolin monastery to remark that the political **heft** of local CCP officials seemed **paltry** in comparison with Shi.
 
 ```
-troupe ~ 
+troupe ~ noun ~ a group of performers such as singers or dancers who work and travel together
 
-martial ~ 
+martial ~ adjective ~ relating to soldiers, war, or life in the armed forces
 
-heft ~ 
+heft ~ noun ~ the weight of something
 
-paltry ~ 
+paltry ~ adjective ~ (of an amount of money) very small and of little or no value
 ```
 
 As China suffers with **stubbornly** sluggish economic growth, temples in theory are a gift to both local governments and ordinary people. The authorities benefit from increased domestic spending as people flock to temple-**cum**-tourist attractions, while people struggling to find work or fulfilment in Chinese society are increasingly turning to religion for spiritual guidance.
 
 ```
-stubbornly ~ 
+stubbornly ~ adverb ~ in a way that shows you are determined to do what you want and refuse to do anything else
 
-cum ~ 
+cum ~ prep ~ used for linking two nouns
 ```
 
 But temples also must **tread** an increasingly narrow line between popularity and political obedience.
 
 ```
-tread ~ 
+tread ~ verb ~ to put your foot on something or to press something down with your foot
 ```
 
 “It’s almost always that there is something else going on that has to do with **patronage**,” says Ian Johnson, the author of The Souls of China, a book about religion in China.
 
 ```
-patronage ~ 
+patronage ~ noun ~ the support given to an organization by someone
 ```
 
 Xi has shown a particular interest in traditional Chinese religions. Early in his career he helped to re-open important Buddhist temples and turn them into tourist attractions, a blueprint for how the officially **atheist** Party could work with religion.
 
 ```
-atheist ~ 
-```
-
-The new regulations **stipulated** that Buddhist and Taoist sites must be non-profit operations and banned the excessive promotion of paid-for religious practices such as burning incense and drawing lots for fortune-telling.
-
-```
-stipulate ~ 
+atheist ~ noun ~ someone who does not believe in any god or gods, or who believes that no god or gods exist
 ```
 
 Now it seems that the Shaolin monastery, set in the **jagged** Song mountain range, is being brought to heel. He **halted** commercial performances, banned expensive **consecration** rituals, said he would remove temple shops and said that he would eliminate other unpopular fees.
 
 ```
-jag ~ 
+jagged ~ adjective ~ rough and with sharp points
 
-halt ~ 
+halt ~ verb ~ to (cause to) stop moving or doing something or happening
 
-consecration ~ 
+consecration ~ noun ~ the act or process of officially making something holy and able to be used for religious ceremonies
 ```
 
 But so far, the anti-commercialisation drive is **patchy** at best. Yellow-robed monks stage daily, **spellbinding** martial arts that are free – for anyone who has bought an 80 yuan ticket to the temple complex.
 
 ```
-patchy ~ 
+patchy ~ adjective ~ only existing or happening in some parts
 
-spellbind ~ 
+spellbinding ~ adjective ~ holding your attention completely
 ```
 
 It would not have been known internationally … there are **pros and cons**.
 
-Li said that he wasn’t put off by the sight of monks enjoying luxury goods. “After all, I’d also want to drive a range **rover**”.
+“After all, I’d also want to drive a range **rover**”.
 
 ```
-rover ~ 
+rover ~ noun ~ a person who spends their time travelling from place to place
 ```
+
+#### https://www.theguardian.com/world/2025/sep/18/saudi-arabia-pakistan-mutual-defence-pact
+
+“This is not a response to specific countries or specific events but an **institutionalisation** of longstanding and deep cooperation between our two countries.”
+
+```
+institutionalisation ~ noun ~ to make something become a permanent or respected part of a society, system, or organization
+```
+
+The pact on Wednesday could shift the strategic **calculus** in a complex region. Gulf **monarchies** – allies of Washington – have sought to stabilise ties with both Iran and Israel to resolve longstanding security concerns.
+
+```
+calculus ~ noun ~ calculation
+
+monarchy ~ noun ~ a country that has a king or queen
+```
+
+#### https://www.theguardian.com/world/2025/sep/18/uk-preparing-to-recognise-palestinian-state-as-early-as-friday
+
+The leadership of the Palestinian Authority is **subject to** elections within a year.
+
+The UK prime minister said recognition was “part of that overall package which hopefully takes us from the **appalling** situation we’re in now to the outcome of a safe and secure Israel, which we do not have, and a viable Palestinian state”.
+
+```
+appalling ~ adjective ~ shocking and very bad
+```
+
+The UK Foreign Office had long **parried** calls for recognition, saying the step should only be taken when it had maximum impact on the peace process.
+
+```
+parry ~ verb ~ to manage cleverly to avoid dealing with a difficult question or some criticism
+```
+
+These included a resumption of humanitarian aid, a ceasefire, Israeli engagement in a **sustained** peace process, and no further Israeli land annexations in the West Bank.
+
+```
+sustained ~ adjective ~ continuing for a long time
+```
+
