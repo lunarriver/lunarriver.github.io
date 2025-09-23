@@ -4,6 +4,14 @@ title:  "25年9月新闻摘选"
 date:   2025-09-10 11:23:00 +0800
 ---
 
+<style type="text/css">
+  pre code {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+</style>
+
 * 目录
   {:toc #markdown-toc}
 
