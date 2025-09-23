@@ -13,7 +13,7 @@ date:   2025-09-10 11:23:00 +0800
 </style>
 
 * 目录
-  {:toc #markdown-toc}
+{:toc #markdown-toc}
 
 #### [Nepal prime minister quits after deaths at protests sparked by social media ban | Nepal | The Guardian](https://www.theguardian.com/world/2025/sep/09/nepal-protests-social-media-ban-lifted-gen-z-kathmandu)
 
