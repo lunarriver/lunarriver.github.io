@@ -5,28 +5,23 @@ date:   2025-09-10 11:23:00 +0800
 ---
 
 * 目录
-{:toc #markdown-toc}
+  {:toc #markdown-toc}
 
-#### https://www.theguardian.com/world/2025/sep/09/nepal-protests-social-media-ban-lifted-gen-z-kathmandu
+#### [Nepal prime minister quits after deaths at protests sparked by social media ban | Nepal | The Guardian](https://www.theguardian.com/world/2025/sep/09/nepal-protests-social-media-ban-lifted-gen-z-kathmandu)
 
 Nepal’s prime minister, KP Sharma Oli, has resigned after some of the worst unrest in decades rocked the country this week, set off by a ban on social media and **discontentment** at political corruption and **nepotism**.
 
-```
-discontentment ~ noun ~ a feeling of wanting better treatment or an improved situation
-
-nepotism ~ noun
-the act of using your power or influence to get good jobs or unfair advantages for members of your own family
-```
-
 The government decision to roll back the ban on sites such as Facebook, WhatsApp, YouTube and X late on Monday night did nothing to **quell** the anger among young people, who continued what was called the “Gen Z” protests.
-
-```
-quell ~ verb ~ to stop something, especially by using force
-```
 
 In defiance of **curfews**, protests continued to erupt across the country on Tuesday and thousands stormed the federal parliament building in the capital, Kathmandu, and set it on fire. Car **tyres** were burned in the streets of Kathmandu and riot police were **pelted** with stones.
 
 ```
+discontentment ~ noun ~ a feeling of wanting better treatment or an improved situation
+
+nepotism ~ noun ~ the act of using your power or influence to get good jobs or unfair advantages for members of your own family
+
+quell ~ verb ~ to stop something, especially by using force
+
 curfew ~ noun ~ a rule that everyone must stay at home between particular times, usually at night, especially during a war or a period of political trouble
 
 tyre ~ noun ~ a thick rubber ring, often filled with air, that is fitted around the outer edge of the wheel of a vehicle, allowing the vehicle to stick to the road surface and to travel over the ground more easily
@@ -36,35 +31,27 @@ pelt ~ verb ~ to throw a number of things quickly at someone or something
 
 As calls for the resignation of Oli grew on Tuesday, his home was set **alight**, while homes of other prominent ministers and leaders and political offices were also attacked.
 
-```
-alight ~ adjective ~ burning
-```
-
 “Our prime minister, KP Sharma Oli, is extremely authoritarian and **egoistic**. As the guardian of the nation, he failed to stand on the side of the nation’s children. Now the entire generation will come after them.”
-
-```
-egoistic ~ adjective ~ ?
-```
 
 Amnesty International said live **ammunition** had been used against protesters on Monday, and the United Nations demanded a swift and transparent inquiry.
 
-```
-ammunition ~ noun ~ objects that can be shot from a weapon, such as bullets or bombs
-```
-
 The ban on social media came after Nepal’s government gave social media firms a seven-day deadline to register under new regulations, including to establish a point of contact and **designate** resident grievance and compliance officers.
-
-```
-designate ~ verb ~ to choose someone officially to do a particular job
-```
 
 “The social media ban was not the only agenda of the Gen Z movement. The corruption that has **permeated** every level of the country must end,” said Raksha Bam, 26. “But instead of stopping that corruption, they shut down the civic space of our generation. That is why Gen Z gathered in one place.”
 
 ```
+alight ~ adjective ~ burning
+
+egoistic ~ adjective ~ considering yourself to be better or more important than other people
+
+ammunition ~ noun ~ objects that can be shot from a weapon, such as bullets or bombs
+
+designate ~ verb ~ to choose someone officially to do a particular job
+
 permeate ~ verb ~ to spread through something and be present in every part of it
 ```
 
-#### https://www.theguardian.com/world/2025/sep/09/ukraine-war-briefing-putin-awards-courage-medal-to-russian-general-sought-by-icc-over-alleged-crimes-against-humanity-in-ukraine
+#### [Ukraine war briefing: Putin awards ‘courage’ medal to Russian general sought by ICC over alleged crimes against humanity in Ukraine | Ukraine | The Guardian](https://www.theguardian.com/world/2025/sep/09/ukraine-war-briefing-putin-awards-courage-medal-to-russian-general-sought-by-icc-over-alleged-crimes-against-humanity-in-ukraine)
 
 Army general Valery Gerasimov, chief of the general staff of Russia’s armed forces and one of the most powerful men in the Russian military, is **credited** as the chief architect of Russia’s modern warfare strategy.
 
@@ -72,21 +59,19 @@ The two are accused of the war crimes of directing attacks at civilian objects a
 
 The Order of Courage, a **prestigious** state decoration, was given to him “for courage, bravery and **dedication** displayed in the fulfilment of military duty”, according to a decree published on Russia’s official legal acts website late on Monday.
 
+Ukrainian president Volodymyr Zelenskyy’s **chief of staff**, Andriy Yermak, said he discussed Sunday’s attack – the first of its kind in the war – with US secretary of state Marco Rubio on Monday.
+
+While visiting the building, the European Union’s ambassador to Ukraine, Katarina Mathernova, noted the “**gaping** hole” left by the impact and missile **remnants** and said: “It’s only because the missile was unable to fully **detonate** that the entire building wasn’t turned into ruins.”
+
 ```
-credit ~ B2 [ U ] ~ praise, approval, or honour
+credit ~ verb ~ praise, approval, or honour
 
 incidental ~ adjective ~ less important than the thing something is connected with or part of
 
 prestigious ~ adjective ~ very much respected and admired, usually because of being important
 
 dedication ~ noun ~ the willingness to give a lot of time and energy to something because it is important
-```
 
-Ukrainian president Volodymyr Zelenskyy’s **chief of staff**, Andriy Yermak, said he discussed Sunday’s attack – the first of its kind in the war – with US secretary of state Marco Rubio on Monday.
-
-While visiting the building, the European Union’s ambassador to Ukraine, Katarina Mathernova, noted the “**gaping** hole” left by the impact and missile **remnants** and said: “It’s only because the missile was unable to fully **detonate** that the entire building wasn’t turned into ruins.”
-
-```
 gaping ~ adjective ~ A gaping hole or other opening is very large.
 
 remnant ~ noun ~ a small piece or amount of something that is left from a larger original piece or amount
@@ -94,7 +79,7 @@ remnant ~ noun ~ a small piece or amount of something that is left from a larger
 detonate ~ verb ~ to (cause something to) explode
 ```
 
-#### https://www.theguardian.com/world/2025/sep/10/trump-asks-eu-to-impose-high-tariffs-on-india-and-china-to-put-pressure-on-russia
+#### [Trump asks EU to impose tariffs of up to 100% on India and China | Russia | The Guardian](https://www.theguardian.com/world/2025/sep/10/trump-asks-eu-to-impose-high-tariffs-on-india-and-china-to-put-pressure-on-russia)
 
 The move by Trump follows Putin strengthening his relationship with his Chinese counterpart, Xi Jinping, and India’s prime minister, Narenda Modi, at a **showpiece** summit in China.
 
@@ -102,83 +87,75 @@ The move by Trump follows Putin strengthening his relationship with his Chinese 
 showpiece ~ noun ~ an extremely good example of something that deserves to be admired
 ```
 
-#### https://www.theguardian.com/world/2025/sep/10/anti-islamic-biker-gang-infidels-mc-gaza-aid-sites
+#### [Anti-Islamic biker gang members hired to run security at controversial Gaza aid sites | Gaza | The Guardian](https://www.theguardian.com/world/2025/sep/10/anti-islamic-biker-gang-infidels-mc-gaza-aid-sites)
 
 The investigation found that more than 10 members of Infidels MC, a US biker gang that uses the **Crusader** cross as its symbol and whose members have anti-Islamic **tattoos**, have been hired by UG Solutions and deployed to food aid sites run by the Gaza Humanitarian Foundation.
+
+Mulford, whose **affiliation** with GHF was public, accidentally sent an email to the BBC telling other leaders of the group not to comment on inquiries – inadvertently revealing the identities of several other senior **Infidels** members also working for UG Solutions.
+
+GHF’s operations have come under scrutiny as the US and Israeli-backed group has **supplanted** nearly every other major humanitarian organisation working in the Gaza Strip in what critics have called a deliberate effort to politicise humanitarian aid.
+
+“We do not **screen** for personal hobbies or affiliations unrelated to job performance or security standards.”
+
+In a statement to the Guardian, GHF said: “The Gaza Humanitarian Foundation maintains a strict zero-tolerance policy toward any form of hateful or **discriminatory** behavior.”
 
 ```
 Crusader ~ noun ~ a Christian who fought in one of the religious wars of the 11th, 12th, 13th, and 17th centuries, mostly against Muslims in Palestine
 
 tattoo ~ noun ~ a permanent image, pattern, or word on the skin that is created by using needles to put colours under the skin
-```
 
-Mulford, whose **affiliation** with GHF was public, accidentally sent an email to the BBC telling other leaders of the group not to comment on inquiries – inadvertently revealing the identities of several other senior **Infidels** members also working for UG Solutions.
-
-```
 affiliation ~ noun ~ a connection with a political party or religion, or with a larger organization
 
 Infidel ~ noun  ~ (used especially between Christians and Muslims) someone who does not have the same religious beliefs as the person speaking
-```
 
-GHF’s operations have come under scrutiny as the US and Israeli-backed group has **supplanted** nearly every other major humanitarian organisation working in the Gaza Strip in what critics have called a deliberate effort to politicise humanitarian aid.
-
-```
 supplant ~ verb ~ to replace
-```
 
-“We do not **screen** for personal hobbies or affiliations unrelated to job performance or security standards.”
-
-```
 screen ~ verb ~ to test or examine someone or something to discover if there is anything wrong with him, her, or it
-```
 
-In a statement to the Guardian, GHF said: “The Gaza Humanitarian Foundation maintains a strict zero-tolerance policy toward any form of hateful or **discriminatory** behavior.”
-
-```
 discriminatory ~ adjective ~ treating a person or group differently from and usually worse than other people, because of their race, gender, sexuality, etc.
 ```
 
-#### https://www.theguardian.com/world/2025/sep/10/israel-threats-outrage-qatar-strike-hamas
+#### [Israeli airstrikes ‘killed any hope’ for hostages in Gaza, says Qatari prime minister | Israel | The Guardian](https://www.theguardian.com/world/2025/sep/10/israel-threats-outrage-qatar-strike-hamas)
 
 Netanyahu has responded **defiantly** to international criticism for the attack, including a White House statement that the “unilateral bombing” inside Qatar “does not advance Israel or America’s goals.”
 
-```
-defiantly ~ adverb ~ in a way that proudly refuses to obey authority
-```
-
 Hamas said in a statement that all of its leaders were safe, but five lower-ranked members were reportedly killed. A senior Israeli official admitted on Wednesday that optimism about the success of the strikes was **waning**.
-
-```
-wane ~ verb ~ to become weaker in strength or influence
-```
 
 “Why does the prime minister insist on blowing up every small chance for a deal? Why? The people of Israel are tired of this war. End it **already** and bring everyone back,” said Einav Zangauker, whose son Matan was kidnapped from his **kibbutz**.
 
-```
-kibbutz ~ noun ~ a farm or factory in Israel where profits and duties are shared and all work is considered equally important
-```
-
 Successive polls have shown broad support in Israel for a deal to end the war and free the hostages, while Netanyahu has been accused of prolonging the conflict for political **ends**.
 
-```
-end ~ noun ~ an aim, intention, or purpose
-```
-
 “In Israel … the vast majority of the people now are in favour of ending the war and bringing back the hostages … So that might look like the concluding **remarks** of the war,” Nadan said.
-
-```
-remark ~ noun ~ something that you say, giving your opinion about something or stating a fact
-```
 
 Meanwhile in Sana’a, people said Wednesday’s attack had struck a **hideout** between two mountains that was used as a command-and-control headquarters. The extent of any damage was not immediately clear.
 
 ```
+defiantly ~ adverb ~ in a way that proudly refuses to obey authority
+
+wane ~ verb ~ to become weaker in strength or influence
+
+kibbutz ~ noun ~ a farm or factory in Israel where profits and duties are shared and all work is considered equally important
+
+end ~ noun ~ an aim, intention, or purpose
+
+remark ~ noun ~ something that you say, giving your opinion about something or stating a fact
+
 hideout ~ noun ~ a secret place where someone can go when they do not want to be found by other people
 ```
 
-#### https://www.theguardian.com/world/2025/sep/11/ukraine-war-briefing-cheap-shahed-like-gerbera-drones-used-in-poland-violation
+#### [Ukraine war briefing: Cheap Shahed-like Gerbera drones used in Poland violation | Ukraine | The Guardian](https://www.theguardian.com/world/2025/sep/11/ukraine-war-briefing-cheap-shahed-like-gerbera-drones-used-in-poland-violation)
 
 It is made of materials like **plywood** and **foam**, and driven by a **motor** and propeller at the back.
+
+Ukrainian and western analysts say Russia uses the Gerbera as a decoy to **saturate** Ukraine’s air defences. China denies shipping **wares** to Russia for use against Ukraine.
+
+Ukraine had presented proposals for joint protection of European airspace “in a coordinated, **well-thought-out**, joint way …
+
+The UK will **mass** produce low-cost Ukrainian-designed interceptor drones to help Ukraine fight off Russian UAV attacks.
+
+Indian buyers are demanding bigger discounts on Russian crude oil because of the risk posed by dodging the international price cap, oil industry analysts have told Reuters – with some Russian sellers responding by saying they will send oil **cargoes** to China instead.
+
+The EU has lowered the price cap for Russian oil from October to 47.60 a **barrel**, down from 60. Richard Bronze is the head of geopolitics at **consultancy** Energy Aspects. The EU was considering a faster **phase-out** of Russian fossil fuels as part of new sanctions.
 
 ```
 plywood ~ noun ~ wood that consists of several thin layers of wood stuck together
@@ -186,33 +163,15 @@ plywood ~ noun ~ wood that consists of several thin layers of wood stuck togethe
 foam ~ noun ~ a mass of very small bubbles formed on the surface of a liquid
 
 motor ~ noun ~ a device that changes electricity or fuel into movement and makes a machine work
-```
 
-Ukrainian and western analysts say Russia uses the Gerbera as a decoy to **saturate** Ukraine’s air defences. China denies shipping **wares** to Russia for use against Ukraine.
-
-```
 saturate ~ verb ~ to make something or someone completely wet
 
 ware ~ noun ~ used, often in shops, to refer to objects of the same material or type, especially things used in cooking and serving food
-```
 
-Ukraine had presented proposals for joint protection of European airspace “in a coordinated, **well-thought-out**, joint way …
-
-The UK will **mass** produce low-cost Ukrainian-designed interceptor drones to help Ukraine fight off Russian UAV attacks.
-
-```
 mass ~ adjective ~ having an effect on or involving a large number of people or forming a large amount
-```
 
-Indian buyers are demanding bigger discounts on Russian crude oil because of the risk posed by dodging the international price cap, oil industry analysts have told Reuters – with some Russian sellers responding by saying they will send oil **cargoes** to China instead.
-
-```
 cargo ~ noun ~ the goods carried by a ship, aircraft, or other large vehicle
-```
 
-The EU has lowered the price cap for Russian oil from October to 47.60 a **barrel**, down from 60. Richard Bronze is the head of geopolitics at **consultancy** Energy Aspects. The EU was considering a faster **phase-out** of Russian fossil fuels as part of new sanctions.
-
-```
 barrel ~ noun ~ a large container, made of wood, metal, or plastic, with a flat top and bottom and curved sides that make it fatter in the middle
 
 consultancy ~ noun ~ a company that gives advice on a particular subject
@@ -220,451 +179,349 @@ consultancy ~ noun ~ a company that gives advice on a particular subject
 
 The US Congress still needs to **sign off** on the transaction.
 
-#### https://www.theguardian.com/world/2025/sep/11/venezuela-boat-strike-tren-de-aragua-trump
+#### [Venezuela says 11 killed in US boat strike were not gang members amid reports vessel was returning to shore | Venezuela | The Guardian](https://www.theguardian.com/world/2025/sep/11/venezuela-boat-strike-tren-de-aragua-trump)
 
 The emerging details came as several senators, Democrats and some Republicans, indicated dissatisfaction with the administration’s **rationale** and questioned the legality of the action.
-
-```
-rationale ~ noun ~ the reasons or intentions that cause a particular set of beliefs or actions
-```
 
 “Our armed forces are not law enforcement agencies,” said Senator Jack Reed, the top Democrat on the Senate Armed Services Committee, in a floor speech this week.
 
 Kelly also said Nicolás Maduro was not the legitimate president of Venezuela and that he was a “**fugitive**”.
 
-```
-fugitive ~ noun ~ a person who is running away or hiding from the police or a dangerous situation
-```
-
 “This strike sent a clear message: If you traffic drugs toward our shores, the United States military will use every tool at our **disposal** to stop you cold,“ chief Pentagon spokesperson Sean Parnell said.
 
 ```
+rationale ~ noun ~ the reasons or intentions that cause a particular set of beliefs or actions
+
+fugitive ~ noun ~ a person who is running away or hiding from the police or a dangerous situation
+
 disposal ~ noun ~ the act of getting rid of something, especially by throwing it away
 ```
 
-#### https://www.theguardian.com/world/2025/sep/12/ukraine-war-briefing-wasnt-a-mistake-polands-reply-after-trump-speculates-on-drones
+#### [Ukraine war briefing: ‘Wasn’t a mistake’ – Poland’s reply after Trump speculates on drones | Ukraine | The Guardian](https://www.theguardian.com/world/2025/sep/12/ukraine-war-briefing-wasnt-a-mistake-polands-reply-after-trump-speculates-on-drones)
 
 An emergency session of the UN security council will convene on Friday at Poland’s request as **Warsaw** seeks to rally support after the Russian drone incursion, write Shaun Walker and Jakub Krupa.
 
 Poland’s PM, Donald Tusk, announced the closure on Tuesday because of the “very aggressive” Zapad military exercises being conducted by Belarus and Russia as well as a growing number of provocations from the **dictatorial** allies.
-
-```
-dictatorial ~ adjective ~ liking to give orders
-```
 
 Thousands gathered at the **Slovak** capital, **Bratislava**, on Thursday, in part to protest about last week’s meeting between their pro-Putin prime minister, Robert Fico, and the Russian president in Beijing.
 
 “We’re sanctioning actors involved in chemical weapons and disinformation, as well as shadow fleet vessels, alternative payment providers, and third-country **facilitators** in North Korea and Iran.”
 
 ```
+dictatorial ~ adjective ~ liking to give orders
+
 facilitator ~ noun ~ someone who helps a person or organization do something more easily or find the answer to a problem, by discussing things and suggesting ways of doing things
 ```
 
-#### https://www.theguardian.com/uk-news/2025/sep/12/prince-harry-ukraine-visit-kyiv
+#### [Prince Harry makes surprise visit to Ukraine pledging support for thousands injured in war | Prince Harry | The Guardian](https://www.theguardian.com/uk-news/2025/sep/12/prince-harry-ukraine-visit-kyiv)
 
 He added: “We can continue to **humanise** the people involved in this war and what they are going through. I hope this trip will help to bring it home to people because it’s easy to become **desensitised** to what has been going on.”
+
+The prince said he was initially invited to Kyiv by Olga Rudnieva, the founder and CEO of the Superhumans Trauma Centre in Lviv, Ukraine which treats wounded **amputees**.
+
+“I **bumped** into Olga in New York."
+
+“It was **remarkable**. Everyone felt an **immense** connection to them.”
+
+While the **biennial** Invictus Games have been the focal point of much of the foundation’s work.
+
+By March this year, more than 22,000 veterans across Ukraine had accessed benefits like **gym** memberships and pool passes.
 
 ```
 humanise ~ verb ~ to make something less unpleasant and more suitable for people
 
 desensitise ~ verb ~ to cause someone to experience something, usually an emotion or a pain, less strongly than before
-```
 
-The prince said he was initially invited to Kyiv by Olga Rudnieva, the founder and CEO of the Superhumans Trauma Centre in Lviv, Ukraine which treats wounded **amputees**.
-
-```
 amputee ~ noun ~ a person who has had an arm or leg cut off
-```
 
-“I **bumped** into Olga in New York."
-
-```
 bump ~ verb ~ to hit something with force
-```
 
-“It was **remarkable**. Everyone felt an **immense** connection to them.”
-
-```
 remarkable ~ adjective ~ unusual or special and therefore surprising and worth mentioning
 
 immense ~ adjective ~ extremely large in size or degree
-```
 
-While the **biennial** Invictus Games have been the focal point of much of the foundation’s work.
-
-```
 biennial ~ adjective ~ happening once every two years
-```
 
-By March this year, more than 22,000 veterans across Ukraine had accessed benefits like gym memberships and pool passes.
-
-```
 gym ~ noun ~ a place or club where you can go to exercise using machines, weights, and other equipment
 ```
 
-#### https://www.theguardian.com/world/2025/sep/12/mexico-acting-under-coercion-to-constrain-china-with-50-tariff-on-cars-says-beijing
+#### [Mexico acting ‘under coercion to constrain’ China with 50% tariff on cars, says Beijing | China | The Guardian](https://www.theguardian.com/world/2025/sep/12/mexico-acting-under-coercion-to-constrain-china-with-50-tariff-on-cars-says-beijing)
 
 However analysts suggested it was also designed to **placate** Donald Trump, who has been pressuring Mexico not to act as a “back door” for Chinese goods into the US.
 
-```
-placate ~ verb ~ to stop someone from feeling angry
-```
-
 On Thursday, China’s ministry of foreign affairs said Beijing “firmly rejects moves that are taken under coercion to constrain China or undermine China’s legitimate rights and interests under any **pretext**”.
-
-```
-pretext ~ noun ~ a pretended reason for doing something that is used to hide the real reason
-```
 
 “We will firmly protect our rights and interests **in light of** the developments of the situation,” foreign ministry spokesperson Lin Jian told a regular briefing.
 
 Trump’s tariff regime has **upended** ties and alliances around the world – having moved beyond its original stated purpose of rebalancing trade relationships in the US’s favour, to being **wielded** as a geopolitical tool.
 
-```
-upend ~ verb ~ to push or move something so that the part that usually touches the ground is not touching the ground any more
-
-wield ~ verb ~ to hold a weapon or tool and look as if you are going to use it
-```
-
 The supreme court is set to hear Trump’s appeal against that **verdict** in the first week of November and the tariffs remain in place ahead of its ruling.
 
 ```
+placate ~ verb ~ to stop someone from feeling angry
+
+pretext ~ noun ~ a pretended reason for doing something that is used to hide the real reason
+
+upend ~ verb ~ to push or move something so that the part that usually touches the ground is not touching the ground any more
+
+wield ~ verb ~ to hold a weapon or tool and look as if you are going to use it
+
 verdict ~ noun ~ an opinion or decision made after judging the facts that are given, especially one made at the end of a trial
 ```
 
-#### https://www.theguardian.com/world/2025/sep/12/north-korea-executes-citizens-distribute-foreign-tv-shows-un-finds
+#### [North Korea executes citizens who distribute foreign TV shows, UN finds | North Korea | The Guardian](https://www.theguardian.com/world/2025/sep/12/north-korea-executes-citizens-distribute-foreign-tv-shows-un-finds)
 
 Surveillance has grown more **pervasive** since 2014 with the help of new technologies.
-
-```
-pervasive ~ adjective ~ present or noticeable in every part of a thing or place
-```
 
 “They’re often children from the lower level of society, because they’re the ones who can’t **bribe** their way out of it, and these **shock brigades** are engaged in often very hazardous and dangerous work,” said Heenan.
 
 ```
+pervasive ~ adjective ~ present or noticeable in every part of a thing or place
+
 bribe ~ verb ~ to try to make someone do something for you by giving them money, presents, or something else that they want
 ```
 
-#### https://www.theguardian.com/technology/2025/sep/15/trump-china-tiktok-sale-ban
+#### [US and China reach deal to transfer TikTok ownership, trade officials say | TikTok | The Guardian](https://www.theguardian.com/technology/2025/sep/15/trump-china-tiktok-sale-ban)
 
 “We would like to stress that the outcomes of the trade and economic consultations are **hard won**” Li said in Madrid.
 
-```
-accommodate ~ noun ~ the intentional ending of a pregnancy
-```
-
 The Department of Justice last year said TikTok had gathered the sensitive data of American users based off gun control, **abortion** and religion through its use of Lark, a workplace communication platform similar to Slack or Microsoft Teams, according to court documents.
-
-```
-abortion ~ 
-```
 
 Security experts have long pointed to three main areas of concern: Chinese influence campaigns, mass data collection on US citizens, and potential vulnerabilities that could **compromise** users’ devices.
 
-```
-compromise ~ verb ~ to allow your principles to be less strong or your standards or morals to be lower
-```
-
 The TikTok ownership saga stretches back to 2020, when Trump first ordered ByteDance to **divest** TikTok or face a shutdown. Microsoft initially pursued a potential **acquisition** worth billions of dollars, with CEO Satya Nadella engaging directly with Trump, but it fell apart in what Nadella dubbed at the time “the strangest deal” he has ever worked on.
 
-```
-divest ~ verb ~ to sell something, especially a business or a part of a business
-```
-
 Soon after, Walmart and Oracle came close to buying TikTok’s US **arm**, proposing a joint acquisition of a new entity called TikTok Global, but it was shelved indefinitely after the Biden administration conducted its own review of Chinese tech companies.
-
-```
-arm ~ noun ~ a long, moving part of a machine or piece of equipment
-```
 
 “We’re not going to be in the business of having **repetitive** extensions,” Greer said. “We have a deal.”
 
 ```
+abortion ~ noun ~ the intentional ending of a pregnancy
+
+compromise ~ verb ~ to allow your principles to be less strong or your standards or morals to be lower
+
+divest ~ verb ~ to sell something, especially a business or a part of a business
+
+arm ~ noun ~ a long, moving part of a machine or piece of equipment
+
 repetitive ~ adjective ~ involving doing or saying the same thing several times, especially in a way that is boring:
 ```
 
-#### https://www.theguardian.com/business/2025/sep/15/chinese-economy-weakens-as-consumer-spending-and-factory-output-slows
+#### [Chinese economy slows amid Trump trade war and weaker consumer spending | Chinese economy | The Guardian](https://www.theguardian.com/business/2025/sep/15/chinese-economy-weakens-as-consumer-spending-and-factory-output-slows)
 
 The disappointing data adds pressure on Beijing to roll out more stimulus to fend off a sharp slowdown, with a debt crisis denting the country’s once-booming property sector and exports facing stronger **headwinds**.
 
-```
-headwind ~ noun ~ a wind blowing in the opposite direction to the one you are moving in
-```
-
 A spokesperson for China’s statistics bureau said on Monday that more efforts were needed to support China’s **ailing** property sector and that the “external environment is very severe”.
-
-```
-ailing ~ adjective ~ experiencing difficulty and problems
-```
 
 Although the two countries agreed a pause on tariffs until 10 November, China recorded a **slump** in US-bound exports last month.
 
-```
-slump ~ verb ~ (of prices, values, or sales) to fall suddenly
-```
-
 “The activity data point to a further loss of **momentum**,” Zichun Huang, China economist at Capital Economics, wrote in a note.
 
-```
-momentum ~ noun ~ the force that keeps an object moving
-```
-
 Authorities are leaning on manufacturers to find new markets to **offset** Trump’s unpredictable tariff policies and weak consumer spending.
-
-```
-offset ~ verb ~ to balance one influence against an opposing influence, so that there is no great difference as a result
-```
 
 “Policies and measures to support service consumption are expected to offset the impact of **aggregate** demand this month,” he said.
 
 ```
+headwind ~ noun ~ a wind blowing in the opposite direction to the one you are moving in
+
+ailing ~ adjective ~ experiencing difficulty and problems
+
+slump ~ verb ~ (of prices, values, or sales) to fall suddenly
+
+momentum ~ noun ~ the force that keeps an object moving
+
+offset ~ verb ~ to balance one influence against an opposing influence, so that there is no great difference as a result
+
 aggregate ~ adjective ~ total
 ```
 
-#### https://www.theguardian.com/world/2025/sep/16/israel-launches-ground-offensive-deep-inside-gaza-city
+#### [Israel launches ground offensive deep inside Gaza City | Gaza | The Guardian](https://www.theguardian.com/world/2025/sep/16/israel-launches-ground-offensive-deep-inside-gaza-city)
 
 “We will not **relent** until the mission is completed.”
 
-```
-relent ~ verb ~ to act in a less severe way towards someone and allow something that you had refused to allow before
-```
-
 They estimated that the invading force would be met by up to 3,000 Hamas and **allied** fighters, and said the Israeli forces would advance cautiously.
 
-```
-allied ~ adjective ~ connected by a political or military agreement
-```
-
 “This phase is defined by a coordinated and gradual manoeuvre combining precise intelligence, air and ground forces targeting Hamas’s central stronghold and aimed at dismantling its **grip** in this area.”
-
-```
-grip ~ verb ~ to hold very tightly
-```
 
 “It is clear that there is an intent to destroy the Palestinians in Gaza through acts that meet the **criteria** set forth in the genocide convention,” said Navi Pillay.
 
 ```
+relent ~ verb ~ to act in a less severe way towards someone and allow something that you had refused to allow before
+
+allied ~ adjective ~ connected by a political or military agreement
+
+grip ~ verb ~ to hold very tightly
+
 criteria ~ plural of criterion ~ noun ~ a standard by which you judge, decide about, or deal with something
+
+suspend ~ verb ~ to stop something from being active, either temporarily or permanently
 ```
 
 “**Suspending** trade concessions and imposing sanctions on extremist ministers and violent settlers would clearly signal that the EU demands an end to this war,” she said.
 
-```
-suspend ~ verb ~ to stop something from being active, either temporarily or permanently
-```
-
 Netanyahu sought to brace the country for greater economic isolation in a speech on Monday in which he said it would have to “adapt to an economy with **autarkic** features”, suggesting it would have to be more self-reliant with fewer trade options.
-
-```
-autarkic ~ adjective ~ of countries; not relying on imports
-```
 
 Tess Ingram, a spokesperson for the UN child protection agency, Unicef, said there was no safe **haven** for the displaced population.
 
-```
-haven ~ noun ~ a safe or peaceful place
-```
-
 “It is inhumane to expect nearly half a million children, battered and **traumatised** by over 700 days of unrelenting conflict, to flee one **hellscape** and end up in another.”.
-
-```
-traumatise ~ verb ~ to shock and upset someone severely and for a long time
-
-hellscape ~ noun ~ an area that looks extremely unpleasant, especially because everything there has been destroyed, or a picture that represents this
-```
 
 His critics have long argued he has prolonged the Gaza war to put off elections, stay in office and thereby preserve his legal **immunity**.
 
 ```
+autarkic ~ adjective ~ of countries; not relying on imports
+
+haven ~ noun ~ a safe or peaceful place
+
+traumatise ~ verb ~ to shock and upset someone severely and for a long time
+
+hellscape ~ noun ~ an area that looks extremely unpleasant, especially because everything there has been destroyed, or a picture that represents this
+
 immunity ~ noun ~ a situation in which you are protected against disease or from legal action
 ```
 
 Once the ground offensive was launched, Donald Trump directed blame at Hamas, telling reporters at the White House that the militants would have “**hell to pay**” if it used the surviving hostages as human shields during the assault.
 
-#### https://www.theguardian.com/world/2025/sep/17/guam-reacts-to-china-displaying-new-killer-missile-everyone-should-be-worried
+#### [‘Everyone should be worried’: life in the crosshairs of China’s ‘Guam killer’ missiles | Guam | The Guardian](https://www.theguardian.com/world/2025/sep/17/guam-reacts-to-china-displaying-new-killer-missile-everyone-should-be-worried)
 
 But that certainty shifted slightly this month when the threat **catapulted** into the headlines, as Beijing used a military parade commemorating Japan’s defeat in the second world war to unveil a range of new military hardware – including a weapon dubbed the “Guam Killer” by Chinese media.
 
-```
-catapult ~ verb ~ to throw someone or something with great force
-```
-
 For that reason, displays of China’s increasing military **prowess** – this month’s event included nuclear-capable intercontinental ballistic missiles, anti-drone **lasers** and four-legged “robot wolves” – **loom** large in the territory.
 
+“Guam should be aware of the threat, even if not so worried,” says Col Grant Newsham, a retired US marine officer, noting that the Chinese military has **outpace** the US in some areas.
+
+“That can alter regional and global diplomacy and make coordinated actions more likely. It’s alarming because it can be a military and security **allegiance**,” Reilly says.
+
+Local officials, however, continue to insist that defending Guam is of **paramount** importance to the US military.
+
 ```
+catapult ~ verb ~ to throw someone or something with great force
+
 prowess ~ noun ~ great ability or skill
 
 laser ~ noun ~ (a device that produces) a powerful, narrow beam of light that can be used as a tool to cut metal, to perform medical operations, or to create patterns of light for entertainment
 
 loom ~ verb ~ to appear as a large, often frightening or unclear shape or object
-```
 
-“Guam should be aware of the threat, even if not so worried,” says Col Grant Newsham, a retired US marine officer, noting that the Chinese military has **outpace** the US in some areas.
-
-```
 outpace ~ verb ~ to move or develop faster than someone or something else
-```
 
-“That can alter regional and global diplomacy and make coordinated actions more likely. It’s alarming because it can be a military and security **allegiance**,” Reilly says.
-
-```
 allegiance ~ noun ~ loyalty and support for a ruler, country, group, or belief
-```
 
-Local officials, however, continue to insist that defending Guam is of **paramount** importance to the US military.
-
-```
 paramount ~ adjective ~ more important than anything else
 ```
 
-#### https://www.theguardian.com/world/2025/sep/17/ukraine-war-briefing-russian-oil-system-struggling-under-ukrainian-attacks-report
+#### [Ukraine war briefing: Russian oil system struggling under Ukrainian attacks – report | World news | The Guardian](https://www.theguardian.com/world/2025/sep/17/ukraine-war-briefing-russian-oil-system-struggling-under-ukrainian-attacks-report)
 
 Von der Leyen announced the commission would soon present its 19th package of sanctions aimed at Russia’s war effort – targeting **crypto**, banks, and energy.
 
-```
-crypto ~ noun ~ short form of cryptocurrency ~ a digital currency produced by a public network, rather than any government, that uses cryptography to make sure payments are sent and received safely
-```
-
 Europe has in fact greatly reduced its purchase of Russian oil and gas, though two big **holdouts** are Hungary and Slovakia, whose rightwing prime ministers are both friendly with Putin and Trump.
-
-```
-holdout ~ noun ~ a person, organization, or country that continues to do something, despite other people trying to force them not to
-```
 
 The editorial listed how Trump’s promises and threats concerning the Ukraine war have all failed to produce results – including how “an 8 August deadline for Mr Putin to agree to a ceasefire somehow **morphed** into a red carpet welcome in Alaska”.
 
-```
-morph ~ verb ~ to gradually change, or change someone or something, from one thing to another
-```
-
 A Russian drone, missile or **glide** bomb hit an educational building in Kharkiv city’s southern Slobidskyi district on Tuesday. Some reports described the building as the pharmaceutical university.
-
-```
-glide ~ verb ~ to fly by floating on air currents instead of using power from wings or an engine
-
-pharmaceutical ~ adjective ~ relating to the production of medicines
-```
 
 A Ukrainian arrested in Italy last month over the 2022 sabotage of the Nord Stream gas pipelines from Russia to Europe must be **extradited** to Germany, a court in Bologna ruled on Tuesday. The man, identified as Serhii K, has denied taking part and will appeal against his **extradition** to Italy’s supreme court, his lawyer said.
 
 ```
+crypto ~ noun ~ short form of cryptocurrency ~ a digital currency produced by a public network, rather than any government, that uses cryptography to make sure payments are sent and received safely
+
+holdout ~ noun ~ a person, organization, or country that continues to do something, despite other people trying to force them not to
+
+morph ~ verb ~ to gradually change, or change someone or something, from one thing to another
+
+glide ~ verb ~ to fly by floating on air currents instead of using power from wings or an engine
+
+pharmaceutical ~ adjective ~ relating to the production of medicines
+
 extradite ~ verb ~ to make someone return for trial to another country or state where they have been accused of doing something illegal
 ```
 
-#### https://www.theguardian.com/world/2025/sep/17/eu-calls-for-closer-ties-with-india-despite-modi-ties-to-russia
+#### [EU calls for closer ties with India despite Modi’s links to Russia | European Union | The Guardian](https://www.theguardian.com/world/2025/sep/17/eu-calls-for-closer-ties-with-india-despite-modi-ties-to-russia)
 
 Meanwhile the EU is **grappling** with demands from Trump to impose up to 100% tariffs on India and China, another buyer of Russian oil, to pressure Russia to end the war.
 
-```
-grapple ~ verb ~ to fight, especially in order to win something
-```
-
 But privately, officials have **balked** at 100% tariffs, at a time when Brussels is also trying to sign a trade agreement with India by the end of the year.
-
-```
-balk ~ verb ~ to be unwilling to do something or to allow something to happen
-```
 
 Asked about the link between the trade talks and India’s relations with Russia, Kallas said: “Negotiations are negotiations and until we agree about everything then nothing is agreed.” She added that the EU had to take into account its interests, concerns and “**problematic** issues”.
 
-```
-problematic ~ adjective ~ full of problems or difficulties
-```
-
 But he was also **downbeat** about the latest round of trade talks, saying he had hoped to see more progress in meetings last week.
 
-```
-downbeat ~ adjective ~ lacking in excitement or hope
-```
-
 The commission is **racing** to strike trade deals around the world since Trump hit many European goods with tariffs and pressured the EU into an unequal trade agreement.
-
-```
-race ~ verb ~ to move or go fast
-```
 
 He said that a commitment to the 2026 deadline would “establish a clear timeline, and demonstrate our resolve to achieve independence from oil supplies **burdened** with political and strategic risks”.
 
 ```
+grapple ~ verb ~ to fight, especially in order to win something
+
+balk ~ verb ~ to be unwilling to do something or to allow something to happen
+
+problematic ~ adjective ~ full of problems or difficulties
+
+downbeat ~ adjective ~ lacking in excitement or hope
+
+race ~ verb ~ to move or go fast
+
 burden ~ verb ~ to make someone responsible for something that is very difficult, unpleasant, or expensive to deal with
 ```
 
-#### https://www.theguardian.com/world/2025/sep/17/trump-celebrates-tiktok-deal-as-beijing-suggests-us-app-would-use-chinas-algorithm
+#### [Trump celebrates TikTok deal as Beijing suggests US app would use China’s algorithm | China | The Guardian](https://www.theguardian.com/world/2025/sep/17/trump-celebrates-tiktok-deal-as-beijing-suggests-us-app-would-use-chinas-algorithm)
 
 At a press conference in Madrid, the deputy head of China’s cyber security **regulator** said the framework of the deal included “**licensing** the algorithm and other intellectual property rights”.
+
+Wang Jingtao said ByteDance would “**entrust** the operation of TikTok’s US user data and content security.”
+
+Some commentators have inferred from these comments that TikTok’s US **spinoff** will retain the Chinese algorithm.
+
+At arguments in the Supreme Court in January, a lawyer for TikTok ByteDance told the justices how difficult it would be to sell the platform to a US company, because Chinese law restricts the sale of the **proprietary** algorithm that has made the social media platform wildly successful.
+
+American officials have previously warned the algorithm that **fuels** what users see on the app is vulnerable to manipulation by Chinese authorities, who can use it to shape content on the platform in a way that’s difficult to detect.
+
+“It wouldn’t be in **compliance** if the algorithm is Chinese. There can’t be any shared algorithm with ByteDance,” said a spokesperson for the House Select Committee on China.
 
 ```
 regulator ~ noun ~ an official who makes certain that the companies who operate a system, such as the national electricity supply, work effectively and fairly
 
 license ~ verb ~ to give someone official permission to do or have something
-```
 
-Wang Jingtao said ByteDance would “**entrust** the operation of TikTok’s US user data and content security.”
-
-```
 entrust ~ verb ~ to give someone a thing or a duty for which they are responsible
-```
 
-Some commentators have inferred from these comments that TikTok’s US **spinoff** will retain the Chinese algorithm.
-
-```
 spinoff ~ noun ~ a product that develops from another more important product
-```
 
-At arguments in the Supreme Court in January, a lawyer for TikTok ByteDance told the justices how difficult it would be to sell the platform to a US company, because Chinese law restricts the sale of the **proprietary** algorithm that has made the social media platform wildly successful.
-
-```
 proprietary ~ adjective ~ relating to owning something, or relating to or like an owner
-```
 
-American officials have previously warned the algorithm that **fuels** what users see on the app is vulnerable to manipulation by Chinese authorities, who can use it to shape content on the platform in a way that’s difficult to detect.
-
-```
 fuel ~ verb ~ to increase a feeling or a type of behaviour or make it stronger
-```
 
-“It wouldn’t be in **compliance** if the algorithm is Chinese. There can’t be any shared algorithm with ByteDance,” said a spokesperson for the House Select Committee on China.
-
-```
 compliance ~ noun ~ the act of doing everything that someone tells or wants you to do
 ```
 
-#### https://www.theguardian.com/world/2025/sep/18/venezuela-military-exercises-after-us-boat-attacks-kill-14-people
+#### [Venezuela starts days of military and ‘electronic warfare’ drills after US strikes on alleged drug boats | Venezuela | The Guardian](https://www.theguardian.com/world/2025/sep/18/venezuela-military-exercises-after-us-boat-attacks-kill-14-people)
 
 Venezuela says it has begun three days of military exercises on its Caribbean island of La Orchila as tensions **soar** amid US military activity in the region.
 
-```
-soar ~ 
-```
-
 The exercise ordered by Maduro as commander-in-chief was **baptised** “Sovereign Caribbean”, said the defence minister, Vladimir Padrino López.
-
-```
-baptise ~ verb ~ to rise very quickly to a high level
-```
 
 “There will be air defence deployments with armed drones, surveillance drones, submarine drones ... We are going to implement electronic warfare actions,” he said on Wednesday, citing the “threatening, **vulgar** voice” of the US.
 
-```
-vulgar ~ adjective ~ rude and likely to upset or anger people, especially by referring to sex and the body in an unpleasant way
-```
-
 Public television showed images of **amphibious** vessels and warships deployed off La Orchila, where Venezuela has a military base.
-
-```
-amphibious ~ adjective ~ of or relating to animals that lives both on land and in water
-```
 
 The US government has released videos of two of the boat strikes and claims it has **irrefutable** evidence the people killed were US-bound traffickers, without providing details to back up the claims.
 
 ```
+soar ~ verb ~ to rise very quickly to a high level
+
+baptise ~ verb ~ to rise very quickly to a high level
+
+vulgar ~ adjective ~ rude and likely to upset or anger people, especially by referring to sex and the body in an unpleasant way
+
+amphibious ~ adjective ~ of or relating to animals that lives both on land and in water
+
 irrefutable ~ adjective ~ impossible to prove wrong
 ```
 
-#### https://www.theguardian.com/world/2025/sep/18/chinas-temple-economy-in-the-spotlight-as-scandals-rock-influential-religious-leaders
+#### [China’s ‘temple economy’ in the spotlight as scandals rock influential religious leaders | China | The Guardian](https://www.theguardian.com/world/2025/sep/18/chinas-temple-economy-in-the-spotlight-as-scandals-rock-influential-religious-leaders)
 
 For a religious leader, the allegations were scandalous. Mistresses, **illegitimate** children, embezzlement. But in 2015, the head **abbott** of Shaolin monastery, the **cradle** of **Zen Buddhism** and kung-fu in China, was untouchable.
+
+The Shaolin Temple released a statement saying that he was being investigated for allegedly **misappropriating** funds and for fathering illegitimate children with multiple mistresses.
 
 ```
 illegitimate ~ adjective ~ born of parents not married to each other
@@ -672,15 +529,13 @@ illegitimate ~ adjective ~ born of parents not married to each other
 abbot ~ noun ~ a man who is in charge of a monastery
 
 cradle ~ noun ~ a small bed for a baby, especially one that moves from side to side
-```
 
-The Shaolin Temple released a statement saying that he was being investigated for allegedly **misappropriating** funds and for fathering illegitimate children with multiple mistresses.
-
-```
 misappropriate ~ verb ~ to steal something that you have been trusted to take care of and use it for your own good
 ```
 
 The controversies reveal the increasingly **precarious** position of influential religious leaders in China, as the official support for the commercialisation of religious sites gives way to an emphasis on **frugality** and political **obedience**.
+
+Wu is accused of **soliciting** public donations under the guise of collecting money for unmarried pregnant women and needy children, which was actually spent on personal **extravagances**.
 
 ```
 precarious ~ adjective ~ in a dangerous state because of not being safe or not being held in place firmly
@@ -688,11 +543,7 @@ precarious ~ adjective ~ in a dangerous state because of not being safe or not b
 frugality ~ noun ~ the quality of being careful when using money or food
 
 obedience ~ noun ~ the fact that people or animals do what they are told to do
-```
 
-Wu is accused of **soliciting** public donations under the guise of collecting money for unmarried pregnant women and needy children, which was actually spent on personal **extravagances**.
-
-```
 solicit ~ verb ~ to ask someone for money, information, or help
 
 extravagance ~ noun ~ behaviour in which you spend more money than you need to
@@ -700,23 +551,19 @@ extravagance ~ noun ~ behaviour in which you spend more money than you need to
 
 In August, a video of monks from Hangzhou’s Lingyin Temple sitting around a table counting **wads** of cash went viral, catapulting the 4th century hall of **worship** into a social media storm.
 
-```
-wad ~ noun ~ a number of usually flat and/or small objects pressed tightly together
-
-worship ~ noun ~ the act of worshipping God or a god, often through praying or singing
-```
-
 In **medieval** times, monasteries stood in for banks, loaning cash to **merchants** while charging high interest rates.
-
-```
-medieval ~ adjective ~ related to the Middle Ages (= the period in European history from about AD 600 to AD 1500)
-
-merchant ~ noun ~ a person whose job is to buy and sell products in large amounts, especially by trading with other countries
-```
 
 The **opprobrium** comes from ordinary people who see riches as being spiritually **corrosive**, and, increasingly, from the government, which under the leadership of Xi Jinping has cracked down on excess wealth and corruption.
 
 ```
+wad ~ noun ~ a number of usually flat and/or small objects pressed tightly together
+
+worship ~ noun ~ the act of worshipping God or a god, often through praying or singing
+
+medieval ~ adjective ~ related to the Middle Ages (= the period in European history from about AD 600 to AD 1500)
+
+merchant ~ noun ~ a person whose job is to buy and sell products in large amounts, especially by trading with other countries
+
 opprobrium ~ noun ~ severe criticism and blame
 
 corrosive ~ adjective ~ A corrosive substance causes damage by chemical action.
@@ -724,19 +571,15 @@ corrosive ~ adjective ~ A corrosive substance causes damage by chemical action.
 
 But as China entered a period of economic reform and opening up in the 1980s, temples were back in **vogue**, with many turning to tourism to support themselves, often with explicit government support.
 
-```
-vogue ~ noun ~ a fashion or general liking, especially one that is temporary
-```
-
 Gift shops selling Shaolin-branded **merchandise** also opened, and Shaolin **Inc** was born.
-
-```
-merchandise ~ noun ~ goods that are bought and sold
-```
 
 Over the years he took a **troupe** of **martial** arts monks to Moscow for a special performance at the invitation of Vladimir Putin. It led one worker near the Shaolin monastery to remark that the political **heft** of local CCP officials seemed **paltry** in comparison with Shi.
 
 ```
+vogue ~ noun ~ a fashion or general liking, especially one that is temporary
+
+merchandise ~ noun ~ goods that are bought and sold
+
 troupe ~ noun ~ a group of performers such as singers or dancers who work and travel together
 
 martial ~ adjective ~ relating to soldiers, war, or life in the armed forces
@@ -748,31 +591,31 @@ paltry ~ adjective ~ (of an amount of money) very small and of little or no valu
 
 As China suffers with **stubbornly** sluggish economic growth, temples in theory are a gift to both local governments and ordinary people. The authorities benefit from increased domestic spending as people flock to temple-**cum**-tourist attractions, while people struggling to find work or fulfilment in Chinese society are increasingly turning to religion for spiritual guidance.
 
-```
-stubbornly ~ adverb ~ in a way that shows you are determined to do what you want and refuse to do anything else
-
-cum ~ prep ~ used for linking two nouns
-```
-
 But temples also must **tread** an increasingly narrow line between popularity and political obedience.
 
-```
-tread ~ verb ~ to put your foot on something or to press something down with your foot
-```
-
 “It’s almost always that there is something else going on that has to do with **patronage**,” says Ian Johnson, the author of The Souls of China, a book about religion in China.
-
-```
-patronage ~ noun ~ the support given to an organization by someone
-```
 
 Xi has shown a particular interest in traditional Chinese religions. Early in his career he helped to re-open important Buddhist temples and turn them into tourist attractions, a blueprint for how the officially **atheist** Party could work with religion.
 
 ```
+stubbornly ~ adverb ~ in a way that shows you are determined to do what you want and refuse to do anything else
+
+cum ~ prep ~ used for linking two nouns
+
+tread ~ verb ~ to put your foot on something or to press something down with your foot
+
+patronage ~ noun ~ the support given to an organization by someone
+
 atheist ~ noun ~ someone who does not believe in any god or gods, or who believes that no god or gods exist
 ```
 
 Now it seems that the Shaolin monastery, set in the **jagged** Song mountain range, is being brought to heel. He **halted** commercial performances, banned expensive **consecration** rituals, said he would remove temple shops and said that he would eliminate other unpopular fees.
+
+But so far, the anti-commercialisation drive is **patchy** at best. Yellow-robed monks stage daily, **spellbinding** martial arts that are free – for anyone who has bought an 80 yuan ticket to the temple complex.
+
+It would not have been known internationally … there are **pros and cons**.
+
+“After all, I’d also want to drive a range **rover**”.
 
 ```
 jagged ~ adjective ~ rough and with sharp points
@@ -780,95 +623,71 @@ jagged ~ adjective ~ rough and with sharp points
 halt ~ verb ~ to (cause to) stop moving or doing something or happening
 
 consecration ~ noun ~ the act or process of officially making something holy and able to be used for religious ceremonies
-```
 
-But so far, the anti-commercialisation drive is **patchy** at best. Yellow-robed monks stage daily, **spellbinding** martial arts that are free – for anyone who has bought an 80 yuan ticket to the temple complex.
-
-```
 patchy ~ adjective ~ only existing or happening in some parts
 
 spellbinding ~ adjective ~ holding your attention completely
-```
 
-It would not have been known internationally … there are **pros and cons**.
-
-“After all, I’d also want to drive a range **rover**”.
-
-```
 rover ~ noun ~ a person who spends their time travelling from place to place
 ```
 
-#### https://www.theguardian.com/world/2025/sep/18/saudi-arabia-pakistan-mutual-defence-pact
+#### [Saudi Arabia and Pakistan sign mutual defence pact as regional tensions escalate | Saudi Arabia | The Guardian](https://www.theguardian.com/world/2025/sep/18/saudi-arabia-pakistan-mutual-defence-pact)
 
 “This is not a response to specific countries or specific events but an **institutionalisation** of longstanding and deep cooperation between our two countries.”
-
-```
-institutionalisation ~ noun ~ to make something become a permanent or respected part of a society, system, or organization
-```
 
 The pact on Wednesday could shift the strategic **calculus** in a complex region. Gulf **monarchies** – allies of Washington – have sought to stabilise ties with both Iran and Israel to resolve longstanding security concerns.
 
 ```
+institutionalisation ~ noun ~ to make something become a permanent or respected part of a society, system, or organization
+
 calculus ~ noun ~ calculation
 
 monarchy ~ noun ~ a country that has a king or queen
 ```
 
-#### https://www.theguardian.com/world/2025/sep/18/uk-preparing-to-recognise-palestinian-state-as-early-as-friday
+#### [UK preparing to recognise Palestinian state as early as Friday | Palestinian territories | The Guardian](https://www.theguardian.com/world/2025/sep/18/uk-preparing-to-recognise-palestinian-state-as-early-as-friday)
 
 The leadership of the Palestinian Authority is **subject to** elections within a year.
 
 The UK prime minister said recognition was “part of that overall package which hopefully takes us from the **appalling** situation we’re in now to the outcome of a safe and secure Israel, which we do not have, and a viable Palestinian state”.
 
-```
-appalling ~ adjective ~ shocking and very bad
-```
-
 The UK Foreign Office had long **parried** calls for recognition, saying the step should only be taken when it had maximum impact on the peace process.
-
-```
-parry ~ verb ~ to manage cleverly to avoid dealing with a difficult question or some criticism
-```
 
 These included a resumption of humanitarian aid, a ceasefire, Israeli engagement in a **sustained** peace process, and no further Israeli land annexations in the West Bank.
 
 ```
+appalling ~ adjective ~ shocking and very bad
+
+parry ~ verb ~ to manage cleverly to avoid dealing with a difficult question or some criticism
+
 sustained ~ adjective ~ continuing for a long time
 ```
 
-#### https://www.theguardian.com/world/2025/sep/21/ukraine-war-briefing-shoot-down-trespassing-russian-jets-if-necessary-czech-president
+#### [Ukraine war briefing: Shoot down trespassing Russian jets if necessary – Czech president | Ukraine | The Guardian](https://www.theguardian.com/world/2025/sep/21/ukraine-war-briefing-shoot-down-trespassing-russian-jets-if-necessary-czech-president)
 
 The Czech president, Petr Pavel, has said Nato must respond **adequately** to Russian airspace violations, including potentially by shooting down Russian jets. Unfortunately, this is **teetering** on the edge of conflict, but giving in to evil is simply not an option.” 
 
-```
-adequately ~ adverb ~ in a way that is enough or satisfactory for a particular purpose
-
-teeter ~ verb ~ to appear to be about to fall while moving or standing
-```
-
 British fighter jets have flown their first Nato air defence sortie over Poland as part of the Eastern **Sentry** mission following Russian drone incursions.
-
-```
-sentry ~ noun ~ a soldier who guards a place, usually by standing at its entrance
-```
 
 The general staff added that Ukrainian special forces struck a production and transit station in Samara for the export-grade **Urals** oil that **comprises** up to 50% of the total volume of Russian exports.
 
-```
-comprise ~ verb ~ to have things or people as parts or members; to consist of
-```
-
 Trump has threatened sanctions but then **backtracked** to say he will do it only after all Nato countries agree to stop buying oil from Russia and put tariffs on China, another big importer of Russia’s oil. 
-
-```
-backtrack ~ verb ~ to go back along a path that you have just followed
-```
 
 At least three people were killed when a missile carrying **cluster munitions** struck an apartment building in the city of Dnipro.
 
 The special **rapporteur** on rights in Russia, Mariana Katzarova, denounces in her report “the continuing widespread and systematic recourse to torture and ill-treatment by Russian law enforcement officials, security forces, **penitentiary** officials and members of the armed forces”. The independent expert, who does not speak on behalf of the UN, said Russian authorities had “dismantled institutional independence, bringing the **judiciary**, legislature and law enforcement under direct political control.”
 
 ```
+adequately ~ adverb ~ in a way that is enough or satisfactory for a particular purpose
+
+teeter ~ verb ~ to appear to be about to fall while moving or standing
+
+sentry ~ noun ~ a soldier who guards a place, usually by standing at its entrance
+
+comprise ~ verb ~ to have things or people as parts or members; to consist of
+
+backtrack ~ verb ~ to go back along a path that you have just followed
+
 rapporteur ~ noun ~ someone chosen by an organization to prepare reports of meetings or to investigate and report on a problem
 
 penitentiary ~ noun ~ a state or federal prison
@@ -876,115 +695,91 @@ penitentiary ~ noun ~ a state or federal prison
 judiciary ~ noun ~ the part of a country's government that is responsible for its legal system, including all the judges in the country's courts
 ```
 
-#### https://www.theguardian.com/world/2025/sep/21/uk-canada-and-australia-announce-formal-recognition-of-palestine-with-wave-of-israel-allies-to-follow
+#### [UK, Canada and Australia announce formal recognition of Palestine, with wave of Israel’s allies to follow | Palestinian territories | The Guardian](https://www.theguardian.com/world/2025/sep/21/uk-canada-and-australia-announce-formal-recognition-of-palestine-with-wave-of-israel-allies-to-follow)
 
 A wave of Israel’s allies are announcing their recognition of the state of Palestine, as part of a wider manoeuvre designed to **ostracise** Hamas and challenge attempts by the Israeli government to erase the chance of a Palestinian homeland.
 
-```
-ostracise ~ verb ~ to avoid someone intentionally, or to prevent someone from taking part in the activities of a group
-```
-
 The UK, Canada and Australia formally declared their recognition of Palestinian **statehood** on Sunday in separate but coordinated statements.
 
-```
-statehood ~ noun ~ the condition of being a country or a part of a large country that has its own government
-```
-
 The delicate and partly symbolic move by as many 10 states, **pioneered** largely by the French government, has the potential to lead to a negative spiral of further confrontation.
-
-```
-pioneer ~ verb ~ a person who is one of the first people to do something
-```
 
 The declarations with various conditions and **emphases** attached reflect the conflicting domestic pressures on governments as they face a backlash from Israel, and from hostage families that claim the move effectively rewards Hamas for its attack on Israel on 7 October 2023.
 
 At the centre of the French plan, now fully endorsed by Arab states, is to make recognition part of a wider process, including a reformed, democratically elected Palestinian Authority that in the event of a ceasefire comes to **supersede** a disarmed and dismantled Hamas in Gaza.
 
-```
-supersede ~ verb ~ to replace something, especially something older or more old-fashioned
-```
-
 Macron, identified by Israel as the **galvanising** force behind the surge in recognitions, went on Israel’s Channel 12 to warn “the approach of your government and some ministers especially is to destroy the possibility of a two-state solution.”
 
 ```
+ostracise ~ verb ~ to avoid someone intentionally, or to prevent someone from taking part in the activities of a group
+
+statehood ~ noun ~ the condition of being a country or a part of a large country that has its own government
+
+pioneer ~ verb ~ a person who is one of the first people to do something
+
+supersede ~ verb ~ to replace something, especially something older or more old-fashioned
+
 galvanise ~ verb ~ to cause someone to suddenly take action, especially by shocking or exciting them in some way
 ```
 
 He insisted recognition was not a reward for Hamas, since the terrorist group wanted an Islamic state and the destruction of Israel, something a two-state solution would **preclude**.
 
-```
-preclude ~ verb ~ to prevent something or make it impossible, or prevent someone from doing something
-```
-
 The US state department has tried to block Abbas from speaking from the **rostrum** at the UN in New York by denying US visas to the PA, a move that triggered a 145 to five vote at the UN general assembly to allow him to speak via a video link.
-
-```
-rostrum ~ noun ~ a raised surface on which a person making a speech or a music conductor (= leader) stands
-```
 
 But the French argue the move has already brought concessions by Abbas on **deradicalisation**, and his **denunciation** of the 7 October attack as a terrorist act.
 
-```
-deradicalisation ~ noun ~ the process of making someone become less radical (= extreme) in their political or religious beliefs
-
-denunciation ~ noun ~ public criticism of something or someone
-```
-
 His proposals have been **roundly** rejected by Netanyahu.
-
-```
-roundly ~ adverb ~ severely
-```
 
 The **quartet** are rallying countries around an emergency aid package to prevent the collapse of the PA.
 
 ```
+preclude ~ verb ~ to prevent something or make it impossible, or prevent someone from doing something
+
+rostrum ~ noun ~ a raised surface on which a person making a speech or a music conductor (= leader) stands
+
+deradicalisation ~ noun ~ the process of making someone become less radical (= extreme) in their political or religious beliefs
+
+denunciation ~ noun ~ public criticism of something or someone
+
+roundly ~ adverb ~ severely
+
 quartet ~ noun ~ a group of four people who play musical instruments or sing as a group
 ```
 
-#### https://www.theguardian.com/world/2025/sep/21/what-role-has-britain-played-in-the-history-of-israel-and-palestine
+#### [What role has Britain played in the history of Israel and Palestine? | Palestinian territories | The Guardian](https://www.theguardian.com/world/2025/sep/21/what-role-has-britain-played-in-the-history-of-israel-and-palestine)
 
 In 1914 when the first world war began, the Ottoman empire threw in its **lot** with the **central powers** and Britain’s response was to declare Egypt a British protectorate. The following April, the members of the triple **entente** – France, Russia and Great Britain – started to secretly negotiate backroom plans for the Middle East on the assumption that the Ottoman empire would collapse.
-
-```
-lot ~ noun ~ 
-
-entente ~ noun ~ a friendly agreement or relationship between two countries
-```
 
 Between 1915 and 1916, secret talks led to the Sykes-Picot agreement, a Franco-British deal fully disclosed only 20 years later, to **carve up** the Middle East.
 
 At the same time, Arab leaders believed that in **correspondence** between Sharif Hussein, the **custodian** of the Islamic holy cities of Medina and Mecca, and Sir Harold McMahon, the high commissioner of Egypt, a clear commitment was given that Britain would support a **revolt** against the Ottomans and promote an independent Arab state covering the whole of Ottoman Asia.
 
+In 1922, despite the promises of independence, Britain’s right to retain the mandate for Palestine was granted by the **League** of Nations and the Balfour declaration was included as part of that mandate.
+
+In 1936 the Palestinians’ increasing frustration with the British led to open revolt, and then a brutal repression. The UK’s Peel commission decided **reluctantly** in 1937 that **partition** was the only answer, even though it would **entail** the mass displacement of Palestinians.
+
+On the eve of the second world war in 1939, in an attempt to **mollify** both sides, a UK white paper said it favoured a Palestinian state within 10 years.
+
 ```
+lot ~ noun ~ 
+
+entente ~ noun ~ a friendly agreement or relationship between two countries
+
 correspondence ~ noun ~ letters, especially official or business letters
 
 custodian ~ noun ~ a person with responsibility for protecting or taking care of something or keeping something in good condition
 
 revolt ~ noun ~ If a large number of people revolt, they refuse to be controlled or ruled, and take action against authority, often violent action.
-```
 
-In 1922, despite the promises of independence, Britain’s right to retain the mandate for Palestine was granted by the **League** of Nations and the Balfour declaration was included as part of that mandate.
-
-```
 league ~ noun ~ a group of people or countries who join together because they have the same interest
-```
 
-In 1936 the Palestinians’ increasing frustration with the British led to open revolt, and then a brutal repression. The UK’s Peel commission decided **reluctantly** in 1937 that **partition** was the only answer, even though it would **entail** the mass displacement of Palestinians.
-
-```
 reluctantly ~ adverb ~ in a way that shows that you are not willing to do something and are therefore slow to do it
 
 partition ~ noun ~ the dividing of a country into separate countries or areas of government
-```
 
-On the eve of the second world war in 1939, in an attempt to **mollify** both sides, a UK white paper said it favoured a Palestinian state within 10 years.
-
-```
 mollify ~ verb ~ to make someone less angry or upset
 ```
 
-#### https://www.theguardian.com/world/2025/sep/22/un-rights-groups-condemn-reported-jailing-wuhan-covid-citizen-journalist-zhang-zhan
+#### [UN and rights groups condemn reported jailing of Wuhan Covid citizen journalist | China | The Guardian](https://www.theguardian.com/world/2025/sep/22/un-rights-groups-condemn-reported-jailing-wuhan-covid-citizen-journalist-zhang-zhan)
 
 She was one of a number of independent journalists to be detained for broadcasting reports about the severe **lockdown** at **ground zero** of the pandemic.
 
@@ -1010,7 +805,7 @@ indictment ~ noun ~ a formal statement of accusing someone of something
 spell ~ noun ~ a period of time for which an activity or condition lasts continuously
 ```
 
-#### https://www.theguardian.com/world/2025/sep/22/kim-jong-un-nuclear-talks-fond-memories-donald-trump-meeting
+#### [Kim Jong-un open to nuclear talks with US, saying he has ‘fond memories’ of previous Trump meeting | North Korea | The Guardian](https://www.theguardian.com/world/2025/sep/22/kim-jong-un-nuclear-talks-fond-memories-donald-trump-meeting)
 
 But there would be key **caveats**, Kim added, including Washington dropping “the absurd **obsession** with denuclearising us and accepts reality, and wants genuine peaceful coexistence”.
 
@@ -1030,7 +825,7 @@ feasible ~ adjective ~ able to be made, done, or achieved
 piecemeal ~ noun ~ not done according to a plan but done at different times in different ways
 ```
 
-#### https://www.theguardian.com/world/2025/sep/22/uk-and-poland-vow-to-confront-russian-aircraft-violating-nato-airspace
+#### [UK and Poland vow to confront Russian aircraft violating Nato airspace | Russia | The Guardian](https://www.theguardian.com/world/2025/sep/22/uk-and-poland-vow-to-confront-russian-aircraft-violating-nato-airspace)
 
 He added: “Russia’s neighbours, not **unreasonably**, fear they could be next.”
 
@@ -1052,7 +847,7 @@ overture ~ noun ~ a communication made to someone in order to offer something
 faltering ~ adjective ~ losing strength or purpose and stopping, or almost stopping
 ```
 
-#### https://www.theguardian.com/world/2025/sep/22/disruption-across-italy-as-tens-of-thousands-protest-against-gaza-war
+#### [Disruption across Italy as tens of thousands protest against Gaza war | Italy | The Guardian](https://www.theguardian.com/world/2025/sep/22/disruption-across-italy-as-tens-of-thousands-protest-against-gaza-war)
 
 The prime minister, Giorgia Meloni, has previously said it could be **counterproductive** to recognise the state of Palestine before it was established.
 

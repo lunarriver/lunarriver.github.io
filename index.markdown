@@ -12,4 +12,10 @@ layout: home
   .rss-subscribe {
     display: none;
   }
+
+  pre code {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
 </style>
