@@ -890,3 +890,109 @@ foster ~ verb ~ to encourage the development or growth of ideas or feelings
 
 downplay ~ verb ~ to make something seem less important or less bad than it really is
 ```
+
+#### https://www.theguardian.com/world/2025/sep/24/super-typhoon-ragasa-update-path-hong-kong-taiwan-china
+
+The outer **rim** of Super Typhoon Ragasa has been bearing down on Taiwan since Monday as its path moves down towards the southern Chinese coast.
+
+The barrier lake, formed by landslides triggered by earlier heavy rain in Taiwan’s east, burst its banks mid-afternoon on Tuesday, unleashing a wall of water into the Guangfu **township**.
+
+Ragasa had already toppled trees, torn the roofs off buildings and killed at least two people while **ripping** through the northern Philippines, where thousands sought shelter in schools and evacuation centres.
+
+An AFP reporter saw waves nearly five metres high smash into the seaside **promenade** of Hong Kong’s Heng Fa Chuen residential district around nightfall.
+
+Ragasa – named after the Filipino word for rapid motion – is expected to make **landfall** in the central and western coastal areas of Guangdong within 24 hours, the province’s emergency management bureau said on Tuesday morning.
+
+```
+rim ~ noun ~ the outer, often curved or circular, edge of something
+
+township ~ noun ~ in the US and Canada, a unit of local government consisting of a town and the area surrounding it
+
+rip ~ verb ~ to pull apart; to tear or be torn violently and quickly
+
+promenade ~ noun ~ a path for walking on, especially one built next to the sea
+
+landfall ~ noun ~ the first land that is reached or seen at the end of a journey across the sea or through the air, or the fact of arriving there
+```
+
+#### https://www.theguardian.com/world/2025/sep/23/hungary-refuses-to-stop-buying-russian-oil-despite-trumps-nato-demand
+
+Hungary will not **wean** itself off Russian energy supplies, the country’s foreign minister has told the Guardian, despite the White House’s demand for Nato allies to stop buying Russian oil.
+
+Some allies questioned whether he is serious about wanting to increase pressure on Vladimir Putin or merely passing the **buck** to Europe.
+
+Bloomberg reported that the EU is considering trade restrictions that could reduce or halt deliveries of oil through the pipeline, and that they could be introduced without unanimous consent, allowing other European countries to **outvote** Budapest and Bratislava.
+
+“I hope and expect them to **step up to the plate** soon to help us end this bloodbath.”
+
+Asked about European pressure on Monday, Szijjártó called western European officials “**fanatics**” and said it was “totally impossible to carry out a fact-based, rational dialogue based on common sense”.
+
+But while relations with Brussels remain fraught, the relationship with the US has improved significantly, he added, saying that Hungary was the “only European government **crossing fingers** for Trump’s victory”.
+
+```
+wean ~ verb ~ to cause a baby or young animal to stop feeding on its mother's milk and to start eating other food, especially solid food, instead
+
+buck ~ noun ~ used in some expressions to refer to the responsibility or blame for sth
+
+outvote ~ verb ~ to defeat someone by winning a greater number of votes
+
+fanatic ~ noun ~ a person who has very extreme beliefs that may lead them to behave in unreasonable or violent ways
+```
+
+#### https://www.theguardian.com/world/2025/sep/23/british-officials-fear-donald-trump-could-recognise-israeli-west-bank-settlements
+
+Trump made **passing** reference to Palestinian recognition during a **fiery** speech at the UN on Tuesday, saying: “This would be a reward for these horrible atrocities, including October 7.”
+
+That move would **render** impossible a single Palestinian state covering the West Bank and Gaza.
+
+Starmer spent much of his bilateral meeting with Trump last week explaining the reasons for recognising Palestine, and British officials were delighted when the US president appeared **sanguine** about the prospect in their joint press conference.
+
+Under the Blair plan, which one British government source called “**the only game in town**”, Gaza would be governed by a UN-backed international transitional authority, without needing to expel Palestinians from the territory.
+
+With Trump’s **blessing**, the UAE signed the accords in 2020 after Israel agreed to drop a proposal to annex parts of the West Bank.
+
+```
+passing ~ ajective ~ lasting only for a short time and not important or complete
+
+fiery ~ adjective ~ showing very strong feeling
+
+render ~ verb ~ to cause someone or something to be in a particular state
+
+sanguine ~ adjective ~ (of someone or someone's character) positive and hoping for good things
+
+bless ~ verb ~ agree
+```
+
+#### https://www.theguardian.com/world/2025/sep/23/rodrigo-duterte-charged-crimes-against-humanity-icc-philippines-ntwnfb
+
+The prosecutors accuse Duterte of designing and **disseminating** a policy to “**neutralise**” alleged criminals during his term as the mayor of Davao City, in the southern Philippines, and later during his term as president, alleging he **inducted** **hitmen** to a death squad and provided weapons, incentives and immunity for killings.
+
+They allege: “The attack included thousands of killings, which were **perpetrated** consistently throughout the charged period.”
+
+The third charge concerns 43 murders committed during “clearance” operations of lower-level alleged drug users or dealers, according to court documents, significant portions of which are **redacted**.
+
+As the mayor, Duterte personally inducted hitmen into an infamous group known as the Davao death squad, and “**christened**” this group by **spraying** its members with a bottle of wine and distributing guns from a basket to each, it is alleged.
+
+His lawyer, Nicholas Kaufman, has called for all legal proceedings to be **adjourned** indefinitely, saying Duterte is not fit to stand trial due to “cognitive **impairment** in multiple domains”.
+
+```
+disseminate ~ verb ~ to spread or give out something, especially news, information, ideas, etc., to a lot of people
+
+neutralise ~ verb ~ to stop something or someone from having an effect
+
+induct ~ verb ~ to introduce someone formally or with a special ceremony to an organization or group, or to beliefs or ideas
+
+hitman ~ noun ~ a man who is paid to murder someone
+
+perpetrate ~ verb ~ to commit a crime or a violent or harmful act
+
+redact ~ verb ~ to remove words or information from a text before it is printed or made available to the public
+
+christen ~ verb ~ to give a baby a name at a Christian ceremony and make him or her a member of the Christian Church
+
+spray ~ verb ~ to spread liquid in small drops over an area
+
+adjourn ~ verb ~ to have a pause or rest during a formal meeting or trial
+
+impairment ~ noun ~ the act of spoiling something or making it weaker so that it is less effective
+```
