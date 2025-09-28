@@ -1252,3 +1252,79 @@ voluntary ~ noun ~ done, made, or given willingly, without being forced or paid 
 
 conference ~ noun ~ an event, sometimes lasting a few days, at which there is a group of talks on a particular subject, or a meeting in which especially business matters are discussed formally
 ```
+
+#### https://www.theguardian.com/world/2025/sep/27/putin-preparing-to-attack-another-european-country-zelenskyy-says
+
+Trump also said Russia’s economy was in big trouble and described its military as a “paper tiger”. Asked to explain this apparent warmer tone towards Ukraine, Zelenskyy said he had briefed Trump about the realities on the battlefield. He told him Russia’s advances were often **fleeting**: “It’s not success. It’s temporary presence.”
+
+The US president now had greater “faith” in Ukraine and has discovered that Russia treated him and everyone else with “disrespect”, Zelenskyy said. He declined to comment on reports that he had asked the White House for US **Tomahawk** cruise missiles capable of striking Moscow, saying: “It’s a sensitive issue.”
+
+```
+fleet ~ adjective ~ able to run quickly
+
+tomahawk ~ noun ~ a small fighting axe used by Native Americans
+```
+
+#### https://www.theguardian.com/world/2025/sep/27/denmark-new-drone-sightings-biggest-military-base
+
+Nato said it would “conduct even more enhanced **vigilance** with new multi-domain assets in the Baltic Sea region”, according to a statement emailed to Reuters, adding that the new assets included “intelligence, surveillance and reconnaissance platforms and at least one air-defence **frigate**”.
+
+At least two drones flew “for around an hour” in a restricted area close to Orland, the main base for Norway’s F-35 fighter jets and a key Nato base. “They were not **engaged** by us,” he said.
+
+Moscow has denied breaching Nato’s airspace, calling the EU’s reaction a “**hysteria**” on Wednesday.
+
+```
+vigilance ~ noun ~ more careful attention, especially in order to notice possible danger
+
+frigate ~ noun ~ a small, fast military ship
+
+engage ~ verb ~ to attack or begin to fight someone
+
+hysteria ~ noun ~ extreme fear, excitement, anger, etc. that cannot be controlled
+```
+
+#### https://www.theguardian.com/world/2025/sep/26/argentina-drug-traffickers-livestream-killing-women
+
+The murder of two young Argentinian women and a girl whose torture by suspected drug traffickers was livestreamed on a private Instagram group has sent shock waves through a country unused to such extreme levels of **narco** violence.
+
+Investigators believe the drug traffickers planned the murders as punishment and revenge, after one of the victims stole a package of cocaine from one of the dealers, the alleged leader of a criminal group in a **marginalized** neighbourhood known as Villa 1-11-14.
+
+They say these groups take advantage of rising poverty as well as cuts in public services under the far-right president, Javier Milei, to recruit young people who are struggling to **make ends meet**.
+
+“We are seeing that large areas have been left at the mercy of small- and large-scale drug **mafias**, which infiltrated and ended up dominating the lives and **consciousness** of our people, especially children and young people, instilling a true culture of **delinquency** and criminality,” the Catholic diocese of San Justo, where the victims lived, said in a press release.
+
+```
+narco ~ noun ~ 
+
+marginalize ~ verb ~ to treat someone or something as if they are not important
+
+mafia ~ noun ~ a criminal organization that began in Sicily and is active in Italy and the US
+
+consciousness ~ noun ~ the state of understanding and realizing something
+
+delinquency ~ noun ~ behaviour, especially of a young person, that is illegal or not acceptable to most people
+```
+
+#### https://www.theguardian.com/world/2025/sep/27/israeli-strikes-kill-people-gaza-city-attack
+
+He added that 14 **premature** babies were treated in **incubators** in Helou hospital, though its head of **neonatal** intensive care, Dr. Nasser Bulbul, said the facility’s main gate had been closed because of drones flying over the building.
+
+Dozens of delegates staged a **walkout** as he took to the **podium**, while protesters against Israel’s war gathered outside.
+
+“We have been left with no choice but to stop our activities as our clinics are encircled by Israeli forces,” said Jacob Granger, the **charity**’s emergency coordinator in Gaza. “This is the last thing we wanted, as the needs in Gaza City are enormous, with the most at-risk people – **infants** in neonatal care, people with severe injuries and life-threatening illnesses – unable to move and in grave danger.”
+
+```
+premature ~ adjective ~ happening or done too soon, especially before the natural or suitable time
+
+incubator ~ noun ~ a container that has controlled air and temperature conditions in which a weak or premature baby (= one which was born too early) can be kept alive
+
+neonatal ~ adjective ~ of or for babies that were born recently
+
+walkout ~ noun ~ the act of leaving an official meeting as a group in order to show disapproval, or of leaving a place of work to start a strike
+
+podium ~ noun ~ a raised area on which a person stands to speak to a large number of people, to conduct music, or to receive a prize in a sports competition
+
+charity ~ noun ~ help, especially in the form of money, given freely to people who are in need, for example because they are ill, poor, or have no home, and organizations that provide this help
+
+infant ~ noun ~ a baby or a very young child
+```
