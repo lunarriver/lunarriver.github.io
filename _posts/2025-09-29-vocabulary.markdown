@@ -17,17 +17,78 @@ date:   2025-09-29 16:34:00 +0800
 
 #### A
 
-accident/ incident / accidental / incidental
+accident / accidental / incident / incidental
+
+```
+accident ~ noun ~ something bad that happens that is not expected or intended and that often damages something or injures someone 意外；不测；事故
+
+accidental ~ adjective ~ happening or existing by chance 偶然的；意外的
+
+incident
+    ~ noun ~ an event that is either unpleasant or unusual （不愉快或不寻常的）事件
+    ~ adjective ~ touching or hitting the surface of something 入射的
+
+incidental ~ adjective ~ less important than the thing something is connected with or part of 次要的；附带的；伴随的
+```
 
 administration / authority
 
+```
+administration
+    ~ noun ~ the arrangements and tasks needed to control the operation of a plan or organization 管理；经营；行政
+    ~ noun ~ the people in an organization who manage its business and operations （企业、机关等的）管理人员;行政人员;管理部门
+    ~ noun ~ a period of government, or the people who are in government 一届政府或政府人员（如总统及其内阁）
+
+authority
+    ~ noun ~ the moral or legal right or ability to control 威信；权力；管辖权
+    ~ noun ~ a group of people with official responsibility for a particular area of activity 当局；官方；当权者
+    ~ noun ~ an expert on a subject 权威人士;专家;泰斗
+```
+
 aim / amid
+
+```
+aim
+    ~ noun ~ a result that your plans or actions are intended to achieve 目标，目的；意图
+    ~ noun ~ the act of pointing a weapon towards something 瞄准，对准
+    ~ verb ~ to intend 打算，计划;想要
+    ~ verb ~ to point or direct a weapon towards someone or something that you want to hit （使）瞄准，（使）对准
+
+amid ~ preposition ~ in the middle of or surrounded by 在…中间，在…当中;为…环绕
+```
 
 assemble / resemble
 
+```
+assemble
+    ~ verb ~ to come together in a single place or bring parts together in a single group 集合，聚集;收集
+    ~ verb ~ to make something by joining separate parts 组装；装配
+
+resemble ~ verb ~ to look like or be like someone or something 像；看起来像；与…相似
+```
+
 attitude / altitude / attribute
 
+```
+attitude
+    ~ noun ~ a feeling or opinion about something or someone, or a way of behaving that is caused by this 心态;看法;态度
+    ~ noun ~ If you say that someone has attitude, you mean that they are very confident and want people to notice them. 自信
+    ~ noun ~ a position of the body 姿态，姿势
+
+altitude ~ noun ~ height above sea level 海拔，海拔高度
+
+attribute ~ noun ~ a quality or characteristic that someone or something has 特性；特质；属性
+```
+
 aware / wary
+
+```
+aware
+    ~ adjective ~ knowing that something exists, or having knowledge or experience of a particular thing 意识到的;明白的;知道的
+    ~ adjective ~ having special interest in or experience of something and so knowing what is happening in that subject at the present time 有…意识的;有…觉悟的;有…知识的
+
+wary ~ adjective ~ not completely trusting or certain about something or someone 谨慎的；小心翼翼的
+```
 
 #### B
 
