@@ -1155,33 +1155,192 @@ portray ~ verb ~ to represent or describe someone or something in a painting, fi
 
 proficient / inefficient / sufficient / effective
 
+```
+proficient ~ adj ~ skilled and experienced 熟练的；精通的
+
+inefficient ~ adj ~ not organized, skilled, or able to work in a satisfactory way 低效率的；能力差的
+
+sufficient ~ adj ~ enough for a particular purpose 足够的，充足的
+
+effective
+    ~ adj ~ successful or achieving the results that you want 能产生预期结果的；有效的
+    ~ adj ~ in fact, although not officially 实际上的；事实上的
+    ~ adj ~ If a law or rule becomes effective, it starts to be used. （法律法规）生效的
+```
+
 propel / expel / compel
+
+```
+propel ~ verb ~ to push or move something somewhere, often with a lot of force 推进，推动
+
+expel
+    ~ verb ~ to force someone to leave a school, organization, or country 驱逐;除名;开除
+    ~ verb ~ to force air or liquid out of something 排出;喷出
+
+compel
+    ~ verb ~ to force someone to do something 强迫；逼迫；迫使
+    ~ verb ~ to produce a strong feeling or reaction （有时指并非所愿地）激起，引发
+```
 
 prosecute / persecute
 
+```
+prosecute
+    ~ verb ~ to officially accuse someone of committing a crime in a law court, or (of a lawyer) to try to prove that a person accused of committing a crime is guilty of that crime 起诉;检举
+    ~ verb ~ to continue to take part in a planned group of activities, especially a war 把…进行到底，继续参与（尤指战争）
+
+persecute ~ verb ~ to treat someone unfairly or cruelly over a long period of time because of their race, religion, or political beliefs, or to annoy someone by refusing to leave them alone （因种族、宗教、政治信仰）迫害;虐待;烦扰，纠缠
+```
+
 poise / pose / impose / imposition / oppose
+
+```
+poise ~ noun ~ calm confidence in a person's way of behaving, or a quality of grace (= moving in an attractive way) and balance in the way a person holds or moves their body 沉着，泰然自若；平衡
+
+pose
+    ~ verb ~ to cause something, especially a problem or difficulty 造成，引起（尤指问题或困难）
+    ~ verb ~ to ask a question, especially in a formal situation such as a meeting （尤指在正式场合）提出（问题），质询
+    ~ verb ~ to move into and stay in a particular position, in order to be photographed, painted, etc. 摆好姿势（拍照）
+
+impose
+    ~ verb ~ to officially force a rule, tax, punishment, etc. to be obeyed or received 推行；强制实行
+    ~ verb ~ to force someone to accept something, especially a belief or way of living 把（尤指信仰或生活方式）强加于
+    ~ verb ~ to expect someone to do something for you or spend time with you when they do not want to or when it is not convenient for them 勉强;打扰，麻烦
+
+imposition
+    ~ noun ~ a situation in which someone expects another person to do something that they do not want to do or that is not convenient 勉强；打扰，麻烦
+    ~ noun ~ the introduction of a new law or system （新法律或体系的）实施
+
+oppose ~ verb ~ to disagree with something or someone, often by speaking or fighting against it, him, or her 反对;反抗;抵制
+```
 
 #### Q
 
 quantitative / quantity / quality / qualitative
 
+```
+quantitative ~ adj ~ relating to numbers or amounts 定量的
+
+quantity ~ noun ~ the amount or number of something, especially that can be measured （尤指可测量或确定的）量，数量，分量
+
+quality
+    ~ noun ~ how good or bad something is 质量，品级
+    ~ noun ~ a high standard 优质
+    ~ noun ~ a characteristic or feature of someone or something 品质；特性
+    ~ adj ~ of a high standard 优质的，优良的，高级的
+    ~ adj ~ very good 很好的
+
+qualitative
+    ~ adj ~ relating to how good or bad something is 质量的；性质的
+    ~ adj ~ relating to what something or someone is like 质的，性质上的
+```
+
 #### R
 
 rage / outrage / fury
 
+```
+rage
+    ~ noun ~ (a period of) extreme or violent anger （一阵）盛怒；（一阵）狂怒；（一阵）暴怒
+    ~ noun ~ an exciting or entertaining event involving a lot of activity 热闹的活动
+    ~ verb ~ to speak very angrily to someone 怒斥;发怒，发脾气
+    ~ verb ~ to happen in a strong or violent way 激烈进行；猛烈发作；肆虐
+    ~ -rage ~ used to refer to situations where people become extremely angry or violent （描述人们发怒、狂暴的情景，如 road-rage）
+
+outrage
+    ~ noun ~ a feeling of anger and shock 愤慨，义愤
+    ~ noun ~ a shocking, morally unacceptable, and usually violent action 暴行;（道义上）难以接受的事情;骇人听闻的行为
+    ~ verb ~ (especially of an unfair action or statement) to cause someone to feel very angry, shocked, or upset （尤指不公平的行为或言论）使感到义愤，使愤慨，激怒
+
+fury ~ noun ~ extreme anger 暴怒，狂怒
+```
+
 rainfall / waterfall
+
+```
+rainfall ~ noun ~ rain, or the amount of rain that falls 下雨，降雨;（降）雨量
+
+waterfall ~ noun ~ water, especially from a river or stream, dropping from a higher to a lower point, sometimes from a great height 瀑布
+```
 
 recede / recession / concede / concession
 
+```
+recede ~ verb ~ to move further away into the distance, or to become less clear or less bright 逐渐远离；变得模糊，逐渐淡漠
+
+recession ~ noun ~ a period when the economy of a country is not successful and conditions for business are bad （经济）衰退期
+
+concede
+    ~ verb ~ to admit, often unwillingly, that something is true （常指不情愿地）承认
+    ~ verb ~ to admit that you have lost in a competition 认输;承认（失败）
+    ~ verb ~ to allow someone to have something, even if you do not want to （不情愿地）让步，答应给，让与
+
+concession
+    ~ noun ~ something that is allowed or given up, often in order to end a disagreement, or the act of allowing or giving this （常指为结束争端而作出的）认可，让与，让步，妥协
+    ~ noun ~ the act of admitting defeat 认输
+    ~ noun ~ a reduction in the usual price of something, made available to students, old people, etc. （对学生、老少或失业人群的）价格优惠，减价
+    ~ noun ~ a special right to property or land （财产、土地等的）特许权;许可使用权
+```
+
 refuge / refugee
+
+```
+refuge ~ noun ~ (a place that gives) protection or shelter from danger, trouble, unhappiness, etc. 避难（所）;庇护（所）;慰藉
+
+refugee ~ noun ~ a person who has escaped from their own country for political, religious, or economic reasons or because of a war 难民;避难者;逃亡者
+```
 
 regressive / aggressive
 
+```
+regressive ~ adj ~ (of tax) lower on large amounts of money, so that the rich are less affected （税收）递减的（对富人的影响比对穷人的小）
+
+aggressive
+    ~ adj ~ showing anger and a willingness to attack other people 好斗的;富于攻击性的;挑衅的
+    ~ adj ~ determined to win or succeed and using forceful action to do this 积极进取的；有冲劲的；雄心勃勃的
+    ~ adj ~ An aggressive condition is one that is serious and quickly spreads in the body or gets worse. （疾病）恶性的
+    ~ adj ~ Aggressive treatment is strong treatment that could itself cause harm, used when someone has a serious condition. （对恶性病）积极治疗的
+```
+
 reliability / reliable / reliant
+
+```
+reliability ~ noun ~ the quality of being able to be trusted or believed because of working or behaving well 可靠性，可信度
+
+reliable ~ adj ~ Someone or something that is reliable can be trusted or believed because he, she, or it works or behaves well in the way you expect. 可信赖的;可靠的;真实可信的
+
+reliant ~ adj ~ needing a particular thing or person in order to continue, to work correctly, or to succeed 依赖的，依靠的
+```
 
 renounce / denounce / announce
 
+```
+renounce ~ verb ~ to say formally or publicly that you no longer own, support, believe in, or have a connection with something 声明放弃;宣布放弃;弃绝
+
+denounce
+    ~ verb ~ to criticize something or someone strongly and publicly （公开）谴责，痛斥
+    ~ verb ~ to accuse someone publicly of being something that is bad or wrong 检举;告发
+
+announce
+    ~ verb ~ to make something known or tell people about something officially （尤指公开地）宣布，宣告，通告
+    ~ verb ~ to show that something is going to happen 作为…的迹象;显示
+```
+
 rift / friction / fiction
+
+```
+rift
+    ~ noun ~ a large crack in the ground or in rock （地面或岩石上的）裂缝，裂口
+    ~ noun ~ a serious disagreement that separates two people who have been friends and stops their friendship continuing （人际关系的）裂痕；分歧，不和
+
+friction
+    ~ noun ~ the force that makes it difficult for one object to slide along the surface of another or to move through a liquid or gas 摩擦力;摩擦
+    ~ noun ~ disagreement or unfriendliness caused by people having different opinions （观点不同者之间的）摩擦，不和
+
+fiction
+    ~ noun ~ the type of book or story that is written about imaginary characters and events and not based on real people and facts 小说
+    ~ noun ~ a false report or statement that you pretend is true 虚构的事;谎言
+```
 
 #### S
 
