@@ -1346,60 +1346,424 @@ fiction
 
 savage / fierce
 
+```
+savage
+    ~ adj ~ extremely violent, wild, or frightening 凶残的;凶猛的;野性的
+    ~ adj ~ very serious or cruel 无情的，冷酷的
+    ~ adj ~ very large and severe 巨大的；严重的
+    ~ verb ~ If an animal savages someone, it attacks them violently and causes serious injuries. （动物）凶猛地攻击，撕咬
+    ~ noun ~ a person whose way of life is at a very early stage of development 野蛮人;未开化的人
+
+fierce
+    ~ adj ~ physically violent and frightening 猛烈的;激烈的;骇人的
+    ~ adj ~ strong and powerful 狂暴的
+    ~ adj ~ showing strong feeling or energetic activity 强烈的;狂热的
+    ~ adj ~ difficult 困难的    
+```
+
 scarce / sacred
 
-scenario / scene
+```
+scarce
+    ~ adj ~ not easy to find or get 难得的，稀有的，罕见的
+    ~ adv ~ almost not 几乎没有
 
-severe / serve / sever / severed
+sacred
+    ~ adj ~ considered to be holy and deserving respect, especially because of a connection with a god （尤指因与神有关而）神圣的，值得崇敬的
+    ~ adj ~ connected with religion 与宗教有关的，宗教性的
+    ~ adj ~ considered too important to be changed 不容改变的，不可侵犯的
+```
+
+scenario / scene / spot
+
+```
+scenario
+    ~ noun ~ a description of possible actions or events in the future 可能发生的事态;设想
+    ~ noun ~ a written plan of the characters and events in a play or film 剧本提纲;剧情梗概;电影脚本
+
+scene
+    ~ noun ~ a part of a play or film in which the action stays in one place for a continuous period of time 场景，场面;镜头
+    ~ noun ~ a view or picture of a place, event, or activity 情景，场景，场面
+    ~ noun ~ a place where an unpleasant event has happened （不愉快事件发生的）现场，地点
+
+spot
+    ~ noun ~ a small, usually round area of colour that is differently coloured or lighter or darker than the surface around it 点;斑点;圆点
+    ~ noun ~ a small amount 少量;一点儿
+    ~ noun ~ a particular place 地点；场所
+```
+
+severe / serve / sever 
+
+```
+severe
+    ~ adj ~ causing very great pain, difficulty, worry, damage, etc.; very serious 非常严重的；剧烈的；惨重的
+    ~ adj ~ extreme or very difficult 极度的；非常困难的
+    ~ adj ~ not kind or showing sympathy; not willing to accept other people's mistakes or failures 不和善的;冷酷的;严厉的;苛刻的
+    ~ adj ~ completely plain and without decoration 不加装饰的，朴素的，简朴的
+
+serve
+    ~ verb ~ to provide food or drinks 提供（食物或饮料）
+    ~ verb ~ to work for; to do your duty to （为…）工作;（为…）服务;尽职责
+    ~ verb ~ to help achieve something or to be useful as something 有助于实现；（对…）有用
+    ~ verb ~ to spend a period of time doing something花费，度过（一段时间）
+    ~ verb ~ in sports such as tennis, to hit the ball to the other player as a way of starting the game （在网球等体育运动中）发（球）
+    ~ verb ~ to give a legal document to someone, demanding that they go to a law court or that they obey an order 将…正式送达
+
+sever(过去式 severed)
+    ~ verb ~ to break or separate, especially by cutting 弄断；分开；（尤指）切断，割断
+    ~ verb ~ to end a connection with someone or something 中断，断绝（联系）
+```
 
 slap / slam
 
-soar / solar
+```
+slap
+    ~ noun ~ a quick hit with the flat part of the hand or other flat object 拍，掴;掌击
+    ~ noun ~ 化妆品（同 make-up）
+    ~ adv ~ directly or right 径直；正好，恰好
+    ~ verb ~ to hit someone or something with the flat part of the hand or other flat object 拍，打;掌掴
 
-sow / mow / vow / plow / scatter
+slam
+    ~ verb ~ to (cause to) move against a hard surface with force and usually a loud noise （使）重重撞上，（使）砰地关上
+    ~ verb ~ to criticize 批评，抨击
+    ~ noun ~ a sudden loud noise 突然发出的巨大声响
+    ~ noun ~ in some sports, especially tennis, one of the events that are part of a grand slam （体育）大满贯系列赛事中的一项
+```
+
+sow / mow / vow / plow(plough) / scatter
+
+```
+sow
+    ~ verb ~ to put seeds in or on the ground so that plants will grow 播种，种
+    ~ verb ~ to cause a bad emotion or condition to begin somewhere so that it will grow or continue 引起，导致;煽动
+    ~ noun ~ an adult female pig 母猪
+
+mow ~ verb ~ to cut plants, such as grass or wheat, that have long, thin stems and grow close together 刈，割（草、谷类植物等）
+
+vow
+    ~ verb ~ to make a determined decision or promise to do something 发誓，立誓
+    ~ noun ~ a serious promise or decision 誓言;誓约
+
+plow(plough)
+    ~ noun ~ a large farming tool with blades that digs the soil in fields so that seeds can be planted 犁
+    ~ verb ~ to dig land with a plough 耕，犁
+    ~ noun ~ a group of seven bright stars that can only be seen in the northern part of the world 北斗七星
+
+scatter
+    ~ verb ~ to (cause to) move far apart in different directions 散开，分散;使分散，驱散
+    ~ verb ~ to cover a surface with things that are far apart and in no particular arrangement 撒，撒播，撒于…上
+```
 
 spark / stark
 
+```
+spark
+    ~ noun ~ a very small piece of fire that flies out from something that is burning, or one that is made by rubbing two hard things together, or a flash of light made by electricity 火花，火星;电火花
+    ~ noun ~ a first small event or problem that causes a much worse situation to develop 导火线，诱因
+    ~ noun ~ a feeling or quality that causes excitement 愤怒／灵感／生命的火花（等等）
+    ~ verb ~ to cause the start of something, especially an argument or fighting 引起，导致，触发（尤指争论或打斗）
+
+stark
+    ~ adj ~ empty, simple, or obvious, especially without decoration or anything that is not necessary 裸露的；简单的；明显的；（尤指）毫无修饰的，粗陋的；严重的；极端的
+    ~ adv ~ completely or extremely 完全地;极端地
+```
+
 speculate / spectacular
+
+```
+speculate
+    ~ verb ~ to guess possible answers to a question when you do not have enough information to be certain 猜测；推测，推断
+    ~ verb ~ to buy and sell in the hope that the value of what you buy will increase and that it can then be sold at a higher price in order to make a profit 投机，做投机买卖
+
+spectacular
+    ~ adj ~ very exciting to look at 壮观的，壮丽的;令人惊叹的
+    ~ adj ~ especially great 非常大的，巨大的;惊人的
+    ~ noun ~ an event or performance that is very exciting to watch and involves a lot of people 壮观场面;盛大演出
+```
 
 spill / spillover
 
-stain / strain
+```
+spill
+    ~ verb ~ to (cause to) flow, move, fall, or spread over the edge or outside the limits of something （使）洒出;（使）流出;（使）溅出;（使）涌出
+    ~ noun ~ an amount of something that has come out of a container 洒出量;溢出量
+    ~ noun ~ an occasion when someone is removed from a position of power in a party or government and replaced 撤职;（政治上因重要人事变动而出现的）职位空缺
+
+spillover
+    ~ noun ~ an amount of liquid that has become too much for the object that contains it and flows or spreads out （液体）溢出部分，溢出量
+    ~ noun ~ the effects of an activity that have spread further than was originally intended （非预期的）影响
+```
+
+stain / strain / sustain / contain / retain
+
+```
+stain
+    ~ verb ~ to leave a mark on something that is difficult to remove 沾污，染污;留下污迹
+    ~ verb ~ to change the colour of something using a chemical 给…染色;给…着色
+    ~ verb ~ to permanently spoil something such as someone's reputation 败坏，玷污（名声等）
+    ~ noun ~ a dirty mark on something that is difficult to remove 污渍;污点
+
+strain
+    ~ noun ~ a force or influence that stretches, pulls, or puts pressure on something, sometimes causing damage 压力;拉力，张力;作用力
+    ~ noun ~ an injury to a muscle or similar soft part of the body caused by using that part too much （肌肉等软组织的）损伤，拉伤，扭伤
+    ~ noun ~ something that makes you feel nervous and worried 压力；紧张
+    ~ noun ~ a particular type or quality 类型；品质；个性特点，禀性
+    ~ verb ~ to separate liquid food from solid food, especially by pouring it through a utensil with small holes in it 滤，过滤（食物）
+    ~ verb ~ to become stretched or to experience pressure, or to make something do or experience this （使）紧张，（使）承受压力；拉紧，绷紧；损伤
+    ~ verb ~ to cause too much of something to be used, especially money （尤指金钱）过多使用
+
+sustain
+    ~ verb ~ to cause or allow something to continue for a period of time 保持，维持，使持续，使继续
+    ~ verb ~ to keep alive 维持…的生命，供养
+    ~ verb ~ to suffer or experience, especially damage or loss 经历，遭受（尤指破坏或损失）
+    ~ verb ~ to support emotionally （情感上）支持
+
+contain
+    ~ verb ~ to have something inside or include something as a part 包含；容纳；盛
+    ~ verb ~ to keep something harmful within limits and not allow it to spread 控制，遏制，制止（有害物蔓延）
+    ~ verb ~ to control or hide a strong emotion, such as excitement or anger 克制，抑制，控制（情绪）
+
+retain
+    ~ verb ~ to keep or continue to have something 保持;保留;保有
+    ~ verb ~ If a substance retains something, such as heat or water, it continues to hold or contain it. 保存;留住;容纳
+```
 
 stall / install
 
+```
+stall
+    ~ noun ~ a large table or a small shop with an open front from which goods are sold in a public place 货摊，摊位；售货亭
+    ~ noun ~ a small closed area within a farm building in which there is space for one animal to be kept （农场建筑中圈养单只牲畜的）隔栏，分隔间
+    ~ noun ~ rows of fixed seats in a church, often with the sides and backs connected （边缘和背部常围起来的）靠背长凳座位
+    ~ verb ~ If an engine stalls, or if you stall it, it stops working suddenly and without you intending it to happen. （使）（发动机）熄火
+    ~ verb ~ to stop making progress 停止进展
+    ~ verb ~ If you stall an event, you delay it or prevent it from making progress. 推迟，暂缓;搁置
+
+install
+    ~ verb ~ to put furniture, a machine, or a piece of equipment into position and make it ready to use 安装
+    ~ verb ~ to put someone in an important job or position 正式任命，使正式就职
+```
+
 stand / stance
 
-stimulus / stipulus
+```
+stand
+    ~ verb ~ to be in a vertical state or to put into a vertical state, especially (of a person or animal) by making the legs straight （使）直立；（使）站立；竖放；（尤指）站起来
+    ~ verb ~ to be in, cause to be in, or get into a particular state or situation （使）处于，进入（特定状态或境况）
+    ~ verb ~ to successfully accept or bear something that is unpleasant or difficult 承受住，经受住
+    ~ noun ~ a large structure at a sports ground, usually with a sloping floor and sometimes a roof, where people either stand or sit to watch a sports event 看台
+    ~ noun ~ an opinion, especially one that is public （尤指公开的）观点，立场，态度
 
-strive / thrive
+stance
+    ~ noun ~ a way of thinking about something, especially expressed in a publicly stated opinion （尤指公开表明的）观点，立场
+    ~ noun ~ a particular way of standing 站立姿势
+```
+
+stimulus / stipulate
+
+```
+stimulus ~ noun ~ something that causes growth or activity 刺激（物），激励（物）；促进因素
+
+stipulate ~ verb ~ to say exactly how something must be or must be done 规定，约定;明确说明
+```
+
+strive / thrive / struggle
+
+```
+strive ~ verb ~ to try very hard to do something or to make something happen, especially for a long time or against difficulties
+（尤指长期或不畏艰难地）努力，奋斗，力争
+
+thrive ~ verb ~ to grow, develop, or be successful 茁壮成长；兴旺，繁荣
+
+struggle
+    ~ verb ~ to experience difficulty and make a very great effort in order to do something 奋斗，努力，拼搏
+    ~ verb ~ to be in danger of failing or being defeated 有失败的危险，苦苦挣扎
+    ~ verb ~ to fight, especially with your hands 打斗，争斗;（尤指）扭打
+    ~ noun ~ a very difficult task that you can do only by making a great effort （应对困难而需要的）挣扎;努力，奋斗
+    ~ noun ~ a physical or mental fight （身体上或精神上的）争斗;搏斗;斗争
+```
 
 subside / subsidy / subsidiary
 
+```
+subside
+    ~ verb ~ If a condition subsides, it becomes less strong or extreme. （状况）趋于平缓，平息
+    ~ verb ~ If a building, land, or water subsides, it goes down to a lower level. （建筑物、地面或水面）下沉，下陷，沉降
+
+subsidy ~ noun ~ money given as part of the cost of something, to help or encourage it to happen 补助金;津贴，补贴
+
+subsidiary
+    ~ adj ~ used to refer to something less important than something else with which it is connected 辅助的；次要的
+    ~ adj ~ a company that is owned by a larger company 子公司;附属公司
+```
+
 surge / purge
 
-suspect / prospect
+```
+surge
+    ~ noun ~ a sudden and great increase 陡增，剧增，急剧上升
+    ~ noun ~ a sudden and great movement forward 涌现，奔涌
+    ~ verb ~ to increase suddenly and strongly 激增，陡增，剧烈上升
+    ~ verb ~ to move quickly and powerfully 涌动，蜂拥向前
+    ~ verb ~ (of an emotion) to develop strongly and quickly （感情）涌起，涌现
 
-sustain / contain / retain
+purge
+    ~ verb ~ to get rid of people from an organization because you do not agree with them 清除，肃清（反对者）
+    ~ verb ~ to get rid of something unwanted, harmful, or evil 使涤罪；使洁净
+    ~ noun ~ the act of getting rid of people from an organization because you do not agree with them 清洗（从一个组织中清除持不同政见者的行动）
+```
+
+suspect / prospect / doubt
+
+```
+suspect
+    ~ verb ~ to think or believe something to be true or probable 怀疑，猜想，认为（某事有可能）
+    ~ verb ~ to think that someone has committed a crime or done something wrong 怀疑…有罪，认为…有嫌疑
+    ~ verb ~ to not trust; to doubt 不信任;怀疑
+    ~ noun ~ a person believed to have committed a crime or done something wrong, or something believed to have caused something bad 嫌疑犯，可疑分子
+    ~ adj ~ possibly false or dangerous 不可靠的，不可信的，可疑的；危险的
+
+prospect
+    ~ noun ~ the possibility that something good might happen in the future （发生好事情的）可能，可能性，机会
+    ~ noun ~ the idea of something that will or might happen in the future 前景；展望；设想
+    ~ noun ~ a good view of a large land area or of a city 景色，景观
+    ~ verb ~ to search for gold, oil, or other valuable substances on or under the surface of the earth 勘探
+
+doubt
+    ~ noun ~ (a feeling of) not being certain about something, especially about how good or true it is （尤指对好坏、真实性的）怀疑，疑虑，疑问
+    ~ verb ~ to not feel certain or confident about something or to think that something is not probable 怀疑;不确定，不肯定
+```
 
 #### T
 
 tense / dense / intense
 
+```
+tense
+    ~ noun ~ any of the forms of a verb which show the time at which an action happened （动词的）时态
+    ~ adj ~ nervous and worried and unable to relax 紧张的，焦虑的
+    ~ adj ~ If a situation is tense, it causes feelings of worry or nervousness. （局势）令人紧张的
+    ~ verb ~ If you or your muscles tense, your muscles become stiff and tight because you are frightened or nervous, or are preparing yourself to do something. （使）（身体或肌肉）绷紧，（使）变得僵直
+
+dense
+    ~ adj ~ having parts that are close together so that it is difficult to go or see through 浓的，浓密的；浓重的
+    ~ adj ~ stupid 蠢的，笨的
+    ~ adj ~ (of a substance) containing a lot of matter in a small space （物质）密度大的
+
+intense
+    ~ adj ~ extreme and forceful or (of a feeling) very strong 强烈的，极度的
+    ~ adj ~ Intense people are very serious, and usually have strong emotions or opinions. 认真的;热切的;有强烈情感的;尖锐的    
+```
+
 toll / enroll / tally / troll
 
+```
+toll
+    ~ noun ~ a small amount of money that you have to pay to use a road, cross a bridge, etc. （道路、桥梁等的）通行费
+    ~ noun ~ suffering, deaths, or damage 伤亡;损失;破坏
+    ~ verb ~ to (cause a large bell to) ring slowly and repeatedly （使）缓慢而反复地鸣响
+
+enroll ~ verb ~ to put yourself or someone else onto the official list of members of a course, college, or group （使）加入；注册；招（生）；吸收
+
+tally
+    ~ verb ~ to match or agree with something else 符合，吻合
+    ~ noun ~ a record or count of a number of things 计数；记录；比分
+
+troll
+    ~ noun ~ an imaginary, either very large or very small creature in traditional Scandinavian stories, that has magical powers and lives in mountains or caves （斯堪的纳维亚地区传说中的）山精，巨人，侏儒
+    ~ noun ~ someone who leaves an intentionally annoying or offensive message on the internet, in order to upset someone or to get attention or cause trouble （在互联网上为吸引别人关注或捣乱）故意留下激怒他人言论的人
+    ~ verb ~ to try to catch fish by pulling a baited line through the water behind a boat 曳绳钓鱼，拖钓（在船后于水中托曳一个带饵的鱼线以钓鱼）
+    ~ verb ~ to search among a large number or many different places in order to find people or information you want 搜寻，寻找
+    ~ verb ~ to leave an insulting or offensive message on the internet in order to upset someone, or to get attention or cause trouble （为激怒别人而在互联网上）留下侮辱性的言论
+```
+
 tour / tout / tutor
+
+```
+tour
+    ~ noun ~ a visit to a place or area, especially one during which you look around the place or area and learn about it 参观;游历，观光
+    ~ noun ~ a journey made for pleasure, especially as a holiday, visiting several different places in an area （尤指作为度假的）旅行，旅游
+    ~ noun ~ a planned visit to several places in a country or area made for a special purpose, such as one made by a politician, sports team, or group of performers （政治家、运动队、演出团体等的）巡视，巡回比赛，巡回演出
+    ~ verb ~ to go on a tour somewhere （到…）旅行，游历；（到…）巡回比赛，巡视
+    ~ verb ~ If a play tours a particular area, it is performed in several places there. 在…作巡回演出
+
+tout
+    ~ verb ~ to advertise, talk about, or praise something or someone repeatedly, especially as a way of encouraging people to like, accept, or buy something （尤指为了提高销售额、知名度或推动发展）给…做广告，宣传，赞扬，吹捧
+    ~ verb ~ to repeatedly try to persuade people to buy your goods or services 兜售；招徕
+    ~ verb ~ to sell tickets for something such as a sports game or theatre performance unofficially, usually at a much higher price than the official price （通常以高出官方价格很多的价格）倒卖，高价出售（体育比赛票、戏票等）
+    ~ noun ~ a person who touts tickets 票贩子，黄牛
+
+tutor
+    ~ noun ~ a teacher who teaches a child outside of school, especially in order to give the child extra help with a subject he or she finds difficult 家庭教师，私人教师
+    ~ noun ~ a teacher at a British college or university who teaches one student or a small group （英国大学或学院的）导师，教师
+```
 
 #### U
 
 undergo / cargo
 
+```
+undergo ~ verb ~ to experience something that is unpleasant or something that involves a change 经历，经受（令人不快的事或变化）
+
+cargo ~ noun ~ the goods carried by a ship, aircraft, or other large vehicle （轮船、飞机等大型交通工具装载的）货物
+```
+
 #### V
 
 venture / adventure / venue / revenue / avenue
 
+```
+venture
+    ~ noun ~ a new activity, usually in business, that involves risk or uncertainty （有风险的）企业;投机活动;商业冒险
+    ~ verb ~ to risk going somewhere or doing something that might be dangerous or unpleasant, or to risk saying something that might be criticized冒险去（或做）;冒昧地说
+
+adventure ~ noun ~ an unusual, exciting, and possibly dangerous activity, such as a trip or experience, or the excitement produced by such an activity 冒险，历险;奇遇;刺激
+
+venue ~ noun ~ the place where a public event or meeting happens （公共事件的）发生场所，举行地点；会场
+
+revenue ~ noun ~ the income that a government or company receives regularly （政府的）税收，岁入;（公司的）收益
+
+avenue
+    ~ noun ~ a wide road with trees or tall buildings on both sides, or a wide country path or road with trees on both sides （两边有树或高楼的）大街；（乡间宽阔的）林荫大道
+    ~ noun ~ a method or way of doing something 方法；途径；渠道
+```
+
 vulnerable / voluntary
+
+```
+vulnerable ~ adj ~ able to be easily physically or mentally hurt, influenced, or attacked 易受伤的；易受影响（或攻击）的；脆弱的
+
+voluntary
+    ~ adj ~ done, made, or given willingly, without being forced or paid to do it 自愿的；志愿的
+    ~ adj ~ A voluntary organization is controlled and supported by people who give their time and money to it without being paid, and that exists to help other people. （社会组织）志愿的，公益性的
+```
 
 #### W
 
 weep / sweep / swipe / wipe
+
+```
+weep
+    ~ verb ~ to cry tears 哭泣，流（泪）
+    ~ verb ~ (of an injury) to produce liquid such as pus （伤口）流出液体，渗出脓液
+
+sweep
+    ~ verb ~ to clean something, especially a floor by using a brush to collect the dirt into one place from which it can be removed 打扫，清扫，扫除
+    ~ verb ~ to move, especially quickly and powerfully （尤指快速有力地）移动，冲
+    ~ verb ~ to remove and/or take in a particular direction, especially in a fast and powerful way （尤指迅猛地）带走，卷走
+    ~ verb ~ to win all the parts of a competition, or to win very easily 大获全胜，一举获胜，轻易获胜
+    ~ noun ~ a movement, especially a quick, powerful one or one to search an area 掠过;扫过
+    ~ noun ~ the act of sweeping something to clean it 打扫，清扫，扫除
+
+swipe
+    ~ verb ~ to hit or try to hit something, especially with a sideways movement 击打，尤指抡起（某物）猛打
+    ~ verb ~ to steal 偷窃，盗窃
+    ~ verb ~ to move a card containing information stored on a magnetic strip through a device that reads this information 刷（卡）
+    ~ noun ~ a criticism of someone or something, or an attempt to annoy them or damage it 批评，打击
+    ~ noun ~ an act of hitting or trying to hit someone or something 挥击;抡打
+
+wipe
+    ~ verb ~ to slide something, especially a piece of cloth, over the surface of something else, in order to remove dirt, food, or liquid 擦，拭，抹
+    ~ noun ~ a piece of soft, wet cloth or paper that you use for wiping （湿）抹布;（湿）纸巾;（湿）手巾
+    ~ noun ~ an act of wiping 擦，拭，抹
+```
