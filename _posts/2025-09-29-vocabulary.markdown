@@ -57,6 +57,20 @@ aim
 amid ~ prep ~ in the middle of or surrounded by 在…中间，在…当中;为…环绕
 ```
 
+announce / denounce / renounce
+
+```
+announce
+    ~ verb ~ to make something known or tell people about something officially （尤指公开地）宣布，宣告，通告
+    ~ verb ~ to show that something is going to happen 作为…的迹象;显示
+
+denounce
+    ~ verb ~ to criticize something or someone strongly and publicly （公开）谴责，痛斥
+    ~ verb ~ to accuse someone publicly of being something that is bad or wrong 检举;告发
+
+renounce ~ verb ~ to say formally or publicly that you no longer own, support, believe in, or have a connection with something 声明放弃;宣布放弃;弃绝
+```
+
 assemble / resemble
 
 ```
@@ -106,7 +120,19 @@ rare
     ~ adj ~ used to describe the air at the top of a mountain, which contains less oxygen, making it harder to breathe （山顶空气）稀薄的
 ```
 
-boast / boost
+board /  aboard / onboard
+
+```
+board
+    ~ noun ~ a thin, flat piece of cut wood or other hard material, often used for a particular purpose （有特定用途的）薄木板;板;牌子
+    ~ noun ~ the group of people who are responsible for controlling and organizing a company or organization 董事会;理事会;委员会
+
+aboard ~ adv / prep ~ on or onto a ship, aircraft, bus, or train 上船（或飞机、公共汽车、火车等）;在船（或飞机、公共汽车、火车等）上
+
+onboard ~ noun ~ to give new employees the knowledge and skills they need to become effective members of an organization 入职培训
+```
+
+boast / boost / bolster
 
 ```
 boast
@@ -117,6 +143,40 @@ boast
 boost
     ~ verb ~ to increase or improve something 改善；提高；增强；推动
     ~ noun ~ an occasion when something is improved or increased 改善；提高；增强；推动
+
+bolster
+    ~ verb ~ to support or improve something or make it stronger 支撑;加固;提高;改善
+    ~ noun ~ a long firm cylinder-shaped pillow 长枕;长垫枕;长靠枕
+```
+
+bull / dull / hull / lull / bulk / haul
+
+```
+bull
+    ~ noun ~ a male cow, or the male of particular animals such as the elephant or the whale 公牛;雄象;雄鲸
+    ~ noun ~ a person who buys shares in companies hoping the price will rise, so that they can be sold later at a profit （预期证券价格上涨的）买空者，多头
+    ~ noun ~ complete nonsense or something that is not true 胡说八道；吹牛
+
+dull
+    ~ adj ~ not interesting or exciting in any way 枯燥的，乏味的，无趣的
+    ~ adj ~ not clear, bright, or shiny 模糊的;暗淡的;阴暗的
+    ~ adj ~ A dull sound or pain is not sharp or clear. （声音）沉闷的;（疼痛）隐约的
+
+hull
+    ~ noun ~ the body or frame of a ship, most of which goes under the water 船体，船身
+    ~ verb ~ to remove the covering or the stem and leaves from some fruits, vegetables, and seeds 除去（水果、蔬菜等的）皮（或茎、叶）
+
+lull
+    ~ verb ~ to cause someone to feel calm or to feel that they want to sleep 使安静，使平和;使发困
+    ~ noun ~ a short period of calm in which little happens 平静时期;间歇
+
+bulk
+    ~ noun ~ something or someone that is very large 巨大的东西;大块，大团
+    ~ noun ~ large size or mass 大规模；大量
+
+haul
+    ~ verb ~ to pull something heavy slowly and with difficulty （用力）拉，拖（重物）
+    ~ noun ~ a usually large amount of something that has been stolen or is illegal （赃物或非法物品的）一大批，大量
 ```
 
 #### C
@@ -124,7 +184,7 @@ boost
 capable / capacity / incapable / incapacitate
 
 ```
-capable ~ adj ~ able to do things effectively and skilfully, and to achieve results
+capable ~ adj ~ able to do things effectively and skilfully, and to achieve results 有能力的；熟练的；能干的
 
 capacity
     ~ noun ~ the total amount that can be contained or produced 容积，容量;生产能力;（尤指某人或某组织的）办事能力
@@ -133,6 +193,27 @@ capacity
 incapable ~ adj ~ unable to do something 不能的，不胜任的
 
 incapacitate ~ verb ~ to make someone unable to work or do things normally, or unable to do what they intended to do 使无能力（正常工作或做事）；使无法（做想做之事）
+```
+
+cede / concede / concession / recede / recession
+
+```
+cede ~ to allow someone else to have or own something, especially unwillingly or because you are forced to do so （尤指不情愿地或被迫）割让，让予，放弃
+
+concede
+    ~ verb ~ to admit, often unwillingly, that something is true （常指不情愿地）承认
+    ~ verb ~ to admit that you have lost in a competition 认输;承认（失败）
+    ~ verb ~ to allow someone to have something, even if you do not want to （不情愿地）让步，答应给，让与
+
+concession
+    ~ noun ~ something that is allowed or given up, often in order to end a disagreement, or the act of allowing or giving this （常指为结束争端而作出的）认可，让与，让步，妥协
+    ~ noun ~ the act of admitting defeat 认输
+    ~ noun ~ a reduction in the usual price of something, made available to students, old people, etc. （对学生、老少或失业人群的）价格优惠，减价
+    ~ noun ~ a special right to property or land （财产、土地等的）特许权;许可使用权
+
+recede ~ verb ~ to move further away into the distance, or to become less clear or less bright 逐渐远离；变得模糊，逐渐淡漠
+
+recession ~ noun ~ a period when the economy of a country is not successful and conditions for business are bad （经济）衰退期
 ```
 
 circumstance / circumvent / circumference / circumnavigate
@@ -150,20 +231,20 @@ circumnavigate
     ~ verb ~ to avoid something by taking a particular course of action 绕开，绕过，避免触犯（法律规定等）
 ```
 
-civilian / civic / civilization / civil
+civil / civilian / civilization / civic
 
 ```
-civilian ~ noun ~ a person who is not a member of the police or the armed forces 平民;老百姓
+civil
+    ~ adj ~ not military or religious, or relating to the ordinary people of a country 文职的;民用的;平民的，国民的
+    ~ adj ~ relating to private arguments between people or organizations rather than criminal matters 民事的
 
-civic ~ adj ~ of a town or city or the people who live in it 城镇的;城市的;市民的
+civilian ~ noun ~ a person who is not a member of the police or the armed forces 平民;老百姓
 
 civilization
     ~ noun ~ human society with its well developed social organizations, or the culture and way of life of a society or country at a particular period in time 文明社会；（特定时期特定社会或国家的）文明，文化
     ~ noun ~ the process of educating a society so that its culture becomes more developed 教化;开化
 
-civil
-    ~ adj ~ not military or religious, or relating to the ordinary people of a country 文职的;民用的;平民的，国民的
-    ~ adj ~ relating to private arguments between people or organizations rather than criminal matters 民事的
+civic ~ adj ~ of a town or city or the people who live in it 城镇的;城市的;市民的
 ```
 
 cognitive / cognition / cognize（罕见） / recognize（常用） / recognition
@@ -186,6 +267,25 @@ recognition
     ~ noun ~ the fact of knowing someone or something because you have seen or heard him or her or experienced it before 认出，认识;识别
 ```
 
+compel / expel / repel / propel
+
+```
+compel
+    ~ verb ~ to force someone to do something 强迫；逼迫；迫使
+    ~ verb ~ to produce a strong feeling or reaction （有时指并非所愿地）激起，引发
+
+expel
+    ~ verb ~ to force someone to leave a school, organization, or country 驱逐;除名;开除
+    ~ verb ~ to force air or liquid out of something 排出;喷出
+
+repel
+    ~ verb ~ to force someone or something to stop moving towards you or attacking you 驱逐;逐回;击退;抗御
+    ~ verb ~ to have a magnetic field that pushes away something with a similar magnetic field 排斥;相斥
+    ~ verb ~ People or things that repel you make you feel strongly that you do not want to be near, see, or think about them 使厌恶;使极反感
+
+propel ~ verb ~ to push or move something somewhere, often with a lot of force 推进，推动
+```
+
 conceal / seal
 
 ```
@@ -195,6 +295,8 @@ seal
     ~ noun ~ a large mammal that eats fish and lives partly in the sea and partly on land or ice 海豹
     ~ noun ~ something fixed around the edge of an opening to prevent liquid or gas flowing through it 密封垫；密封装置
     ~ noun ~ an official mark on a document, sometimes made with wax, that shows that it is legal or has been officially approved 封蜡;印章;封条
+    ~ verb ~ to close an entrance or container so that nothing can enter or leave it 封，密封
+    ~ verb ~ to make an agreement more certain or to approve it formally 确认，正式批准（协议）
 ```
 
 conciliate（安抚情绪，减少敌意） / reconcile（恢复关系或调和矛盾）
@@ -263,7 +365,7 @@ crumple
     ~ verb ~ If someone crumples, they fall to the ground suddenly. 倒下;瘫倒
 ```
 
-crush / quash
+crush / quash / quarrel
 
 ```
 crush
@@ -278,6 +380,10 @@ crush
 quash
     ~ verb ~ to say officially that something, especially an earlier official decision, is no longer to be accepted 撤销，废止，宣布…无效
     ~ verb ~ to forcefully stop something that you do not want to happen 镇压，平息
+
+quarrel
+    ~ noun ~ an angry disagreement between two or more people or groups 争吵，不和
+    ~ verb ~ to have an angry disagreement with someone 争吵，不和
 ```
 
 #### D
@@ -399,21 +505,29 @@ delicate
     ~ adj ~ able to measure very small changes 精细的，精密的
 ```
 
-disclose / unveil / reveal
+disclose / reveal / unveil / veil / veiled
 
 ```
 disclose ~ verb ~ to make something known publicly, or to show something that was hidden 公开，公布;透露，揭露
+
+reveal
+    ~ verb ~ to make known or show something that is surprising or that was previously secret 揭露;泄露;透露
+    ~ verb ~ to allow something to be seen that, until then, had been hidden 使显露；展现；显示
 
 unveil
     ~ verb ~ to remove a covering like a curtain from a new structure at a formal ceremony in order to show the opening or finishing of a new building or work of art 为…揭幕
     ~ verb ~ If you unveil something new, you show it or make it known for the first time. （首次）展示，介绍，推出；将…公诸于众
 
-reveal
-    ~ verb ~ to make known or show something that is surprising or that was previously secret 揭露;泄露;透露
-    ~ verb ~ to allow something to be seen that, until then, had been hidden 使显露；展现；显示
+veil
+    ~ noun ~ a piece of thin material worn by women to cover the face or head 面纱;面罩
+    ~ noun ~ a thin covering that hides something or stops you from seeing something clearly 遮蔽物；笼罩物
+    ~ noun ~ something that prevents you from knowing what is happening 掩饰，掩盖；托词
+    ~ verb ~ to cover something, especially the face or body, with a veil 用幕遮掩;（尤指）用面纱遮住
+
+veiled ~ adj ~ Veiled words or ways of behaving are not direct or expressed clearly. 不明言的;含蓄的;掩饰的
 ```
 
-disguise / disgust
+disguise / disgust / guise
 
 ```
 disguise
@@ -424,6 +538,8 @@ disguise
 disgust
     ~ noun ~ a strong feeling of disapproval and dislike at a situation, person's behaviour, etc. 厌恶，憎恶，反感
     ~ verb ~ to make you feel extreme dislike or disapproval 使厌恶，使憎恶，使反感
+
+guise ~ noun ~ the appearance of someone or something, especially when intended to deceive （尤指为了欺骗而装出的）外表，表现形式;伪装
 ```
 
 disperse / disburse
@@ -469,9 +585,15 @@ erupt
     ~ verb ~ If spots erupt on your skin, they suddenly appear. （疱疹）突然出现
 ```
 
-division / divisive / diverse / diversify / diversity
+divide / division / divisive / diverse / diversify / diversity
 
 ```
+divide
+    ~ verb ~ to (cause to) separate into parts or groups （使）分开；（使）分组
+    ~ verb ~ to use different amounts of something for different purposes or activities 分配
+    ~ verb ~ to cause a group of people to disagree about something （使）产生分歧，（使）意见相左 
+    ~ noun ~ a difference or separation 分歧；隔阂
+
 division
     ~ noun ~ the act of separating something into parts or groups, or the way that it is separated 分配；分配方法
     ~ noun ~ the calculation of how many times one number goes into another 除法
@@ -492,7 +614,7 @@ diversity
 
 #### E
 
-ease / easy
+ease / easy / essay
 
 ```
 ease
@@ -503,9 +625,13 @@ ease
 easy
     ~ adj ~ needing little effort 容易的；不费力的
     ~ adj ~ comfortable or calm; free from worry, pain, etc. 舒适的;安逸的;安心的
+
+essay
+    ~ noun ~ a short piece of writing on a particular subject, especially one done by students as part of the work for a course （尤指学生写的作为课程作业的）短文;论说文;小品文，散文
+    ~ verb ~ to try to do something 企图；尝试
 ```
 
-eliminate / culminate
+eliminate / culminate / eradicate / exterminate
 
 ```
 eliminate
@@ -514,17 +640,25 @@ eliminate
     ~ verb ~ to murder someone ~ 消灭;干掉
 
 culminate ~ verb ~ If an event or series of events culminates in something, it ends with it, having developed until it reaches this point. 以…告终;达到…的顶点
+
+eradicate ~ verb ~ to get rid of something completely or destroy something bad 根除;消灭;杜绝
+
+exterminate ~ verb ~ to kill all the animals or people in a particular place or of a particular type 根除;灭绝;消灭
 ```
 
-enforce / reinforce
+enforce / enforcement / reinforce / reinforcement
 
 ```
 enforce ~ verb ~ to make people obey a law, or to make a particular situation happen or be accepted 使服从（法律）;（强制）实行，执行，把…强加于
+
+enforcement ~ noun ~ the process of making people obey a law or rule, or making a particular situation happen or be accepted 执法
 
 reinforce
     ~ verb ~ to make something stronger 加固；使更结实
     ~ verb ~ If something reinforces an idea or opinion, it provides more proof or support for it and makes it seem true. 强化，加深，进一步证实（观点、看法等）
     ~ verb ~ to provide an army with more soldiers or weapons to make it stronger 增援;加强…的力量;给…增强装备
+
+reinforcement ~ noun ~ the act of making something stronger 增强；加强；巩固
 ```
 
 ensure / ensue / sue
@@ -535,6 +669,30 @@ ensure ~ verb ~ to make something certain to happen 确保；保证
 ensue ~ verb ~ to happen after something else, especially as a result of it （尤指作为结果而）接着发生，继而发生，因而产生
 
 sue ~ verb ~ to take legal action against a person or organization, especially by making a legal claim for money because of some harm that they have caused you 控告，对…提起诉讼（尤指要求赔偿）
+```
+
+ensure / ensurance / assure / assurance / insure / insurance
+
+```
+ensure ~ verb ~ to make something certain to happen 确保；保证
+
+ensurance ~ noun ~ 保障
+
+assure
+    ~ verb ~ to tell someone confidently that something is true, especially so that they do not worry （尤指为消除其忧虑而）确定地对…说，向…保证，使确信;让…放心
+    ~ verb ~ to cause something to be certain 确保;保障;使确定
+    ~ verb ~ (of an organization) to promise to pay an amount of money to a person or their family if that person becomes ill, gets injured, or dies, in return for small regular payments 给…保险
+
+assurance
+    ~ noun ~ a promise 保证
+    ~ noun ~ confidence 自信，把握
+    ~ noun ~ a type of insurance against events that will certainly happen, such as death, not those that may happen, such as illness, fire, or having your property stolen （人寿）保险
+
+insure
+    ~ verb ~ to protect yourself against risk by regularly paying a special company that will provide a fixed amount of money if you are killed or injured or if your home or possessions are damaged, destroyed, or stolen （给…上）保险，（为…）投保
+    ~ verb ~ to provide insurance for someone or something 为（某人或某物）提供保险;承保
+
+insurance ~ noun ~ an agreement in which you pay a company money and they pay your costs if you have an accident, injury, etc. 保险
 ```
 
 epidemic（局部性或区域性） / pandemic（全球性或跨国的）
@@ -550,17 +708,7 @@ pandemic
     ~ noun ~ a disease that exists in almost all of an area or in almost all of a group of people, animals or plants 大流行病
 ```
 
-examine / exterminate
-
-```
-examine
-    ~ verb ~ to look at or consider a person or thing carefully and in detail in order to discover something about them. （仔细地）检查，审查，调查
-    ~ verb ~ to test someone's knowledge or skill in a particular subject 考核；测试
-
-exterminate ~ verb ~ to kill all the animals or people in a particular place or of a particular type 根除;灭绝;消灭
-```
-
-expatriate / expat
+expatriate / expat / deport / deportation
 
 ```
 expatriate
@@ -568,6 +716,10 @@ expatriate
     ~ verb ~ to move from your own country, or to cause someone to move from their own country （强行或依法）把…逐出本国，使移居国外
 
 expat ~ informal of expatriate
+
+deport ~ verb ~ to force someone to leave a country, especially someone who has no legal right to be there or who has broken the law 把…驱逐出境，把…遣送出境
+
+deportation ~ noun ~ the action of forcing someone to leave a country, especially someone who has no legal right to be there or who has broken the law 驱逐出境
 ```
 
 #### F
@@ -585,7 +737,19 @@ familiar
     ~ noun ~ a close friend, or a spirit in the shape of a cat, bird, or other animal that is the close companion of a witch 知交;（以猫、鸟等形象出现，与女巫为伴的）妖精
 ```
 
-fervent / fervor / fever
+fend / defend / offend
+
+```
+fend ~ verb ~ to defend or protect yourself from sth/sb that is attacking you 抵挡，挡开，避开（攻击）
+
+defend ~ verb ~ to protect someone or something against attack or criticism 保护，防卫;为…辩护
+
+offend
+    ~ verb ~ to make someone upset or angry 冒犯，得罪，惹恼
+    ~ verb ~ to commit a crime 犯罪，违法
+```
+
+fervent / fervor / fever / febrile / favor
 
 ```
 fervent ~ adj ~ used to describe beliefs that are strongly and sincerely felt or people who have strong and sincere beliefs 强烈的；热情的，热诚的
@@ -595,6 +759,15 @@ fervor ~ noun ~ strong and sincere beliefs 热情;热诚;热烈
 fever
     ~ noun ~ a medical condition in which the body temperature is higher than usual and the heart beats very fast 发烧，发热
     ~ noun ~ a state of great excitement 激动，狂热，兴奋
+
+febrile
+    ~ adj ~ extremely active, or too excited, imaginative, or emotional 极活跃的;狂热的;过分情绪化的
+    ~ adj ~ caused by a fever 发热引起的
+
+favor
+    ~ noun ~ the support or approval of something or someone 支持;赞同
+    ~ noun ~ a kind action that you do for someone 帮助，善意行为；恩惠
+    ~ verb ~ to support or prefer one particular possibility 赞同;较喜欢
 ```
 
 foresight / insight / hindsight
@@ -619,7 +792,7 @@ formulate ~ verb ~ to develop all the details of a plan for doing something 制�
 
 #### H
 
-hamper / tamper / temper
+hamper / tamper / temper / hinder
 
 ```
 hamper
@@ -631,16 +804,18 @@ tamper ~ verb ~ to touch or make changes to something that you should not, usual
 temper
     ~ noun ~ the tendency to become angry very quickly 脾气；易怒
     ~ noun ~ mood or emotional state 心情，情绪
+
+hinder ~ verb ~ to limit the ability of someone to do something, or to limit the development of something 阻碍，妨碍
 ```
 
-handover / makeover / takeover
+handover / takeover / makeover
 
 ```
 handover ~ noun ~ the giving of control of or responsibility for something to someone else （控制权或责任的）移交
 
-makeover ~ noun ~ a set of changes that are intended to make a person or place more attractive （个人形象的）大变样，改头换面；（地方的）翻新，改造
-
 takeover ~ noun ~ a situation in which a company gets control of another company by buying enough of its shares 接管，收购（公司）
+
+makeover ~ noun ~ a set of changes that are intended to make a person or place more attractive （个人形象的）大变样，改头换面；（地方的）翻新，改造
 ```
 
 harken(hearken) / harden / burden
@@ -670,36 +845,6 @@ hash
     ~ noun ~ the symbol # on a phone or computer keyboard 电话（或计算机键盘）上的#号
 ```
 
-haul / hull / lull / bull / bulk / dull
-
-```
-haul
-    ~ verb ~ to pull something heavy slowly and with difficulty （用力）拉，拖（重物）
-    ~ noun ~ a usually large amount of something that has been stolen or is illegal （赃物或非法物品的）一大批，大量
-
-hull
-    ~ noun ~ the body or frame of a ship, most of which goes under the water 船体，船身
-    ~ verb ~ to remove the covering or the stem and leaves from some fruits, vegetables, and seeds 除去（水果、蔬菜等的）皮（或茎、叶）
-
-lull
-    ~ verb ~ to cause someone to feel calm or to feel that they want to sleep 使安静，使平和;使发困
-    ~ noun ~ a short period of calm in which little happens 平静时期;间歇
-
-bull
-    ~ noun ~ a male cow, or the male of particular animals such as the elephant or the whale 公牛;雄象;雄鲸
-    ~ noun ~ a person who buys shares in companies hoping the price will rise, so that they can be sold later at a profit （预期证券价格上涨的）买空者，多头
-    ~ noun ~ complete nonsense or something that is not true 胡说八道；吹牛
-
-bulk
-    ~ noun ~ something or someone that is very large 巨大的东西;大块，大团
-    ~ noun ~ large size or mass 大规模；大量
-
-dull
-    ~ adj ~ not interesting or exciting in any way 枯燥的，乏味的，无趣的
-    ~ adj ~ not clear, bright, or shiny 模糊的;暗淡的;阴暗的
-    ~ adj ~ A dull sound or pain is not sharp or clear. （声音）沉闷的;（疼痛）隐约的
-```
-
 hypocrisy / hypocritical / hypothesis / hypothetical
 
 ```
@@ -726,15 +871,23 @@ idealistic ~ adj ~ believing that very good things can be achieved, often when t
 idealism ~ noun ~ the belief that your ideals can be achieved, often when this does not seem likely to others 理想主义
 ```
 
+immense / immerse
+
+```
+immense ~ adj ~ extremely large in size or degree 巨大的，无限的
+
+immerse ~ verb ~ to become completely involved in something
+```
+
 immigrant（进入者） / emigrant（离开者）
 
 ```
-immigrant ~ noun ~ a person who has come to a different country in order to live there permanently （外来的）移民
+immigrant ~ /ˈɪm.ɪ.ɡrənt/ ~ noun ~ a person who has come to a different country in order to live there permanently （外来的）移民
 
-emigrant ~ noun ~ a person who emigrates（移居国外的）移民
+emigrant ~ /ˈem.ɪ.ɡrənt/ ~ noun ~ a person who emigrates（移居国外的）移民
 ```
 
-immune / mute
+immune / mute / immunity
 
 ```
 immune
@@ -745,42 +898,9 @@ immune
 mute
     ~ noun ~ silent or not speaking 沉默的;（活动）无声的
     ~ verb ~ If you mute a noise, or a device making a noise, you make it less loud or not able to be heard at all. 减轻（噪音）
-```
 
-impound / compound / pound
-
-```
-impound ~ verb ~ If the police impound something that belongs to you, they take it away because you have broken the law. （警方或掌权者）扣押，没收
-
-compound
-    ~ noun ~ a chemical that combines two or more elements 化合物
-    ~ noun ~ something consisting of two or more different parts 复合物；混合物
-    ~ noun ~ an area surrounded by fences or walls that contains a group of buildings （围起来的）场地，楼群，院落
-
-pound
-    ~ noun ~ the standard unit of money used in the UK and some other countries 镑（英国等国家的货币单位）
-    ~ noun ~ a unit for measuring weight 磅（重量单位）
-```
-
-impress / oppress / depress / press
-
-```
-impress ~ verb ~ to cause someone to admire or respect you 给…留下深刻印象;使钦佩
-
-oppress
-    ~ verb ~ to govern people in an unfair and cruel way and prevent them from having opportunities and freedom 压迫;压制;欺压
-    ~ to make a person feel uncomfortable or worried, and sometimes ill 使烦恼；使焦虑；使不适
-
-depress
-    ~ verb ~ to cause someone to feel unhappy and without hope 使忧郁，使沮丧
-    ~ verb ~ to reduce the value of something, especially money 使贬值，使降价
-    ~ verb ~ to press down or lower 按下，压下
-
-press
-    ~ verb ~ to push something firmly, often without causing it to move permanently further away from you 按，压；推；挤
-    ~ verb ~ to try hard to persuade someone to do something 敦促;逼迫;催促
-    ~ noun ~ newspapers and magazines, and those parts of television and radio that broadcast news, or reporters and photographers who work for them 报刊;报道;新闻界;记者，新闻工作者
-    ~ noun ~ the judgment that is given of someone or something in the newspapers or on radio or television 新闻舆论，媒体评论
+immunity
+    ~ a situation in which you are protected against disease or from legal action 免疫;免除;豁免
 ```
 
 inherent / inherit
@@ -791,6 +911,8 @@ inherent ~ adj ~ existing as a natural or basic part of something 内在的；�
 inherit
     ~ verb ~ to receive money, a house, etc. from someone after they have died 继承
     ~ verb ~ to begin to have responsibility for a problem or situation that previously existed or belonged to another person 接手，承担（遗留的问题等）
+
+heir ~ noun ~ a person who will legally receive money, property, or a title from another person, especially an older member of the same family, when that other person dies 继承人
 ```
 
 initiate / initial / initiative
@@ -810,30 +932,6 @@ initiative
     ~ noun ~ the ability to use your judgment to make decisions and do things without needing to be told what to do 主动性;自主决断行事的能力
 ```
 
-insure / insurance / assure / assurance / ensure / ensurance
-
-```
-insure
-    ~ verb ~ to protect yourself against risk by regularly paying a special company that will provide a fixed amount of money if you are killed or injured or if your home or possessions are damaged, destroyed, or stolen （给…上）保险，（为…）投保
-    ~ verb ~ to provide insurance for someone or something 为（某人或某物）提供保险;承保
-
-insurance ~ noun ~ an agreement in which you pay a company money and they pay your costs if you have an accident, injury, etc. 保险
-
-assure
-    ~ verb ~ to tell someone confidently that something is true, especially so that they do not worry （尤指为消除其忧虑而）确定地对…说，向…保证，使确信;让…放心
-    ~ verb ~ to cause something to be certain 确保;保障;使确定
-    ~ verb ~ (of an organization) to promise to pay an amount of money to a person or their family if that person becomes ill, gets injured, or dies, in return for small regular payments 给…保险
-
-assurance
-    ~ noun ~ a promise 保证
-    ~ noun ~ confidence 自信，把握
-    ~ noun ~ a type of insurance against events that will certainly happen, such as death, not those that may happen, such as illness, fire, or having your property stolen （人寿）保险
-
-ensure ~ verb ~ to make something certain to happen 确保；保证
-
-ensurance ~ noun ~ 保障
-```
-
 interim / intermediate
 
 ```
@@ -844,17 +942,23 @@ interim
 intermediate ~ adj ~ being between two other related things, levels, or points 中间的，居中的
 ```
 
-intervene / convene
+intervene / interfere / interference / convene
 
 ```
 intervene
     ~ verb ~ to intentionally become involved in a difficult situation in order to improve it or prevent it from getting worse 干涉，干预；调停
     ~ verb ~ to happen between two times or between other events or activities 发生于其间
 
+interfere ~ to involve yourself in a situation when your involvement is not wanted or is not helpful 干涉，干预
+
+interference
+    ~ noun ~ an occasion when someone tries to interfere in a situation 干涉，干预
+    ~ noun ~ noise or other electronic signals that stop you from getting good pictures or sound on a television or radio （噪声或其他电子信号对电视或收音机的）干扰
+
 convene ~ verb ~ to bring together a group of people for a meeting, or to meet for a meeting 召开，召集（会议）；集合；开会
 ```
 
-invasion（有征服、占领或长期控制之目的） / incursion（试探性、突袭性或临时性）
+invasion（有征服、占领或长期控制之目的） / incursion（试探性、突袭性或临时性） / invade / incur(承受) / inflict(施加)
 
 ```
 invasion
@@ -865,11 +969,19 @@ invasion
 incursion
     ~ noun ~ a sudden attack on or act of going into a place, especially across a border （尤指跨越边境的）侵入，侵犯
     ~ noun ~ an occasion when people suddenly involve themselves in another person's private situation （对他人私生活的）介入，侵犯
+
+invade
+    ~ verb ~ to enter a country by force with large numbers of soldiers in order to take possession of it 入侵，侵略
+    ~ verb ~ to enter a place in large numbers, usually when unwanted and in order to take possession or do damage （通常为了谋财或搞破坏而不受欢迎地）涌入，蜂拥而入
+
+incur ~ verb ~ to experience something, usually something unpleasant, as a result of actions you have taken 招致;遭受
+
+inflict ~ verb ~ to force someone to experience something very unpleasant 使遭受，使承受
 ```
 
 #### J
 
-jaw / claw（指甲） / paw（脚掌）
+jaw / paw（脚掌） / claw（指甲）
 
 ```
 jaw
@@ -877,13 +989,13 @@ jaw
     ~ noun ~ something dangerous 险境
     ~ noun ~ a talk 闲谈
 
-claw
-    ~ noun ~ one of the sharp curved nails at the end of each of the toes of some animals and birds （兽类或鸟类的）爪，脚爪
-    ~ verb ~ to use claws to tear something or someone （用爪子）抓，撕，挠
-
 paw
     ~ noun ~ the foot of an animal that has claws or nails, such as a cat, dog, or bear 爪，爪子
     ~ verb ~ to touch something with a paw 用爪子抓（或扒）
+
+claw
+    ~ noun ~ one of the sharp curved nails at the end of each of the toes of some animals and birds （兽类或鸟类的）爪，脚爪
+    ~ verb ~ to use claws to tear something or someone （用爪子）抓，撕，挠
 ```
 
 #### L
@@ -906,15 +1018,19 @@ slick
 
 #### M
 
-marital / martial
+marital / martial / maritime
 
 ```
 marital ~ adj ~ connected with marriage 婚姻的
 
 martial ~ adj ~ relating to soldiers, war, or life in the armed forces 军队的;战争的;军事的
+
+maritime
+    ~ adj ~ connected with human activity at sea 海运的；航海的；海事的
+    ~ adj ~ near the sea or coast 近海的，沿海的
 ```
 
-mass / mess / amass
+mass / mess / amass / massage
 
 ```
 mass
@@ -932,9 +1048,14 @@ mess
     ~ verb ~ to leave solid waste somewhere 排便
 
 amass ~ verb ~ to get a large amount of something, especially money or information, by collecting it over a long period 集聚，积累，大量收集（尤指钱或信息）
+
+massage
+    ~ verb ~ to rub and press someone's body with regular repeated movements, in order to relax them or to reduce stiffness or pain in the joints (= places where two bones are connected) or muscles 按摩，推拿
+    ~ verb ~ to try to make facts or numbers appear better than they really are in order to deceive someone 虚报;窜改;美化
+    ~ noun ~ the activity of rubbing or pressing parts of someone's body in order to make them relax or to stop their muscles hurting 按摩;推拿
 ```
 
-maximalist / Marxist
+maximalist / Marxist / minimalist
 
 ```
 maximalist ~ adj ~ belonging or relating to a style in art, design, etc. that uses the largest range of materials and colours possible, and very complicated shapes or forms 极繁主义的（繁复、华丽、夸张的艺术风格）
@@ -942,22 +1063,30 @@ maximalist ~ adj ~ belonging or relating to a style in art, design, etc. that us
 Marxist
     ~ adj ~ relating to or supporting a social, political, and economic theory that is based on the writings of Karl Marx 马克思主义的
     ~ noun ~ a supporter of a social, political, and economic theory based on the writings of Karl Marx 马克思主义者
+
+minimalist
+    ~ adj ~ belonging or relating to a style in art, design, and theatre that uses the smallest range of materials and colours possible, and only very simple shapes or forms 极简抽象派艺术的，极简抽象派风格的，简约主义的
+    ~ adj ~ taking or showing as little action and involvement in a situation as possible （行动或干预）尽量少的
 ```
 
-memo / memoir / memorial / memorandum
+memo / memorandum / memorial / commemorate / memoir / biography
 
 ```
 memo ~ noun ~ a message or other information in writing sent by one person or department to another in the same business organization 备忘录;备忘便条
 
-memoir ~ noun ~ a book or other piece of writing based on the writer's personal knowledge of famous people, places, or events 传记，传略
+memorandum
+    ~ noun ~ an informal legal agreement 协议备忘录（同 memo）
+    ~ noun ~ a short written report prepared specially for a person or group of people that contains information about a particular matter 报告
 
 memorial
     ~ noun ~ an object, often large and made of stone, that has been built to honour a famous person or event 纪念物;纪念碑
     ~ adj ~ done to remember a person or people who have died 用以纪念的，纪念性的;追悼的
 
-memorandum
-    ~ noun ~ a short written report prepared specially for a person or group of people that contains information about a particular matter 报告
-    ~ noun ~ an informal legal agreement 协议备忘录（同 memo）
+commemorate ~ verb ~ to remember officially and give respect to a great person or event, especially by a public ceremony or by making a statue or special building （尤指举行公开仪式或竖立雕塑或专门建筑）纪念，缅怀
+
+memoir ~ noun ~ a book or other piece of writing based on the writer's personal knowledge of famous people, places, or events 传记，传略
+
+biography ~ noun ~ the life story of a person written by someone else 传记
 ```
 
 militant / military / militia
@@ -972,18 +1101,23 @@ military
 militia ~ noun ~ a military force whose members are trained soldiers but who often have other jobs 民兵组织;预备役部队;国民自卫队
 ```
 
-moral / morale / morality / mortality
+moral / morality / morale / mortal / mortality
 
 ```
-moral
+moral ~ /ˈmɒr.əl/
     ~ adj ~ relating to the standards of good or bad behaviour, fairness, honesty, etc. that each person believes in, rather than to laws 道德的
     ~ adj ~ behaving in ways considered by most people to be correct and honest 有道德的，品行端正的
     ~ noun ~ standards for good or bad character and behaviour 公共／个人道德
     ~ noun ~ The moral of a story, event, or experience is the message that you understand from it about how you should or should not behave 道德教训;寓意
 
-morale ~ noun ~ the amount of confidence felt by a person or group of people, especially when in a dangerous or difficult situation （尤指险境或困境下的）士气，精神面貌
-
 morality ~ noun ~ the quality of being right, honest, or acceptable 道德，道义
+
+morale ~ /məˈrɑːl/ ~ noun ~ the amount of confidence felt by a person or group of people, especially when in a dangerous or difficult situation （尤指险境或困境下的）士气，精神面貌
+
+mortal
+    ~ adj ~ (of living things, especially people) unable to continue living for ever; having to die （尤指人）终有一死的
+    ~ adj ~ causing death 致死的，致命的
+    ~ noun ~ an ordinary person, rather than a god or a special, important, or powerful person 凡人，普通人
 
 mortality
     ~ noun ~ the way that people do not live for ever 必死性，生命的有限
@@ -1008,13 +1142,18 @@ night
     ~ noun ~ the period of time between the late afternoon and going to bed; the evening 晚上（指傍晚至就寝前的时段）
 
 overnight
-    ~ adj ~ for or during the night 一夜间（的）;在夜间（的），在晚上（的）
-    ~ adj ~ suddenly and unexpectedly 突然（的）;一夜之间（的）
+    ~ adj & adv ~ for or during the night 一夜间（的）;在夜间（的），在晚上（的）
+    ~ adj & adv ~ suddenly and unexpectedly 突然（的）;一夜之间（的）
 ```
 
-nudity / naked / nuke
+nude / nudity / naked / nuke
 
 ```
+nude
+    ~ adj ~ not wearing any clothes 一丝不挂的;裸体的
+    ~ adj ~ the same colour as a person's skin 肉色的
+    ~ noun ~ a picture or other piece of art showing a person who is not wearing any clothes 裸体画;裸体艺术作品
+
 nudity ~ noun ~ the fact that people are not wearing clothes 赤裸，裸体
 
 naked
@@ -1042,28 +1181,39 @@ construct
 destruct ~ verb ~ to destroy 毁坏
 ```
 
-offend / defend / fend
+outman / outgun / outpace / outstrip / outweigh
 
 ```
-offend
-    ~ verb ~ to make someone upset or angry 冒犯，得罪，惹恼
-    ~ verb ~ to commit a crime 犯罪，违法
+outman ~ verb ~ to have more people or better people than another group, team, army, etc.
 
-defend ~ verb ~ to protect someone or something against attack or criticism 保护，防卫;为…辩护
+outgun
+    ~ verb to win a war or fight by having more weapons than the other side （因武器数量多而）胜过，超过，打赢
+    ~ to beat a person or team by using greater skill 打败，战胜（某人或球队）
 
-fend ~ verb ~ to defend or protect yourself from sth/sb that is attacking you 抵挡，挡开，避开（攻击）
+outpace ~ verb ~ to move or develop faster than someone or something else （速度上）超过，比…更快
+
+outstrip ~ verb ~ to be or become greater in amount, degree, or success than something or someone （在数量、程度或成就上）超过，胜过
+
+outweigh ~ verb ~ to be greater or more important than something else 比…更重要；重于；大于
 ```
 
-onboard / aboard / board
+outlook / overlook / oversee / supervise
 
 ```
-onboard ~ noun ~ to give new employees the knowledge and skills they need to become effective members of an organization 入职培训
+outlook
+    ~ noun ~ the likely future situation 前景;展望
+    ~ noun ~ a person's way of understanding and thinking about something 观点，看法
+    ~ noun ~ what you can see from a particular place 景色，风光，景致
 
-aboard ~ adv / prep ~ on or onto a ship, aircraft, bus, or train 上船（或飞机、公共汽车、火车等）;在船（或飞机、公共汽车、火车等）上
+overlook
+    ~ verb ~ to provide a view of, especially from above 眺望;（尤指）俯瞰，俯视
+    ~ verb ~ to fail to notice or consider something or someone 忽视;忽略，没注意到
+    ~ verb ~ to forgive or pretend not to notice something 宽恕，不计较;对…视而不见
+    ~ noun ~ a place from where a person can look at something, especially at an area of natural beauty 观察位置
 
-board
-    ~ noun ~ a thin, flat piece of cut wood or other hard material, often used for a particular purpose （有特定用途的）薄木板;板;牌子
-    ~ noun ~ the group of people who are responsible for controlling and organizing a company or organization 董事会;理事会;委员会
+oversee ~ to watch or organize a job or an activity to make certain that it is being done correctly 监督；监察；监管
+
+supervise ~ to watch a person or activity to make certain that everything is done correctly, safely, etc. 监督，管理，指导
 ```
 
 #### P
@@ -1123,7 +1273,7 @@ plead
     ~ verb ~ to say something as an excuse or explanation 以…为解释或借口
 ```
 
-plume / plummet
+plume / plummet / hackle / trumpet
 
 ```
 plume
@@ -1131,6 +1281,30 @@ plume
     ~ noun ~ a decoration that looks like several large feathers tied together, worn by soldiers on their hats or attached to horses' heads （装饰用的）羽状物;羽饰
 
 plummet ~ verb ~ to fall very quickly and suddenly 暴跌，急剧下降
+
+hackle ~ noun ~ any of the long slender feathers on the necks of poultry and other birds 颈羽
+
+trumpet
+    ~ noun ~ a brass musical instrument consisting of a metal tube with one narrow end, into which the player blows, and one wide end. Three buttons are pressed in order to change notes. 小号;喇叭
+    ~ verb ~ (of a large animal, especially an elephant) to produce a loud call （尤指象等大型动物的）吼声
+    ~ verb ~ to announce or talk about something proudly to a lot of people 吹嘘;鼓吹
+```
+
+pound / compound / impound / confiscate
+
+```
+pound
+    ~ noun ~ the standard unit of money used in the UK and some other countries 镑（英国等国家的货币单位）
+    ~ noun ~ a unit for measuring weight 磅（重量单位）
+
+compound
+    ~ noun ~ a chemical that combines two or more elements 化合物
+    ~ noun ~ something consisting of two or more different parts 复合物；混合物
+    ~ noun ~ an area surrounded by fences or walls that contains a group of buildings （围起来的）场地，楼群，院落
+
+impound ~ verb ~ If the police impound something that belongs to you, they take it away because you have broken the law. （警方或掌权者）扣押，没收
+    
+confiscate ~ verb ~ to take a possession away from someone when you have the right to do so, usually as a punishment and often for a limited period, after which it is returned to the owner （通常指作为惩罚）没收，把…充公
 ```
 
 predecessor / precedent
@@ -1153,6 +1327,27 @@ depict ~ verb ~ to represent or show something in a picture or story 描绘，�
 portray ~ verb ~ to represent or describe someone or something in a painting, film, book, or other artistic work 描绘，描述，描写
 ```
 
+press / depress / impress / oppress
+
+```
+press
+    ~ verb ~ to push something firmly, often without causing it to move permanently further away from you 按，压；推；挤
+    ~ verb ~ to try hard to persuade someone to do something 敦促;逼迫;催促
+    ~ noun ~ newspapers and magazines, and those parts of television and radio that broadcast news, or reporters and photographers who work for them 报刊;报道;新闻界;记者，新闻工作者
+    ~ noun ~ the judgment that is given of someone or something in the newspapers or on radio or television 新闻舆论，媒体评论
+
+depress
+    ~ verb ~ to cause someone to feel unhappy and without hope 使忧郁，使沮丧
+    ~ verb ~ to reduce the value of something, especially money 使贬值，使降价
+    ~ verb ~ to press down or lower 按下，压下
+
+impress ~ verb ~ to cause someone to admire or respect you 给…留下深刻印象;使钦佩
+
+oppress
+    ~ verb ~ to govern people in an unfair and cruel way and prevent them from having opportunities and freedom 压迫;压制;欺压
+    ~ to make a person feel uncomfortable or worried, and sometimes ill 使烦恼；使焦虑；使不适
+```
+
 proficient / inefficient / sufficient / effective
 
 ```
@@ -1166,20 +1361,6 @@ effective
     ~ adj ~ successful or achieving the results that you want 能产生预期结果的；有效的
     ~ adj ~ in fact, although not officially 实际上的；事实上的
     ~ adj ~ If a law or rule becomes effective, it starts to be used. （法律法规）生效的
-```
-
-propel / expel / compel
-
-```
-propel ~ verb ~ to push or move something somewhere, often with a lot of force 推进，推动
-
-expel
-    ~ verb ~ to force someone to leave a school, organization, or country 驱逐;除名;开除
-    ~ verb ~ to force air or liquid out of something 排出;喷出
-
-compel
-    ~ verb ~ to force someone to do something 强迫；逼迫；迫使
-    ~ verb ~ to produce a strong feeling or reaction （有时指并非所愿地）激起，引发
 ```
 
 prosecute / persecute
@@ -1237,7 +1418,7 @@ qualitative
 
 #### R
 
-rage / outrage / fury
+rage / outrage / fury / infuriate / exasperate
 
 ```
 rage
@@ -1253,6 +1434,10 @@ outrage
     ~ verb ~ (especially of an unfair action or statement) to cause someone to feel very angry, shocked, or upset （尤指不公平的行为或言论）使感到义愤，使愤慨，激怒
 
 fury ~ noun ~ extreme anger 暴怒，狂怒
+
+infuriate ~ verb ~ to make someone extremely angry 使大怒，激怒
+
+exasperate ~ verb ~ to make someone very annoyed, usually when they can do nothing to solve a problem 激怒，使气恼，使烦恼（通常使人束手无策）
 ```
 
 rainfall / waterfall
@@ -1263,36 +1448,27 @@ rainfall ~ noun ~ rain, or the amount of rain that falls 下雨，降雨;（降�
 waterfall ~ noun ~ water, especially from a river or stream, dropping from a higher to a lower point, sometimes from a great height 瀑布
 ```
 
-recede / recession / concede / concession
-
-```
-recede ~ verb ~ to move further away into the distance, or to become less clear or less bright 逐渐远离；变得模糊，逐渐淡漠
-
-recession ~ noun ~ a period when the economy of a country is not successful and conditions for business are bad （经济）衰退期
-
-concede
-    ~ verb ~ to admit, often unwillingly, that something is true （常指不情愿地）承认
-    ~ verb ~ to admit that you have lost in a competition 认输;承认（失败）
-    ~ verb ~ to allow someone to have something, even if you do not want to （不情愿地）让步，答应给，让与
-
-concession
-    ~ noun ~ something that is allowed or given up, often in order to end a disagreement, or the act of allowing or giving this （常指为结束争端而作出的）认可，让与，让步，妥协
-    ~ noun ~ the act of admitting defeat 认输
-    ~ noun ~ a reduction in the usual price of something, made available to students, old people, etc. （对学生、老少或失业人群的）价格优惠，减价
-    ~ noun ~ a special right to property or land （财产、土地等的）特许权;许可使用权
-```
-
-refuge / refugee
+refuge / refugee / shelter / haven / centrifuge
 
 ```
 refuge ~ noun ~ (a place that gives) protection or shelter from danger, trouble, unhappiness, etc. 避难（所）;庇护（所）;慰藉
 
 refugee ~ noun ~ a person who has escaped from their own country for political, religious, or economic reasons or because of a war 难民;避难者;逃亡者
+
+shelter
+    ~ noun ~ (a building designed to give) protection from bad weather, danger, or attack 掩蔽（处）;遮蔽（处）
+    ~ verb ~ to protect yourself, or another person or thing, from bad weather, danger, or attack 躲避；保护；遮蔽
+
+haven ~ noun ~ a safe or peaceful place 安全的地方;和平之地
+
+centrifuge ~ noun ~ a machine that turns a container round very quickly, causing the solids and liquids inside it to separate by centrifugal action 离心机
 ```
 
-regressive / aggressive
+regress / regressive / aggressive / aggression
 
 ```
+regress ~ verb ~ to return to a previous and less advanced or worse state, condition, or way of behaving 退步；退化；倒退
+
 regressive ~ adj ~ (of tax) lower on large amounts of money, so that the rich are less affected （税收）递减的（对富人的影响比对穷人的小）
 
 aggressive
@@ -1300,6 +1476,8 @@ aggressive
     ~ adj ~ determined to win or succeed and using forceful action to do this 积极进取的；有冲劲的；雄心勃勃的
     ~ adj ~ An aggressive condition is one that is serious and quickly spreads in the body or gets worse. （疾病）恶性的
     ~ adj ~ Aggressive treatment is strong treatment that could itself cause harm, used when someone has a serious condition. （对恶性病）积极治疗的
+
+aggression ~ noun ~ spoken or physical behaviour that is threatening or involves harm to someone or something 侵略;侵犯;攻击;挑衅
 ```
 
 reliability / reliable / reliant
@@ -1312,21 +1490,7 @@ reliable ~ adj ~ Someone or something that is reliable can be trusted or believe
 reliant ~ adj ~ needing a particular thing or person in order to continue, to work correctly, or to succeed 依赖的，依靠的
 ```
 
-renounce / denounce / announce
-
-```
-renounce ~ verb ~ to say formally or publicly that you no longer own, support, believe in, or have a connection with something 声明放弃;宣布放弃;弃绝
-
-denounce
-    ~ verb ~ to criticize something or someone strongly and publicly （公开）谴责，痛斥
-    ~ verb ~ to accuse someone publicly of being something that is bad or wrong 检举;告发
-
-announce
-    ~ verb ~ to make something known or tell people about something officially （尤指公开地）宣布，宣告，通告
-    ~ verb ~ to show that something is going to happen 作为…的迹象;显示
-```
-
-rift / friction / fiction
+rift / friction / fiction / fraction / faction
 
 ```
 rift
@@ -1340,11 +1504,17 @@ friction
 fiction
     ~ noun ~ the type of book or story that is written about imaginary characters and events and not based on real people and facts 小说
     ~ noun ~ a false report or statement that you pretend is true 虚构的事;谎言
+
+fraction
+    ~ noun ~ a number that results from dividing one whole number by another 分数
+    ~ noun ~ a small part of something, or a small amount 极小的部分
+
+faction ~ noun ~ a group within a larger group, especially one with slightly different ideas from the main group （大团体中的）派别，派系，小集团
 ```
 
 #### S
 
-savage / fierce
+savage / fierce / ferocious / furious / drastic / dramatic
 
 ```
 savage
@@ -1358,10 +1528,22 @@ fierce
     ~ adj ~ physically violent and frightening 猛烈的;激烈的;骇人的
     ~ adj ~ strong and powerful 狂暴的
     ~ adj ~ showing strong feeling or energetic activity 强烈的;狂热的
-    ~ adj ~ difficult 困难的    
+    ~ adj ~ difficult 困难的
+
+ferocious ~ adj ~ frightening and violent 凶猛的，凶恶的;激烈的;可怕的
+
+furious
+    ~ adj ~ extremely angry 极其生气的，怒不可遏的
+    ~ adj ~ using a lot of effort or strength 强烈的；激烈的
+
+drastic ~ adj ~ (especially of actions) severe and sudden or having very noticeable effects （尤指行动）严厉的，猛烈的，激烈的
+
+dramatic
+    ~ adj ~ very sudden or noticeable, or full of action and excitement 骤然的;戏剧性的;激动人心的
+    ~ adj ~ relating to plays and acting 戏剧的;表演的
 ```
 
-scarce / sacred
+scarce / sacred / scare / scared / scarred
 
 ```
 scarce
@@ -1372,6 +1554,14 @@ sacred
     ~ adj ~ considered to be holy and deserving respect, especially because of a connection with a god （尤指因与神有关而）神圣的，值得崇敬的
     ~ adj ~ connected with religion 与宗教有关的，宗教性的
     ~ adj ~ considered too important to be changed 不容改变的，不可侵犯的
+
+scare
+    ~ verb ~ to (make a person or animal) feel frightened （使）惊恐，（使）害怕;受惊吓，感到害怕
+    ~ noun ~ a sudden feeling of fear or worry 惊恐，恐慌
+
+scared ~ adj ~ frightened or worried 惊恐的，恐惧的，害怕的
+
+scarred ~ adj ~ 伤痕累累，有疤痕的；瘢痕性的
 ```
 
 scenario / scene / spot
@@ -1494,7 +1684,7 @@ spillover
     ~ noun ~ the effects of an activity that have spread further than was originally intended （非预期的）影响
 ```
 
-stain / strain / sustain / contain / retain
+stain / strain / sustain / contain / retain / maintain
 
 ```
 stain
@@ -1526,6 +1716,11 @@ contain
 retain
     ~ verb ~ to keep or continue to have something 保持;保留;保有
     ~ verb ~ If a substance retains something, such as heat or water, it continues to hold or contain it. 保存;留住;容纳
+
+maintain
+    ~ verb ~ to continue to have; to keep in existence, or not allow to become less 维持;保持
+    ~ verb ~ to keep a road, machine, building, etc. in good condition 维修；养护；保养
+    ~ verb ~ to express firmly your belief that something is true 坚称;断言
 ```
 
 stall / install
