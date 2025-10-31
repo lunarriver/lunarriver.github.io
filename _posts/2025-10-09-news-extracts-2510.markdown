@@ -13,7 +13,7 @@ date:   2025-10-09 09:38:00 +0800
 </style>
 
 * 目录
-{:toc #markdown-toc}
+  {:toc #markdown-toc}
 
 #### https://www.theguardian.com/world/2025/oct/08/huajiang-grand-canyon-bridge-guizhou-china-worlds-highest-bridge-how-it-feels-crossing
 
@@ -466,7 +466,7 @@ Takaichi had a **comparatively** small pool of female MPs from which to appoint 
 South Korea is a **signatory** to the Nuclear Non-Proliferation Treaty and the Hyunmoo-5 is a conventional missile.
 
 The idea for the missile was first **conceived** after a series of deadly attacks by North Korea in 2010.
-    
+
 However, development of the Hyunmoo-5 was blocked by US restrictions on South Korean missile payloads until 2017, when Donald Trump lifted those limits following North Korea’s **hydrogen** bomb test.
 
 Pyongyang has **snubbed** Seoul since President Lee Jae Myung took office in June, despite Lee’s peace overtures.
@@ -694,3 +694,21 @@ The **dessert** at a **luncheon** for Trump featured the word “PEACE!”, acco
 “It remains technically and militarily unnecessary for South Korea to acquire the technology to extract weapons-usable **plutonium** from spent fuel,” he said.
 
 “The Trump administration should resist such **overtures** from allies as strongly as it works to deny **adversary** access to these dual-use technologies.”
+
+#### https://www.theguardian.com/world/2025/oct/30/un-leaders-condemn-horrifying-mass-killings-in-sudan
+
+Fletcher said tens of thousands were fleeing to Tawila, where civilians, mostly women and children, faced **extortion**, violence and abduction.
+
+That council members “condemned reported atrocities being perpetrated by the RSF against the civilian population, including **summary executions** and arbitrary detentions”.
+
+“We need an emergency coalition of **conscience** to drive an immediate global effort to protect civilians and end the atrocities.
+
+On Thursday, the UAE said: “We **categorically** reject any claims of providing any form of support to either warring party since the **onset** of the civil war.”
+
+#### https://www.theguardian.com/world/2025/oct/30/hurricane-melissa-bermuda-leaving-devastation-jamaica
+
+Residents in Bermuda had remained calm as the storm was expected to give the island a relatively wide **berth**. Authorities said they would close its **causeway** Thursday night and shut schools and **ferries** on Friday “out of an **abundance** of caution”.
+
+The British government said on Thursday that it was **chartering** flights to the island.
+
+Hurricane Melissa has been intensely destructive, estimated to have caused billions of dollars, but accurate **forecasting** and government advice meant many people who were able to reach shelters were protected.
