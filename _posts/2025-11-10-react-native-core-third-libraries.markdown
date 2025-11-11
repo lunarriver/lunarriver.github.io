@@ -14,12 +14,11 @@ A library with a flexible API for accessing the device's safe area inset informa
 `react-native-safe-area-context` provides a flexible API for accessing device safe area inset information. This allows you to position your content appropriately around notches, status bars, home indicators, and other such device and operating system interface elements. It also provides a `SafeAreaView` component that you can use in place of `View` to automatically inset your views to account for safe areas.
 
 - github: https://github.com/AppAndFlow/react-native-safe-area-context
-
+- npm: https://www.npmjs.com/package/react-native-safe-area-context?activeTab=versions
 - document: https://appandflow.github.io/react-native-safe-area-context/
-
 - blog: https://www.jianshu.com/p/ae55813d4ce7
 
-#### SafeAreaProvider
+**SafeAreaProvider**
 
 You should add SafeAreaProvider in your app root component.
 
@@ -31,7 +30,7 @@ function App() {
 }
 ```
 
-#### SafeAreaView
+**SafeAreaView**
 
 SafeAreaView is a regular View component with the safe area insets applied as padding or margin.
 
@@ -47,7 +46,7 @@ function SomeComponent() {
 }
 ```
 
-#### useSafeAreaInsets
+**useSafeAreaInsets**
 
 Returns the safe area insets of the nearest provider. This allows manipulating the inset values from JavaScript. Note that insets are not updated synchronously so it might cause a slight delay for example when rotating the screen.
 
@@ -61,19 +60,24 @@ function HookComponent() {
 }
 ```
 
-#### useSafeAreaFrame
+**useSafeAreaFrame**
 
 Returns the frame of the nearest provider. This can be used as an alternative to the Dimensions module.
 
 ### react-native-screens
 
+- github: https://github.com/software-mansion/react-native-screens
+- npm: https://www.npmjs.com/package/react-native-screens?activeTab=versions
+
 A library that provides native primitives to represent screens for better operating system behavior and screen optimizations.
 
 `react-native-screens` provides native primitives to represent screens instead of plain `<View>` components To better take advantage of operating system behavior and optimizations around screens. This capability is used by library authors and **is unlikely to be used directly by most app developers**. It also provides the native components needed for React Navigation's `createNativeStackNavigator`.
 
-- github: https://github.com/software-mansion/react-native-screens
-
 ### react-native-config
+
+- github: https://github.com/lugg/react-native-config
+- npm: https://www.npmjs.com/package/react-native-config?activeTab=versions
+- blog: https://juejin.cn/post/6999295392139444232
 
 Module to expose config variables to your javascript code in React Native, supporting iOS, Android, macOS and Windows.
 
@@ -93,11 +97,7 @@ Config.API_URL; // 'https://myapi.com'
 Config.GOOGLE_MAPS_API_KEY; // 'abcdefgh'
 ```
 
-- github: https://github.com/lugg/react-native-config
-
-- blog: https://juejin.cn/post/6999295392139444232
-
-#### Different environments
+**Different environments**
 
 Save config for different environments in different files: `.env.staging`, `.env.production`, etc.
 
@@ -115,6 +115,10 @@ This also works for `run-android`.
 
 ### react-native-image-picker
 
+- github: https://github.com/react-native-image-picker/react-native-image-picker
+- npm: https://www.npmjs.com/package/react-native-image-picker?activeTab=versions
+- android implement: https://android-docs.cn/training/data-storage/shared/photopicker
+
 A React Native module that allows you to select a photo/video from the device library or camera.
 
 For Android, No permissions required (saveToPhotos requires permission check). This library does not require Manifest.permission.CAMERA, if your app declares as using this permission in manifest then you have to obtain the permission before using launchCamera.
@@ -123,7 +127,7 @@ For Android, No permissions required (saveToPhotos requires permission check). T
 import {launchCamera, launchImageLibrary} from 'react-native-image-picker';
 ```
 
-#### launchCamera()
+**launchCamera()**
 
 Launch camera to take photo or video.
 
@@ -134,7 +138,7 @@ launchCamera(options?, callback);
 const result = await launchCamera(options?);
 ```
 
-#### launchImageLibrary
+**launchImageLibrary**
 
 Launch gallery to pick image or video.
 
@@ -145,11 +149,11 @@ launchImageLibrary(options?, callback)
 const result = await launchImageLibrary(options?);
 ```
 
-- github: https://github.com/react-native-image-picker/react-native-image-picker
-
-- implement: https://android-docs.cn/training/data-storage/shared/photopicker
-
 ### react-native-image-resizer
+
+- github: https://github.com/bamlab/react-native-image-resizer
+- npm: https://www.npmjs.com/package/@bam.tech/react-native-image-resizer?activeTab=versions
+- blog: https://blog.csdn.net/gitblog_00970/article/details/141078638
 
 A React Native module that can create scaled versions of local images (also supports the assets library on iOS).
 
@@ -177,17 +181,14 @@ ImageResizer.createResizedImage(
   });
 ```
 
-- github: https://github.com/bamlab/react-native-image-resizer
-
-- blog: https://blog.csdn.net/gitblog_00970/article/details/141078638
-
 ### react-native-webview-invoke
 
 Invoke functions between React Native and WebView directly.
 
 - github: https://github.com/pinqy520/react-native-webview-invoke?tab=readme-ov-file#readme
+- npm: https://www.npmjs.com/package/react-native-webview-invoke?activeTab=versions
 
-#### React Native Side
+**React Native Side**
 
 ```
 import createInvoke from 'react-native-webview-invoke/native'
@@ -220,7 +221,7 @@ class SomePage extends React.Component {
 }
 ```
 
-#### Web Side
+**Web Side**
 
 ```
 import invoke from 'react-native-webview-invoke/browser'
@@ -235,6 +236,9 @@ await tellAYouArea('B', 'Mr.')
 ```
 
 ### react-native-toast-message
+
+- github: https://github.com/calintamas/react-native-toast-message
+- npm: https://www.npmjs.com/package/react-native-toast-message?activeTab=versions
 
 Animated toast message component for React Native.
 
@@ -277,9 +281,10 @@ export function Foo(props) {
 }
 ```
 
-- github: https://github.com/calintamas/react-native-toast-message
-
 ### react-native-device-info
+
+- github: https://github.com/react-native-device-info/react-native-device-info
+- npm: https://www.npmjs.com/package/react-native-device-info?activeTab=versions
 
 Device Information for React Native.
 
@@ -303,9 +308,10 @@ console.log("Device Locale", DeviceInfo.getDeviceLocale()); // e.g en-US
 console.log("Device Country", DeviceInfo.getDeviceCountry()); // e.g US
 ```
 
-- github: https://github.com/react-native-device-info/react-native-device-info
-
 ### react-native-exit-app
+
+- github: https://github.com/wumke/react-native-exit-app
+- npm: https://www.npmjs.com/package/react-native-exit-app?activeTab=versions
 
 Exit / Close / Kill / shutdown your react native app. Does not invoke a crash notification.
 
@@ -315,9 +321,10 @@ import RNExitApp from 'react-native-exit-app';
 RNExitApp.exitApp();
 ```
 
-- github: https://github.com/wumke/react-native-exit-app
-
 ### react-native-fast-image
+
+- github: https://github.com/ds-horizon/react-native-fast-image
+- npm: https://www.npmjs.com/package/react-native-fast-image?activeTab=versions
 
 `FastImage` is a drop-in replacement for React Native’s `Image` component, offering solutions for common image loading challenges like: Flickering during loading,  Cache inconsistencies, Slow loading from cache, Overall suboptimal performance, FastImage leverages SDWebImage (iOS) and Glide (Android) for native caching and high efficiency.
 
@@ -338,9 +345,10 @@ const YourImage = () => (
 );
 ```
 
-- github: https://github.com/ds-horizon/react-native-fast-image
-
 ### react-native-gesture-flip-card
+
+- github: https://github.com/JungHsuan/react-native-gesture-flip-card
+- npm: https://www.npmjs.com/package/react-native-gesture-flip-card?activeTab=versions
 
 A pure javascript implementation of a flip card animation using gesture for React Native.
 
@@ -381,9 +389,10 @@ const renderBack = () => {
 };
 ```
 
-- github: https://github.com/JungHsuan/react-native-gesture-flip-card
-
 ### react-native-image-crop-picker
+
+- github: https://github.com/ivpusic/react-native-image-crop-picker
+- npm: https://www.npmjs.com/package/react-native-image-crop-picker?activeTab=versions
 
 iOS/Android image picker with support for multiple images and cropping
 
@@ -407,9 +416,10 @@ ImagePicker.openPicker({
 });
 ```
 
-- github: https://github.com/ivpusic/react-native-image-crop-picker
-
 ### react-native-linear-gradient
+
+- github: https://github.com/react-native-linear-gradient/react-native-linear-gradient
+- npm: https://www.npmjs.com/package/react-native-linear-gradient?activeTab=versions
 
 A `<LinearGradient>` element for React Native.
 
@@ -427,9 +437,10 @@ import LinearGradient from 'react-native-linear-gradient';
 </LinearGradient>
 ```
 
-- github: https://github.com/react-native-linear-gradient/react-native-linear-gradient
-
 ### react-native-network-info
+
+- github: https://github.com/pusherman/react-native-network-info
+- npm: https://www.npmjs.com/package/react-native-network-info?activeTab=versions
 
 React Native library for getting information about the devices network.
 
@@ -449,9 +460,10 @@ NetworkInfo.getIPV4Address().then(ipv4Address => {
 ...
 ```
 
-- github: https://github.com/pusherman/react-native-network-info
-
 ### react-native-outside-press
+
+- github: https://github.com/dcangulo/react-native-outside-press
+- npm: https://www.npmjs.com/package/react-native-outside-press?activeTab=versions
 
 airbnb/react-outside-click-handler but for React Native.
 
@@ -488,9 +500,10 @@ export default function MyComponent() {
 }
 ```
 
-- github: https://github.com/dcangulo/react-native-outside-press
-
 ### react-native-progress
+
+- github: https://github.com/oblador/react-native-progress
+- npm: https://www.npmjs.com/package/react-native-progress?activeTab=versions
 
 Progress indicators and spinners for React Native using React Native SVG.
 
@@ -503,9 +516,10 @@ import * as Progress from 'react-native-progress';
 <Progress.CircleSnail color={['red', 'green', 'blue']} />
 ```
 
-- github: https://github.com/oblador/react-native-progress
-
 ### react-native-ratings
+
+- github: https://github.com/kolking/react-native-rating
+- npm: https://www.npmjs.com/package/react-native-rating?activeTab=versions
 
 An interactive rating component for React Native, which can display ratings using stars, hearts, emojis, or custom symbols of your choice. The component leverages the PanResponder and Animated APIs to create high-performing animations. It is written in TypeScript and has zero dependencies.
 
@@ -545,9 +559,10 @@ const styles = StyleSheet.create({
 export default App;
 ```
 
-- github: https://github.com/kolking/react-native-rating
-
 ### react-native-render-html
+
+- github: https://github.com/meliorence/react-native-render-html
+- npm: https://www.npmjs.com/package/react-native-render-html?activeTab=versions
 
 An iOS/Android pure javascript react-native component that renders your HTML into 100% native views.
 
@@ -574,9 +589,10 @@ export default function App() {
 }
 ```
 
-- github: https://github.com/meliorence/react-native-render-html
-
 ### react-native-sound
+
+- github: https://github.com/zmxv/react-native-sound
+- npm: https://www.npmjs.com/package/react-native-sound?activeTab=versions
 
 React Native module for playing sound clips on iOS, Android, and Windows. Be warned, this software is alpha quality and may have bugs. Test on your own and use at your own risk!
 
@@ -608,9 +624,10 @@ var whoosh = new Sound('whoosh.mp3', Sound.MAIN_BUNDLE, (error) => {
 });
 ```
 
-- github: https://github.com/zmxv/react-native-sound
-
 ### react-native-swiper
+
+- github: https://github.com/leecade/react-native-swiper
+- npm: https://www.npmjs.com/package/react-native-swiper?activeTab=versions
 
 The best Swiper component for React Native.
 
@@ -668,9 +685,10 @@ export default class SwiperComponent extends Component {
 AppRegistry.registerComponent('myproject', () => SwiperComponent)
 ```
 
-- github: https://github.com/leecade/react-native-swiper
-
 ### react-native-system-navigation-bar
+
+- github: https://github.com/kadiraydinli/react-native-system-navigation-bar
+- npm: https://www.npmjs.com/package/react-native-system-navigation-bar?activeTab=versions
 
 React Native lets you customize the navigation bar for Android.
 
@@ -684,9 +702,10 @@ SystemNavigationBar.immersive();
 ...
 ```
 
-- github: https://github.com/kadiraydinli/react-native-system-navigation-bar
-
 ### react-native-view-shot
+
+- github: https://github.com/gre/react-native-view-shot
+- npm: https://www.npmjs.com/package/react-native-view-shot?activeTab=versions
 
 Capture a React Native view to an image.
 
@@ -711,4 +730,530 @@ function ExampleCaptureOnMountManually {
 }
 ```
 
-- github: https://github.com/gre/react-native-view-shot
+### react-native-modal
+
+- github: https://github.com/react-native-modal/react-native-modal
+- npm: https://www.npmjs.com/package/react-native-modal?activeTab=versions
+
+An enhanced, animated, customizable React Native modal.
+
+The goal of react-native-modal is expanding the original React Native <Modal> component by adding animations, style customization options, and new features, while still providing a simple API.
+
+```
+import React, {useState} from 'react';
+import {Button, Text, View} from 'react-native';
+import Modal from 'react-native-modal';
+
+function ModalTester() {
+  const [isModalVisible, setModalVisible] = useState(false);
+
+  const toggleModal = () => {
+    setModalVisible(!isModalVisible);
+  };
+
+  return (
+    <View style={{flex: 1}}>
+      <Button title="Show modal" onPress={toggleModal} />
+
+      <Modal isVisible={isModalVisible}>
+        <View style={{flex: 1}}>
+          <Text>Hello!</Text>
+
+          <Button title="Hide modal" onPress={toggleModal} />
+        </View>
+      </Modal>
+    </View>
+  );
+}
+
+export default ModalTester;
+```
+
+### react-native-gesture-handler
+
+- github: https://github.com/software-mansion/react-native-gesture-handler
+- document: https://docs.swmansion.com/react-native-gesture-handler/docs/
+
+Gesture Handler provides a declarative API exposing the native platform's touch and gesture system to React Native. It's designed to be a replacement of React Native's built in touch system called Gesture Responder System. Using native touch handling allows to address the performance limitations of React Native's Gesture Responder System. It also provides more control over the platform's native components that can handle gestures on their own.
+
+### react-native-animatable
+
+- github: https://github.com/oblador/react-native-animatable
+- npm: https://www.npmjs.com/package/react-native-animatable?activeTab=versions
+
+Declarative transitions and animations for React Native.
+
+```
+import * as Animatable from 'react-native-animatable';
+
+class ExampleView extends Component {
+  handleViewRef = ref => this.view = ref;
+  
+  bounce = () => this.view.bounce(800).then(endState => console.log(endState.finished ? 'bounce finished' : 'bounce cancelled'));
+  
+  render() {
+    return (
+      <TouchableWithoutFeedback onPress={this.bounce}>
+        <Animatable.View ref={this.handleViewRef}>
+          <Text>Bounce me!</Text>
+        </Animatable.View>
+      </TouchableWithoutFeedback>
+    );
+  }
+}
+```
+
+### react-native-reanimated
+
+- github: https://github.com/software-mansion/react-native-reanimated/
+- npm: https://www.npmjs.com/package/react-native-reanimated?activeTab=versions
+- document: https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/getting-started/
+
+React Native Reanimated is a powerful animation library built by Software Mansion. With Reanimated, you can easily create smooth animations and interactions that run on the UI thread.
+
+```
+import { Button, View } from 'react-native';
+import Animated, { useSharedValue, withSpring } from 'react-native-reanimated';
+
+export default function App() {
+  const width = useSharedValue(100);
+
+  const handlePress = () => {
+    width.value = withSpring(width.value + 50);
+  };
+
+  return (
+    <View style={{ flex: 1, alignItems: 'center' }}>
+      <Animated.View
+        style={{
+          width,
+          height: 100,
+          backgroundColor: 'violet',
+        }}
+      />
+      <Button onPress={handlePress} title="Click me" />
+    </View>
+  );
+}
+```
+
+### react-native-permissions
+
+- github: https://github.com/zoontek/react-native-permissions
+- npm: https://www.npmjs.com/package/react-native-permissions?activeTab=versions
+
+An unified permissions API for React Native on iOS, Android and Windows.
+
+**check**
+
+```
+import {check, PERMISSIONS, RESULTS} from 'react-native-permissions';
+
+check(PERMISSIONS.IOS.CAMERA).then((status) => {
+  switch (status) {
+    case RESULTS.UNAVAILABLE:
+      return console.log('This feature is not available (on this device / in this context)');
+    case RESULTS.DENIED:
+      return console.log('The permission has not been requested / is denied but requestable');
+    case RESULTS.BLOCKED:
+      return console.log('The permission is denied and not requestable');
+    case RESULTS.GRANTED:
+      return console.log('The permission is granted');
+    case RESULTS.LIMITED:
+      return console.log('The permission is granted but with limitations');
+  }
+});
+```
+
+**request**
+
+```
+import {request, PERMISSIONS} from 'react-native-permissions';
+
+request(PERMISSIONS.IOS.CAMERA).then((status) => {
+  // …
+});
+```
+
+**checkMultiple**
+
+```
+import {checkMultiple, PERMISSIONS} from 'react-native-permissions';
+
+checkMultiple([PERMISSIONS.IOS.CAMERA, PERMISSIONS.IOS.FACE_ID]).then((statuses) => {
+  console.log('Camera', statuses[PERMISSIONS.IOS.CAMERA]);
+  console.log('FaceID', statuses[PERMISSIONS.IOS.FACE_ID]);
+});
+```
+
+**requestMultiple**
+
+```
+import {requestMultiple, PERMISSIONS} from 'react-native-permissions';
+
+requestMultiple([PERMISSIONS.IOS.CAMERA, PERMISSIONS.IOS.FACE_ID]).then((statuses) => {
+  console.log('Camera', statuses[PERMISSIONS.IOS.CAMERA]);
+  console.log('FaceID', statuses[PERMISSIONS.IOS.FACE_ID]);
+});
+```
+
+**openSettings**
+
+```
+import {openSettings} from 'react-native-permissions';
+
+openSettings('application').catch(() => console.warn('Cannot open app settings'));
+```
+
+### react-native-storage
+
+- github: https://github.com/sunnylqm/react-native-storage
+- npm: https://www.npmjs.com/package/react-native-storage?activeTab=versions
+
+This is a local storage wrapper for both react native apps (using AsyncStorage) and web apps (using localStorage). ES6 syntax, promise for async load, fully tested with jest.
+
+**Init**
+
+```
+import Storage from 'react-native-storage';
+import AsyncStorage from '@react-native-async-storage/async-storage';
+
+const storage = new Storage({
+  size: 1000,
+  storageBackend: AsyncStorage,
+  defaultExpires: 1000 * 3600 * 24,
+  enableCache: true,
+});
+
+export default storage;
+```
+
+**Save & Load & Remove**
+
+```
+var userA = {
+  name: 'A',
+  age: 20,
+  tags: ['geek', 'nerd', 'otaku']
+};
+
+storage.save({
+  key: 'user', // Note: Do not use underscore("_") in key!
+  id: '1001', // Note: Do not use underscore("_") in id!
+  data: userA,
+  expires: 1000 * 60
+});
+
+// load
+storage
+  .load({
+    key: 'user',
+    id: '1001'
+  })
+  .then(ret => {
+    // found data goes to then()
+    console.log(ret.userid);
+  })
+  .catch(err => {
+    // any exception including data not found
+    // goes to catch()
+    console.warn(err.message);
+    switch (err.name) {
+      case 'NotFoundError':
+        // TODO;
+        break;
+      case 'ExpiredError':
+        // TODO
+        break;
+    }
+  });
+
+// --------------------------------------------------
+
+// get all ids for "key-id" data under a key,
+// note: does not include "key-only" information (which has no ids)
+storage.getIdsForKey('user').then(ids => {
+  console.log(ids);
+});
+
+// get all the "key-id" data under a key
+// !! important: this does not include "key-only" data
+storage.getAllDataForKey('user').then(users => {
+  console.log(users);
+});
+
+// clear all "key-id" data under a key
+// !! important: "key-only" data is not cleared by this function
+storage.clearMapForKey('user');
+
+// --------------------------------------------------
+
+// remove a single record
+storage.remove({
+  key: 'lastPage'
+});
+storage.remove({
+  key: 'user',
+  id: '1001'
+});
+
+// clear map and remove all "key-id" data
+// !! important: "key-only" data is not cleared, and is left intact
+storage.clearMap();
+```
+
+### react-native-fs
+
+- github: https://github.com/itinance/react-native-fs
+- npm: https://www.npmjs.com/package/react-native-fs/v/2.9.7?activeTab=versions
+
+Native filesystem access for react-native.
+
+```
+// require the module
+var RNFS = require('react-native-fs');
+
+// get a list of files and directories in the main bundle
+RNFS.readDir(RNFS.MainBundlePath) // On Android, use "RNFS.DocumentDirectoryPath" (MainBundlePath is not defined)
+  .then((result) => {
+    console.log('GOT RESULT', result);
+
+    // stat the first file
+    return Promise.all([RNFS.stat(result[0].path), result[0].path]);
+  })
+  .then((statResult) => {
+    if (statResult[0].isFile()) {
+      // if we have a file, read it
+      return RNFS.readFile(statResult[1], 'utf8');
+    }
+
+    return 'no file';
+  })
+  .then((contents) => {
+    // log the file contents
+    console.log(contents);
+  })
+  .catch((err) => {
+    console.log(err.message, err.code);
+  });
+```
+
+### react-native-webview
+
+- github: https://github.com/react-native-webview/react-native-webview
+- npm: https://www.npmjs.com/package//react-native-webview?activeTab=versions
+- document: https://github.com/react-native-webview/react-native-webview/blob/master/docs/Guide.md
+
+React Native WebView is a community-maintained WebView component for React Native. It is intended to be a replacement for the built-in WebView (which was removed from core).
+
+```
+import React, { Component } from 'react';
+import { WebView } from 'react-native-webview';
+
+class MyWeb extends Component {
+  render() {
+    return <WebView source={{ uri: 'https://reactnative.dev/' }} />;
+  }
+}
+```
+
+### react-native-paper
+
+- github: https://github.com/callstack/react-native-paper
+- npm: https://www.npmjs.com/package/react-native-paper?activeTab=versions
+- document: https://callstack.github.io/react-native-paper/docs/guides/getting-started/
+- components: https://callstack.github.io/react-native-paper/docs/components/ActivityIndicator
+
+React Native Paper is the cross-platform UI kit library containing a collection of customizable and production-ready components, which by default are following and respecting the Google’s Material Design guidelines.
+
+Wrap your root component in PaperProvider from react-native-paper(if you are using versions prior to 5.8.0 you need to use Provider). 
+
+```
+import * as React from 'react';
+import {MD3LightTheme as DefaultTheme, PaperProvider} from 'react-native-paper';
+import App from './src/App';
+
+const theme = {
+  ...DefaultTheme,
+  colors: {
+    ...DefaultTheme.colors,
+    primary: 'tomato',
+    secondary: 'yellow',
+  },
+};
+
+export default function Main() {
+  return (
+    <PaperProvider theme={theme}>
+      <App />
+    </PaperProvider>
+  );
+}
+```
+
+**ActivityIndicator**
+
+Activity indicator is used to present progress of some activity in the app. It can be used as a drop-in replacement for the ActivityIndicator shipped with React Native.
+
+```
+import * as React from 'react';
+import { ActivityIndicator, MD2Colors } from 'react-native-paper';
+
+const MyComponent = () => (
+  <ActivityIndicator animating={true} color={MD2Colors.red800} />
+);
+
+export default MyComponent;
+```
+
+### react-native-pager-view
+
+- github: https://github.com/callstack/react-native-pager-view
+- npm: https://www.npmjs.com/package/react-native-pager-view/v/5.1.5?activeTab=versions
+
+This component allows the user to swipe left and right through pages of data. Under the hood it is using the native Android ViewPager and the iOS UIPageViewController implementations.
+
+```
+import React from 'react';
+import { StyleSheet, View, Text } from 'react-native';
+import PagerView from 'react-native-pager-view';
+
+const MyPager = () => {
+  return (
+    <PagerView style={styles.pagerView} initialPage={0}>
+      <View key="1">
+        <Text>First page</Text>
+      </View>
+      <View key="2">
+        <Text>Second page</Text>
+      </View>
+    </PagerView>
+  );
+};
+
+const styles = StyleSheet.create({
+  pagerView: {
+    flex: 1,
+  },
+});
+```
+
+### react-native-keyboard-controller
+
+- github: https://github.com/kirillzyusko/react-native-keyboard-controller
+- npm: https://www.npmjs.com/package/react-native-keyboard-controller?activeTab=versions
+
+A universal keyboard handling solution for React Native — lightweight, fully customizable, and built for real-world apps. Smooth animations, consistent behavior on both iOS and Android, with a developer-oriented design.
+
+```
+import { TextInput, View, StyleSheet } from 'react-native';
+import { KeyboardAwareScrollView, KeyboardToolbar } from 'react-native-keyboard-controller';
+
+export default function FormScreen() {
+  return (
+    <>
+      <KeyboardAwareScrollView bottomOffset={62} contentContainerStyle={styles.container}>
+        <View>
+          <TextInput placeholder="Type a message..." style={styles.textInput} />
+          <TextInput placeholder="Type a message..." style={styles.textInput} />
+        </View>
+        <TextInput placeholder="Type a message..." style={styles.textInput} />
+        <View>
+          <TextInput placeholder="Type a message..." style={styles.textInput} />
+          <TextInput placeholder="Type a message..." style={styles.textInput} />
+          <TextInput placeholder="Type a message..." style={styles.textInput} />
+        </View>
+        <TextInput placeholder="Type a message..." style={styles.textInput} />
+      </KeyboardAwareScrollView>
+      <KeyboardToolbar />
+    </>
+  );
+}
+```
+
+### @react-native-community/hooks
+
+- github: https://github.com/react-native-community/hooks
+- npm: https://www.npmjs.com/package/@react-native-community/hooks?activeTab=versions
+
+React Native APIs turned into React Hooks allowing you to access asynchronous APIs directly in your functional components.
+
+**useBackHandler**
+
+```
+import {useBackHandler} from '@react-native-community/hooks'
+
+useBackHandler(() => {
+  if (shouldBeHandledHere) {
+    // handle it
+    return true
+  }
+  // let the default thing happen
+  return false
+},[shouldBeHandledHere])
+```
+
+**useImageDimensions**
+
+```
+import {useImageDimensions} from '@react-native-community/hooks'
+
+const source = require('./assets/yourImage.png')
+// or
+const source = {uri: 'https://your.image.URI'}
+
+const {dimensions, loading, error} = useImageDimensions(source)
+
+if (loading || error || !dimensions) {
+  return null
+}
+const {width, height, aspectRatio} = dimensions
+```
+
+### @react-native-camera-roll/camera-roll
+
+- github: https://github.com/react-native-cameraroll/react-native-cameraroll
+- npm: https://www.npmjs.com/package/@react-native-camera-roll/camera-roll?activeTab=versions
+
+`CameraRoll` provides access to the local camera roll or photo library.
+
+```
+import { CameraRoll } from "@react-native-camera-roll/camera-roll";
+```
+
+**save()**
+
+```
+CameraRoll.save(tag, { type, album })
+```
+
+Saves the photo or video to the photo library, and returns the URI of the newly created asset. The tag must be a local image or video URI, such as "file:///sdcard/img.png". Returns a Promise which will resolve with the new URI.
+
+**getAlbums()**
+
+```
+CameraRoll.getAlbums(params);
+```
+
+Returns a Promise with a list of albums.
+
+**useCameraRoll()**
+
+`useCameraRoll` is a utility hooks for the CameraRoll module.
+
+```
+import React, {useEffect} from 'react';
+import {Button} from 'react-native';
+import {useCameraRoll} from "@react-native-camera-roll/camera-roll";
+
+function Example() {
+  const [photos, getPhotos, save] = useCameraRoll();
+
+  return <>
+    <Button title='Get Photos' onPress={() => getPhotos()}>Get Photos</Button>
+    {
+      photos.map((photo, index) => /* render photos */)
+    }
+  </>;
+};
+```
