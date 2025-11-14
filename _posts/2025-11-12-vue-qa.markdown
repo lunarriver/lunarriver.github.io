@@ -688,6 +688,299 @@ import { myInjectionKey } from './keys.js'
 const injected = inject(myInjectionKey)
 ```
 
+### 异步组件
+
+在大型项目中，我们可能需要拆分应用为更小的块，Vue 提供了 defineAsyncComponent 方法来实现此功能：
+
+```
+import { defineAsyncComponent } from 'vue'
+
+const AsyncComp = defineAsyncComponent(() =>
+  import('./components/MyComponent.vue')
+)
+```
+
+ES 模块动态导入也会返回一个 Promise，所以多数情况下我们会将它和 defineAsyncComponent 搭配使用。
+
+最后得到的 AsyncComp 是一个外层包装过的组件，仅在页面需要它渲染时才会调用加载内部实际组件的函数。
+
+异步操作不可避免地会涉及到加载和错误状态，因此 defineAsyncComponent() 也支持在高级选项中处理这些状态：
+
+```
+const AsyncComp = defineAsyncComponent({
+  // 加载函数
+  loader: () => import('./Foo.vue'),
+
+  // 加载异步组件时使用的组件
+  loadingComponent: LoadingComponent,
+  // 展示加载组件前的延迟时间，默认为 200ms
+  delay: 200,
+
+  // 加载失败后展示的组件
+  errorComponent: ErrorComponent,
+  // 如果提供了一个 timeout 时间限制，并超时了
+  // 也会显示这里配置的报错组件，默认值是：Infinity
+  timeout: 3000
+})
+```
+
+在纯客户端应用中，异步组件的主要作用是：
+
+- 代码分割：将组件打包成独立的 JS chunk，按需加载，而不是一次性加载所有代码。进而可以实现——初始包体积更小（首屏加载更快） ；按需加载，节省带宽；未访问的功能不会被下载；
+
+- 性能优化：避免阻塞主包，进而实现主应用秒开（加载较慢的组件采用异步加载），只有用户真正需要时才加载重型组件；
+
+- 渐进式加载的用户体验：显示加载状态，避免白屏；建立错误边界，增强健壮性；用户感知更流畅；
+
+- 功能模块化：大型应用架构的基础，团队分工更清晰（不同模块独立开发），部署更灵活（可单独更新模块），缓存更高效（小 chunk 更新不影响大 chunk）；
+
+纯客户端中的异步组件典型用法：
+
+- 路由懒加载（最常见）
+
+```
+const routes = [
+  {
+    path: '/profile',
+    component: () => import('./views/Profile.vue')
+  }
+]
+```
+
+- 功能模块懒加载
+
+```
+<script setup>
+const AdvancedEditor = defineAsyncComponent(() => 
+  import('./AdvancedEditor.vue')
+)
+</script>
+```
+
+- 条件渲染优化
+
+```
+<script setup>
+const ChartModule = defineAsyncComponent(() => 
+  import('./ChartModule.vue')
+)
+
+const showChart = computed(() => userPreferences.showChart)
+</script>
+
+<template>
+  <ChartModule v-if="showChart" />
+</template>
+```
+
+- 第三方库封装
+
+```
+<script setup>
+// 封装重型第三方库
+const MonacoEditor = defineAsyncComponent(async () => {
+  // 可以添加额外逻辑
+  await import('monaco-editor/min/vs/editor/editor.main.css')
+  return import('./MonacoEditor.vue')
+})
+</script>
+```
+
+### 组合式函数
+
+“组合式函数”(Composables) 是一个利用 Vue 的组合式 API 来封装和复用有状态逻辑的函数。
+
+```
+import { ref, watchEffect, toValue } from 'vue'
+
+export function useFetch(url) {
+  const data = ref(null)
+  const error = ref(null)
+
+  const fetchData = () => {
+    // reset state before fetching..
+    data.value = null
+    error.value = null
+
+    fetch(toValue(url))
+      .then((res) => res.json())
+      .then((json) => (data.value = json))
+      .catch((err) => (error.value = err))
+  }
+
+  watchEffect(() => {
+    fetchData()
+  })
+
+  return { data, error }
+}
+```
+
+toValue()将 ref 或 getter 规范化为值。如果参数是 ref，它会返回 ref 的值；如果参数是函数，它会调用函数并返回其返回值。否则，它会原样返回参数。
+
+watchEffect()立即运行一个函数，同时响应式地追踪其依赖，并在依赖更改时重新执行。
+
+toValue(url) 是在 watchEffect 回调函数的内部调用的。这确保了在 toValue() 规范化期间访问的任何响应式依赖项都会被侦听器跟踪。
+
+约定和最佳实践：
+
+- 组合式函数约定用驼峰命名法命名，并以“use”作为开头。
+
+- 输入参数：即便不依赖于 ref 或 getter 的响应性，组合式函数也可以接收它们作为参数。亦即，总是使用toValue()取得输入值。
+
+- 组合式函数始终返回一个包含多个 ref 的普通的非响应式对象，这样该对象在组件中被解构为 ref 之后仍可以保持响应性。
+
+- 在组合式函数中的确可以执行副作用，但需要确保在 onUnmounted() 时清理副作用。
+
+- 组合式函数只能在 <script setup> 或 setup() 钩子中被调用。在这些上下文中，它们也只能被同步调用。这些限制很重要，因为这些是 Vue 用于确定当前活跃的组件实例的上下文。访问活跃的组件实例很有必要，这样才能： 将生命周期钩子注册到该组件实例上；将计算属性和监听器注册到该组件实例上，以便在该组件被卸载时停止监听，避免内存泄漏。
+
+### 自定义指令
+
+自定义指令主要是为了重用涉及普通元素的底层 DOM 访问的逻辑。
+
+一个自定义指令由一个包含类似组件生命周期钩子的对象来定义。钩子函数会接收到指令所绑定元素作为其参数。
+
+```
+<script setup>
+// 在模板中启用 v-highlight
+const vHighlight = {
+  mounted: (el) => {
+    el.classList.add('is-highlight')
+  }
+}
+</script>
+
+<template>
+  <p v-highlight>This sentence is important!</p>
+</template>
+```
+
+### 插件
+
+插件 (Plugins) 是一种能为 Vue 添加全局功能的工具代码。下面是如何安装一个插件的示例：
+
+```
+import { createApp } from 'vue'
+
+const app = createApp({})
+
+app.use(myPlugin, {
+  /* 可选的选项 */
+})
+```
+
+一个插件可以是一个拥有 install() 方法的对象，也可以直接是一个安装函数本身。安装函数会接收到安装它的应用实例和传递给 app.use() 的额外选项作为参数：
+
+```
+const myPlugin = {
+  install(app, options) {
+    // 配置此应用
+  }
+}
+```
+
+插件没有严格定义的使用范围，但是插件发挥作用的常见场景主要包括以下几种：
+
+- 通过 app.component() 和 app.directive() 注册一到多个全局组件或自定义指令。
+
+- 通过 app.provide() 使一个资源可被注入进整个应用。
+
+- 向 app.config.globalProperties 中添加一些全局实例属性或方法
+
+- 一个可能上述三种都包含了的功能库 (例如 vue-router)。
+
+### KeepAlive
+
+<KeepAlive> 是一个内置组件，它的功能是在多个组件间动态切换时缓存被移除的组件实例。
+
+```
+<component :is="activeComponent" />
+```
+
+默认情况下，一个组件实例在被替换掉后会被销毁。这会导致它丢失其中所有已变化的状态——当这个组件再一次被显示时，会创建一个只带有初始状态的新实例。
+
+可以用 <KeepAlive> 内置组件将这些动态组件包装起来：
+
+```
+<!-- 非活跃的组件将会被缓存！ -->
+<KeepAlive>
+  <component :is="activeComponent" />
+</KeepAlive>
+```
+
+<KeepAlive> 默认会缓存内部的所有组件实例，但我们可以通过 include 和 exclude prop 来定制该行为。
+
+```
+<KeepAlive :include="['a', 'b']">
+  <component :is="view" />
+</KeepAlive>
+```
+
+可以通过传入 max prop 来限制可被缓存的最大组件实例数。<KeepAlive> 的行为在指定了 max 后类似一个 LRU 缓存。
+
+```
+<KeepAlive :max="10">
+  <component :is="activeComponent" />
+</KeepAlive>
+```
+
+当一个组件实例从 DOM 上移除但因为被 <KeepAlive> 缓存而仍作为组件树的一部分时，它将变为不活跃状态而不是被卸载。当一个组件实例作为缓存树的一部分插入到 DOM 中时，它将重新被激活。
+
+一个持续存在的组件可以通过 onActivated() 和 onDeactivated() 注册相应的两个状态的生命周期钩子：
+
+```
+<script setup>
+import { onActivated, onDeactivated } from 'vue'
+
+onActivated(() => {
+  // 调用时机为首次挂载
+  // 以及每次从缓存中被重新插入时
+})
+
+onDeactivated(() => {
+  // 在从 DOM 上移除、进入缓存
+  // 以及组件卸载时调用
+})
+</script>
+```
+
+### Teleport
+
+<Teleport> 是一个内置组件，它可以将一个组件内部的一部分模板“传送”到该组件的 DOM 结构外层的位置去。
+
+它用于解决这样的问题：一个组件模板的一部分在逻辑上从属于该组件，但从整个应用视图的角度来看，它在 DOM 中应该被渲染在其他地方，甚至在整个 Vue 应用外部。
+
+这类场景最常见的例子就是全屏的模态框。
+
+```
+<button @click="open = true">Open Modal</button>
+
+<Teleport to="body">
+  <div v-if="open" class="modal">
+    <p>Hello from the modal!</p>
+    <button @click="open = false">Close</button>
+  </div>
+</Teleport>
+```
+
+<Teleport> 接收一个 to prop 来指定传送的目标。to 的值可以是一个 CSS 选择器字符串，也可以是一个 DOM 元素对象。这段代码的作用就是告诉 Vue“把以下模板片段传送到 body 标签下”。
+
+### 单文件组件是如何工作的
+
+Vue 单文件组件是一个框架指定的文件格式，因此必须交由 @vue/compiler-sfc 编译为标准的 JavaScript 和 CSS，一个编译后的单文件组件是一个标准的 JavaScript(ES) 模块，这也意味着在构建配置正确的前提下，你可以像导入其他 ES 模块一样导入单文件组件：
+
+```
+import MyComponent from './MyComponent.vue'
+
+export default {
+  components: {
+    MyComponent
+  }
+}
+```
+
+单文件组件中的 <style> 标签一般会在开发时注入成原生的 <style> 标签以支持热更新，而生产环境下它们会被抽取、合并成单独的 CSS 文件。
+
 ### Vue-Router中的历史模式
 
 - vue-router-doc: https://router.vuejs.org/zh/guide/essentials/history-mode.html
