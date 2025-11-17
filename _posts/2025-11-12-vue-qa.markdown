@@ -5,7 +5,7 @@ date:   2025-11-12 14:04:00 +0800
 ---
 
 * 目录
-  {:toc #markdown-toc}
+{:toc #markdown-toc}
 
 ### ref 与 reactive
 
@@ -1045,3 +1045,28 @@ hash模式的工作流程：
 - 避免 404 风险：如果用户直接访问 http://app.com/about（History 模式），但服务器未配置 fallback，会返回 404；Hash 模式下，http://app.com/#/about 始终加载 index.html，前端再处理路由
 
 除了上述两种外，`createMemoryHistory`是 Vue Router 提供的一种特殊路由历史记录模式，它不依赖浏览器的 URL 或 History API，而是将路由状态完全保存在内存中（JavaScript 对象）。它主要用在服务端渲染（SSR）的场景中。（在 Node.js 环境中渲染 Vue 应用时，没有 window、document、history 等浏览器 API）
+
+### 在组件外使用 Pinia Store
+
+Pinia store 依靠 pinia 实例在所有调用中共享同一个 store 实例。大多数时候，只需调用你定义的 useStore() 函数，完全开箱即用。但在组件之外，情况就有点不同了。 实际上，useStore() 给你的 app 自动注入了 pinia 实例。这意味着，如果 pinia 实例不能自动注入，你必须手动提供给 useStore() 函数。
+
+对于单页面应用（SPA），在用 app.use(pinia) 安装 pinia 插件后，对 useStore() 的任何调用都会正常执行：
+
+```
+import { useUserStore } from '@/stores/user'
+import { createPinia } from 'pinia'
+import { createApp } from 'vue'
+import App from './App.vue'
+
+// 失败，因为它是在创建 pinia 之前被调用的
+const userStore = useUserStore()
+
+const pinia = createPinia()
+const app = createApp(App)
+app.use(pinia)
+
+// 成功，因为 pinia 实例现在激活了
+const userStore = useUserStore()
+```
+
+当处理服务端渲染时，你将必须把 pinia 实例传递给 useStore()。
