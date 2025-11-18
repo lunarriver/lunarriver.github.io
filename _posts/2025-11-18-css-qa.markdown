@@ -1,0 +1,376 @@
+---
+layout: post
+title:  "CSS Q&A"
+date:   2025-11-18 15:16:00 +0800
+---
+
+* 目录
+  {:toc #markdown-toc}
+
+### 盒模型
+
+当对一个文档进行布局（lay out）的时候，浏览器的渲染引擎会根据标准之一的 CSS 基础框盒模型（CSS basic box model），将所有元素表示为一个个矩形的盒子（box）。CSS 决定这些盒子的大小、位置以及属性（例如颜色、背景、边框尺寸…）。
+
+每个盒子由四个部分（或称区域）组成，其效用由它们各自的边界（Edge）所定义。每个盒子有四个边界：
+
+- 内容边界 Content edge
+
+- 内边距边界 Padding Edge
+
+- 边框边界 Border Edge
+
+- 外边框边界 Margin Edge
+
+**内容区域（content area）**
+
+由内容边界限制，容纳着元素的“真实”内容，例如文本、图像，或是一个视频播放器。它的尺寸为内容宽度（或称 content-box 宽度）和内容高度（或称 content-box 高度）。
+
+如果 box-sizing 为 content-box（默认），则内容区域的大小可明确地通过 width、min-width、max-width、height、min-height 和 max-height 控制。
+
+它通常含有一个背景颜色（默认颜色为透明）或背景图像。
+
+**内边距区域（padding area）**
+
+由内边距边界限制，扩展自内容区域，负责延伸内容区域的背景，填充元素中内容与边框的间距。它的尺寸是 padding-box 宽度 和 padding-box 高度。内边距的粗细可以由 padding-top、padding-right、padding-bottom、padding-left，和简写属性 padding 控制。
+
+**边框区域（border area）**
+
+由边框边界限制，扩展自内边距区域，是容纳边框的区域。其尺寸为 border-box 宽度和 border-box 高度。边框的粗细由 border-width 和简写的 border 属性控制。
+
+如果 box-sizing 属性被设为 border-box，那么边框区域的大小可明确地通过 width、min-width, max-width、height、min-height，和 max-height 属性控制。
+
+假如框盒上设有背景（background-color 或 background-image），背景将会一直延伸至边框的外沿（默认为在边框下层延伸，边框会盖在背景上）。此默认表现可通过 CSS 属性 background-clip 来改变。
+
+**外边距区域（margin area）**
+
+由外边距边界限制，用空白区域扩展边框区域，以分开相邻的元素。它的尺寸为 margin-box 宽度和 margin-box 高度。
+
+外边距区域的大小由 margin-top、margin-right、margin-bottom、margin-left，和简写属性 margin 控制。在发生外边距合并的情况下，由于盒之间共享外边距，外边距不容易弄清楚。
+
+### 外边距折叠
+
+区块的上下外边距有时会合并（折叠）为单个边距，其大小为两个边距中的最大值（或如果它们相等，则仅为其中一个），这种行为称为外边距折叠。
+
+有三种情况会形成外边距折叠：
+
+**相邻的兄弟元素**
+
+```
+<div class="box1">Box 1</div>
+<div class="box2">Box 2</div>
+
+.box1 { margin-bottom: 20px; }
+.box2 { margin-top: 30px; }
+```
+
+预期间距：20 + 30 = 50px
+
+实际间距：30px（取较大值）
+
+**父元素与第一个/最后一个子元素**
+
+```
+<div class="parent">
+  <div class="child">Child</div>
+</div>
+
+.parent { margin-top: 20px; }
+.child  { margin-top: 30px; }
+```
+
+如果 .parent 没有边框、内边距、行内内容、创建 BFC，则父子 margin 会折叠。
+
+结果：.parent 外部看起来有 30px 上边距（不是 20px，也不是 50px）。
+
+**空块级元素**
+
+```
+<div style="margin-top: 20px; margin-bottom: 30px;"></div>
+```
+
+该元素无内容、无 padding、无 border，上下 margin 折叠，实际高度为 30px（取大值）。
+
+什么情况下不会发生外边距折叠？
+
+| 条件                          | 说明                                                                     |
+| --------------------------- | ---------------------------------------------------------------------- |
+| **存在 border 或 padding**     | 父元素有`border-top`或`padding-top`，可阻止与子元素的 margin 折叠                      |
+| **创建了 BFC（块格式化上下文）**        | 如`overflow: hidden`、`display: flow-root`、`float`、`position: absolute`等 |
+| **元素是 flex 或 grid 容器的直接子项** | Flex/Grid 布局中，子项的 margin**不会折叠**                                       |
+| **水平方向 margin**             | `margin-left`/`margin-right`永远不折叠                                      |
+| **使用`gap`的现代布局**            | Flex/Grid 中用`gap`替代 margin，避免问题                                        |
+
+### BFC
+
+BFC（Block Formatting Context，块级格式化上下文） 是 Web 布局中的一个核心概念，它是一个独立的渲染区域，内部的元素布局不会影响外部，外部的布局也不会干扰内部。
+
+可以把它理解为页面中的一个“隔离沙盒”——在这个沙盒里，元素按照自己的规则排版，与外界互不干扰。
+
+BFC 主要解决以下常见布局问题：
+
+| 问题                         | BFC 如何解决                 |
+| -------------------------- | ------------------------ |
+| **外边距折叠（Margin Collapse）** | BFC 内部的 margin 不会与外部元素折叠 |
+| **浮动元素导致父容器高度塌陷**          | BFC 容器会包含浮动子元素，计算高度时将其纳入 |
+| **文字环绕浮动元素**               | BFC 区域不会与浮动元素重叠，形成“避让”   |
+
+只要满足以下任一条件，元素就会创建一个新的 BFC：
+
+| 触发方式                                                                            | 示例                                 |
+| ------------------------------------------------------------------------------- | ---------------------------------- |
+| `float`不为`none`                                                                 | `float: left`                      |
+| `position`为`absolute`或`fixed`                                                   | `position: absolute`               |
+| `display`为`inline-block`、`table-cell`、`table-caption`、`flex`、`grid`、`flow-root` | `display: flow-root`（推荐）           |
+| `overflow`不为`visible`                                                           | `overflow: hidden`/`auto`/`scroll` |
+| `contain`为`layout`、`content`、`paint`等                                           | `contain: layout`                  |
+
+### css 尺寸单位
+
+CSS 中的尺寸单位用于定义长度、宽度、间距、字体大小等。它们分为 绝对单位、相对单位 和 特殊单位 三大类。
+
+**绝对单位（Absolute Units）**
+
+适用于物理尺寸固定的场景（如打印样式），但在屏幕显示中不推荐用于布局，因为无法适配不同设备。
+
+| 单位   | 含义                       | 示例                       |
+| ---- | ------------------------ | ------------------------ |
+| `px` | 像素（CSS 像素，非物理像素）         | `font-size: 16px;`       |
+| `in` | 英寸（1in = 96px）           | `margin: 1in;`           |
+| `cm` | 厘米（1cm ≈ 37.8px）         | `width: 10cm;`           |
+| `mm` | 毫米                       | `height: 50mm;`          |
+| `pt` | 点（1pt = 1/72in ≈ 1.33px） | 常用于打印：`font-size: 12pt;` |
+
+`px`虽是“绝对单位”，但现代浏览器会根据设备像素比（DPR）进行缩放，并非真正的物理像素。
+
+**相对单位（Relative Units）**
+
+相对于字体大小：
+
+| 单位    | 相对于                           | 特点               |
+| ----- | ----------------------------- | ---------------- |
+| `em`  | **当前元素的`font-size`**          | 可继承、可级联（嵌套时会放大）  |
+| `rem` | **根元素（`<html>`）的`font-size`** | 不受嵌套影响，推荐用于布局和间距 |
+
+相对于视口：
+
+| 单位     | 含义             | 适用场景       |
+| ------ | -------------- | ---------- |
+| `vw`   | 视口宽度的 1%       | 全屏横幅、响应式宽度 |
+| `vh`   | 视口高度的 1%       | 全屏容器、英雄区域  |
+| `vmin` | `vw`和`vh`中的较小值 | 正方形响应式元素   |
+| `vmax` | `vw`和`vh`中的较大值 | 大屏适配       |
+
+相对于父容器：
+
+| 单位   | 含义                      | 说明                                |
+| ---- | ----------------------- | --------------------------------- |
+| `%`  | 父元素对应尺寸的百分比             | `width: 50%`= 父容器宽度的一半            |
+| `fr` | **Grid 布局专用**，表示剩余空间的比例 | `grid-template-columns: 1fr 2fr;` |
+
+**特殊单位与函数**
+
+calc() —— 动态计算
+
+```
+.width {
+  width: calc(100% - 40px); /* 百分比减去固定值 */
+  font-size: calc(1rem + 0.5vw); /* 响应式字体 */
+}
+```
+
+clamp() —— 响应式范围限制
+
+```
+h1 {
+  font-size: clamp(1.5rem, 4vw, 3rem);
+  /* 最小 1.5rem，理想 4vw，最大 3rem */
+}
+```
+
+min() / max()
+
+```
+.container {
+  width: min(80%, 800px); /* 取较小值 */
+  padding: max(1rem, 2vw); /* 取较大值 */
+}
+```
+
+### 元素堆叠
+
+**堆叠时不使用 z-index 属性**
+
+当没有在任何元素上指定 z-index 属性时，元素的堆叠顺序如下（从下到上）：
+
+- 根元素的背景和边框
+
+- 后代非定位元素，按在 HTML 中出现的顺序排列
+
+- 后代定位元素，按在 HTML 中出现的顺序排列
+
+![img](../../../assets/css-qa/element-pile-1.png)
+
+**层叠与浮动**
+
+浮动块元素被放置于非定位块元素与定位块元素之间：
+
+- 根元素的背景和边框
+
+- 后代非定位元素，按在 HTML 中出现的顺序排列
+
+- 浮动块元素
+
+- 后代定位元素，按在 HTML 中出现的顺序排列
+
+![img](../../../assets/css-qa/element-pile-2.png)
+
+**使用 z-index**
+
+z-index 必须是整数 (正负均可，默认为0)，它体现了元素在 z 轴的位置。z 轴上的每个层都有一个顺序数，顺序数大的层在上面，小的在下面。
+
+- z-index 只对指定了 positioned 属性的元素有效。
+
+- 当没有指定 z-index 的时候，所有元素都在会被渲染在默认层（0 层）。
+
+- 当多个元素的 z-index 属性相同的时候（在同一个层里面），那么将按照“堆叠时不使用 z-index 属性”中描述的规则进行布局。
+
+**层叠上下文**
+
+层叠上下文指的是：元素按照默认顺序堆叠，或依据 z-index 值堆叠的上下文元素。在同个上下文下，默认规则起作用。重要的是，其子级层叠上下文的 z-index 值只在父级中才有意义。子级层叠上下文被自动视为父级层叠上下文的一个独立单元。
+
+- 层叠上下文可以包含在其他层叠上下文中，并且一起创建一个层叠上下文的层级。 
+
+- 每个层叠上下文都完全独立于它的兄弟元素：当处理层叠时只考虑子元素。 
+
+- 每个层叠上下文都是自包含的：当一个元素的内容发生层叠后，该元素将被作为整体在父级层叠上下文中按顺序进行层叠。
+
+文档中的层叠上下文由满足以下任意一个条件的元素形成：
+
+- 文档根元素（<html>）；
+
+- position 值为 absolute（绝对定位）或 relative（相对定位）且 **z-index 值不为 auto** 的元素；
+
+- position 值为 fixed（固定定位）或 sticky（粘滞定位）的元素（沾滞定位适配所有移动设备上的浏览器，但老的桌面浏览器不支持）；
+
+- flex (flex) 容器的子元素，且 z-index 值不为 auto；
+
+- grid (grid) 容器的子元素，且 z-index 值不为 auto；
+
+- opacity 属性值小于 1 的元素（参见 the specification for opacity）；
+
+- mix-blend-mode 属性值不为 normal 的元素；
+
+- 特定属性值不为 none 的元素： transform、filter、backdrop-filter、perspective、clip-path、mask / mask-image / mask-border；（以及 isolation 属性值为 isolate 的元素）
+
+- will-change 值设定了任一属性而该属性在 non-initial 值时会创建层叠上下文的元素（参考这篇文章）；
+
+- contain 属性值为 layout、paint 或包含它们其中之一的合成值（比如 contain: strict、contain: content）的元素。
+
+**根元素作为层叠上下文**
+
+![img](../../../assets/css-qa/element-pile-3.png)
+
+![img](../../../assets/css-qa/element-pile-4.png)
+
+![img](../../../assets/css-qa/element-pile-5.png)
+
+该示例中，DIV #1 和 DIV #3 没有设置 z-index 的值，所以它们不会创建层叠上下文。这就意味着 DIV #1 和 DIV #3 的所有内容（包括 DIV #2 和 DIV #4）都属于同一个层叠上下文（即根元素的层叠上下文）。
+
+**创建层叠上下文**
+
+![img](../../../assets/css-qa/element-pile-6.png)
+
+该示例中，DIV #2 (z-index: 2) 在 DIV #4 (z-index: 10) 的上面，尽管 DIV #2 的 z-index 值小于 DIV #4。原因在于它们不属于同一个层叠上下文。DIV #4 处于 DIV #3 所创建的层叠上下文中，而整个 DIV #3（包含其后代元素）是在 DIV #2 下面的。
+
+![img](../../../assets/css-qa/element-pile-7.png)
+
+该示例中，一级菜单仅仅是相对定位，所以没有创建层叠上下文。
+
+二级菜单相对其父元素（一级菜单）绝对定位，要使二级菜单在所有一级菜单的上方，则需要使用 z-index。此时每个二级菜单都创建了一个层叠上下文，而三级菜单也处于其父元素（二级菜单）创建的上下文中。
+
+这样一来，在 HTML 结构中处于三级菜单后面的二级菜单，则会显示在三级菜单的上方，因为所有的二级菜单都使用了同样的 z-index 值，所以处于同一个层叠上下文中。
+
+### display: inline-block
+
+display: inline-block 是 CSS 中一个非常实用的布局属性值，它结合了 inline（内联）和 block（块级）元素的特性，常用于需要“水平排列 + 设置宽高”的场景。
+
+| 属性                    | `display: inline` | `display: inline-block` | `display: block` |
+| --------------------- | ----------------- | ----------------------- | ---------------- |
+| 是否独占一行                | 否                 | 否                       | 是                |
+| 能否设置宽高                | 不能（忽略）            | 能                       | 能                |
+| 能否设置上下 margin/padding | 可设但不影响布局（垂直方向无效）  | 完全有效                    | 完全有效             |
+| 内容是否换行                | 是（文本流）            | 否（默认）                   | 是                |
+
+
+### css 选择器
+
+**伪类**
+
+伪类是选择器的一种，它用于选择处于特定状态的元素，比如当它们是这一类型的第一个元素时，或者是当鼠标指针悬浮在元素上面的时候。
+
+例如，:hover伪类会在鼠标指针悬浮到一个元素上的时候选择这个元素：
+
+```
+a:hover { }
+```
+
+注意，`article p:first-child` 选中的是 <article> 下第一个 <p>，而不是 <p> 下的第一个元素。
+
+```
+article p:first-child {
+  font-size: 120%;
+  font-weight: bold;
+}
+```
+
+**伪元素**
+
+伪元素以类似方式表现。不过表现得是像你往标记文本中加入全新的 HTML 元素一样，而不是向现有的元素上应用类。
+
+例如，::first-line是会选择一个元素（下面的情况中是<p>）中的第一行：
+
+```
+p::first-line { }
+```
+
+**关系选择器**
+
+后代选择器通常用单个空格字符来组合两个选择器。当第二个选择器匹配的元素存在一个祖先元素（父元素、祖父元素等）与第一个选择器匹配时，该元素就会被选中。
+
+```
+body article p
+```
+
+子代关系选择器是个大于号（>），只会在选择器选中直接子元素的时候匹配。继承关系上更远的后代则不会匹配。
+
+```
+article > p
+```
+
+邻接兄弟选择器（+）用来选中恰好处于另一个在继承关系上同级的元素旁边的物件。例如，选中所有紧随<p>元素之后的<img>元素：
+
+```
+p + img
+```
+
+如果你想选中一个元素的兄弟元素，即使它们不直接相邻，你还是可以使用通用兄弟关系选择器（~）。要选中所有的<p>元素后任何地方的<img>元素，我们会这样做：
+
+```
+p ~ img
+```
+
+### 渐变
+
+渐变类型：
+
+- 线性渐变会在一个假想的直线上过渡颜色。线性渐变是由 linear-gradient() 函数产生的。
+
+- 径向渐变从一个中间点（原点）开始过渡颜色。径向渐变是由 radial-gradient() 函数产生的。
+
+- 重复渐变可根据需要复制渐变，以填充指定区域。重复渐变是使用 repeating-linear-gradient() 和 repeating-radial-gradient() 函数生成的。
+
+- 锥形渐变会沿着一个圆过渡颜色。锥形渐变是由 conic-gradient() 函数产生的。
+
+![img](../../../assets/css-qa/gradient.png)
+
+
