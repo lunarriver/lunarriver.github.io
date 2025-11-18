@@ -386,3 +386,75 @@ img.onload = () => {
 <img src="https://example.com/image.jpg" crossorigin="" />
 <img src="https://example.com/image.jpg" crossorigin="anonymous" />
 ```
+
+### Vue 项目本地跨域解决方案
+
+在 Vue 项目中，本地开发（localhost）时调用后端 API 遇到跨域问题是非常常见的场景。比如：
+
+- 前端运行在 http://localhost:5173
+
+- 后端 API 在 http://localhost:3000
+
+浏览器因同源策略拦截请求，报错：
+
+```
+Access to fetch at 'http://localhost:3000/api' from origin 'http://localhost:5173' has been blocked by CORS policy.
+```
+
+**使用 Vite（Vue 3 默认）**
+
+修改 vite.config.js
+
+```
+// vite.config.js
+import { defineConfig } from 'vite'
+import vue from '@vitejs/plugin-vue'
+
+export default defineConfig({
+  plugins: [vue()],
+  server: {
+    proxy: {
+      // 将所有以 /api 开头的请求代理到后端
+      '/api': {
+        target: 'http://localhost:3000', // 后端地址
+        changeOrigin: true,              // 改变 origin 为目标地址（重要！）
+        rewrite: (path) => path.replace(/^\/api/, '') // 可选：重写路径
+      }
+    }
+  }
+})
+```
+
+前端代码中请求 `/api/xxx`
+
+```
+// src/api/user.js
+fetch('/api/users') // 实际被代理到 http://localhost:3000/users
+```
+
+**使用 Vue CLI（基于 Webpack）**
+
+修改 vue.config.js
+
+```
+// vue.config.js
+module.exports = {
+  devServer: {
+    proxy: {
+      '/api': {
+        target: 'http://localhost:3000',
+        changeOrigin: true,
+        pathRewrite: {
+          '^/api': '' // 重写路径，去掉 /api 前缀
+        }
+      }
+    }
+  }
+}
+```
+
+前端请求同样使用 `/api/xxx`
+
+```
+axios.get('/api/profile')
+```
