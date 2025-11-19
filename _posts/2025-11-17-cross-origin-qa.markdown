@@ -47,19 +47,19 @@ date:   2025-11-17 15:16:00 +0800
 
 以下是可能嵌入跨源的资源的一些示例：
 
-- 使用 <script src="…"></script> 标签嵌入的 JavaScript 脚本。语法错误信息只能被同源脚本中捕捉到。
+- 使用 `<script src="…"></script>` 标签嵌入的 JavaScript 脚本。语法错误信息只能被同源脚本中捕捉到。
 
-- 使用 <link rel="stylesheet" href="…"> 标签嵌入的 CSS。由于 CSS 的松散的语法规则，CSS 的跨源需要一个设置正确的 Content-Type 标头。如果样式表是跨源的，且 MIME 类型不正确，资源不以有效的 CSS 结构开始，浏览器会阻止它的加载。
+- 使用 `<link rel="stylesheet" href="…">` 标签嵌入的 CSS。由于 CSS 的松散的语法规则，CSS 的跨源需要一个设置正确的 Content-Type 标头。如果样式表是跨源的，且 MIME 类型不正确，资源不以有效的 CSS 结构开始，浏览器会阻止它的加载。
 
-- 通过 <img> 展示的图片。
+- 通过 `<img>` 展示的图片。
 
-- 通过 <video> 和 <audio> 播放的多媒体资源。
+- 通过 `<video>` 和 `<audio>` 播放的多媒体资源。
 
-- 通过 <object> 和 <embed> 嵌入的插件。
+- 通过 `<object>` 和 `<embed>` 嵌入的插件。
 
 - 通过 @font-face 引入的字体。一些浏览器允许跨源字体（cross-origin fonts），另一些需要同源字体（same-origin fonts）。
 
-- 通过 <iframe> 载入的任何资源。站点可以使用 X-Frame-Options 标头来阻止这种形式的跨源交互。
+- 通过 `<iframe>` 载入的任何资源。站点可以使用 X-Frame-Options 标头来阻止这种形式的跨源交互。
 
 ### 为什么跨源写操作反而比跨域读操作具有更大的自由度？
 
@@ -110,7 +110,7 @@ CORS 请求失败会产生错误，但是为了安全，在 JavaScript **代码�
 
 某些请求不会触发 CORS 预检请求，称为“简单请求”。
 
-其动机是，HTML 4.0 中的 <form> 元素（早于跨站 XMLHttpRequest 和 fetch）可以向任何来源提交简单请求，所以任何编写服务器的人一定已经在保护跨站请求伪造攻击（CSRF）。在这个假设下，服务器不必选择加入（通过响应预检请求）来接收任何看起来像表单提交的请求，因为 CSRF 的威胁并不比表单提交的威胁差。
+其动机是，HTML 4.0 中的 `<form>` 元素（早于跨站 XMLHttpRequest 和 fetch）可以向任何来源提交简单请求，所以任何编写服务器的人一定已经在保护跨站请求伪造攻击（CSRF）。在这个假设下，服务器不必选择加入（通过响应预检请求）来接收任何看起来像表单提交的请求，因为 CSRF 的威胁并不比表单提交的威胁差。
 
 若请求满足所有下述条件，则该请求可视为简单请求：
 
@@ -345,7 +345,7 @@ https://alfilatov.com/posts/run-chrome-without-cors/
 
 ### HTML 属性：crossorigin
 
-crossorigin 属性在 <audio>、<img>、<link>、<script> 和 <video> 元素中有效，它们提供对 CORS 的支持，定义该元素如何处理跨源请求，从而实现对该元素获取数据的 CORS 请求的配置。
+crossorigin 属性在 `<audio>`、`<img>`、`<link>`、`<script>` 和 `<video>` 元素中有效，它们提供对 CORS 的支持，定义该元素如何处理跨源请求，从而实现对该元素获取数据的 CORS 请求的配置。
 
 crossorigin 属性可以取以下值：
 
@@ -357,12 +357,12 @@ crossorigin 属性可以取以下值：
 
 `<img src="..." crossorigin="anonymous" />` 和 `<img src="..." />` 在跨域图片加载时有本质区别，主要体现在：是否触发 CORS 验证机制，以及后续能否通过 JavaScript 读取图片内容（如用于 Canvas）。
 
-| 特性                  | `<img />`（无 `crossorigin`） | `<img crossorigin="anonymous" />`      |
-| ------------------- | -------------------------- | -------------------------------------- |
-| **跨域请求类型**          | 普通跨域请求（不带 CORS 头）          | CORS 跨域请求（带 `Origin` 头）                |
-| **是否受 CORS 策略约束**   | 否（浏览器允许加载）                 | 是（需服务器响应 CORS 头）                       |
-| **能否用于 `<canvas>`** | 不能（会污染 canvas）             | 能（前提是服务器允许）                            |
-| **错误处理**            | 加载失败仅 `onerror`，无 CORS 错误  | 若 CORS 验证失败，触发 `onerror` + 控制台 CORS 错误 |
+| 特性                 | `<img />`（无`crossorigin`） | `<img crossorigin="anonymous" />`    |
+| ------------------ | ------------------------ | ------------------------------------ |
+| **跨域请求类型**         | 普通跨域请求（不带 CORS 头）        | CORS 跨域请求（带`Origin`头）                |
+| **是否受 CORS 策略约束**  | 否（浏览器允许加载）               | 是（需服务器响应 CORS 头）                     |
+| **能否用于`<canvas>`** | 不能（会污染 canvas）           | 能（前提是服务器允许）                          |
+| **错误处理**           | 加载失败仅`onerror`，无 CORS 错误 | 若 CORS 验证失败，触发`onerror`+ 控制台 CORS 错误 |
 
 `<img src="..." />` 浏览器会正常加载跨域图片（同源策略允许“嵌入”），但该图片被标记为 “tainted”（污染），如果尝试用它绘制到 <canvas>，则将报错。因为 canvas 无法确定图片是否包含敏感内容（如用户私有图像），所以禁止读取像素数据。
 
