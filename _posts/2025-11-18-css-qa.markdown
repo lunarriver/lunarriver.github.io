@@ -373,4 +373,104 @@ p ~ img
 
 ![img](../../../assets/css-qa/gradient.png)
 
+### 布局
 
+**浮动**
+
+把一个元素“浮动”(float) 起来，会改变该元素本身和在正常布局流（normal flow）中跟随它的其他元素的行为。这一元素会浮动到左侧或右侧，并且从正常布局流 (normal flow) 中移除，这时候其他的周围内容就会在这个被设置浮动 (float) 的元素周围环绕。
+
+![img](../../../assets/css-qa/float.png)
+
+当一个容器只包含浮动元素时，它的高度会变成 0（高度塌陷），影响后续布局。
+
+```
+<div class="parent">
+  <div style="float: left;">Item 1</div>
+  <div style="float: left;">Item 2</div>
+</div>
+<!-- .parent 高度为 0！ -->
+```
+
+clear 属性可用于阻止元素与浮动元素在同一行显示。
+
+```
+.clear-left  { clear: left; }
+.clear-right { clear: right; }
+.clear-both  { clear: both; } /* 最常用 */
+```
+
+另外，通过触发父容器形成 BFC，使其包含浮动子元素。
+
+```
+.parent {
+  display: flow-root; /* 最新标准，专为解决此问题设计 */
+}
+```
+
+**定位**
+
+定位 (positioning) 能够让我们把一个元素从它原本在正常布局流 (normal flow) 中应该在的位置移动到另一个位置。
+
+- 静态定位（Static positioning）是每个元素默认的属性——它表示“将元素放在文档布局流的默认位置——没有什么特殊的地方”。
+
+- 相对定位（Relative positioning）允许我们相对于元素在正常的文档流中的位置移动它——包括将两个元素叠放在页面上。这对于微调和精准设计（design pinpointing）非常有用。
+
+- 绝对定位（Absolute positioning）将元素完全从页面的正常布局流（normal layout flow）中移出，类似将它单独放在一个图层中。我们可以将元素相对于页面的 <html> 元素边缘固定，或者相对于该元素的最近被定位祖先元素（nearest positioned ancestor element）。绝对定位在创建复杂布局效果时非常有用，例如通过标签显示和隐藏的内容面板或者通过按钮控制滑动到屏幕中的信息面板。
+
+- 固定定位（Fixed positioning）与绝对定位非常类似，但是它是将一个元素相对浏览器视口固定，而不是相对另外一个元素。这在创建类似在整个页面滚动过程中总是处于屏幕的某个位置的导航菜单时非常有用。
+
+- 粘性定位（Sticky positioning）是一种新的定位方式，它会让元素先保持和 position: static 一样的定位，当它的相对视口位置（offset from the viewport）达到某一个预设值时，它就会像 position: fixed 一样定位。
+
+### 媒体查询
+
+CSS 媒体查询为你提供了一种应用 CSS 的方法，仅在浏览器和设备的环境与你指定的规则相匹配的时候 CSS 才会真的被应用，例如“视口宽于 480 像素”的时候。
+
+最简单的媒体查询语法看起来是像这样的：
+
+```
+@media media-type and (media-feature-rule) {
+  /* CSS rules go here */
+}
+```
+
+它由以下部分组成：
+
+- 一个媒体类型，告诉浏览器这段代码是用在什么类型的媒体上的（例如印刷品或者屏幕）；
+
+- 一个媒体表达式，是一个被包含的 CSS 生效所需的规则或者测试；
+
+- 一组 CSS 规则，会在测试通过且媒体类型正确的时候应用。
+
+**媒体类型**
+
+可以指定的媒体类型为：all、print、screen、speech。
+
+- all：适用于所有设备。
+
+- print：适用于打印预览和实际打印时的页面。
+
+- screen：适用于彩色屏幕设备，如电脑显示器、手机、平板等。
+
+- speech：适用于语音合成器（screen readers） 等语音输出设备。（为视障用户提供语音阅读支持）
+
+**媒体特征规则**
+
+为了建立响应式设计（已经广受浏览器支持），我们一般最常探测的特征是视口宽度，而且我们可以使用min-width、max-width和width媒体特征，在视口宽度大于或者小于某个大小——或者是恰好处于某个大小——的时候，应用 CSS。
+
+```
+@media screen and (max-width: 400px) {
+  body {
+    color: blue;
+  }
+}
+```
+
+一个受到良好支持的媒体特征是orientation，我们可以用它测得竖放（portrait mode）和横放（landscape mode）模式。
+
+```
+@media (hover: hover) {
+  body {
+    color: rebeccapurple;
+  }
+}
+```
