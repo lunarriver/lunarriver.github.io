@@ -4,6 +4,14 @@ title:  "Cross Origin Q&A"
 date:   2025-11-17 15:16:00 +0800
 ---
 
+<style type="text/css">
+  pre code {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+</style>
+
 * 目录
 {:toc #markdown-toc}
 
@@ -364,7 +372,7 @@ crossorigin 属性可以取以下值：
 | **能否用于`<canvas>`** | 不能（会污染 canvas）           | 能（前提是服务器允许）                          |
 | **错误处理**           | 加载失败仅`onerror`，无 CORS 错误 | 若 CORS 验证失败，触发`onerror`+ 控制台 CORS 错误 |
 
-`<img src="..." />` 浏览器会正常加载跨域图片（同源策略允许“嵌入”），但该图片被标记为 “tainted”（污染），如果尝试用它绘制到 <canvas>，则将报错。因为 canvas 无法确定图片是否包含敏感内容（如用户私有图像），所以禁止读取像素数据。
+`<img src="..." />` 浏览器会正常加载跨域图片（同源策略允许“嵌入”），但该图片被标记为 “tainted”（污染），如果尝试用它绘制到 `<canvas>`，则将报错。因为 canvas 无法确定图片是否包含敏感内容（如用户私有图像），所以禁止读取像素数据。
 
 ```
 const img = new Image();

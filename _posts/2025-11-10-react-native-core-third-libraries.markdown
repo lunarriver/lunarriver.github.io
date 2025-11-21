@@ -4,6 +4,14 @@ title:  "React Native 核心三方库"
 date:   2025-11-10 18:42:00 +0800
 ---
 
+<style type="text/css">
+  pre code {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+</style>
+
 * 目录
 {:toc #markdown-toc}
 
@@ -268,7 +276,7 @@ export function Foo(props) {
     Toast.show({
       type: 'success',
       text1: 'Hello',
-      text2: 'This is some something 👋'
+      text2: 'This is some something'
     });
   }
 

@@ -4,8 +4,16 @@ title:  "CSS Q&A"
 date:   2025-11-18 15:16:00 +0800
 ---
 
+<style type="text/css">
+  pre code {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+</style>
+
 * 目录
-  {:toc #markdown-toc}
+{:toc #markdown-toc}
 
 ### 盒模型
 

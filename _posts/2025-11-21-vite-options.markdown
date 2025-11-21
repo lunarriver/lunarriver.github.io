@@ -4,8 +4,16 @@ title:  "Vite 配置项"
 date:   2025-11-21 14:14:00 +0800
 ---
 
+<style type="text/css">
+  pre code {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+</style>
+
 * 目录
-  {:toc #markdown-toc}
+{:toc #markdown-toc}
 
 ### 共享选项
 
