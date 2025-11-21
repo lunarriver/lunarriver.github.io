@@ -1,0 +1,735 @@
+---
+layout: post
+title:  "Vite Q&A"
+date:   2025-11-19 13:47:00 +0800
+---
+
+* 目录
+{:toc #markdown-toc}
+
+官方文档：https://vitejs.cn/vite6-cn/guide/
+
+### 开始
+
+Vite 是一种新型前端构建工具，它主要由两部分组成：
+
+- 一个开发服务器，它基于原生 ES 模块提供了丰富的内建功能，如速度快到惊人的模块热更新（HMR）。
+
+- 一套构建指令，它使用 Rollup 打包你的代码，并且它是预配置的，可输出用于生产环境的高度优化过的静态资源。
+
+```
+Rollup.js 是一个现代化的 JavaScript 模块打包工具（bundler），主要用于将多个小模块（如 ES6 模块）打包成一个或多个 bundle 文件。它以 Tree Shaking（摇树优化） 能力著称，特别适合构建 JavaScript 库（libraries）。
+```
+
+**index.html 与项目根目录**
+
+在一个 Vite 项目中，index.html 在项目最外层而不是在 public 文件夹内。在开发期间 Vite 是一个服务器，而 index.html 是该 Vite 项目的入口文件。Vite 解析 <script type="module" src="..."> ，这个标签指向你的 JavaScript 源码。
+
+```
+<body>
+  <div id="app"></div>
+  <script type="module" src="/src/main.ts"></script>
+</body>
+```
+
+**命令行界面**
+
+在安装了 Vite 的项目中，可以在 npm scripts 中使用 vite 可执行文件，或者直接使用 npx vite 运行它。
+
+```
+{
+  "scripts": {
+    "dev": "vite", // 启动开发服务器，别名：`vite dev`，`vite serve`
+    "build": "vite build", // 为生产环境构建产物
+    "preview": "vite preview" // 本地预览生产构建产物
+  }
+}
+```
+
+### 功能
+
+**TypeScript**
+
+Vite 使用 esbuild 将 TypeScript 转译到 JavaScript。
+
+在 vite 项目中，tsconfig.json 中 compilerOptions 下的一些配置项需要调整为特定值。
+
+**CSS**
+
+导入 .css 文件将会把内容插入到 <style> 标签中，同时也带有 HMR 支持。
+
+Vite 通过 postcss-import 预配置支持了 CSS @import 内联。
+
+如果项目包含有效的 PostCSS 配置 (任何受 postcss-load-config 支持的格式，例如 postcss.config.js)，它将会自动应用于所有已导入的 CSS。
+
+Vite 同时提供了对 .scss, .sass, .less, .styl 和 .stylus 文件的内置支持，没有必要为它们安装特定的 Vite 插件，但必须安装相应的预处理器依赖。
+
+```
+# .scss and .sass
+npm add -D sass
+
+# .less
+npm add -D less
+
+# .styl and .stylus
+npm add -D stylus
+```
+
+**静态资源处理**
+
+导入一个静态资源会返回解析后的 URL：
+
+```
+import imgUrl from './img.png'
+document.getElementById('hero-img').src = imgUrl
+```
+
+**JSON**
+
+JSON 可以被直接导入 —— 同样支持具名导入：
+
+```
+// 导入整个对象
+import json from './example.json'
+// 对一个根字段使用具名导入 —— 有效帮助 treeshaking！
+import { field } from './example.json'
+```
+
+**Glob 导入**
+
+Vite 支持使用特殊的 import.meta.glob 函数从文件系统导入多个模块：
+
+```
+const modules = import.meta.glob('./dir/*.js')
+```
+
+以上将会被转译为下面的样子：
+
+```
+// vite 生成的代码
+const modules = {
+  './dir/foo.js': () => import('./dir/foo.js'),
+  './dir/bar.js': () => import('./dir/bar.js')
+}
+```
+
+你可以遍历 modules 对象的 key 值来访问相应的模块：
+
+```
+for (const path in modules) {
+  modules[path]().then((mod) => {
+    console.log(path, mod)
+  })
+}
+```
+
+**动态导入**
+
+Vite 支持带变量的动态导入。
+
+```
+const module = await import(`./dir/${file}.js`)
+```
+
+**构建优化**
+
+CSS 代码分割：Vite 会自动地将一个异步 chunk 模块中使用到的 CSS 代码抽取出来并为其生成一个单独的文件。如果你更倾向于将所有的 CSS 抽取到一个文件中，你可以通过设置 build.cssCodeSplit 为 false 来禁用 CSS 代码分割。
+
+预加载指令生成：Vite 会为入口 chunk 和它们在打包出的 HTML 中的直接引入自动生成 <link rel="modulepreload"> 指令。
+
+异步 Chunk 加载优化：在实际项目中，Rollup 通常会生成 “共用” chunk —— 被两个或以上的其他 chunk 共享的 chunk。
+
+### 命令行接口
+
+**vite**
+
+在当前目录下启动 Vite 开发服务器。vite dev 和 vite serve 是 vite 的别名。
+
+```
+vite [root]
+```
+
+**vite build**
+
+构建生产版本。
+
+```
+vite build [root]
+```
+
+**vite preview**
+
+在本地启动一个静态服务器，模拟真实生产环境，用于预览 vite build 生成的 dist 目录内容。
+
+```
+vite preview
+```
+
+### 使用插件
+
+Vite 可以使用插件进行扩展，这得益于 Rollup 优秀的插件接口设计和一部分 Vite 独有的额外选项。
+
+**添加一个插件**
+
+若要使用一个插件，需要将它添加到项目的 devDependencies 并在 vite.config.js 配置文件中的 plugins 数组中引入它。
+
+例如，要想为传统浏览器提供支持，可以按下面这样使用官方插件 @vitejs/plugin-legacy：
+
+```
+$ npm add -D @vitejs/plugin-legacy
+```
+
+```
+// vite.config.js
+import legacy from '@vitejs/plugin-legacy'
+import { defineConfig } from 'vite'
+
+export default defineConfig({
+  plugins: [
+    legacy({
+      targets: ['defaults', 'not IE 11']
+    })
+  ]
+})
+```
+
+**查找插件**
+
+Vite 旨在为常见的 Web 开发范式提供开箱即用的支持，大量在 Rollup 项目中需要使用插件的用例在 Vite 中已经覆盖到了。
+
+查看 [Plugins 章节](https://vitejs.cn/vite6-cn/plugins/) 获取官方插件信息。
+
+**强制插件排序**
+
+为了与某些 Rollup 插件兼容，可能需要强制修改插件的执行顺序，或者只在构建时使用。可以使用 enforce 修饰符来强制插件的位置:
+
+- pre：在 Vite 核心插件之前调用该插件
+
+- 默认：在 Vite 核心插件之后调用该插件
+
+- post：在 Vite 构建插件之后调用该插件
+
+```
+// vite.config.js
+import image from '@rollup/plugin-image'
+import { defineConfig } from 'vite'
+
+export default defineConfig({
+  plugins: [
+    {
+      ...image(),
+      enforce: 'pre'
+    }
+  ]
+})
+```
+
+### 依赖预构建
+
+当你首次启动 vite 时，Vite 在本地加载你的站点之前预构建了项目依赖，称为“依赖预构建”。
+
+依赖预构建用于解决以下问题:
+
+- 现代 npm 包通常使用 CommonJS 或 UMD 格式（如 require('react')），但 浏览器只认识 ES Modules（import/export）。
+
+- 很多库内部有 大量小模块互相引用（比如 lodash 有上百个文件），如果浏览器一个个请求，会触发 成百上千个 HTTP 请求，导致页面卡死。
+
+依赖预构建的执行过程：
+
+- 扫描你的代码，找出所有 import ... from 'xxx' 中来自 node_modules 的依赖（如 vue, axios, lodash）。
+
+- 用 Rollup 打包这些依赖，将多个小模块 合并成 1~2 个大文件（减少 HTTP 请求数），把 CommonJS/UMD 转为 浏览器可执行的 ES Module。
+
+- 默认存到 node_modules/.vite 目录。（后续启动时，直接复用缓存，不再重复构建）
+
+**依赖预构建的触发时机**
+
+- 首次运行 vite
+
+- 删除 node_modules/.vite 缓存
+
+- 新增/更新依赖（如 npm install moment）
+
+- 修改 vite.config.js 中影响依赖解析的配置
+
+因此，通过移除缓存可以强制执行依赖预构建。
+
+```
+# 删除缓存
+rm -rf node_modules/.vite
+
+# 重启 vite
+vite
+```
+
+**自定义行为**
+
+如果想要明确地包含或排除依赖项，可以使用 [optimizeDeps 配置项](https://vitejs.cn/vite6-cn/config/dep-optimization-options.html)来进行设置。
+
+optimizeDeps.include 或 optimizeDeps.exclude 的一个典型使用场景，是当 Vite 在源码中无法直接发现 import 的时候。例如，import 可能是插件转换的结果。这意味着 Vite 无法在初始扫描时发现 import —— 只能在文件被浏览器请求并转换后才能发现。
+
+### 静态资源处理
+
+**将资源引入为 URL**
+
+引入一个静态资源会返回解析后的公共路径：
+
+```
+import imgUrl from './img.png'
+document.getElementById('hero-img').src = imgUrl
+```
+
+常见的图像、媒体和字体文件类型被自动检测为资源。你可以使用 assetsInclude 选项 扩展内部列表。
+
+**显式 URL 引入**
+
+在 Vite 中，你可以通过在导入路径后加上 ?url 后缀，强制将任意文件（无论类型）导入为一个字符串形式的 URL 路径。
+
+```
+import imageUrl from './image.png?url'
+```
+
+此时，imageUrl 不再是一个模块或 base64 字符串，而是一个 指向该资源最终部署路径的字符串 URL，例如：
+
+```
+console.log(imageUrl) // "/assets/image.abc123.png"
+```
+
+它的应用情景是：只想要取得某个文件的 url，但不想要读取其内容。（比如，一个体积很大的 .txt 文件）
+
+Vite 对不同类型的资源有内置处理规则：
+
+| 文件类型                    | 默认导入结果                    |
+| ----------------------- | ------------------------- |
+| `.png`,`.jpg`,`.svg`等图片 | 默认作为 URL 导入（小图可能转 base64） |
+| `.json`                 | 作为 JSON 对象导入              |
+| `.webm`,`.mp4`等视频       | 作为 URL 导入                 |
+| `.txt`,`.csv`等文本        | 作为字符串内容导入（不是 URL）         |
+
+**将资源引入为字符串**
+
+资源可以使用 ?raw 后缀声明作为字符串引入。
+
+```
+import shaderString from './shader.glsl?raw'
+```
+
+**导入脚本作为 Worker**
+
+脚本可以通过 ?worker 或 ?sharedworker 后缀导入为 web worker。
+
+```
+import SharedWorker from './shader.js?sharedworker'
+const sharedWorker = new SharedWorker()
+```
+
+**public 目录**
+
+public 目录应位于项目根目录。该目录中的资源在开发时能直接通过 / 根路径访问到，并且打包时会被完整复制到目标目录的根目录下。
+
+下列资源适合放置在 public 目录：
+
+- 不会被源码引用（例如 robots.txt） 
+
+- 必须保持原有文件名（没有经过 hash） 
+
+- 不想引入该资源，只是想得到其 URL
+
+### 构建生产版本
+
+**产物分块策略**
+
+你可以通过配置 build.rollupOptions.output.manualChunks 来自定义 chunk 分割策略（查看 [Rollup 相应文档](https://cn.rollupjs.org/configuration-options/#output-manualchunks)）。
+
+**公共基础路径**
+
+如果你需要在嵌套的公共路径下部署项目，只需指定 base 配置项，然后所有资源的路径都将据此配置重写。
+
+base（公共基础路径）是 Vite 中一个关键的部署配置项，它的核心作用是：
+
+```
+告诉 Vite：你的网站在服务器上不是部署在根路径 /，而是部署在一个子路径下（如 /my-app/），因此所有资源（JS、CSS、图片、字体等）和路由跳转都必须加上这个前缀，否则会 404。
+```
+
+假设你有一个 Vite 项目，构建后生成：
+
+```
+dist/
+├── index.html
+├── assets/
+│   ├── main.xxxx.js
+│   └── style.xxxx.css
+```
+
+当部署到根路径（默认）时：
+
+- 网站地址：https://example.com/
+
+- index.html 中引用：
+
+```
+<script type="module" src="/assets/main.xxxx.js"></script>
+```
+
+资源能正确加载：https://example.com/assets/main.xxxx.js
+
+当部署到子路径（如 GitHub Pages 项目页）
+
+- 网站地址：https://username.github.io/my-vite-app/
+
+- 如果不设 base，HTML 仍会请求：
+
+```
+<script src="/assets/main.xxxx.js"></script>
+```
+
+浏览器实际请求：https://username.github.io/assets/main.xxxx.js ，这就会产生 404（因为资源其实在 /my-vite-app/assets/... 下）
+
+此时，就需要设置 `base: '/my-vite-app/'`
+
+```
+// vite.config.js
+export default {
+  base: '/my-vite-app/'
+}
+```
+
+构建后，index.html 变成：
+
+```
+<script type="module" src="/my-vite-app/assets/main.xxxx.js"></script>
+```
+
+浏览器请求：https://username.github.io/my-vite-app/assets/main.xxxx.js
+
+base 影响的内容如下：
+
+- JS/CSS 资源路径
+
+- 图片、字体等静态资源引用
+
+- SPA 路由（如 Vue Router）：需要手动同步配置（见下文）
+
+- 绝对路径的 `<a href="/about">`： 需改为相对路径或使用 base 拼接
+
+**多页面应用模式**
+
+假设你有下面这样的项目文件结构
+
+```
+├── package.json
+├── vite.config.js
+├── index.html
+├── main.js
+└── nested
+    ├── index.html
+    └── nested.js
+```
+
+在开发过程中，简单地导航或链接到 /nested/ - 将会按预期工作，与正常的静态文件服务器表现一致。
+
+在构建过程中，你只需指定多个 .html 文件作为入口点即可：
+
+```
+// vite.config.js
+import { dirname, resolve } from 'node:path'
+import { fileURLToPath } from 'node:url'
+import { defineConfig } from 'vite'
+
+const __dirname = dirname(fileURLToPath(import.meta.url))
+
+export default defineConfig({
+  build: {
+    rollupOptions: {
+      input: {
+        main: resolve(__dirname, 'index.html'),
+        nested: resolve(__dirname, 'nested/index.html'),
+      },
+    },
+  },
+})
+```
+
+### 部署静态站点
+
+**Web 服务器**
+
+Web 服务器（Web Server）是一种能够接收 HTTP(S) 请求，并返回响应（如 HTML 文件、图片、API 数据等）的软件或系统。比如：Nginx、Apache HTTP Server、Microsoft IIS。
+
+根据用途，Web 服务器还可细分为：
+
+- 静态 Web 服务器：仅提供 HTML/CSS/JS 等静态资源（Github Pages）
+
+- 反向代理服务器：转发请求到后端应用（如 Node.js、Java）
+
+- Web 服务器 + 反向代理：同时处理静态文件 + 代理动态请求（Nginx 常见用法）
+
+**静态站点**
+
+静态站点指的是：由预先构建好的 HTML、CSS、JS、图片等文件组成的——不依赖服务器端动态生成的——网站内容。
+
+例如，用 Vite 构建了一个 React 应用，输出 dist/index.html + assets/*.js → 这是一个 静态站点。
+
+可以把这个静态站点：
+
+- 托管在 GitHub Pages（背后是 GitHub 的 Web 服务器）
+
+- 放到 Nginx 上运行（root /path/to/dist;）
+
+- 用 Python 临时起一个：python -m http.server
+
+- 甚至直接双击 index.html 用浏览器打开（本地文件协议）
+
+无论部署在哪里，它始终是一个“静态站点”，而而提供它的程序（Nginx、GitHub 服务器、Python 内置 server）才是“Web 服务器”。
+
+**静态站点托管服务**
+
+“静态站点托管服务”（Static Site Hosting Service）是一类专门用于部署和分发纯静态网站内容（HTML、CSS、JavaScript、图片等）的云服务平台。
+
+它们的核心特点是：无需服务器运维、自动构建、全球 CDN 加速、免费或低成本，非常适合现代前端框架（如 React、Vue、Svelte、Jekyll、Hugo 等）生成的网站。
+
+其核心特征如下：
+
+- 仅支持静态内容：不支持服务端代码（如 PHP、Node.js、Python），所有内容必须预先构建好
+
+- Git 集成：通常通过 git push 自动触发构建和部署
+
+- 自动 HTTPS：免费提供 Let's Encrypt 证书，支持自定义域名
+
+- 内置 CDN：全球边缘节点加速访问（如 GitHub Pages 用 Fastly，Vercel/Netlify 自建 CDN）
+
+- 免运维：无需管理服务器、操作系统、Web 服务器软件（如 Nginx）
+
+- 按需构建：支持从源码自动构建（如运行 npm run build）
+
+常见静态站点托管服务有 GitHub Pages、GitLab Pages、Netlify 等。
+
+与传统 Web 服务器（如 Nginx）对比
+
+| 维度        | 静态站点托管服务               | 自建 Nginx 服务器              |
+| --------- | ---------------------- | ------------------------- |
+| **控制权**   | 低（平台限制多）               | 高（完全自定义）                  |
+| **部署便捷性** | 极高（`git push` 即上线）     | 需手动配置 CI/CD 或 FTP         |
+| **成本**    | 免费或按用量计费（通常很低）         | 需支付服务器费用（VPS/云主机）         |
+| **扩展能力**  | 有限（部分支持 Serverless 函数） | 无限（可接任意后端）                |
+| **适用场景**  | 博客、文档、营销页、前端 Demo      | 企业系统、需要 API 代理/认证/私有部署的场景 |
+
+**自有 Web 服务器部署**
+
+自有 Web 服务器部署的优势或不可替代性（相对于静态站点托管服务），以 nginx 为例：
+
+（1）隐藏后端地址 + 统一域名
+
+```
+# 用户访问 https://your-app.com
+location / {
+    root /var/www/frontend;  # 静态前端
+}
+
+location /api/ {
+    proxy_pass http://backend-server:8000/;  # 代理到后端
+}
+```
+
+- 前端代码只需写 fetch('/api/users')
+
+- 避免跨域（同源）
+
+- 后端 IP/端口对用户透明
+
+（2）更精细的控制
+
+- 自定义缓存策略（Cache-Control）
+
+- Gzip/Brotli 压缩
+
+- 安全头（HSTS, CSP）
+
+- 灰度发布、A/B 测试（通过 Nginx 切流量）
+
+（3）私有网络部署
+
+- 内部系统不能暴露到公网
+
+- GitHub Pages 只能用于公开或有限私有场景
+
+### 环境变量和模式
+
+Vite 在特殊的 import.meta.env 对象下暴露了一些常量。这些常量在开发阶段被定义为全局变量，并在构建阶段被静态替换。
+
+**内置常量**
+
+一些内置常量在所有情况下都可用：
+
+- import.meta.env.MODE: {string} 应用运行的模式。
+
+- import.meta.env.BASE_URL: {string} 部署应用时的基本 URL。他由base 配置项决定。
+
+- import.meta.env.PROD: {boolean} 应用是否运行在生产环境（使用 NODE_ENV='production' 运行开发服务器或构建应用时使用 NODE_ENV='production' ）。
+
+- import.meta.env.DEV: {boolean} 应用是否运行在开发环境 (永远与 import.meta.env.PROD相反)。
+
+- import.meta.env.SSR: {boolean} 应用是否运行在 server 上。
+
+**环境变量**
+
+Vite 自动将环境变量暴露在 import.meta.env 对象下，作为字符串。
+
+为了防止意外地将一些环境变量泄漏到客户端，只有以 VITE_ 为前缀的变量才会暴露给经过 vite 处理的代码。
+
+```
+// .env
+VITE_SOME_KEY=123
+```
+
+```
+console.log(import.meta.env.VITE_SOME_KEY) // "123"
+```
+
+**.env文件**
+
+Vite 使用 dotenv 从你的 环境目录 中的下列文件加载额外的环境变量：
+
+```
+.env                # 所有情况下都会加载
+.env.local          # 所有情况下都会加载，但会被 git 忽略
+.env.[mode]         # 只在指定模式下加载
+.env.[mode].local   # 只在指定模式下加载，但会被 git 忽略
+```
+
+一份用于指定模式的文件（例如 .env.production）会比通用文件的优先级更高（例如 .env）。
+
+Vite 总是会加载 .env 和 .env.local 文件，除此之外还会加载模式特定的 .env.[mode] 文件。在模式特定文件中声明的变量优先级高于通用文件中的变量，但仅在 .env 或 .env.local 中定义的变量仍然可以在环境中使用。
+
+另外，Vite 执行时已经存在的环境变量有最高的优先级，不会被 .env 类文件覆盖。例如当运行 VITE_SOME_KEY=123 vite build 的时候。
+
+.env 类文件会在 Vite 启动一开始时被加载，而改动会在重启服务器后生效。
+
+**TypeScript 的智能提示**
+
+默认情况下，Vite 在 vite/client.d.ts 中为 import.meta.env 提供了类型定义。
+
+```
+/// <reference types="vite/client" />
+
+interface ViteTypeOptions {
+  // 添加这行代码，你就可以将 ImportMetaEnv 的类型设为严格模式，
+  // 这样就不允许有未知的键值了。
+  // strictImportMetaEnv: unknown
+}
+
+interface ImportMetaEnv {
+  readonly VITE_APP_TITLE: string
+  // 更多环境变量...
+}
+
+interface ImportMeta {
+  readonly env: ImportMetaEnv
+}
+```
+
+**HTML 环境变量替换**
+
+Vite 还支持在 HTML 文件中替换环境变量。import.meta.env 中的任何属性都可以通过特殊的 %CONST_NAME% 语法在 HTML 文件中使用：
+
+```
+<h1>Vite is running in %MODE%</h1>
+<p>Using data from %VITE_API_URL%</p>
+```
+
+**模式**
+
+默认情况下，开发服务器 (dev 命令) 运行在 development (开发) 模式，而 build 命令则运行在 production (生产) 模式。
+
+这意味着当执行 vite build 时，它会自动加载 .env.production 中可能存在的环境变量。
+
+在某些情况下，若想在 vite build 时运行不同的模式来渲染不同的标题，你可以通过传递 --mode 选项标志来覆盖命令使用的默认模式。例如，如果你想在 staging （预发布）模式下构建应用：
+
+```
+vite build --mode staging
+```
+
+此时，还需要新建一个 .env.staging 文件。
+
+需要注意的是，NODE_ENV（process.env.NODE_ENV）和模式是两个不同的概念。以下是不同命令如何影响 NODE_ENV 和模式：
+
+| Command                                              | NODE_ENV        | Mode            |
+| ---------------------------------------------------- | --------------- | --------------- |
+| `vite build`                                         | `"production"`  | `"production"`  |
+| `vite build --mode development`                      | `"production"`  | `"development"` |
+| `NODE_ENV=development vite build`                    | `"development"` | `"production"`  |
+| `NODE_ENV=development vite build --mode development` | `"development"` | `"development"` |
+
+NODE_ENV 和模式的不同值也会反映在相应的 import.meta.env 属性上：
+
+| Command                | `import.meta.env.PROD` | `import.meta.env.DEV` |
+| ---------------------- | ---------------------- | --------------------- |
+| `NODE_ENV=production`  | `true`                 | `false`               |
+| `NODE_ENV=development` | `false`                | `true`                |
+| `NODE_ENV=other`       | `false`                | `true`                |
+
+### 服务端渲染（SSR）
+
+**SSR 的核心价值（为什么用它？）**
+
+- 首屏加载快：用户立即看到完整 HTML，无需等待 JS 下载 + 执行 + 渲染。
+
+- SEO 友好：搜索引擎爬虫能直接抓取完整内容（对内容型网站至关重要）。
+
+- 弱网/低端设备体验更好：减少客户端计算负担。
+
+**SSR的注意事项**
+
+（1）并非所有页面都需要 SSR
+
+- 后台管理系统（Admin Panel）：用户已登录，SEO 无关紧要，交互复杂 → CSR（客户端渲染）更合适。
+
+- 高度交互的应用（如在线文档、设计工具、聊天室）：依赖大量前端状态和实时响应，SSR 首屏优势被后续交互抵消。
+
+- 个人中心、设置页：私有内容，无需 SEO，用 CSR 更轻量。
+
+```
+最佳实现是运用混合渲染（Hybrid Rendering）：公开页面（首页、文章页）采用SSR；私有/交互页面（仪表盘、编辑器）采用CSR 或 SPA；
+```
+
+（2）SSR 带来额外复杂性和成本
+
+- 服务器压力大：每次请求都要在服务端执行 JS 渲染（Node.js），CPU/内存消耗远高于静态文件服务
+
+- 缓存策略复杂：静态页可 CDN 缓存；SSR 页面若含用户信息（如“欢迎，张三”），难以缓存
+
+- 错误边界更难处理：服务端报错会导致整个页面 500，而 CSR 可局部降级
+
+- 开发调试复杂：需同时处理服务端和客户端代码（如 window 在服务端不存在）
+
+- 部署运维要求高：需要长期运行的 Node.js 服务，而非简单 Nginx 托管静态文件
+
+（3）现代框架已支持“按需 SSR”：主流 SSR 框架（Next.js、Nuxt.js、Remix）都支持页面级渲染策略配置
+
+以 Next.js 为例：
+
+```
+// pages/index.js → SSR
+export async function getServerSideProps() {
+  return { props: { ... } };
+}
+
+// pages/about.js → 静态生成（SSG）
+export async function getStaticProps() {
+  return { props: { ... } };
+}
+
+// pages/dashboard.js → 客户端渲染（CSR）
+// 不导出 getServerSideProps / getStaticProps
+```
+
+**SSR的替代方案**
+
+很多“看似需要 SSR”的场景，其实可用更优方案：
+
+| 技术                    | 说明                 | 适用场景                |
+| --------------------- | ------------------ | ------------------- |
+| **SSG**（静态站点生成）       | 构建时生成 HTML，部署为静态文件 | 博客、文档、产品页（内容变化不频繁）  |
+| **ISR**（增量静态再生）       | SSG + 定时/按需更新页面    | 电商商品页、用户资料页（需一定实时性） |
+| **Streaming SSR**     | 流式渲染，先返回头部 HTML    | 首屏关键内容优先展示          |
+| **Partial Hydration** | 只激活页面中需要交互的部分      | 减少客户端 JS 执行量        |

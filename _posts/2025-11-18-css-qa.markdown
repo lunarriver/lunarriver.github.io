@@ -301,7 +301,6 @@ display: inline-block 是 CSS 中一个非常实用的布局属性值，它结�
 | 能否设置上下 margin/padding | 可设但不影响布局（垂直方向无效）  | 完全有效                    | 完全有效             |
 | 内容是否换行                | 是（文本流）            | 否（默认）                   | 是                |
 
-
 ### css 选择器
 
 **伪类**
@@ -474,3 +473,97 @@ CSS 媒体查询为你提供了一种应用 CSS 的方法，仅在浏览器和�
   }
 }
 ```
+
+### css 预处理器
+
+CSS 预处理器（CSS Preprocessor）是一种扩展了 CSS 语法的编程语言，它引入了变量、嵌套、混合（mixin）、函数、条件判断、循环等编程特性，让 CSS 更具可维护性、模块化和逻辑性。预处理器代码不能被浏览器直接识别，必须先编译成标准 CSS，才能在网页中使用。
+
+原生 CSS 存在以下痛点：
+
+- 无法定义变量 → 颜色、间距重复写，修改困难
+
+- 不支持嵌套 → 选择器冗长，结构不清晰
+
+- 无法复用代码块（如按钮样式）
+
+- 没有逻辑控制（if/else、for 循环）
+
+主流 CSS 预处理器对比：
+
+| 特性            | **Sass / SCSS**                                            | **Less**                                      | **Stylus**                                |
+| ------------- |------------------------------------------------------------| --------------------------------------------- | ----------------------------------------- |
+| **语法风格**      | `.scss`（类 CSS）或`.sass`（缩进式）                                | 类 CSS                                         | 灵活（可省略大括号、分号）                             |
+| **流行度**       | （最主流）                                                      | /                                             | /                                         |
+| **变量**        | `$primary: #333;`                                          | `@primary: #333;`                             | `primary = #333`                          |
+| **嵌套**        | 支持                                                         | 支持                                            | 支持                                        |
+| **Mixin**（混入） | `@mixin button($color) { ... }`<br>`@include button(blue);` | `.button(@color) { ... }`<br>`.button(blue);` | `button(color) { ... }`<br>`button(blue)` |
+| **继承**        | `@extend .btn;`                                            | 不支持                                           | 支持                                        |
+| **函数 & 运算**   | 强大                                                         | 支持                                            | 支持                                        |
+| **条件/循环**     | `@if`,`@for`,`@each`                                       | 有限支持                                          | 支持                                        |
+| **社区生态**      | 极丰富（Bootstrap 5+ 使用 SCSS）                                  | 较少                                            | 小众                                        |
+
+### postcss
+
+PostCSS 是一个用 JavaScript 插件转换 CSS 的工具。
+
+它本身不做任何事情，但通过插件可以实现：
+
+- 自动添加浏览器前缀（autoprefixer） ：根据你指定的浏览器兼容范围，自动为 CSS 规则添加必要的厂商前缀（如 -webkit-、-moz-、-ms- 等），确保样式在目标浏览器中正常工作，而无需开发者手动编写冗余代码。
+
+```
+/* 手动写前缀（不使用 autoprefixer） */
+.container {
+  -webkit-display: flex; /* Chrome < 21, Safari < 6.1 */
+     -moz-display: flex; /* Firefox < 28 */
+      -ms-display: flex; /* IE 10 */
+          display: flex;
+}
+```
+
+Autoprefixer 是一个 PostCSS 插件，它能： 读取你的 CSS 源码，根据你定义的浏览器目标（如 "last 2 versions", "> 1%"），查询 Can I Use 数据库，自动插入必要前缀，删除不必要的旧前缀。
+
+- 使用未来 CSS 语法，如嵌套、自定义媒体查询（postcss-preset-env）：在当前项目中编写尚未被所有浏览器原生支持的 CSS 新特性语法（草案或实验阶段），通过 postcss-preset-env 将其编译为广泛兼容的标准 CSS。
+
+- 支持 CSS Modules：将 CSS 类名自动局部作用域化（scoped）的技术，解决传统 CSS 的全局污染问题（在普通 CSS 中，所有类名都是全局的）。
+
+- 压缩 CSS：移除注释，移除多余空格/换行，缩短颜色值，合并重复规则，简化数值，移除未使用的 CSS，优化属性顺序/结构
+
+- 检查代码风格（stylelint）：检查 CSS 代码风格和潜在错误
+
+- 甚至支持类似 Sass 的功能（通过插件）
+
+PostCSS 之于 CSS，就像 Babel 之于 JavaScript。
+
+除上述以外，常用的插件还包括：
+
+- postcss-import：支持 @import 导入 CSS 文件（类似 Sass 的 @use），原生 CSS 的 @import 是运行时加载，而此插件是构建时合并
+
+- postcss-url：重写 CSS 中的 URL（如转为 base64、CDN 路径等）
+
+- tailwindcss：著名的原子化 CSS 框架
+
+```
+PostCSS 本身只处理 .css 文件（或字符串形式的 CSS 内容），它不会直接读取 HTML/JSX/Vue 模板中的 class="..."。
+
+但 Tailwind CSS 通过“扫描源文件 + 动态生成 CSS” 的方式，与 PostCSS 协同工作。
+```
+
+- postcss-px-to-viewport：将 CSS 中的 px 单位自动转换为 vw（视口宽度单位）或 vh（视口高度单位），从而实现移动端页面的等比缩放适配。
+
+postcss和css预处理在编译过程中的处理顺序：
+
+```
+源码（SCSS / Less / CSS）
+       ↓
+[预处理器编译] → 将 SCSS/Less 转为标准 CSS
+       ↓
+[PostCSS 处理] → 对标准 CSS 进行插件转换（autoprefixer、cssnano 等）
+       ↓
+[编译工具的内部优化] → CSS Modules 哈希、内联/提取、HMR 等
+       ↓
+最终输出（浏览器可运行的 CSS）
+```
+
+
+
+
