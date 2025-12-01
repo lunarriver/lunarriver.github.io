@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "25年12月新闻摘选"
+date:   2025-12-01 18:39:00 +0800
+---
+
+<style type="text/css">
+  pre code {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+</style>
+
+* 目录
+{:toc #markdown-toc}
+
+#### https://www.theguardian.com/world/2025/dec/01/asia-flood-sri-lanka-indonesia-deploy-military
+
+Sri Lanka and Indonesia have deployed military personnel as they race to help victims of **devastating** flooding.
+
+Millions of people have been affected by a combination of tropical cyclones and heavy **monsoon** rains in Sri Lanka.
+
+The flooding has submerged homes, **inundated** agricultural fields. Some people **clung** to trees or stood on rooftops.
+
+By Sunday afternoon, rain had **subsided** across Sri Lanka.
+
+Military helicopters have been deployed to **airlift** stranded people and deliver food.
+
+He said solar **lamps** were being distributed.
+
+Extreme rainfall from tropical cyclones has increased **substantially**, as warmer air holds more water **vapour**.
+
+#### https://www.theguardian.com/world/2025/dec/01/ukraine-war-briefing-trump-says-good-chance-of-deal-to-end-conflict-after-latest-talks-with-kyiv
+
+“Ukraine’s got some difficult little problems,” Trump told reporters aboard Air Force One, referring to a corruption investigation that recently forced President Volodymyr Zelenskyy to **sack** his chief of staff and top negotiator.
+
+“We continue to be **realistic** about how difficult this is, but optimistic.”
+
+A Ukrainian security source said Kyiv was responsible for attacks by **naval** drones on two oil tankers off Turkey’s Black Sea coast that it believed were covertly transporting sanctioned Russian oil. And the Ukrainian government has faced **turbulence**.
+
+“Peace is within reach, if Vladimir Putin abandons his delusional hope of **reconstituting** the Soviet empire by first **subjugating** Ukraine,” he added.
