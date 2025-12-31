@@ -7,7 +7,6 @@ date:   2026-01-01 15:00:00 +0800
 * 目录
 {:toc #markdown-toc}
 
-
 #### [Ukraine war briefing: Putin awards ‘courage’ medal to Russian general sought by ICC over alleged crimes against humanity in Ukraine | Ukraine | The Guardian](https://www.theguardian.com/world/2025/sep/09/ukraine-war-briefing-putin-awards-courage-medal-to-russian-general-sought-by-icc-over-alleged-crimes-against-humanity-in-ukraine)
 
 Army general Valery Gerasimov, chief of the general staff of Russia’s armed forces and one of the most powerful men in the Russian military, is **credited** as the chief architect of Russia’s modern warfare strategy.
@@ -35,7 +34,6 @@ remnant ~ noun ~ a small piece or amount of something that is left from a larger
 
 detonate ~ verb ~ to (cause something to) explode
 ```
-
 
 #### [Ukraine war briefing: Cheap Shahed-like Gerbera drones used in Poland violation | Ukraine | The Guardian](https://www.theguardian.com/world/2025/sep/11/ukraine-war-briefing-cheap-shahed-like-gerbera-drones-used-in-poland-violation)
 
@@ -71,6 +69,37 @@ barrel ~ noun ~ a large container, made of wood, metal, or plastic, with a flat 
 consultancy ~ noun ~ a company that gives advice on a particular subject
 ```
 
+#### [Prince Harry makes surprise visit to Ukraine pledging support for thousands injured in war | Prince Harry | The Guardian](https://www.theguardian.com/uk-news/2025/sep/12/prince-harry-ukraine-visit-kyiv)
+
+He added: “We can continue to **humanise** the people involved in this war and what they are going through. I hope this trip will help to bring it home to people because it’s easy to become **desensitised** to what has been going on.”
+
+The prince said he was initially invited to Kyiv by Olga Rudnieva, the founder and CEO of the Superhumans Trauma Centre in Lviv, Ukraine which treats wounded **amputees**.
+
+“I **bumped** into Olga in New York."
+
+“It was **remarkable**. Everyone felt an **immense** connection to them.”
+
+While the **biennial** Invictus Games have been the focal point of much of the foundation’s work.
+
+By March this year, more than 22,000 veterans across Ukraine had accessed benefits like **gym** memberships and pool passes.
+
+```
+humanise ~ verb ~ to make something less unpleasant and more suitable for people
+
+desensitise ~ verb ~ to cause someone to experience something, usually an emotion or a pain, less strongly than before
+
+amputee ~ noun ~ a person who has had an arm or leg cut off
+
+bump ~ verb ~ to hit something with force
+
+remarkable ~ adjective ~ unusual or special and therefore surprising and worth mentioning
+
+immense ~ adjective ~ extremely large in size or degree
+
+biennial ~ adjective ~ happening once every two years
+
+gym ~ noun ~ a place or club where you can go to exercise using machines, weights, and other equipment
+```
 
 #### [Ukraine war briefing: ‘Wasn’t a mistake’ – Poland’s reply after Trump speculates on drones | Ukraine | The Guardian](https://www.theguardian.com/world/2025/sep/12/ukraine-war-briefing-wasnt-a-mistake-polands-reply-after-trump-speculates-on-drones)
 
@@ -88,7 +117,33 @@ dictatorial ~ adjective ~ liking to give orders
 facilitator ~ noun ~ someone who helps a person or organization do something more easily or find the answer to a problem, by discussing things and suggesting ways of doing things
 ```
 
+#### [EU calls for closer ties with India despite Modi’s links to Russia | European Union | The Guardian](https://www.theguardian.com/world/2025/sep/17/eu-calls-for-closer-ties-with-india-despite-modi-ties-to-russia)
 
+Meanwhile the EU is **grappling** with demands from Trump to impose up to 100% tariffs on India and China, another buyer of Russian oil, to pressure Russia to end the war.
+
+But privately, officials have **balked** at 100% tariffs, at a time when Brussels is also trying to sign a trade agreement with India by the end of the year.
+
+Asked about the link between the trade talks and India’s relations with Russia, Kallas said: “Negotiations are negotiations and until we agree about everything then nothing is agreed.” She added that the EU had to take into account its interests, concerns and “**problematic** issues”.
+
+But he was also **downbeat** about the latest round of trade talks, saying he had hoped to see more progress in meetings last week.
+
+The commission is **racing** to strike trade deals around the world since Trump hit many European goods with tariffs and pressured the EU into an unequal trade agreement.
+
+He said that a commitment to the 2026 deadline would “establish a clear timeline, and demonstrate our resolve to achieve independence from oil supplies **burdened** with political and strategic risks”.
+
+```
+grapple ~ verb ~ to fight, especially in order to win something
+
+balk ~ verb ~ to be unwilling to do something or to allow something to happen
+
+problematic ~ adjective ~ full of problems or difficulties
+
+downbeat ~ adjective ~ lacking in excitement or hope
+
+race ~ verb ~ to move or go fast
+
+burden ~ verb ~ to make someone responsible for something that is very difficult, unpleasant, or expensive to deal with
+```
 
 #### [Ukraine war briefing: Russian oil system struggling under Ukrainian attacks – report | World news | The Guardian](https://www.theguardian.com/world/2025/sep/17/ukraine-war-briefing-russian-oil-system-struggling-under-ukrainian-attacks-report)
 
@@ -115,8 +170,6 @@ pharmaceutical ~ adjective ~ relating to the production of medicines
 
 extradite ~ verb ~ to make someone return for trial to another country or state where they have been accused of doing something illegal
 ```
-
-
 
 #### [Ukraine war briefing: Shoot down trespassing Russian jets if necessary – Czech president | Ukraine | The Guardian](https://www.theguardian.com/world/2025/sep/21/ukraine-war-briefing-shoot-down-trespassing-russian-jets-if-necessary-czech-president)
 
@@ -150,8 +203,6 @@ penitentiary ~ noun ~ a state or federal prison
 judiciary ~ noun ~ the part of a country's government that is responsible for its legal system, including all the judges in the country's courts
 ```
 
-
-
 #### [UK and Poland vow to confront Russian aircraft violating Nato airspace | Russia | The Guardian](https://www.theguardian.com/world/2025/sep/22/uk-and-poland-vow-to-confront-russian-aircraft-violating-nato-airspace)
 
 He added: “Russia’s neighbours, not **unreasonably**, fear they could be next.”
@@ -174,6 +225,29 @@ overture ~ noun ~ a communication made to someone in order to offer something
 faltering ~ adjective ~ losing strength or purpose and stopping, or almost stopping
 ```
 
+#### https://www.theguardian.com/world/2025/sep/23/hungary-refuses-to-stop-buying-russian-oil-despite-trumps-nato-demand
+
+Hungary will not **wean** itself off Russian energy supplies, the country’s foreign minister has told the Guardian, despite the White House’s demand for Nato allies to stop buying Russian oil.
+
+Some allies questioned whether he is serious about wanting to increase pressure on Vladimir Putin or merely passing the **buck** to Europe.
+
+Bloomberg reported that the EU is considering trade restrictions that could reduce or halt deliveries of oil through the pipeline, and that they could be introduced without unanimous consent, allowing other European countries to **outvote** Budapest and Bratislava.
+
+“I hope and expect them to **step up to the plate** soon to help us end this bloodbath.”
+
+Asked about European pressure on Monday, Szijjártó called western European officials “**fanatics**” and said it was “totally impossible to carry out a fact-based, rational dialogue based on common sense”.
+
+But while relations with Brussels remain fraught, the relationship with the US has improved significantly, he added, saying that Hungary was the “only European government **crossing fingers** for Trump’s victory”.
+
+```
+wean ~ verb ~ to cause a baby or young animal to stop feeding on its mother's milk and to start eating other food, especially solid food, instead
+
+buck ~ noun ~ used in some expressions to refer to the responsibility or blame for sth
+
+outvote ~ verb ~ to defeat someone by winning a greater number of votes
+
+fanatic ~ noun ~ a person who has very extreme beliefs that may lead them to behave in unreasonable or violent ways
+```
 
 #### https://www.theguardian.com/world/2025/sep/24/moscow-trump-change-in-tone-ukraine-war-paper-tiger
 
@@ -208,7 +282,6 @@ outlandish ~ adjective ~ strange and unusual and difficult to accept or like
 
 berate ~ verb ~ to criticize or speak in an angry manner to someone
 ```
-
 
 #### https://www.theguardian.com/world/2025/sep/25/is-trump-right-that-russian-economy-is-on-brink-of-collapse
 
@@ -262,7 +335,6 @@ heed ~ verb ~ to pay attention to something, especially advice or a warning
 diesel ~ noun ~ a type of heavy oil used as fuel
 ```
 
-
 #### https://www.theguardian.com/world/2025/sep/27/putin-preparing-to-attack-another-european-country-zelenskyy-says
 
 Trump also said Russia’s economy was in big trouble and described its military as a “paper tiger”. Asked to explain this apparent warmer tone towards Ukraine, Zelenskyy said he had briefed Trump about the realities on the battlefield. He told him Russia’s advances were often **fleeting**: “It’s not success. It’s temporary presence.”
@@ -292,8 +364,6 @@ engage ~ verb ~ to attack or begin to fight someone
 
 hysteria ~ noun ~ extreme fear, excitement, anger, etc. that cannot be controlled
 ```
-
-
 
 #### https://www.theguardian.com/world/2025/sep/28/hundreds-of-russian-missiles-and-drones-hit-ukraine-as-poland-scrambles-jets
 
@@ -327,7 +397,6 @@ masonry ~ noun ~ the bricks and pieces of stone that are used to make a building
 rebar ~ noun ~ steel in the form of bars or a mesh (= wires that cross over each other), put inside concrete to make it stronger
 ```
 
-
 #### https://www.theguardian.com/world/2025/oct/09/putin-russian-air-defences-azerbaijani-jet-crash
 
 Vladimir Putin has said that Russia’s air defences were to blame for downing an Azerbaijani **jetliner** in December that killed 38 people.
@@ -336,15 +405,11 @@ Aliyev, meanwhile, criticised Moscow for trying to “**hush** up” the inciden
 
 The controversy over the crash has **roiled** the previously warm ties between Moscow and Baku. Their relations were further destabilised by deaths of ethnic Azerbaijanis **rounded up** by police in a Russian city in June.
 
-
-
 #### https://www.theguardian.com/world/2025/oct/13/ukraine-war-briefing-moscow-voices-extreme-concern-at-trump-threat-to-send-tomohawk-missiles-to-kyiv
 
 Trump has been **mulling** potential supplies of the long-range missiles to Kyiv via European allies ever since his meeting with Putin in Alaska in August failed to produce a peace deal. Trump said last week that he has “**sort of** made a decision” on whether to send Tomahawks to Ukraine, without elaborating.
 
 Kyiv regional Governor Mykola Kalashnyk said two employees of Ukraine’s largest private energy company, DTEK, were wounded in Russian strikes on a **substation**.
-
-
 
 #### https://www.theguardian.com/world/2025/oct/14/ukraine-war-briefing-crimea-oil-refinery-burns-as-russia-feels-effects-on-fuel-supply
 
@@ -360,8 +425,6 @@ Martin Jaeger told lawmakers that Russia was determined to expand its “**spher
 
 “We must not **sit back** and assume that a possible Russian attack would come in 2029 at the earliest,” Jaeger said. “We are already under fire today … The means Moscow uses are well known: airspace violations by drones and fighter jets, **contract killings**, persecution of opposition figures living abroad.”
 
-
-
 #### https://www.theguardian.com/world/2025/oct/20/trump-zelenskyy-ukraine-donbas-region-end-russia-invasion
 
 “The rest is very tough to negotiate if you’re going to say, ‘You take this, we take that,’” he said. “You know, there are so many different **permutations**.”
@@ -376,8 +439,6 @@ In an FT opinion article, Merz wrote that “a new **impetus** to change Russia�
 
 But lawyers at the Council of Ministers, which represents member states, are **dubious** about the legality of the move, which would shift sanctions to a majority vote, rather than a unanimous one.
 
-
-
 #### https://www.theguardian.com/world/2025/oct/22/ukraine-war-briefing-storm-shadow-missiles-hit-gunpowder-plant-in-russia
 
 “A massive combined missile and airstrike was carried out, including with air-launched Storm Shadow missiles that **penetrated** Russia’s air defence system,” said Ukraine’s armed forces general staff.
@@ -389,8 +450,6 @@ Volodymyr Zelenskyy said Russia “almost **automatically** became less interest
 Another said it would be **modelled** on the US 20-point plan on Gaza.
 
 For example, a proposal to **siphon** off some of Russia’s frozen assets to fund a portion of reparations payments to Ukraine “would be a non-starter for Russia”, one diplomat said.
-
-
 
 #### https://www.theguardian.com/world/2025/oct/23/ukraine-war-briefing-ukrainians-may-get-gripen-fighter-jets-bought-with-russian-money
 
@@ -414,8 +473,6 @@ Experts say that Trump’s campaign promise to keep petrol prices low and manage
 
 Efforts to secure Tomahawk missiles at a White House meeting last week were **dashed** after Trump held a phone call with Putin.
 
-
-
 #### https://www.theguardian.com/world/2025/oct/23/putin-says-he-will-never-bow-to-us-but-concedes-sanctions-may-cause-some-losses
 
 Vladimir Putin has said Russia will never bow to US pressure but **conceded** new sanctions could cause some economic pain.
@@ -436,8 +493,6 @@ Dmitry Medvedev, known for his increasingly **belligerent** rhetoric, described 
 
 The network has enabled Russia to sustain oil exports to key customers in India and China despite the G7 price cap and EU **embargo**.
 
-
-
 #### https://www.theguardian.com/world/2025/oct/27/ukraine-war-briefing-russian-claims-test-of-nuclear-powered-missile-known-as-flying-chornobyl
 
 Depending on the design, it potentially **spews** out radioactive **exhaust** as it flies.
@@ -448,8 +503,6 @@ Luke Wickenden said: “If Moscow lost access to these markets, it could **forfe
 
 The US imposed sanctions and Donald Trump cancelled a **foreshadowed** meeting in Budapest with the Russian ruler. Kirill Dmitriev alleged there had been “**titanic** attempts” to thwart US-Russia dialogue. Trump initially gave a **glowing** assessment of his most recent conversation with Putin and said they would meet in Budapest.
 
-
-
 #### https://www.theguardian.com/world/2025/oct/28/china-is-watching-finland-warns-defeating-russias-invasion-of-ukraine-key-to-stability-in-indo-pacific
 
 “China is watching. Does the democratic countries will become **fed up**?
@@ -458,8 +511,6 @@ Ending the Ukraine conflict required a three-**pillar** approach, he said.
 
 Cooperation on the war could have broader **flow-on** effects for Australia’s trade ties with Europe.
 
-
-
 #### https://www.theguardian.com/world/2025/nov/03/ukraine-war-briefing-trump-not-really-considering-supplying-tomahawks
 
 Whereas Russian crude amounted to virtually all of the STAR refinery’s crude **intake** in October and September of about 210,000 bpd.
@@ -467,8 +518,6 @@ Whereas Russian crude amounted to virtually all of the STAR refinery’s crude *
 Tupras was also likely soon to completely phase out Russian crude imports so that it could maintain fuel exports to Europe without **falling foul** of the EU’s incoming sanctions.
 
 At least 200 Russian soldiers had **penetrated** Pokrovsk’s defences, Kyiv said last week, while the Institute for the Study of War assessed that others were closing in on its outskirts in a **pincer-shaped** movement.
-
-
 
 #### https://www.theguardian.com/world/2025/nov/05/ukraine-war-briefing-zelenskyy-visits-troops-near-embattled-pokrovsk
 
@@ -479,8 +528,6 @@ The city administration reported an explosion at the Sterlitamak Petrochemical P
 Russian military **reservists** will now have to guard oil refineries against Ukrainian drone strikes after Vladimir Putin signed a law on Tuesday extending their **entanglement** in the war effort. The Russian ruler also signed a law allowing military **conscription** all year round whereas previously it was possible only during limited periods in autumn and spring.
 
 Italy summoned Russia’s deputy ambassador on Tuesday to protest at what it said were “**vulgar**”, “disturbing” and “unacceptable” remarks by Moscow’s foreign ministry spokeswoman Maria Zakharova, who linked the deadly collapse of a tower in Rome to Italy’s military support for Ukraine. “Italy will not alter its foreign policy stance or its principles in response to reckless **verbal** attacks”.
-
-
 
 #### https://www.theguardian.com/world/2025/nov/06/belgium-to-hold-security-meeting-after-drone-sightings-at-airports-and-military-bases
 
@@ -494,8 +541,6 @@ Last week, Russia’s former president Dmitry Medvedev, known for his **bombasti
 
 The **spat** came after Belgium disappointed EU allies by blocking a plan to loan Ukraine €140bn based on Russian frozen assets held in Brussels.
 
-
-
 #### https://www.theguardian.com/world/2025/nov/06/ukraine-war-briefing-bulgaria-moves-to-seize-russian-refinery-while-poland-seeks-to-be-us-gas-conduit
 
 With international action progressively choking off Russia’s **petroleum** exports, Poland said on Wednesday that it was working on a deal to import liquefied natural gas from the US to supply Ukraine and Slovakia.
@@ -503,8 +548,6 @@ With international action progressively choking off Russia’s **petroleum** exp
 Moscow’s forces appear to be tightening their grip on Pokrovsk, Pjotr Sauer reports, with street fighting **raging across** the ruined city in eastern Ukraine.
 
 Emil Kastehelmi posted: “Ukraine may be repeating a **costly** mistake in Pokrovsk … seen for example in Vuhledar and Kursk – a reluctance to conduct a controlled, militarily **justified** withdrawal from a threatened salient when the situation no longer favours the defender.”
-
-
 
 #### https://www.theguardian.com/world/2025/nov/12/ukraine-war-briefing-top-bankers-straight-talk-to-putin-over-troubled-economy
 
@@ -524,8 +567,6 @@ Ukraine’s prime minister said the government had dismissed Energoatom’s **su
 
 The detainee has said he suffers from **pancreatitis** and **coeliac** disease and is **vegan**.
 
-
-
 #### https://www.theguardian.com/world/2025/nov/16/ukraine-war-briefing-drones-hit-russias-ryazan-oil-refinery
 
 Russian officials often do not admit such attacks have succeeded, and the Ryazan governor, Pavel Malkov, **adopted the standard line** that Ukrainian drones were shot down but debris happened to hit the target.
@@ -535,8 +576,6 @@ The Serbian state holds nearly 30% of NIS, with the rest owned by minority **sha
 Moscow seeks to **scupper** one of Kyiv’s key logistical systems. The rail network carries more than 63% of the country’s freight – including **grain** shipments – and 37% of passenger traffic.
 
 Volodymyr Zelenskyy has announced an **overhaul** of state-owned energy companies amid a corruption scandal. Anti-**graft** investigators allege around $100m has been **embezzled**.
-
-
 
 #### https://www.theguardian.com/world/2025/nov/18/ukrainians-working-for-russia-rail-blasts-says-poland-prime-minister-donald-tusk
 
@@ -554,8 +593,6 @@ The Russian services also use the tactic in Ukraine, where teenagers have been r
 
 However, the **nebulous** chain of command for such attacks and the difficulty of working out.
 
-
-
 #### https://www.theguardian.com/world/2025/nov/19/us-and-russian-officials-draft-new-peace-plan-based-on-capitulation-from-ukraine
 
 The two men have formed an important but unofficial **backchannel** between Moscow and Washington.
@@ -571,8 +608,6 @@ Zelenskyy, who met the Turkish president, Recep Tayyip Erdoğan, on Wednesday in
 Despite Kremlin claims that it is open to talks on ending the war, Moscow has shown no willingness to scale back its **far-reaching** demands.
 
 Russia’s foreign ministry also said it was **unaware** of any new US peace proposal.
-
-
 
 #### https://www.theguardian.com/world/2025/nov/20/ukraine-us-russian-peace-proposal-is-absurd-and-unacceptable
 
@@ -590,8 +625,6 @@ Kellogg is regarded as being broadly **sympathetic** to Ukraine and has been con
 
 US efforts to broker peace have hit **roadblocks** since Trump met Putin in Alaska in August.
 
-
-
 #### https://www.theguardian.com/world/2025/nov/23/trump-ukraine-zero-gratitude-peace-plan-international-talks
 
 In a **conciliatory** response, Volodymyr Zelenskyy said he was personally grateful to the US president.
@@ -605,7 +638,6 @@ Amid a **backlash** from some Republican senators, Trump **rowed back** from his
 European officials have been **scathing** about the US draft in private conversations. They say it undermines Ukraine’s sovereignty and sets conditions for its EU **accession**.
 
 Olexiy Haran, a professor of **comparative** politics at the Kyiv-Mohyla academy, said Ukrainians overwhelmingly rejected the Trump document and would support the European one.
-
 
 #### https://www.theguardian.com/world/2025/nov/24/zelenskyy-trump-meeting-revised-us-peace-plan-ukraine-russia
 
@@ -621,15 +653,11 @@ Donald Tusk said the talks were **delicate** because “nobody wants to put off 
 
 With smoke rising from the rubble, one man was seen **crouched** and holding the hand of a dead person.
 
-
-
 #### https://www.theguardian.com/world/2025/nov/25/nato-scrambles-jets-russian-drones-deepest-incursion-romania
 
 German Typhoon and Romanian F-16 fighter jets took off in pairs to follow the **uncrewed** aircraft.
 
 One of them, a **distinctive** **delta-wing** model with a Russian Z symbol spray painted on the **tailfin**, landed on a roof in the village.
-
-
 
 #### https://www.theguardian.com/world/2025/nov/27/putin-insists-ukraine-surrender-territory-for-peace-deal-possible
 
@@ -641,8 +669,6 @@ The Kremlin signals a willingness to explore potential peace deals, while showin
 
 They would require Ukraine to **voluntarily** cede territory that Moscow has failed to seize militarily.
 
-
-
 #### https://www.theguardian.com/world/2025/dec/01/ukraine-war-briefing-trump-says-good-chance-of-deal-to-end-conflict-after-latest-talks-with-kyiv
 
 “Ukraine’s got some difficult little problems,” Trump told reporters aboard Air Force One, referring to a corruption investigation that recently forced President Volodymyr Zelenskyy to **sack** his chief of staff and top negotiator.
@@ -652,8 +678,6 @@ They would require Ukraine to **voluntarily** cede territory that Moscow has fai
 A Ukrainian security source said Kyiv was responsible for attacks by **naval** drones on two oil tankers off Turkey’s Black Sea coast that it believed were covertly transporting sanctioned Russian oil. And the Ukrainian government has faced **turbulence**.
 
 “Peace is within reach, if Vladimir Putin abandons his delusional hope of **reconstituting** the Soviet empire by first **subjugating** Ukraine,” he added.
-
-
 
 #### https://www.theguardian.com/world/2025/dec/02/witkoff-in-moscow-for-talks-as-putin-claims-to-have-taken-key-ukrainian-city
 
@@ -677,8 +701,6 @@ Putin’s comments appeared aimed at driving a **wedge** between Washington and 
 
 The Russian president threatened that Moscow would “step up strikes on Ukrainian ports and on any ships entering them” in response to attacks on Russian tankers, which he described as “**piracy**”.
 
-
-
 #### https://www.theguardian.com/world/2025/dec/04/macron-believes-us-may-betray-ukraine-on-territory-says-der-spiegel
 
 Der Spiegel said it had obtained an English summary of Monday’s call, featuring what it said were direct **quotations** from European heads of government in which they expressed fundamental doubts about Washington’s approach to the talks.
@@ -690,8 +712,6 @@ Even the Nato secretary general, Mark Rutte – who in public is very **complime
 Two of them reportedly said the remarks were “accurately **reproduced**”.
 
 In a **guest column** for the daily Frankfurter Allgemeine Zeitung, Merz argued for the use of frozen Russian state assets to support Ukraine.
-
-
 
 #### https://www.theguardian.com/world/2025/dec/04/ukraine-war-briefing-stop-wasting-worlds-time-putin-told
 
@@ -725,8 +745,6 @@ They say a difficult and potentially **bleak** winter lies ahead as Russia conti
 
 It was the second **consecutive** night of attacks targeting energy.
 
-
-
 #### https://www.theguardian.com/world/2025/dec/09/zelenskyy-ready-for-elections-after-trump-questions-ukrainian-democracy
 
 Volodymyr Zelenskyy has said he is ready to hold a wartime election within the next three months, after Donald Trump accused him of **clinging on** to power.
@@ -739,8 +757,6 @@ Trump made the comments in a **rambling** interview with **Politico** published 
 
 Trump’s son Donald Jr said that Zelenskyy was **prolonging** the war because he was worried he would otherwise lose power.
 
-
-
 #### https://www.theguardian.com/world/2025/dec/11/us-wants-ukraine-to-withdraw-from-donbas-and-create-free-economic-zone-says-zelenskyy
 
 There would need to be elections or a referendum to **ratify** it, saying that only “the Ukrainian people” could make decisions on **territorial concessions**.
@@ -752,8 +768,6 @@ The US president appears to get **ever more** impatient with the lack of a peace
 Also on Thursday, top EU officials met in Lviv, in western Ukraine, to discuss Ukraine’s **accession** prospects, **even as** Hungary’s Russia-friendly leader, Viktor Orbán, continues to block formal negotiations.
 
 “We all understand that the US president has various **levers** of influence, and these will work on those who are currently blocking Ukraine,” he said.
-
-
 
 #### https://www.theguardian.com/world/2025/dec/13/north-korea-troops-cleared-landmines-russia-kim-jong-un
 
@@ -780,6 +794,3 @@ The search for **viable** terms for an end to the war has run into major **obsta
 He also said he hoped Washington would accept freezing the frontline where it was, rather than Ukraine ceding the entire Donbas region, which **comprises** Donetsk and Luhansk oblasts.
 
 The EU, meanwhile, is **scrambling** this week to agree a plan on financing Ukraine in the coming years by using frozen Russian assets. A leaders’ meeting is scheduled to begin on Thursday and a deal still appears **elusive**.
-
-
-

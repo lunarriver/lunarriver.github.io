@@ -117,8 +117,6 @@ In October, the US justice department indicted Chen for **wire fraud** conspirac
 
 Another alleged scam operation involved Yim Leak, who Thai authorities described as “the heir of an influential network in Cambodia” that conducted **fraudulent** transactions.
 
-
-
 #### https://www.theguardian.com/world/2025/dec/08/thailand-airstrikes-disputed-border-cambodia
 
 Gen Chaiyapruek Duangprapat, the Thai army’s chief of staff, said it was seeking to **cripple** Cambodia’s military capability, with the aim of **neutralising** it as a threat in the long term.
@@ -179,5 +177,76 @@ Despite a **shaky** ceasefire mediated by the Malaysian prime minister, Anwar Ib
 
 Thailand has also reported 44 civilian deaths from **collateral effects** of the situation.
 
+### Pakistan and Afghanistan
 
+#### https://www.theguardian.com/world/2025/oct/11/heavy-clashes-erupt-along-pakistan-afghanistan-border
 
+“Exercising the right of self-defence, the alert armed forces of Pakistan repelled the assault decisively all along the border and **inflicted** heavy casualties on Taliban forces,” said the statement.
+
+“We will not tolerate the **treacherous** use of Afghan soil for terrorism against Pakistan … the state of Pakistan will not rest until the **menace** of terrorism **emanating** from Afghanistan is completely eliminated.”
+
+Pakistan has neither denied nor confirmed carrying out the Kabul strike, only stating that it had carried out “a series of **retribution** operations”.
+
+The two countries share a nearly 1,600-mile (2,600km) **rugged** and mountainous border known as the Durand Line, which is **contested** by Afghanistan.
+
+Gul described the clashes as a “logical conclusion of the tensions that had been **brewing** up between the two countries, particularly after the continuous refusal of the Afghan regime to take demonstrable **conclusive** action against the TTP, which is spearheading the terrorist attacks in Pakistan.”
+
+Muttaqi said the situation along the Afghan-Pakistan border was now “under control” and that allies Qatar and Saudi Arabia had **reached out** to “express that the war should stop”.
+
+He emphasised that while the cash-strapped Taliban in Afghanistan “lacks the capacity to fight the Pakistani military **head-on**”, he cautioned that the strikes could further fuel the cross-border militant insurgency in Pakistan.
+
+“The risk is that its recent strikes in Afghanistan will galvanise TTP to carry out reprisals, which could **invite** further and perhaps more intense Pakistani operations in Afghanistan,” said Kugelman.
+
+#### https://www.theguardian.com/world/2025/oct/13/an-environment-of-terror-deadly-resurgence-of-pakistan-taliban-gathers-pace
+
+Like Ahmed, his uncle was also in the police, a higher-ranking **constable** dedicated to his job, which supported his family of seven children.
+
+“It seems they have a network of spies or **informants** who can tell them about local police who take part in raids on their camps.”
+
+The TTP emerged in Pakistan’s **tribal**-dominated border areas around 2007, amid the US-led “war on terror”. After a long and brutal counter-insurgency operation, backed by the US, by 2015 Pakistan’s military had declared a “**phenomenal** success” in eradicating TTP militants from the mountainous border area.
+
+The Taliban’s return to power in Afghanistan leaded many to fear a return to the horrors of the TTP **heyday** in the late 2000s.
+
+The storming of the federal **constabulary** headquarters in Khyber Pakhtunkhwa that left six officers dead.
+
+Militants walk openly in residential areas, where they take food from local people and are accused of **extorting** and holding businesses to **ransom**.
+
+Nisar Ali said, the “militants **roam** freely. They ride bikes and **rickshaws** without any fear, not far from the military camps.”
+
+“We see drones flying above our heads but most of the time they kill women, children and the elderly, even our **livestock**, but not the militants.”
+
+A UN report last year accused the Taliban fighters of joining the TTP and the Taliban regime of giving regular aid packages to TTP fighters and a monthly financial **stipend** for its leader, Noor Wali Mehsud.
+
+Muhammad Ali Saif said that this time round, the TTP militants were much more technologically well-equipped – using equipment  such as night-vision **goggles** and sniper weapons.
+
+“If this **bad faith** persists, and this fight spreads to other provinces such as Punjab and Sindh, it will be catastrophic,” he said.
+
+#### https://www.theguardian.com/world/2025/oct/15/dozens-killed-afghanistan-pakistan-border-taliban-kurram-chaman-spin-boldak-kandahar-kabul
+
+Pakistan rebuffed the claim as “**outrageous** and blatant lies”.
+
+The heaviest casualties on Pakistan’s side were reported around the city of Chaman, which is just a few miles from the border and bore the **brunt** of heavy shelling from the Afghan side.
+
+The resumption of the deadly clashes and airstrikes has pushed the two once-**amicable** neighbours the closest to conflict with each other in years and has sparked fears of wider regional instability.
+
+However, ties between the two have severely deteriorated as Islamabad has accused Kabul of giving **sanctuary** to the Pakistan Taliban, known as Tehreek-e-Taliban Pakistan (TTP).
+
+The violence **flared** up again on Tuesday night.
+
+“We are trying to help people to **vacate** and shift to safer places,” he said.
+
+#### https://www.theguardian.com/world/2025/nov/03/afghanistan-earthquake-death-toll-reportedly-damages-blue-mosque
+
+The quake also damaged the Blue Mosque of Mazar-i-Sharif, a 15th-century landmark famed for its **vibrant** **tiles**.
+
+Yousaf Hammad said most of the injured suffered minor wounds and were **discharged** after receiving initial treatment.
+
+In Mazar-i-Sharif, footage on social media showed the quake had caused some damage to the Blue Mosque, with AFP reporting that pieces of the **ornate** structure, particularly from one of its **minarets**, had broken off and fallen to the ground.
+
+The **impoverished** country often faces difficulty in responding to such natural disasters, especially in remote regions.
+
+Buildings in Afghanistan tend to be **low-rise** constructions, mostly of concrete and brick, with homes in rural and **outlying** areas made from mud bricks and wood.
+
+#### https://www.theguardian.com/world/2025/nov/25/taliban-accuses-pakistan-strikes-afghanistan
+
+The fighting ended with a ceasefire brokered by Qatar and Turkey, but talks in Istanbul failed to produce a lasting deal, with security issues, especially Pakistan’s demand that Kabul curb TTP fighters proving a **sticking point**.
