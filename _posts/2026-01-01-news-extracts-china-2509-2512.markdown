@@ -11,97 +11,31 @@ date:   2026-01-01 15:00:00 +0800
 
 #### [China’s ‘temple economy’ in the spotlight as scandals rock influential religious leaders | China | The Guardian](https://www.theguardian.com/world/2025/sep/18/chinas-temple-economy-in-the-spotlight-as-scandals-rock-influential-religious-leaders)
 
-For a religious leader, the allegations were scandalous. Mistresses, **illegitimate** children, embezzlement. But in 2015, the head **abbott** of Shaolin monastery, the **cradle** of **Zen Buddhism** and kung-fu in China, was untouchable.
+But in 2015, the head **abbott** of Shaolin monastery, the **cradle** of Zen Buddhism and kung-fu in China, was untouchable.
 
 The Shaolin Temple released a statement saying that he was being investigated for allegedly **misappropriating** funds and for fathering illegitimate children with multiple mistresses.
 
-```
-illegitimate ~ adjective ~ born of parents not married to each other
-
-abbot ~ noun ~ a man who is in charge of a monastery
-
-cradle ~ noun ~ a small bed for a baby, especially one that moves from side to side
-
-misappropriate ~ verb ~ to steal something that you have been trusted to take care of and use it for your own good
-```
-
-The controversies reveal the increasingly **precarious** position of influential religious leaders in China, as the official support for the commercialisation of religious sites gives way to an emphasis on **frugality** and political **obedience**.
+The controversies reveal the increasingly precarious position of influential religious leaders in China, as the official support for the commercialisation of religious sites gives way to an emphasis on **frugality** and political **obedience**.
 
 Wu is accused of **soliciting** public donations under the guise of collecting money for unmarried pregnant women and needy children, which was actually spent on personal **extravagances**.
 
-```
-precarious ~ adjective ~ in a dangerous state because of not being safe or not being held in place firmly
+In August, a video of monks from Hangzhou’s Lingyin Temple sitting around a table counting **wads** of cash went viral, catapulting the 4th century hall of worship into a social media storm.
 
-frugality ~ noun ~ the quality of being careful when using money or food
-
-obedience ~ noun ~ the fact that people or animals do what they are told to do
-
-solicit ~ verb ~ to ask someone for money, information, or help
-
-extravagance ~ noun ~ behaviour in which you spend more money than you need to
-```
-
-In August, a video of monks from Hangzhou’s Lingyin Temple sitting around a table counting **wads** of cash went viral, catapulting the 4th century hall of **worship** into a social media storm.
-
-In **medieval** times, monasteries stood in for banks, loaning cash to **merchants** while charging high interest rates.
+In **medieval** times, monasteries stood in for banks, loaning cash to merchants while charging high interest rates.
 
 The **opprobrium** comes from ordinary people who see riches as being spiritually **corrosive**, and, increasingly, from the government, which under the leadership of Xi Jinping has cracked down on excess wealth and corruption.
 
-```
-wad ~ noun ~ a number of usually flat and/or small objects pressed tightly together
-
-worship ~ noun ~ the act of worshipping God or a god, often through praying or singing
-
-medieval ~ adjective ~ related to the Middle Ages (= the period in European history from about AD 600 to AD 1500)
-
-merchant ~ noun ~ a person whose job is to buy and sell products in large amounts, especially by trading with other countries
-
-opprobrium ~ noun ~ severe criticism and blame
-
-corrosive ~ adjective ~ A corrosive substance causes damage by chemical action.
-```
-
 But as China entered a period of economic reform and opening up in the 1980s, temples were back in **vogue**, with many turning to tourism to support themselves, often with explicit government support.
 
-Gift shops selling Shaolin-branded **merchandise** also opened, and Shaolin **Inc** was born.
+Over the years he took a **troupe** of martial arts monks to Moscow for a special performance at the invitation of Vladimir Putin. It led one worker near the Shaolin monastery to remark that the political **heft** of local CCP officials seemed **paltry** in comparison with Shi.
 
-Over the years he took a **troupe** of **martial** arts monks to Moscow for a special performance at the invitation of Vladimir Putin. It led one worker near the Shaolin monastery to remark that the political **heft** of local CCP officials seemed **paltry** in comparison with Shi.
-
-```
-vogue ~ noun ~ a fashion or general liking, especially one that is temporary
-
-merchandise ~ noun ~ goods that are bought and sold
-
-troupe ~ noun ~ a group of performers such as singers or dancers who work and travel together
-
-martial ~ adjective ~ relating to soldiers, war, or life in the armed forces
-
-heft ~ noun ~ the weight of something
-
-paltry ~ adjective ~ (of an amount of money) very small and of little or no value
-```
-
-As China suffers with **stubbornly** sluggish economic growth, temples in theory are a gift to both local governments and ordinary people. The authorities benefit from increased domestic spending as people flock to temple-**cum**-tourist attractions, while people struggling to find work or fulfilment in Chinese society are increasingly turning to religion for spiritual guidance.
+The authorities benefit from increased domestic spending as people flock to temple-**cum**-tourist attractions, while people struggling to find work or fulfilment in Chinese society are increasingly turning to religion for spiritual guidance.
 
 But temples also must **tread** an increasingly narrow line between popularity and political obedience.
 
-“It’s almost always that there is something else going on that has to do with **patronage**,” says Ian Johnson, the author of The Souls of China, a book about religion in China.
-
 Xi has shown a particular interest in traditional Chinese religions. Early in his career he helped to re-open important Buddhist temples and turn them into tourist attractions, a blueprint for how the officially **atheist** Party could work with religion.
 
-```
-stubbornly ~ adverb ~ in a way that shows you are determined to do what you want and refuse to do anything else
-
-cum ~ prep ~ used for linking two nouns
-
-tread ~ verb ~ to put your foot on something or to press something down with your foot
-
-patronage ~ noun ~ the support given to an organization by someone
-
-atheist ~ noun ~ someone who does not believe in any god or gods, or who believes that no god or gods exist
-```
-
-Now it seems that the Shaolin monastery, set in the **jagged** Song mountain range, is being brought to heel. He **halted** commercial performances, banned expensive **consecration** rituals, said he would remove temple shops and said that he would eliminate other unpopular fees.
+Now it seems that the Shaolin monastery, set in the **jagged** Song mountain range, is being brought to heel. He halted commercial performances, banned expensive **consecration** rituals, said he would remove temple shops and said that he would eliminate other unpopular fees.
 
 But so far, the anti-commercialisation drive is **patchy** at best. Yellow-robed monks stage daily, **spellbinding** martial arts that are free – for anyone who has bought an 80 yuan ticket to the temple complex.
 
@@ -109,23 +43,9 @@ It would not have been known internationally … there are **pros and cons**.
 
 “After all, I’d also want to drive a range **rover**”.
 
-```
-jagged ~ adjective ~ rough and with sharp points
-
-halt ~ verb ~ to (cause to) stop moving or doing something or happening
-
-consecration ~ noun ~ the act or process of officially making something holy and able to be used for religious ceremonies
-
-patchy ~ adjective ~ only existing or happening in some parts
-
-spellbinding ~ adjective ~ holding your attention completely
-
-rover ~ noun ~ a person who spends their time travelling from place to place
-```
-
 #### [UN and rights groups condemn reported jailing of Wuhan Covid citizen journalist | China | The Guardian](https://www.theguardian.com/world/2025/sep/22/un-rights-groups-condemn-reported-jailing-wuhan-covid-citizen-journalist-zhang-zhan)
 
-She was one of a number of independent journalists to be detained for broadcasting reports about the severe **lockdown** at **ground zero** of the pandemic.
+She was one of a number of independent journalists to be detained for broadcasting reports about the severe lockdown at **ground zero** of the pandemic.
 
 Jeremy Laurence, a spokesperson for the UN human rights office, said reports of Zhang’s rearrest and sentencing were “deeply **disturbing**”.
 
@@ -135,141 +55,65 @@ In August 2024, she was detained and later charged with “picking quarrels and 
 
 During Zhang’s first **spell** in prison she went on hunger strike and there were reports of her being force-fed.
 
-```
-lockdown ~ noun ~ an emergency situation in which people are not allowed to freely enter, leave, or move around in a building or area because of danger
-
-ground zero ~ noun ~ the exact place where a nuclear bomb explodes
-
-disturbing ~ adjective ~ making you feel worried or upset
-
-custodial ~ adjective ~ relating to the legal right to care for someone or something, especially a child
-
-indictment ~ noun ~ a formal statement of accusing someone of something
-
-spell ~ noun ~ a period of time for which an activity or condition lasts continuously
-```
-
 #### https://www.theguardian.com/world/2025/oct/15/xi-directs-quashing-of-chinese-feminists-even-as-he-praises-advances-at-womens-conference
 
 In the past 30 years, women were now participating in the project of national governance with “unprecedented confidence and **vigour**”.
 
-The leader has overseen a sweeping crackdown on civil society and led a **patriarchal** turn in politics. In 2022 he unveiled a new **politburo**, which for the first time since 1997 included no women.
+The leader has overseen a sweeping crackdown on civil society and led a **patriarchal** turn in politics.
 
 The government routinely **exhorts** women to fulfil what it says are traditional responsibilities of marriage and child-bearing.
 
 It came a few weeks after more than 1,300 accounts on Weibo were given temporary or permanent bans for inciting “gender **antagonism**”.
 
-In June, the platform launched a **dedicated** **complaints** category for reporting content that “promotes gender antagonism”.
-
 Wang Huiling, a vlogger from rural Anhui province, shot to **fame** during the Covid-19 pandemic. Her experience of coming from a village, where social norms are more conservative, stood in contrast to the more middle-class feminist **discourse** from China’s cities.
 
-But Wang’s **precise** reach in China is now hard to gauge because, in January, all of her social media accounts were deleted without explanation.
-
 #### https://www.theguardian.com/world/2025/nov/11/china-removes-gay-dating-apps-blued-finka-apple-android-lgbt-rights
-
-**As of** Tuesday, Blued and Finka were unavailable on Apple’s app store and several Android platforms.
-
-“Based on an order from the Cyberspace Administration of China, we have removed these two apps from the China **storefront** only.”
 
 **Homosexuality** is legal in China.
 
 #### https://www.theguardian.com/world/2025/nov/12/new-hongqi-bridge-in-south-west-china-collapses-into-mountainside
 
-A newly opened bridge in south-west China collapsed on Tuesday, sending **slabs of concrete** and **plumes of dust** into the **mountainside** and water below.
+A newly opened bridge in south-west China collapsed on Tuesday, sending **slabs of concrete** and plumes of dust into the mountainside and water below.
 
 The bridge was part of a national highway linking Sichuan and Tibet, which runs through a **seismically** active part of China.
 
 #### https://www.theguardian.com/world/2025/nov/12/beijing-court-appeal-jailed-chinese-journalist-dong-yuyu-human-rights
 
-The detention of Dong has been criticised by international human rights and **press freedom** organisations.
-
-He won a prestigious Nieman **fellowship** at Harvard University in 2006.
-
-The Nieman Foundation has described Dong as a “**cherished** member” of the international Nieman community.
-
-Dong’s **indictment** mentioned several senior Japanese diplomats who do not appear to have been expelled from China despite being involved with Dong’s alleged **espionage ring**.
-
-“It’s pretty obvious there is no legal **argument** to uphold the verdict.”
+Dong’s indictment mentioned several senior Japanese diplomats who do not appear to have been expelled from China despite being involved with Dong’s alleged **espionage ring**.
 
 His **incarceration** shows that China’s reform era is really over.”
 
 In 2017, he was threatened with a **demotion** after a Chinese Communist party investigation deemed his writing “anti-socialist”.
 
-Beh Lih Yi said Dong’s imprisonment “creates a **chilling** effect designed to stop or prevent any Chinese from speaking with foreigners.”
-
 #### https://www.theguardian.com/world/2025/nov/25/protests-erupt-in-chinas-guizhou-province-over-cremation-mandate
-
-The local area has a high **proportion** of people of the Miao ethnicity.
 
 It said that cremation was necessary to preserve land resources and promote a “**frugal** new funeral style”.
 
 In recent years China has struggled with crowded **cemeteries**.
 
-The initial trigger can be the state’s **intrusion** into what many people see as a deeply personal matter.
-
-People are much more likely to feel **motivated** to take the risk of protest.
-
 #### https://www.theguardian.com/world/2025/nov/28/china-civil-service-exam-age-limit-changed
 
 A record number of people are set to take China’s notoriously **gruelling** national civil service exam this weekend.
 
-Some jobs are particularly **in demand**.
+The **statutory** retirement age for women will increase from 50 to 55 for those in blue-collar jobs.
 
-China’s ageing population and **dwindling** pension budget has forced a reckoning with its relatively low retirement ages. The **statutory** retirement age for women will increase from 50 to 55 for those in **blue-collar** jobs.
-
-In recent years some **debt-ridden** local authorities have struggled to pay wages at all. **Harking** back to the Maoist era, civil services jobs are known as providing the “iron rice bowl”.
-
-“The **occupational** structure of China’s job market has shifted markedly over the last decade. In the latter, formal **contractual** obligations are weak,” said George Magnus.
-
-In 2023 the government temporarily stopped publishing youth unemployment figures, which had reached a record 21.3%, resuming publication after a few months with a new **methodology** that excludes students.
-
-And next year, China is **bracing itself for** a record 12.7 million graduates.
-
-The raising of the age limit for the exams has generally been welcomed, especially as it could help workers avoid the **well-documented** “curse of 35”.
+In recent years some **debt-ridden** local authorities have struggled to pay wages at all.
 
 Questions from last year covered Xi Jinping’s major speeches of the past 12 months and Communist party **plenums**.
 
-It involved pre-dawn starts and **cramming** in study sessions around **childcare**, with the result being four to five hours of sleep a night.
-
 #### https://www.theguardian.com/world/2025/dec/14/hong-kong-opposition-democratic-party-disbands-chinese-pressure
 
-Hong Kong’s last major opposition party has disbanded after a vote by its members, the **culmination** of Chinese pressure on the city’s remaining liberal voices in a years-long security crackdown.
-
-However, mass pro-democracy protests in 2019 against a perceived tightening of China’s grip on the city prompted Beijing to enact a sweeping national security law to **stifle** dissent.
-
-On Sunday, DP members voted to disband the party and to enter **liquidation**,.
-
 Of 121 votes cast, 117 were in favour of disbanding while four were **abstentions**.
-
-Senior party members previously told Reuters they had been **approached** by Chinese officials or “middlemen” and told to disband or face severe consequences, including possible arrest.
-
-There was no immediate response to a request for comment from the Hong Kong **Liaison** Office, China’s main representative body in the special administrative region.
-
-“I find it very **problematic**,” she said.
 
 #### https://www.theguardian.com/world/2025/dec/15/china-uyghur-human-rights-ice
 
 Guan “would likely be **persecuted**” if he returned to China.
 
-“He should be given every opportunity to stay in a place of **refuge**,” the statement added.
-
 China **vehemently** denies these allegations.
-
-She **recalls** receiving a text in August from a friend of Guan’s.
-
-Guan’s supporters say he is being held in a Broome County facility in **upstate** New York.
 
 #### https://www.theguardian.com/world/2025/dec/18/china-to-raise-tax-condoms-boost-birth-rate
 
-From 1 January, condoms and **contraceptives** will be subject to a 13% VAT rate.
-
-The measure was **buried** in a VAT law passed in 2024 in an effort to modernise China’s tax regime.
-
-China has over the past decade been introducing a **suite** of “carrots” to **induce** people to have more children.
-
-Provinces have been experimenting with offering discounts on **IVF** treatment. Some local governments offer **newlyweds** extra days of paid leave to encourage people to **tie the knot**.
-
-“What is wrong with modern society? They are truly **going to extreme lengths** just to make us have children,” wrote one user on Weibo.
+China has over the past decade been introducing a suite of “carrots” to **induce** people to have more children.
 
 The new VAT law also includes a **tax break** for childcare and “marriage introduction services”.
 
@@ -277,45 +121,15 @@ Women in some areas have reported receiving phone calls from local government of
 
 “They’ll be calling to urge **intercourse** during the **ovulation** period … this is mass **breeding**.”
 
-It **signified** from the government “what desirable family behaviour should be”.
-
 #### https://www.theguardian.com/world/2025/dec/19/workers-rural-protests-china-land-grabs
-
-Standing inside the temple armed with buckets of rice, the sound of shouting **audible** over banging drums.
-
-A **scuffle** breaks out, some villagers throw handfuls of rice at the officers, a traditional custom for **dispelling** evil, while others **hoist** religious **artefacts** onto their shoulders and march away, past groups of police and other officials.
-
-The **showdown** happened last month. One commenter wrote: “Oh, even their spiritual **solace** is gone.”
 
 “They are frustrated by the lack of economic opportunity and are more prone to volatile **outbursts**,” Chen says.
 
-Two women are **kowtowing**, a traditional gesture performed by those seeking justice.
-
-Tongxing village is a mountainous community, known for its crops of **bayberries**, a small, **prickly**, red fruit.
-
-Several videos collected by China Dissent Monitor appear to **corroborate** the reports. A report published by Chinese media earlier in the summer detailed an ongoing dispute between villagers and a **limestone** mining company to repurpose their land for a **quarry**. Several villagers signed a **petition** opposing the quarry.
-
-However, the state has the power to **requisition** farmland for commercial development.
-
-After several days of intense clashes, a video emerged of villagers appearing to **overpower** local officials, forcing them to kneel.
-
 There is no evidence that the protests are the result of social **contagion** between different places.
 
-But the rapid increase in protests comes at a time of nationwide **malaise** about the sluggish economy, which may fuel **discontent** across different locations.
+But the rapid increase in protests comes at a time of nationwide **malaise** about the sluggish economy.
 
-Firstly, struggling local governments, which collectively are estimated to be **saddled** with at least 44tn yuan ($6.2tn) of debt, need money for public services and to pay salaries. Even though the property sector has plummeted the seized land can still be used as **collateral** to get new loans.
-
-“Land seizures continue to be a major issue because the country is rapidly **urbanising**,” says Rachel Murphy. “Meanwhile, local government **coffers** continue to rely in large part on converting land use from agricultural to non-farm uses”.
-
-While there is no official data on this trend, **anecdotes** **abound**.
-
-The failure of those people to return to work reflects “the **deep-seated** contradictions in the current employment situation of migrant workers”, wrote researchers from Hunan Normal University.
-
-Some in China talk of the “three no’s” to describe the situation of rural migrant workers: no jobs to find, no land to **cultivate**, no place to go”.
-
-Evidence is generally **scrubbed** from social media.
-
-This year, the government has started **rolling out** new service centres in rural areas staffed with social workers, legal advisers and even psychological **counsellors** to mediate disputes before they escalate.
+Firstly, struggling local governments, which collectively are estimated to be **saddled** with at least 44tn yuan ($6.2tn) of debt, need money for public services and to pay salaries.
 
 ### US
 
