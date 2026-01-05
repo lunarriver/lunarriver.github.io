@@ -147,24 +147,10 @@ The US Congress still needs to **sign off** on the transaction.
 
 However analysts suggested it was also designed to **placate** Donald Trump, who has been pressuring Mexico not to act as a “back door” for Chinese goods into the US.
 
-On Thursday, China’s ministry of foreign affairs said Beijing “firmly rejects moves that are taken under coercion to constrain China or undermine China’s legitimate rights and interests under any **pretext**”.
-
 “We will firmly protect our rights and interests **in light of** the developments of the situation,” foreign ministry spokesperson Lin Jian told a regular briefing.
-
-Trump’s tariff regime has **upended** ties and alliances around the world – having moved beyond its original stated purpose of rebalancing trade relationships in the US’s favour, to being **wielded** as a geopolitical tool.
-
-The supreme court is set to hear Trump’s appeal against that **verdict** in the first week of November and the tariffs remain in place ahead of its ruling.
 
 ```
 placate ~ verb ~ to stop someone from feeling angry
-
-pretext ~ noun ~ a pretended reason for doing something that is used to hide the real reason
-
-upend ~ verb ~ to push or move something so that the part that usually touches the ground is not touching the ground any more
-
-wield ~ verb ~ to hold a weapon or tool and look as if you are going to use it
-
-verdict ~ noun ~ an opinion or decision made after judging the facts that are given, especially one made at the end of a trial
 ```
 
 #### [US and China reach deal to transfer TikTok ownership, trade officials say | TikTok | The Guardian](https://www.theguardian.com/technology/2025/sep/15/trump-china-tiktok-sale-ban)
@@ -173,48 +159,28 @@ verdict ~ noun ~ an opinion or decision made after judging the facts that are gi
 
 The Department of Justice last year said TikTok had gathered the sensitive data of American users based off gun control, **abortion** and religion through its use of Lark, a workplace communication platform similar to Slack or Microsoft Teams, according to court documents.
 
-Security experts have long pointed to three main areas of concern: Chinese influence campaigns, mass data collection on US citizens, and potential vulnerabilities that could **compromise** users’ devices.
-
-The TikTok ownership saga stretches back to 2020, when Trump first ordered ByteDance to **divest** TikTok or face a shutdown. Microsoft initially pursued a potential **acquisition** worth billions of dollars, with CEO Satya Nadella engaging directly with Trump, but it fell apart in what Nadella dubbed at the time “the strangest deal” he has ever worked on.
-
-Soon after, Walmart and Oracle came close to buying TikTok’s US **arm**, proposing a joint acquisition of a new entity called TikTok Global, but it was shelved indefinitely after the Biden administration conducted its own review of Chinese tech companies.
-
-“We’re not going to be in the business of having **repetitive** extensions,” Greer said. “We have a deal.”
+The TikTok ownership saga stretches back to 2020, when Trump first ordered ByteDance to **divest** TikTok or face a shutdown.
 
 ```
 abortion ~ noun ~ the intentional ending of a pregnancy
 
-compromise ~ verb ~ to allow your principles to be less strong or your standards or morals to be lower
-
 divest ~ verb ~ to sell something, especially a business or a part of a business
-
-arm ~ noun ~ a long, moving part of a machine or piece of equipment
-
-repetitive ~ adjective ~ involving doing or saying the same thing several times, especially in a way that is boring:
 ```
 
 #### [Chinese economy slows amid Trump trade war and weaker consumer spending | Chinese economy | The Guardian](https://www.theguardian.com/business/2025/sep/15/chinese-economy-weakens-as-consumer-spending-and-factory-output-slows)
 
-The disappointing data adds pressure on Beijing to roll out more stimulus to fend off a sharp slowdown, with a debt crisis denting the country’s once-booming property sector and exports facing stronger **headwinds**.
-
 A spokesperson for China’s statistics bureau said on Monday that more efforts were needed to support China’s **ailing** property sector and that the “external environment is very severe”.
 
 Although the two countries agreed a pause on tariffs until 10 November, China recorded a **slump** in US-bound exports last month.
-
-“The activity data point to a further loss of **momentum**,” Zichun Huang, China economist at Capital Economics, wrote in a note.
 
 Authorities are leaning on manufacturers to find new markets to **offset** Trump’s unpredictable tariff policies and weak consumer spending.
 
 “Policies and measures to support service consumption are expected to offset the impact of **aggregate** demand this month,” he said.
 
 ```
-headwind ~ noun ~ a wind blowing in the opposite direction to the one you are moving in
-
 ailing ~ adjective ~ experiencing difficulty and problems
 
 slump ~ verb ~ (of prices, values, or sales) to fall suddenly
-
-momentum ~ noun ~ the force that keeps an object moving
 
 offset ~ verb ~ to balance one influence against an opposing influence, so that there is no great difference as a result
 
@@ -223,26 +189,14 @@ aggregate ~ adjective ~ total
 
 #### [‘Everyone should be worried’: life in the crosshairs of China’s ‘Guam killer’ missiles | Guam | The Guardian](https://www.theguardian.com/world/2025/sep/17/guam-reacts-to-china-displaying-new-killer-missile-everyone-should-be-worried)
 
-But that certainty shifted slightly this month when the threat **catapulted** into the headlines, as Beijing used a military parade commemorating Japan’s defeat in the second world war to unveil a range of new military hardware – including a weapon dubbed the “Guam Killer” by Chinese media.
+For that reason, displays of China’s increasing military **prowess** – this month’s event included nuclear-capable intercontinental ballistic missiles, anti-drone lasers and four-legged “robot wolves” – loom large in the territory.
 
-For that reason, displays of China’s increasing military **prowess** – this month’s event included nuclear-capable intercontinental ballistic missiles, anti-drone **lasers** and four-legged “robot wolves” – **loom** large in the territory.
-
-“Guam should be aware of the threat, even if not so worried,” says Col Grant Newsham, a retired US marine officer, noting that the Chinese military has **outpace** the US in some areas.
-
-“That can alter regional and global diplomacy and make coordinated actions more likely. It’s alarming because it can be a military and security **allegiance**,” Reilly says.
+“It’s alarming because it can be a military and security **allegiance**,” Reilly says.
 
 Local officials, however, continue to insist that defending Guam is of **paramount** importance to the US military.
 
 ```
-catapult ~ verb ~ to throw someone or something with great force
-
 prowess ~ noun ~ great ability or skill
-
-laser ~ noun ~ (a device that produces) a powerful, narrow beam of light that can be used as a tool to cut metal, to perform medical operations, or to create patterns of light for entertainment
-
-loom ~ verb ~ to appear as a large, often frightening or unclear shape or object
-
-outpace ~ verb ~ to move or develop faster than someone or something else
 
 allegiance ~ noun ~ loyalty and support for a ruler, country, group, or belief
 
@@ -251,30 +205,20 @@ paramount ~ adjective ~ more important than anything else
 
 #### [Trump celebrates TikTok deal as Beijing suggests US app would use China’s algorithm | China | The Guardian](https://www.theguardian.com/world/2025/sep/17/trump-celebrates-tiktok-deal-as-beijing-suggests-us-app-would-use-chinas-algorithm)
 
-At a press conference in Madrid, the deputy head of China’s cyber security **regulator** said the framework of the deal included “**licensing** the algorithm and other intellectual property rights”.
-
 Wang Jingtao said ByteDance would “**entrust** the operation of TikTok’s US user data and content security.”
 
 Some commentators have inferred from these comments that TikTok’s US **spinoff** will retain the Chinese algorithm.
 
 At arguments in the Supreme Court in January, a lawyer for TikTok ByteDance told the justices how difficult it would be to sell the platform to a US company, because Chinese law restricts the sale of the **proprietary** algorithm that has made the social media platform wildly successful.
 
-American officials have previously warned the algorithm that **fuels** what users see on the app is vulnerable to manipulation by Chinese authorities, who can use it to shape content on the platform in a way that’s difficult to detect.
-
 “It wouldn’t be in **compliance** if the algorithm is Chinese. There can’t be any shared algorithm with ByteDance,” said a spokesperson for the House Select Committee on China.
 
 ```
-regulator ~ noun ~ an official who makes certain that the companies who operate a system, such as the national electricity supply, work effectively and fairly
-
-license ~ verb ~ to give someone official permission to do or have something
-
 entrust ~ verb ~ to give someone a thing or a duty for which they are responsible
 
 spinoff ~ noun ~ a product that develops from another more important product
 
 proprietary ~ adjective ~ relating to owning something, or relating to or like an owner
-
-fuel ~ verb ~ to increase a feeling or a type of behaviour or make it stronger
 
 compliance ~ noun ~ the act of doing everything that someone tells or wants you to do
 ```
@@ -285,8 +229,6 @@ Foreign manufacturers using Chinese **machinery** or components overseas are now
 
 “This has **adversely** affected international peace and stability” it said.
 
-The supply of the globally crucial rare-earth elements has become a **contentious** point of trade negotiations between the US and China, tested in April when a first **swathe** of Chinese export restrictions.
-
 #### https://www.theguardian.com/us-news/2025/oct/10/trump-china-tariffs
 
 Wall Street fell sharply after the US president reignited public tensions with the Chinese government, and raised the prospect of another **acrimonious** trade war between the world’s two largest economies.
@@ -294,8 +236,6 @@ Wall Street fell sharply after the US president reignited public tensions with t
 This would happen on 1 November “or sooner”, he said, hinting that the move could be accelerated should Chinese officials **opt** to retaliate.
 
 “There are many other countermeasures that are, **likewise**, under serious consideration.”
-
-Trump repeatedly **hiked** US tariffs on Chinese goods in the spring.
 
 But talks between officials, amid widespread concern over the impact of such **exorbitant** duties on the world economy, led to a fragile **detente**.
 
@@ -311,15 +251,9 @@ The first is a proposed **gallium** plant in Western Australia, to be co-located
 
 The US is wholly dependent on gallium imports, with China having near complete dominance over its production – it is typically **churned** out as a **byproduct** by the country’s vast network of aluminium **smelters**.
 
-Like much of the critical mineral supply chain, China **priced out** rival gallium producers over several decades until it achieved its monopoly position.
-
 Rare-earth magnets are used in wind turbines, medical devices, **combustion** and electric motors and ballistic missile guidance systems.
 
 The US government is considering investing up to $US300m, but first requires further **due diligence**.
-
-Tim Buckley says it is urgent to position Australia as “more than a **quarry** digging and shipping our raw commodities”.
-
-The mix of government money and public **shareholder** money raises questions over who the projects will sell to, and at what price, given China is the world’s dominant buyer of materials that go into the production of high-grade magnets.
 
 One representative of a critical minerals project told Guardian Australia the company was “**mindful** of the context in which we’ve been funded” and that there’s an assumption they “won’t be making many sales to Chinese customers”.
 
@@ -329,13 +263,7 @@ There is also the **lingering** question over how China will respond.
 
 #### https://www.theguardian.com/world/2025/dec/09/chinas-record-high-trade-surplus-reveals-the-difficulty-trump-will-have-in-rebalancing-global-economy
 
-The record trade surplus comes even as exports to the US have plummeted, a reflection of the **bruising** US-China trade war that, despite a recent cooling, has **dampened** the flow of goods between the world’s two largest economies.
-
-Chinese premier Li Qiang said the “mutually destructive consequences of tariffs have become increasingly **evident**”.
-
 That is because the demand in the US for cheap products has not gone away, and few countries can replicate China’s **mammoth** ability to produce consumer goods at scale at low prices.
-
-Chinese households are keen on saving money, a trend exacerbated by the pandemic and real estate crash in China that **wiped out** many people’s savings.
 
 ### Taiwan
 
