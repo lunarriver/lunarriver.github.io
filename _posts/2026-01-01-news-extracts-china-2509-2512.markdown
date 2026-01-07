@@ -269,15 +269,9 @@ That is because the demand in the US for cheap products has not gone away, and f
 
 #### https://www.theguardian.com/world/2025/sep/25/taiwan-convicts-four-former-ruling-party-officials-of-spying-for-china
 
-The four include a former aide to Taiwan’s president, Lai Ching-te, when he was vice-president and for a time during his current presidency, and a senior staffer to Joseph Wu, **then** foreign minister and now the national security chief.
-
-Huang denied **wrongdoing** while Chiu pleaded guilty.
-
 Lai says that such measures, which have been criticised for **muffling** free expression, are necessary to combat “grey zone” infiltrations of Taiwan’s military, government and society.
 
 ```
-wrongdoing ~ noun ~ a bad or an illegal action
-
 muffle ~ verb ~ to make a sound quieter and less clear
 ```
 
@@ -285,7 +279,7 @@ muffle ~ verb ~ to make a sound quieter and less clear
 
 In a separate report, the state-controlled Chinese news agency Xinhua said they created **seditious** games to incite secession.
 
-Taiwan’s defence ministry said the accusations reflected the “**despotic** and **pig-headed** thinking of an authoritarian regime.
+Taiwan’s defence ministry said the accusations reflected the “**despotic** and pig-headed thinking of an authoritarian regime.
 
 “Defending national security and protecting the safety and wellbeing of the people is the **unshirkable** duty of every military officer and soldier,” it said.
 
@@ -293,45 +287,31 @@ On Friday, Lai Ching-te pledged greater efforts to boost Taiwan’s defences, ca
 
 #### https://www.theguardian.com/us-news/2025/oct/28/trump-and-xi-talks-what-will-be-on-the-agenda-when-us-president-meets-chinas-leader
 
-Some analysts believe that China is leveraging its rare earths **chokehold** in part to force the US to negotiate over the 20% fentanyl-linked tariffs on Chinese exports.
-
-Amid the **fallout**, Trump has been making rare earths deals with other countries including Australia and Thailand, but the issue will be high on the agenda in his meeting with Xi.
-
-“Taiwan has a lot of things that they’re worried about and **rightfully** so because of the situation they find themselves in,” Rubio told reporters on a plane between Israel and Qatar.
-
 “If what people are worried about is we’re going to get some trade deal or we’re going to get favourable treatment on trade in exchange for walking away from Taiwan, no one is **contemplating** that,” he said.
 
 #### https://www.theguardian.com/world/2025/nov/07/chinas-latest-aircraft-carrier-enters-service-to-extend-reach-into-high-seas
 
-The vessel is one of the most high profile signs of his long-running efforts to **overhaul** and modernise the People’s Liberation Army (PLA).
-
 The KJ-600 early warning and control plane has been successfully tested during its sea **trials**.
 
-China’s navy said it launched the latest J-35 **stealth** fighter and J-15T heavy fighter from the Fujian.
+China’s shipbuilding operates at an unrivalled pace but is secretive, and observers **scour** state media alerts and satellite images for signs of the latest developments and innovations.
 
-China’s shipbuilding operates at an **unrivalled** pace but is secretive, and observers **scour** state media alerts and satellite images for signs of the latest developments and innovations.
-
-This year the PLA has been testing several new **barge** ships, designed to create a **loading dock** from almost a kilometre out from shore, to bypass **rough seas** and rocky coastlines.
-
-Taiwan’s defensive strategies had long included plans to move its war planes from the vulnerable west coast to the east, where they were protected by a **mountain range**.
+This year the PLA has been testing several new **barge** ships, designed to create a loading dock from almost a kilometre out from shore, to bypass rough seas and rocky coastlines.
 
 #### https://www.theguardian.com/world/2025/nov/08/taiwan-vice-president-presses-case-at-eu-parliament-for-joint-efforts-to-counter-china
 
 “Peace in the Taiwan Strait is essential to global stability and economic **continuity**, and international opposition against unilateral changes to the status quo by force cannot be **overstated**.”
 
-“In an era marked by increasing **fragmentation**, volatility and rising authoritarianism” she added, to a standing **ovation** in a small chamber of the parliament.
+“In an era marked by increasing fragmentation, volatility and rising authoritarianism” she added, to a standing **ovation** in a small chamber of the parliament.
 
 She also mentioned China’s disruptions of global supply chains – likely a reference partly to Beijing’s **throttling** of rare earth exports to the EU earlier this year.
 
-China’s **mission** to Europe on Saturday criticised the EU parliament for allowing her to carry out “separatist activities” in its building despite China’s opposition – adding it had made a **representation** to the European side.
+China’s mission to Europe on Saturday criticised the EU parliament for allowing her to carry out “separatist activities” in its building despite China’s opposition – adding it had made a **representation** to the European side.
 
 The trip and speech were kept **under wraps** because of security concerns.
 
 Ben Bland said the EU and Taiwan could do much more to deepen ties for mutual benefit in the face of worsening US-China **rivalry**.
 
 #### https://www.theguardian.com/world/2025/nov/12/china-taiwan-statements-longer-term-strategy
-
-“The aim is to **belittle** Taiwan’s international standing, to achieve the political objective of **eliminating** Taiwan’s sovereignty.”
 
 **Retrocession** day, on 25 October is celebrated in Taiwan to mark the end of Japanese colonial rule, but Beijing has **recast** it as the day Taiwan was returned to China – specifically the China now ruled by the CCP.
 
@@ -343,67 +323,29 @@ Germany’s foreign minister said his country’s long standing position opposed
 
 In Taiwan, people and officials called the photos **voyeuristic**.
 
-“If the point that China is trying to make with these satellite pictures is that it owns everything it took pictures of, then that’s just plain **immature**.”
-
-Chinese officials sought to brush off the **characterisation**. “It is normal for Chinese satellites to look at the **magnificent** mountains and rivers of China’s Taiwan.”
-
-These moves could help “prepare ground” for Xi seeking US **concessions** on its protection of Taiwan.
-
 #### https://www.theguardian.com/world/2025/nov/25/china-taiwan-xi-jinping-call-with-donald-trump
 
 China is embroiled in a weeks-long diplomatic row with key US ally Japan over the island that has seen a **dip** in Chinese tourism to Japan.
 
 A **tentative** deal reached in October’s meeting in South Korea.
 
-Meanwhile, Beijing would buy at least 12m **metric** tons of American soya beans by the end of this year.
-
-He added that the “successful” meeting in South Korea “**recalibrated** the course of the giant ship of China-US relations”.
-
 #### https://www.theguardian.com/world/2025/nov/26/taiwan-extra-40bn-defence-spending-china-threat
 
-Lai and defence minister announced the spending **bump** – an increase of at least $8bn on what had previously been flagged.
-
-“History has proven that compromising with aggression only brings war and **enslavement**,” he said.
-
-He said Beijing’s offer of a Hong Kong-style ‘one country two systems’ governance under Chinese rule should be formally considered an “**inviolable** red line for Taiwanese society”.
-
-A spokesperson for China’s Taiwan Affairs Office, Peng Qingen, earlier told a press briefing that Taiwan was **squandering** money on “**currying** favour with external powers”.
-
-China’s government accused Japan of deliberately **stoking** regional tensions.
+A spokesperson for China’s Taiwan Affairs Office, Peng Qingen, earlier told a press briefing that Taiwan was squandering money on “**currying** favour with external powers”.
 
 #### https://www.theguardian.com/world/2025/dec/18/us-announces-more-than-10bn-of-arms-sales-to-taiwan
 
-Donald Trump made **scant** mention of foreign policy issues. US-Chinese tensions have **ebbed** and flowed during Trump’s second term.
-
-The eight arms sales agreements announced on Wednesday cover 82 **high-mobility** artillery rocket systems. They also include 60 self-propelled **howitzer** systems.
-
-Other sales in the package include helicopter spare parts worth $96m and **refurbishment** kits.
-
-In separate but nearly **identical** statements, the state department said the sales serve “US national, economic and security interests.”
-
-“The ‘Taiwan independence’ forces on the island seek independence through force, **squandering** the **hard-earned** money of the people to purchase weapons at the cost of turning Taiwan into a **powder keg**,” said foreign ministry spokesperson Guo Jiakun.
-
-“This cannot save the **doomed fate** of ‘Taiwan independence’. The US support for ‘Taiwan Independence’ through arms will only end up **backfiring**. Using Taiwan to **contain** China will not succeed,” he added.
-
-But the push towards greater weapons sales has been **impeded** by Trump’s **erratic** stance on Taiwan.
+“The US support for ‘Taiwan Independence’ through arms will only end up **backfiring**,” he added.
 
 #### https://www.theguardian.com/world/2025/dec/26/china-imposes-sanctions-on-us-defence-firms-over-taiwan-arms-deal
 
-China’s stance on Taiwan has been a **pinch point** in its relations with the US, already **worn thin** over trade and tariff issues.
+China’s stance on Taiwan has been a **pinch point** in its relations with the US, already worn thin over trade and tariff issues.
 
 #### https://www.theguardian.com/world/2025/dec/29/china-live-fire-military-drills-around-taiwan
 
-The PLA’s eastern theatre command said it had deployed destroyers, **frigates**, fighters, bombers, drones and long-range missiles “**in close proximity**” to Taiwan.
+The PLA’s eastern theatre command said it had deployed destroyers, frigates, fighters, bombers, drones and long-range missiles “**in close proximity**” to Taiwan.
 
-By Monday afternoon, Taiwan’s defence ministry said it had detected 28 navy and coastguard ships, including two that entered Taiwan’s **contiguous zone**. A formation of four **amphibious** assault ships, which can carry dozens of **rotary** aircraft, was spotted 160 nautical miles west of Taiwan’s southern tip.
-
-“Any sinister **schemes** to **obstruct** China’s reunification are doomed to fail,” Lin said.
-
-“Despite repeated warnings from China, the US and Taiwan engaged in serious **collusion** and provocation.”
-
-A propaganda poster depicted **flaming arrows** shot from China to Taiwan’s main island.
-
-Justice Mission 2025 is the sixth major PLA military exercise targeting Taiwan since 2022, when it launched days of live-fire drills in retaliation for the then US **speaker**, Nancy Pelosi, visiting the island.
+A formation of four amphibious assault ships, which can carry dozens of **rotary** aircraft, was spotted 160 nautical miles west of Taiwan’s southern tip.
 
 ### Japan
 
