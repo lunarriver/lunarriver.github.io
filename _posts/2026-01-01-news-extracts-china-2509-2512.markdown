@@ -357,21 +357,13 @@ But like her political hero Margaret Thatcher, Takaichi will be guided by the so
 
 She opposes revising a 19th-century law requiring married couples to use the same surname, arguing that allowing women to retain their **maiden** names would **chip away** at traditional family values.
 
-She also opposes calls for changes to succession laws to allow female members of the **imperial household** – which has few male heirs – to become **reigning** **empresses**.
-
-Takaichi had a **comparatively** small pool of female MPs from which to appoint her cabinet.
+She also opposes calls for changes to succession laws to allow female members of the imperial household – which has few male heirs – to become **reigning** empresses.
 
 #### https://www.theguardian.com/world/2025/nov/11/japan-china-row-takaichi-taiwan-conflict-military-deployment
 
-“The so-called Taiwan **contingency** has become so serious that we have to anticipate a worst-case scenario.”
-
 “We have no choice but cut off that dirty neck that has been **lunged** at us without hesitation.”
 
-Japan has long **wrestled** with the question of how it would respond to a conflict between China and Taiwan, which lies just 100km from its westernmost island, **Yonaguni**, in the East China Sea.
-
-Lin Jian said Xue’s post was a response to Takaichi’s “**wrongful** and dangerous” remarks on Taiwan.
-
-“China strongly urges Japan to **reflect** on its historical **culpability** on the Taiwan issue.”
+“China strongly urges Japan to reflect on its historical **culpability** on the Taiwan issue.”
 
 “Such behaviour clearly exceeds diplomatic **etiquette**.”
 
@@ -379,13 +371,9 @@ This latest spat started just a week after Beijing accused Takaichi of “**egre
 
 #### https://www.theguardian.com/world/2025/nov/15/china-advises-against-travel-to-japan-amid-escalating-row-over-pms-taiwan-comments
 
-Sanae Takaichi told Japan’s parliament on 7 November that the use of force against the self-ruled island claimed by China could **warrant** a military response from Tokyo.
-
-In the **since-removed** statement on social media, Xue posted about “(cutting) off that dirty neck”. Japan’s ruling party has since passed a resolution calling for the envoy to be declared **persona non grata**.
-
 Takaichi, a conservative and China hawk, has toned down her rhetoric since **assuming office** last month.
 
-If an emergency in Taiwan **entails** “**battleships** and the use of force, then that could constitute a situation threatening the survival of Japan, **any way you slice it**”, she said.
+If an emergency in Taiwan **entails** “battleships and the use of force, then that could constitute a situation threatening the survival of Japan, **any way you slice it**”, she said.
 
 Despite the escalating diplomatic spat, Takaichi has since indicated she has no intention of **retracting** her statement.
 
@@ -393,27 +381,13 @@ Despite the escalating diplomatic spat, Takaichi has since indicated she has no 
 
 China and Japan have repeatedly **faced off** around the islands.
 
-Chinese military **transits** there are not rare.
-
-China’s consul general in Osaka prompted a formal protest from Tokyo by commenting that “the dirty head that **sticks** itself out must be cut off”.
-
-China’s defence ministry declared that any Japanese intervention would be **doomed to fail**.
-
 Three Chinese airlines said on Saturday that tickets to Japan could be **refunded** or changed for free.
 
-Late on Saturday, a Chinese state media editorial accused Takaichi of staging a **political stunt** that was “not just dangerously provocative but fundamentally **perverse**”.
-
-“A conflict between Japan and China would not be a limited **skirmish**.”
-
-However, China’s ruling Communist party says the unification of Taiwan with the People’s Republic of China is “inevitable”, and casts any opposition to it as **escalatory**.
+Late on Saturday, a Chinese state media editorial accused Takaichi of staging a political stunt that was “not just dangerously provocative but fundamentally **perverse**”.
 
 #### https://www.theguardian.com/world/2025/nov/17/china-travel-warning-for-japan-sends-shares-in-tourism-and-retail-companies-plunging
 
-The comments triggered a furious response from Beijing, including a coastguard **sail-by** through the disputed Senkaku islands at the weekend.
-
 In morning trade on Monday, shares in the Japanese **cosmetics** firm Shiseido fell 9%.
-
-Japan’s **self-imposed** rules say that it can act militarily only under certain conditions.
 
 #### https://www.theguardian.com/world/2025/nov/17/china-and-japan-are-in-a-war-of-words-over-taiwan-what-happens-next
 
@@ -421,23 +395,11 @@ The quarrel **kicked off** after Japan’s prime minister, Sanae Takaichi, sugge
 
 “The so-called Taiwan contingency has become so serious that we have to anticipate a **worst-case** scenario,” Takaichi said.
 
-Takaichi **hails from** the right of the ruling Liberal Democratic party (LDP) and shares hawkish views on China once **espoused** by Shinzo Abe.
-
-On Monday, China’s embassy in Japan posted on its social media a reminder that it had not **renounced** using force to take Taiwan.
-
-In the **immediate term**, the row is more likely to have an impact on bilateral economic and people-to-people ties between the key trading partners.
-
-“I also urge China to exercise restraint and demonstrate the conduct **befitting** a major power, rather than becoming a troublemaker for regional peace and stability,” Lai said.
+Takaichi hails from the right of the ruling Liberal Democratic party (LDP) and shares hawkish views on China once **espoused** by Shinzo Abe.
 
 #### https://www.theguardian.com/world/2025/nov/18/chinese-travellers-estimated-to-have-cancelled-500000-flights-to-japan-amid-rising-tensions
 
-Sichuan Airlines had cancelled all flights between Chengdu and **Sapporo** from January until late March, and the **budget carrier** Spring Airlines had cancelled “multiple” Japan flights.
-
-China is the second largest source of tourists to Japan, and its students form the bulk of Japan’s international student **cohort**. Shares in Japanese retail and travel companies **slumped** on Monday in response to the measures.
-
-The travel cancellations are among a growing list of economic countermeasures after what had until Sunday been mostly a **rhetorical** reaction.
-
-The Chinese **polling** partner told the Guardian that the questions were asked before the dispute began and the results “do not represent the current state of China-Japan relations”.
+China is the second largest source of tourists to Japan, and its students form the bulk of Japan’s international student **cohort**.
 
 State media have claimed that **box office** sales for an already released Japanese film, Demon Slayer: Infinity Castle, have slumped in recent days.
 
@@ -449,19 +411,13 @@ China’s state media have given the spat **blanket** coverage.
 
 The original ban was imposed in response to Japan’s decision to release wastewater from the damaged and **decommissioned** Fukushima nuclear plant.
 
-“I would also like to emphasise that due to Japanese prime minister Sanae Takaichi’s recent actions that **go against the tide** and her **erroneous** remarks on major issues such as Taiwan, which have triggered strong public outrage in China, there would be no market for Japanese seafood in the current climate even if Japan were able to export it to China.”
-
-Over the weekend, China sent a coastguard fleet through the disputed waters around the Senkaku Islands and military drones past Japan’s most **westerly** territory, Yonaguni Island, close to Taiwan’s east coast.
-
-On Tuesday, China’s **permanent representative** to the UN, Fu Cong, told a forum that Japan was “totally unqualified” for a permanent seat on the UN security council, citing Takaichi’s remarks.
-
 #### https://www.theguardian.com/world/2025/nov/24/japan-pm-sanae-takaichi-g20-summit-china-public-support
 
 When she selected her **wardrobe** for this weekend’s G20 summit in South Africa, Sanae Takaichi took extra care to choose something that – in her words – would “give her the upper hand” in negotiations.
 
 But she never got the opportunity to test the theory in what would have been her most **pressing engagement** – talks with the Chinese premier.
 
-Instead, they kept their distance during a group photoshoot on Saturday – setting a **frosty** tone that would continue for the rest of the summit, despite speculation that a brief handshake and exchange of **courtesies** was a possibility.
+Instead, they kept their distance during a group photoshoot on Saturday – setting a **frosty** tone that would continue for the rest of the summit.
 
 She did not, though, agree to Beijing’s main condition for an end to the row – a retraction of her assertion this month that Japan would be **entitled** to engage in “collective self-defence” if an emergency in the Taiwan Strait created a “survival-threatening situation” for Japan.
 
@@ -473,19 +429,13 @@ But her **intransigence** over Taiwan is doing her little harm with the public.
 
 #### https://www.theguardian.com/world/2025/dec/08/japan-china-radar-fighter-jets-claims
 
-China’s government has **roundly** rejected Japan’s accusations, instead lodging its own **counterprotests**.
+China’s government has **roundly** rejected Japan’s accusations.
 
 A fire-control radar lock signals a potential attack, forcing the targeted aircraft to take **evasive** action.
 
 The Japanese defence minister said on Sunday the incident was “dangerous and extremely **regrettable**”.
 
-“These radar **illuminations** went beyond what is necessary for the safe flight of aircraft,” he said.
-
 China has disputed Japan’s claims as “completely inconsistent with the facts”, instead accusing Japan’s self-defence forces of having “**maliciously** followed and harassed” its Liaoning aircraft carrier group while it was conducting training drills.
-
-The Japan side was “repeatedly sending aircraft to intrude into the exercise and training zones that China had **demarcated** and announced in advance,” said senior Col Zhang Xiaogang.
-
-Chinese state media has also revived a campaign questioning Japan’s territorial claims over the **Ryuku** Island chain, which includes Okinawa.
 
 ### Others
 
