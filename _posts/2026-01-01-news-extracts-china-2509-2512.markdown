@@ -441,13 +441,7 @@ China has disputed Japan’s claims as “completely inconsistent with the facts
 
 #### https://www.theguardian.com/world/2025/oct/08/huajiang-grand-canyon-bridge-guizhou-china-worlds-highest-bridge-how-it-feels-crossing
 
-As a safety worker for bungee jumps and rope **swings**, Mr Fu has spent a lot of time standing on bridges. But his new job, working at the new Huajiang Grand Canyon Bridge in Southern China, **takes the cake**.
-
-“Standing on it yourself feels **thrilling** as well.”
-
-The bridge offers bungee jumping and **slack**-lining, and there are plans for professional **Base jumping** events, according to state media.
-
-Lin Guoquan, who runs a nearby **guesthouse**, posted on social media that his business was fully booked and there were now hundreds of people every day at a viewing platform where he used to drive guests.
+As a safety worker for bungee jumps and rope **swings**, Mr Fu has spent a lot of time standing on bridges.
 
 Social media is **awash** with videos from the bridge, including drone vision shot by Lin
 
@@ -455,15 +449,9 @@ Not everyone is so **enamoured**.
 
 #### https://www.theguardian.com/world/2025/oct/12/philippines-says-chinese-ship-deliberately-rammed-government-boat-in-south-china-sea
 
-The Philippines said a Chinese coast guard ship “fired its water cannon” at the BRP Datu Pagbuaya, a vessel belonging to Manila’s **fisheries** bureau, at 9.15am on Sunday.
-
-Just three minutes later … the same Chinese vessel deliberately rammed the **stern**” of the Philippine boat.
-
 Beijing blamed the Philippines for the **collision**.
 
 #### https://www.theguardian.com/world/2025/oct/15/china-spy-row-key-witness-statement-to-be-published-says-starmer
-
-Keir Starmer was forced to promise to publish witness statements from the UK’s deputy national security adviser in an effort to **draw a line** under a row over why charges against two Britons accused of spying for China were dropped.
 
 Starmer said at prime minister’s questions it was “absolutely not” the case and said Kemi Badenoch, the leader of the opposition, had made a “completely **scurrilous** allegation”.
 
@@ -475,13 +463,7 @@ Starmer added that Collins was a “civil servant of the utmost **integrity**”
 
 #### https://www.theguardian.com/world/2025/oct/17/china-accuses-uk-of-bad-faith-over-delayed-embassy-project
 
-Lin Jian, a spokesperson for the Chinese foreign ministry, told a press conference in Beijing on Friday that the UK had shown “disregard for **contractual** spirit, acting in bad faith and without integrity”.
-
-He said China had acted with “the utmost sincerity and patience” and the UK should “immediately fulfil its obligations and **honour** its commitments otherwise the British side shall bear all consequences”.
-
 The prime minister’s spokesperson told reporters on Friday that the decision over the embassy was **quasi**-judicial and “independent of the rest of government”.
-
-Oliver Robbins, the head of the Foreign Office, is in China this week discussing the embassy application and the **refurbishments** Britain wants to carry out on its own embassy in Beijing.
 
 But those attempts have faced multiple **hurdles**, including the two recent rows over spying and the proposed new embassy.
 
@@ -489,17 +471,13 @@ Beijing bought the site of the **prospective** embassy near the Tower of London 
 
 That deadline was pushed back until 21 October after China **redacted** large portions of its plans for what it said were security reasons.
 
-Meanwhile, reports suggest Beijing has been accessing **classified** material on British servers for several years, renewing concerns that it could use the new embassy to bolster its surveillance efforts.
-
-Western said the proposed location posed “**eavesdropping** risks in peacetime and sabotage risks in a crisis” **owing to** its proximity to fibre-optic cables, datacentres and telecoms exchanges serving Canary Wharf and the City.
+Western said the proposed location posed “**eavesdropping** risks in peacetime and sabotage risks in a crisis” owing to its proximity to fibre-optic cables, datacentres and telecoms exchanges serving Canary Wharf and the City.
 
 #### https://www.theguardian.com/world/2025/nov/03/xi-jinping-cracks-joke-about-spying-with-phones-given-to-south-korean-president
 
 Xi, who is not known for public displays of humour, laughed and smiled as Lee’s **quip** was translated into Chinese, before displaying some sharp **wit** of his own.
 
 The **lighthearted** exchange took place as Xi and Lee exchanged gifts on the sidelines of the Apec summit in the South Korean city of Gyeongju – Xi’s first visit to the country in more than a decade.
-
-The leaders’ conversation, captured by TV cameras, generated huge media interest in South Korea as Xi rarely **cracks jokes**, especially on a subject as sensitive as espionage.
 
 A state media live feed of the **trio** walking into Tiananmen Square caught Putin’s interpreter saying in Chinese: “Biotechnology is continuously developing.”
 
@@ -511,21 +489,15 @@ Xi, who like Lee is a **keen** player of the ancient strategy board game, descri
 
 #### https://www.theguardian.com/world/2025/nov/05/chinese-astronauts-delayed-spacecraft-struck-by-debris-tiangong-space-station-shenzhou-20
 
-“The Shenzhou-20 **crewed** spacecraft is suspected to have been struck by a small piece of **orbital** debris,” said the China **Manned** Space Agency in a statement.
-
-Authorities didn’t say when the incident is believed to have occurred. There was no indication of any issues earlier this week, with state media reporting on the two crews enjoying a meal of **baked** chicken cooked on the space station’s first ever oven, delivered by the Shenzhou-21 team.
-
 “Shenzhou-22 and the Long March 2F (launcher) were already on **standby**.
 
 The returning Shenzhou-20 team’s commander, Chen Dong, already holds a Chinese record for the longest **cumulative** spaceflight.
 
 #### https://www.theguardian.com/world/2025/nov/08/us-china-aircraft-carriers-naval-fleet-defence
 
-In a new era of state competition, Aircraft carriers remain an attractive resource for projecting power and conducting harder **edged** diplomacy.
-
 It is a demonstration of Beijing’s fast-growing military power: its first aircraft carrier, the Liaoning, completed in 2012, was built from a **hulk** first made in the Soviet Union in the late 1980s and sold on by Ukraine after its collapse.
 
-**Ironically**, China has also invested heavily in anti-ship missiles to try to protect its coast from the US. But Beijing clearly sees “aircraft carriers as an **indispensable** element in building a navy that can independently project power and influence globally”, because they remain “unrivalled in their flexibility” and are “**incredibly** useful in a whole range of potential conflict scenarios”.
+But Beijing clearly sees “aircraft carriers as an **indispensable** element in building a navy that can independently project power and influence globally”.
 
 Their use so far has been as a form of **floating** diplomacy.
 
@@ -535,45 +507,29 @@ The Soviet **rule of thumb** in the cold war was that it would take 12 conventio
 
 #### https://www.theguardian.com/world/2025/nov/11/china-co2-emissions-flat-or-falling-for-past-18-months-analysis-finds
 
-Rapid increases in the deployment of solar and wind power generation – which grew by 46% and 11% **respectively** in the third quarter of this year – meant the country’s energy sector emissions remained flat, even as the demand for electricity increased.
+China’s CO2 emissions were unchanged from a year earlier in the third quarter of 2025, thanks in part to declining emissions in the travel, **cement** and steel industries.
 
-China’s CO2 emissions were unchanged from a year earlier in the third quarter of 2025, thanks **in part** to declining emissions in the travel, **cement** and steel industries.
+Last week, the UN secretary general, António Guterres, said the world was facing a “moral failure and deadly **negligence**” if governments failed to limit global heating to 1.5C.
 
-Last week, the UN secretary general, António Guterres, said the world was facing a “**moral** failure and deadly **negligence**” if governments failed to limit global heating to 1.5C.
+Experts say those targets are too modest to **stave off** global catastrophe and a long way from the 30% cut that is feasible and necessary.
 
-Experts say those targets are too **modest** to **stave off** global catastrophe and a long way from the 30% cut that is feasible and necessary.
-
-But China has a record of **underpromising** and **overdelivering** on climate targets.
-
-Myllyvirta said some areas of the economy were **bucking** the **decarbonisation** trend.
-
-China is also on track to miss its target for cutting carbon intensity – the CO2 emissions per unit of **gross** domestic product – between 2020 and 2025. This means steeper **reductions** will be necessary if the country is to hit its 2030 goal of reducing carbon intensity by 65%, compared with 2005.
+Myllyvirta said some areas of the economy were **bucking** the decarbonisation trend.
 
 #### https://www.theguardian.com/world/2025/nov/19/watch-out-online-contact-chinese-spies-uk-defence-minister-warns-public
 
 Luke Pollard said a warning given to parliamentarians on Tuesday that China was attempting to recruit individuals with access to sensitive information should also be **heeded** by the public at large.
 
-“Because as we become more online as a community, the ability for people that wish us harm or wish us to gain access to information they shouldn’t have access to becomes more **plentiful**.”
-
-The security minister, Dan Jarvis, said in parliament on Tuesday it was “a covert and **calculated**” attempt by the Chinese government to recruit people close to power.
-
 In response, Beijing accused the UK spy agency of “groundlessly **hyping** up” the issue.
-
-The Crown Prosecution Service said it had been forced to abandon the case after the government failed to provide reassurance that China was “a current threat to national security”, a **threshold** that needed to be met to go ahead with the prosecution.
-
-The **wording** of the 1911 law around espionage refers to gathering information “directly or indirectly useful to an enemy”, a definition that could have strained the UK’s already fragile relationship with the superpower.
 
 #### https://www.theguardian.com/world/2025/nov/26/bamboo-scaffolding-may-be-to-blame-for-spread-of-hong-kong-tower-block-fire
 
 A deadly fire in an apartment complex in Hong Kong appears to have spread in part because the buildings were **sheathed** in bamboo **scaffolding**.
 
-The **intricate** **lattices** of poles bound together by zip ties and wrapped around **gleaming** sky-scrapers are a **ubiquitous** sight across the city.
+The **intricate** **lattices** of poles bound together by zip ties and wrapped around gleaming sky-scrapers are a **ubiquitous** sight across the city.
 
 The natural **variation** in the size and shape of the poles means that binding them together into a scaffold requires the skilled eye of bamboo master.
 
 #### https://www.theguardian.com/world/2025/dec/02/uk-government-delays-china-super-embassy-january
-
-That would be China’s biggest diplomatic **outpost** in the world. A government spokesperson said on Tuesday that **consolidating** China’s seven existing diplomatic sites in London into a single embassy “clearly brings security advantages”.
 
 In a speech on Monday night, he argued that the government could not continue to **blow “hot and cold”** on China and needed to strike a balance.
 
