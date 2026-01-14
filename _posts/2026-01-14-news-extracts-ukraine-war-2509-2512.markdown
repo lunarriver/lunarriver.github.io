@@ -9,113 +9,25 @@ date:   2026-01-01 15:00:00 +0800
 
 #### [Ukraine war briefing: Putin awards ‘courage’ medal to Russian general sought by ICC over alleged crimes against humanity in Ukraine | Ukraine | The Guardian](https://www.theguardian.com/world/2025/sep/09/ukraine-war-briefing-putin-awards-courage-medal-to-russian-general-sought-by-icc-over-alleged-crimes-against-humanity-in-ukraine)
 
-Army general Valery Gerasimov, chief of the general staff of Russia’s armed forces and one of the most powerful men in the Russian military, is **credited** as the chief architect of Russia’s modern warfare strategy.
+The Order of Courage, a prestigious state decoration, was given to him “for courage, bravery and **dedication** displayed in the fulfilment of military duty”, according to a decree published on Russia’s official legal acts website late on Monday.
 
-The two are accused of the war crimes of directing attacks at civilian objects and of causing excessive **incidental** harm to civilians or damage to civilian objects, and are also accused of crimes against humanity.
-
-The Order of Courage, a **prestigious** state decoration, was given to him “for courage, bravery and **dedication** displayed in the fulfilment of military duty”, according to a decree published on Russia’s official legal acts website late on Monday.
-
-Ukrainian president Volodymyr Zelenskyy’s **chief of staff**, Andriy Yermak, said he discussed Sunday’s attack – the first of its kind in the war – with US secretary of state Marco Rubio on Monday.
-
-While visiting the building, the European Union’s ambassador to Ukraine, Katarina Mathernova, noted the “**gaping** hole” left by the impact and missile **remnants** and said: “It’s only because the missile was unable to fully **detonate** that the entire building wasn’t turned into ruins.”
-
-```
-credit ~ verb ~ praise, approval, or honour
-
-incidental ~ adjective ~ less important than the thing something is connected with or part of
-
-prestigious ~ adjective ~ very much respected and admired, usually because of being important
-
-dedication ~ noun ~ the willingness to give a lot of time and energy to something because it is important
-
-gaping ~ adjective ~ A gaping hole or other opening is very large.
-
-remnant ~ noun ~ a small piece or amount of something that is left from a larger original piece or amount
-
-detonate ~ verb ~ to (cause something to) explode
-```
+While visiting the building, the European Union’s ambassador to Ukraine, Katarina Mathernova, noted the “gaping hole” left by the impact and missile **remnants** and said: “It’s only because the missile was unable to fully **detonate** that the entire building wasn’t turned into ruins.”
 
 #### [Ukraine war briefing: Cheap Shahed-like Gerbera drones used in Poland violation | Ukraine | The Guardian](https://www.theguardian.com/world/2025/sep/11/ukraine-war-briefing-cheap-shahed-like-gerbera-drones-used-in-poland-violation)
 
-It is made of materials like **plywood** and **foam**, and driven by a **motor** and propeller at the back.
-
-Ukrainian and western analysts say Russia uses the Gerbera as a decoy to **saturate** Ukraine’s air defences. China denies shipping **wares** to Russia for use against Ukraine.
-
-Ukraine had presented proposals for joint protection of European airspace “in a coordinated, **well-thought-out**, joint way …
-
-The UK will **mass** produce low-cost Ukrainian-designed interceptor drones to help Ukraine fight off Russian UAV attacks.
-
-Indian buyers are demanding bigger discounts on Russian crude oil because of the risk posed by dodging the international price cap, oil industry analysts have told Reuters – with some Russian sellers responding by saying they will send oil **cargoes** to China instead.
-
-The EU has lowered the price cap for Russian oil from October to 47.60 a **barrel**, down from 60. Richard Bronze is the head of geopolitics at **consultancy** Energy Aspects. The EU was considering a faster **phase-out** of Russian fossil fuels as part of new sanctions.
-
-```
-plywood ~ noun ~ wood that consists of several thin layers of wood stuck together
-
-foam ~ noun ~ a mass of very small bubbles formed on the surface of a liquid
-
-motor ~ noun ~ a device that changes electricity or fuel into movement and makes a machine work
-
-saturate ~ verb ~ to make something or someone completely wet
-
-ware ~ noun ~ used, often in shops, to refer to objects of the same material or type, especially things used in cooking and serving food
-
-mass ~ adjective ~ having an effect on or involving a large number of people or forming a large amount
-
-cargo ~ noun ~ the goods carried by a ship, aircraft, or other large vehicle
-
-barrel ~ noun ~ a large container, made of wood, metal, or plastic, with a flat top and bottom and curved sides that make it fatter in the middle
-
-consultancy ~ noun ~ a company that gives advice on a particular subject
-```
+Richard Bronze is the head of geopolitics at **consultancy** Energy Aspects.
 
 #### [Prince Harry makes surprise visit to Ukraine pledging support for thousands injured in war | Prince Harry | The Guardian](https://www.theguardian.com/uk-news/2025/sep/12/prince-harry-ukraine-visit-kyiv)
 
-He added: “We can continue to **humanise** the people involved in this war and what they are going through. I hope this trip will help to bring it home to people because it’s easy to become **desensitised** to what has been going on.”
+He added: “I hope this trip will help to bring it home to people because it’s easy to become **desensitised** to what has been going on.”
 
 The prince said he was initially invited to Kyiv by Olga Rudnieva, the founder and CEO of the Superhumans Trauma Centre in Lviv, Ukraine which treats wounded **amputees**.
 
-“I **bumped** into Olga in New York."
-
-“It was **remarkable**. Everyone felt an **immense** connection to them.”
-
 While the **biennial** Invictus Games have been the focal point of much of the foundation’s work.
-
-By March this year, more than 22,000 veterans across Ukraine had accessed benefits like **gym** memberships and pool passes.
-
-```
-humanise ~ verb ~ to make something less unpleasant and more suitable for people
-
-desensitise ~ verb ~ to cause someone to experience something, usually an emotion or a pain, less strongly than before
-
-amputee ~ noun ~ a person who has had an arm or leg cut off
-
-bump ~ verb ~ to hit something with force
-
-remarkable ~ adjective ~ unusual or special and therefore surprising and worth mentioning
-
-immense ~ adjective ~ extremely large in size or degree
-
-biennial ~ adjective ~ happening once every two years
-
-gym ~ noun ~ a place or club where you can go to exercise using machines, weights, and other equipment
-```
 
 #### [Ukraine war briefing: ‘Wasn’t a mistake’ – Poland’s reply after Trump speculates on drones | Ukraine | The Guardian](https://www.theguardian.com/world/2025/sep/12/ukraine-war-briefing-wasnt-a-mistake-polands-reply-after-trump-speculates-on-drones)
 
-An emergency session of the UN security council will convene on Friday at Poland’s request as **Warsaw** seeks to rally support after the Russian drone incursion, write Shaun Walker and Jakub Krupa.
-
-Poland’s PM, Donald Tusk, announced the closure on Tuesday because of the “very aggressive” Zapad military exercises being conducted by Belarus and Russia as well as a growing number of provocations from the **dictatorial** allies.
-
-Thousands gathered at the **Slovak** capital, **Bratislava**, on Thursday, in part to protest about last week’s meeting between their pro-Putin prime minister, Robert Fico, and the Russian president in Beijing.
-
 “We’re sanctioning actors involved in chemical weapons and disinformation, as well as shadow fleet vessels, alternative payment providers, and third-country **facilitators** in North Korea and Iran.”
-
-```
-dictatorial ~ adjective ~ liking to give orders
-
-facilitator ~ noun ~ someone who helps a person or organization do something more easily or find the answer to a problem, by discussing things and suggesting ways of doing things
-```
 
 #### [EU calls for closer ties with India despite Modi’s links to Russia | European Union | The Guardian](https://www.theguardian.com/world/2025/sep/17/eu-calls-for-closer-ties-with-india-despite-modi-ties-to-russia)
 
@@ -123,31 +35,7 @@ Meanwhile the EU is **grappling** with demands from Trump to impose up to 100% t
 
 But privately, officials have **balked** at 100% tariffs, at a time when Brussels is also trying to sign a trade agreement with India by the end of the year.
 
-Asked about the link between the trade talks and India’s relations with Russia, Kallas said: “Negotiations are negotiations and until we agree about everything then nothing is agreed.” She added that the EU had to take into account its interests, concerns and “**problematic** issues”.
-
-But he was also **downbeat** about the latest round of trade talks, saying he had hoped to see more progress in meetings last week.
-
-The commission is **racing** to strike trade deals around the world since Trump hit many European goods with tariffs and pressured the EU into an unequal trade agreement.
-
-He said that a commitment to the 2026 deadline would “establish a clear timeline, and demonstrate our resolve to achieve independence from oil supplies **burdened** with political and strategic risks”.
-
-```
-grapple ~ verb ~ to fight, especially in order to win something
-
-balk ~ verb ~ to be unwilling to do something or to allow something to happen
-
-problematic ~ adjective ~ full of problems or difficulties
-
-downbeat ~ adjective ~ lacking in excitement or hope
-
-race ~ verb ~ to move or go fast
-
-burden ~ verb ~ to make someone responsible for something that is very difficult, unpleasant, or expensive to deal with
-```
-
 #### [Ukraine war briefing: Russian oil system struggling under Ukrainian attacks – report | World news | The Guardian](https://www.theguardian.com/world/2025/sep/17/ukraine-war-briefing-russian-oil-system-struggling-under-ukrainian-attacks-report)
-
-Von der Leyen announced the commission would soon present its 19th package of sanctions aimed at Russia’s war effort – targeting **crypto**, banks, and energy.
 
 Europe has in fact greatly reduced its purchase of Russian oil and gas, though two big **holdouts** are Hungary and Slovakia, whose rightwing prime ministers are both friendly with Putin and Trump.
 
@@ -155,75 +43,17 @@ The editorial listed how Trump’s promises and threats concerning the Ukraine w
 
 A Russian drone, missile or **glide** bomb hit an educational building in Kharkiv city’s southern Slobidskyi district on Tuesday. Some reports described the building as the pharmaceutical university.
 
-A Ukrainian arrested in Italy last month over the 2022 sabotage of the Nord Stream gas pipelines from Russia to Europe must be **extradited** to Germany, a court in Bologna ruled on Tuesday. The man, identified as Serhii K, has denied taking part and will appeal against his **extradition** to Italy’s supreme court, his lawyer said.
-
-```
-crypto ~ noun ~ short form of cryptocurrency ~ a digital currency produced by a public network, rather than any government, that uses cryptography to make sure payments are sent and received safely
-
-holdout ~ noun ~ a person, organization, or country that continues to do something, despite other people trying to force them not to
-
-morph ~ verb ~ to gradually change, or change someone or something, from one thing to another
-
-glide ~ verb ~ to fly by floating on air currents instead of using power from wings or an engine
-
-pharmaceutical ~ adjective ~ relating to the production of medicines
-
-extradite ~ verb ~ to make someone return for trial to another country or state where they have been accused of doing something illegal
-```
+A Ukrainian arrested in Italy last month over the 2022 sabotage of the Nord Stream gas pipelines from Russia to Europe must be **extradited** to Germany, a court in Bologna ruled on Tuesday.
 
 #### [Ukraine war briefing: Shoot down trespassing Russian jets if necessary – Czech president | Ukraine | The Guardian](https://www.theguardian.com/world/2025/sep/21/ukraine-war-briefing-shoot-down-trespassing-russian-jets-if-necessary-czech-president)
 
-The Czech president, Petr Pavel, has said Nato must respond **adequately** to Russian airspace violations, including potentially by shooting down Russian jets. Unfortunately, this is **teetering** on the edge of conflict, but giving in to evil is simply not an option.”
-
-British fighter jets have flown their first Nato air defence sortie over Poland as part of the Eastern **Sentry** mission following Russian drone incursions.
-
-The general staff added that Ukrainian special forces struck a production and transit station in Samara for the export-grade **Urals** oil that **comprises** up to 50% of the total volume of Russian exports.
-
-Trump has threatened sanctions but then **backtracked** to say he will do it only after all Nato countries agree to stop buying oil from Russia and put tariffs on China, another big importer of Russia’s oil.
-
-At least three people were killed when a missile carrying **cluster munitions** struck an apartment building in the city of Dnipro.
+Unfortunately, this is **teetering** on the edge of conflict, but giving in to evil is simply not an option.”
 
 The special **rapporteur** on rights in Russia, Mariana Katzarova, denounces in her report “the continuing widespread and systematic recourse to torture and ill-treatment by Russian law enforcement officials, security forces, **penitentiary** officials and members of the armed forces”. The independent expert, who does not speak on behalf of the UN, said Russian authorities had “dismantled institutional independence, bringing the **judiciary**, legislature and law enforcement under direct political control.”
 
-```
-adequately ~ adverb ~ in a way that is enough or satisfactory for a particular purpose
-
-teeter ~ verb ~ to appear to be about to fall while moving or standing
-
-sentry ~ noun ~ a soldier who guards a place, usually by standing at its entrance
-
-comprise ~ verb ~ to have things or people as parts or members; to consist of
-
-backtrack ~ verb ~ to go back along a path that you have just followed
-
-rapporteur ~ noun ~ someone chosen by an organization to prepare reports of meetings or to investigate and report on a problem
-
-penitentiary ~ noun ~ a state or federal prison
-
-judiciary ~ noun ~ the part of a country's government that is responsible for its legal system, including all the judges in the country's courts
-```
-
 #### [UK and Poland vow to confront Russian aircraft violating Nato airspace | Russia | The Guardian](https://www.theguardian.com/world/2025/sep/22/uk-and-poland-vow-to-confront-russian-aircraft-violating-nato-airspace)
 
-He added: “Russia’s neighbours, not **unreasonably**, fear they could be next.”
-
-That is why we consider such words to be empty, unfounded and a continuation of a completely **reckless** pattern of escalating tensions and provoking a confrontational atmosphere.”
-
 He added: “Either Moscow wants to escalate and pull more countries into this conflict with Ukraine, or it doesn’t have full control of those who operate its fighter planes and drones. Either scenario is very **disconcerting**.”
-
-In Moscow, Vladimir Putin appeared to continue his recent **overtures** to Washington amid growing frustrations from Trump with the Russian president over **faltering** efforts to end the Ukraine war, as well as stalled talks between the US and Russia on other bilateral issues.
-
-```
-unreasonably ~ adverb ~ in a way that is not fair or acceptable
-
-reckless ~ adjective ~ doing something dangerous and not worrying about the risks and the possible results
-
-disconcerting ~ adjective ~ making someone feel uncertain and uncomfortable or worried
-
-overture ~ noun ~ a communication made to someone in order to offer something
-
-faltering ~ adjective ~ losing strength or purpose and stopping, or almost stopping
-```
 
 #### https://www.theguardian.com/world/2025/sep/23/hungary-refuses-to-stop-buying-russian-oil-despite-trumps-nato-demand
 
@@ -231,29 +61,13 @@ Hungary will not **wean** itself off Russian energy supplies, the country’s fo
 
 Some allies questioned whether he is serious about wanting to increase pressure on Vladimir Putin or merely passing the **buck** to Europe.
 
-Bloomberg reported that the EU is considering trade restrictions that could reduce or halt deliveries of oil through the pipeline, and that they could be introduced without unanimous consent, allowing other European countries to **outvote** Budapest and Bratislava.
-
 “I hope and expect them to **step up to the plate** soon to help us end this bloodbath.”
 
 Asked about European pressure on Monday, Szijjártó called western European officials “**fanatics**” and said it was “totally impossible to carry out a fact-based, rational dialogue based on common sense”.
 
-But while relations with Brussels remain fraught, the relationship with the US has improved significantly, he added, saying that Hungary was the “only European government **crossing fingers** for Trump’s victory”.
-
-```
-wean ~ verb ~ to cause a baby or young animal to stop feeding on its mother's milk and to start eating other food, especially solid food, instead
-
-buck ~ noun ~ used in some expressions to refer to the responsibility or blame for sth
-
-outvote ~ verb ~ to defeat someone by winning a greater number of votes
-
-fanatic ~ noun ~ a person who has very extreme beliefs that may lead them to behave in unreasonable or violent ways
-```
-
 #### https://www.theguardian.com/world/2025/sep/24/moscow-trump-change-in-tone-ukraine-war-paper-tiger
 
 He warned that Vladimir Putin, **unchecked**, would use drones to expand his war throughout Europe.
-
-No one could be **immune** to the spread of war, he said, adding: “We are living through the most destructive arms race in human history.”
 
 Those that continued to fund the war **consigned** prisoners of war, abducted children and hostages to longer periods of captivity, he said.
 
@@ -261,79 +75,25 @@ Before Zelenskyy’s speech, Moscow had **brushed off** the shift in tone from T
 
 Peskov said the Russian army was making gains in Ukraine, **albeit** slowly.
 
-Dmitry Medvedev, Russia’s former president now better known for his **outlandish** rhetoric, wrote on Telegram that Zelenskyy had lured Trump into an “**alternate reality**” where Ukraine could win the war.
+Dmitry Medvedev, Russia’s former president now better known for his **outlandish** rhetoric, wrote on Telegram that Zelenskyy had lured Trump into an “alternate reality” where Ukraine could win the war.
 
-“I have no doubt, he’ll be back. He always comes back …. Most likely he’ll soon tell Zelenskyy to sign an **act** of capitulation,” Medvedev wrote.
+“Most likely he’ll soon tell Zelenskyy to sign an **act** of capitulation,” Medvedev wrote.
 
 Also on Tuesday, Trump **berated** European countries for “embarrassing” purchases of Russian oil and gas, demanding they “immediately cease all energy purchases from Russia” or “otherwise we are all wasting a lot of time”.
-
-In her account of the meeting, von der Leyen said: “By 2027, Europe will have turned the page on Russian fossil fuels **for good**.”
-
-```
-unchecked ~ adjective ~ If something harmful is unchecked, it is continuing or increasing without or despite any limits or attempts to prevent it.
-
-immune ~ verb ~ not able to be punished or damaged by something
-
-consign ~ verb ~ to send something to someone
-
-albeit ~ conjunction ~ although
-
-outlandish ~ adjective ~ strange and unusual and difficult to accept or like
-
-berate ~ verb ~ to criticize or speak in an angry manner to someone
-```
 
 #### https://www.theguardian.com/world/2025/sep/25/is-trump-right-that-russian-economy-is-on-brink-of-collapse
 
 Russia’s economy is in deep **peril**, Donald Trump assured the world this week.
 
-“For the first time since the invasion, the government is confronting a genuine **trade-off**.
-
 “But a widening deficit, soaring defence **outlays** and shrinking revenues are making that choice harder,” Shagina added.
-
-By every **metric**, the economy is under strain. The finance ministry projects GDP growth in 2024–25 at less than 1%, compared with earlier forecasts of 2.3–2.5%.
 
 German Gref conceded earlier this month that Russia had slipped into “technical **stagnation**”.
 
 To bolster state **coffers**, Moscow announced this week it would increase VAT from 20% to 22%, reversing one of Putin’s earlier promises. Russians will now finance the war more directly, with defence spending – **outstripping** the combined defence budgets of Europe – accounting for about 40% of the Kremlin’s total outlay this year.
 
-```
-peril ~ noun ~ great danger, or something that is very dangerous
-
-outlay ~ noun ~ an amount of money spent for a particular purpose, especially as a first investment in something
-
-metric ~ noun ~ using or relating to a system of measurement that uses metres, centimetres, litres, etc.
-
-stagnation ~ noun ~ a situation in which something stays the same and does not grow and develop
-
-coffer ~ noun ~ a large, strong box in which money or valuable objects are kept
-
-outstrip ~ verb ~ to be or become greater in amount, degree, or success than something or someone
-```
-
-The government is expected to cut spending **across the board** – from corporations to infrastructure, healthcare and housing – to **plug** the gap.
+The government is expected to cut spending **across the board** – from corporations to infrastructure, healthcare and housing – to plug the gap.
 
 After the west weaned itself off Russian oil and gas, Moscow redirected its energy exports to India, China and Turkey, relying on a **flotilla** of “shadow fleet” tankers that proved difficult to bring under sanctions.
-
-The Kremlin has also softened the impact of restrictions on critical goods by **cultivating** a thriving trade in parallel imports, exploiting what critics have called a “sanctions hole”.
-
-In Brussels, there is little appetite to **heed** Trump’s call for Ukraine’s European allies to slap 100% tariffs on India and China, the biggest buyers of Russian oil, to end their trade with Moscow.
-
-More troubling for Moscow is that shortages are being reported in **diesel**, the fuel that underpins the Russian economy and its war machine.
-
-“It will be truly crazy if, by the fourth year of the war, we still haven’t destroyed Ukraine’s energy sector, and they **end up** destroying ours,” one Russian pro-war blogger wrote this week.
-
-```
-plug ~ verb ~  to fill a hole with a piece of suitable material
-
-flotilla ~ noun ~ a large group of boats or small ships
-
-cultivate ~ verb ~ to try to develop and improve something
-
-heed ~ verb ~ to pay attention to something, especially advice or a warning
-
-diesel ~ noun ~ a type of heavy oil used as fuel
-```
 
 #### https://www.theguardian.com/world/2025/sep/27/putin-preparing-to-attack-another-european-country-zelenskyy-says
 
