@@ -97,65 +97,23 @@ After the west weaned itself off Russian oil and gas, Moscow redirected its ener
 
 #### https://www.theguardian.com/world/2025/sep/27/putin-preparing-to-attack-another-european-country-zelenskyy-says
 
-Trump also said Russia’s economy was in big trouble and described its military as a “paper tiger”. Asked to explain this apparent warmer tone towards Ukraine, Zelenskyy said he had briefed Trump about the realities on the battlefield. He told him Russia’s advances were often **fleeting**: “It’s not success. It’s temporary presence.”
+He told him Russia’s advances were often **fleeting**: “It’s not success. It’s temporary presence.”
 
 The US president now had greater “faith” in Ukraine and has discovered that Russia treated him and everyone else with “disrespect”, Zelenskyy said. He declined to comment on reports that he had asked the White House for US **Tomahawk** cruise missiles capable of striking Moscow, saying: “It’s a sensitive issue.”
 
-```
-fleet ~ adjective ~ able to run quickly
-
-tomahawk ~ noun ~ a small fighting axe used by Native Americans
-```
-
 #### https://www.theguardian.com/world/2025/sep/27/denmark-new-drone-sightings-biggest-military-base
-
-Nato said it would “conduct even more enhanced **vigilance** with new multi-domain assets in the Baltic Sea region”, according to a statement emailed to Reuters, adding that the new assets included “intelligence, surveillance and reconnaissance platforms and at least one air-defence **frigate**”.
-
-At least two drones flew “for around an hour” in a restricted area close to Orland, the main base for Norway’s F-35 fighter jets and a key Nato base. “They were not **engaged** by us,” he said.
 
 Moscow has denied breaching Nato’s airspace, calling the EU’s reaction a “**hysteria**” on Wednesday.
 
-```
-vigilance ~ noun ~ more careful attention, especially in order to notice possible danger
-
-frigate ~ noun ~ a small, fast military ship
-
-engage ~ verb ~ to attack or begin to fight someone
-
-hysteria ~ noun ~ extreme fear, excitement, anger, etc. that cannot be controlled
-```
-
 #### https://www.theguardian.com/world/2025/sep/28/hundreds-of-russian-missiles-and-drones-hit-ukraine-as-poland-scrambles-jets
 
-“This is **precisely** how Russia shows its true position.” he wrote on Telegram.
+A missile wiped out most of a street in the Petropavlivska Borshchahivka district, **sheering** off roofs and blowing out windows.
 
-Residents scrambled to **take cover** amid air raid sirens. A missile wiped out most of a street in the Petropavlivska Borshchahivka district, **sheering** off roofs and blowing out windows.
-
-A falling concrete **slab** crushed and killed a 12-year-old girl, Oleksandra. Classmates left flowers and toys outside her **gutted** house.
+Classmates left flowers and toys outside her **gutted** house.
 
 Mark Serhiyiv, a 35-year-old army **chaplain**, said it was the second time Moscow had destroyed his home.
 
-On Sunday morning in Kyiv firefighters **doused** a burning car. Rescue workers and a digger **shovelled** up glass, **masonry** and twisted **rebar**.
-
-```
-precisely ~ adverb ~ used to emphasize what you are saying
-
-sheer ~ verb ~ to change direction suddenly
-
-slab ~ noun ~ a thick, flat piece of a solid substance, such as stone, wood, metal, food, etc., that is usually square or rectangular
-
-gut ~ verb ~ to destroy the inside of a building completely, usually by fire
-
-chaplain ~ noun ~ a Christian official who is responsible for the religious needs of an organization
-
-douse ~ verb ~ to stop a fire or light from burning or shining, especially by putting water on it or by covering it with something
-
-shovel ~ noun ~ a tool consisting of a wide, square metal or plastic blade, usually with slightly raised sides, attached to a handle, for moving loose material such as sand, coal, or snow
-
-masonry ~ noun ~ the bricks and pieces of stone that are used to make a building
-
-rebar ~ noun ~ steel in the form of bars or a mesh (= wires that cross over each other), put inside concrete to make it stronger
-```
+On Sunday morning in Kyiv firefighters **doused** a burning car. Rescue workers and a digger shovelled up glass, **masonry** and twisted **rebar**.
 
 #### https://www.theguardian.com/world/2025/oct/09/putin-russian-air-defences-azerbaijani-jet-crash
 
@@ -163,27 +121,21 @@ Vladimir Putin has said that Russia’s air defences were to blame for downing a
 
 Aliyev, meanwhile, criticised Moscow for trying to “**hush** up” the incident.
 
-The controversy over the crash has **roiled** the previously warm ties between Moscow and Baku. Their relations were further destabilised by deaths of ethnic Azerbaijanis **rounded up** by police in a Russian city in June.
+The controversy over the crash has **roiled** the previously warm ties between Moscow and Baku.
 
 #### https://www.theguardian.com/world/2025/oct/13/ukraine-war-briefing-moscow-voices-extreme-concern-at-trump-threat-to-send-tomohawk-missiles-to-kyiv
 
-Trump has been **mulling** potential supplies of the long-range missiles to Kyiv via European allies ever since his meeting with Putin in Alaska in August failed to produce a peace deal. Trump said last week that he has “**sort of** made a decision” on whether to send Tomahawks to Ukraine, without elaborating.
+Trump has been **mulling** potential supplies of the long-range missiles to Kyiv via European allies ever since his meeting with Putin in Alaska in August failed to produce a peace deal.
 
 Kyiv regional Governor Mykola Kalashnyk said two employees of Ukraine’s largest private energy company, DTEK, were wounded in Russian strikes on a **substation**.
 
 #### https://www.theguardian.com/world/2025/oct/14/ukraine-war-briefing-crimea-oil-refinery-burns-as-russia-feels-effects-on-fuel-supply
 
-An **oil terminal** at Feodosia was burning on Monday after an attack by Ukrainian drones. The drones hit at least five **reservoirs**.
+The drones hit at least five **reservoirs**.
 
-Large **heat signatures** around the Feodosia terminal were visible on Nasa’s satellite fire monitoring service. Ukraine has launched more than 30 strikes on Russian energy sites since the beginning of August, triggering a **spike** in petrol prices inside Russia.
-
-Russian forces attacked Kharkiv, Ukraine’s second-largest city, with **guided bombs** on Monday, local officials said.
-
-The first **corps** of Ukraine’s national guard said it had **repelled** a new attempt by Russian forces to make advances near the town of Dobropillia.
+The first **corps** of Ukraine’s national guard said it had repelled a new attempt by Russian forces to make advances near the town of Dobropillia.
 
 Martin Jaeger told lawmakers that Russia was determined to expand its “**sphere** of influence further westward into Europe”.
-
-“We must not **sit back** and assume that a possible Russian attack would come in 2029 at the earliest,” Jaeger said. “We are already under fire today … The means Moscow uses are well known: airspace violations by drones and fighter jets, **contract killings**, persecution of opposition figures living abroad.”
 
 #### https://www.theguardian.com/world/2025/oct/20/trump-zelenskyy-ukraine-donbas-region-end-russia-invasion
 
@@ -197,25 +149,17 @@ Belgium hosts €183bn of frozen assets at Brussels-based Euroclear, and has cal
 
 In an FT opinion article, Merz wrote that “a new **impetus** to change Russia’s calculations” was needed.
 
-But lawyers at the Council of Ministers, which represents member states, are **dubious** about the legality of the move, which would shift sanctions to a majority vote, rather than a unanimous one.
-
 #### https://www.theguardian.com/world/2025/oct/22/ukraine-war-briefing-storm-shadow-missiles-hit-gunpowder-plant-in-russia
 
 “A massive combined missile and airstrike was carried out, including with air-launched Storm Shadow missiles that **penetrated** Russia’s air defence system,” said Ukraine’s armed forces general staff.
 
-Plans for a summit between Donald Trump and Vladimir Putin in Budapest have been **shelved**. “And I assume Lavrov gave the same **spiel**, and Rubio was like: ‘See you later’.” Another European diplomat thought that “it became **evident** for the Americans that there will be no deal for Trump in Budapest”.
-
-Volodymyr Zelenskyy said Russia “almost **automatically** became less interested in diplomacy” once US Tomahawk missiles for Ukraine were no longer an immediate prospect.
+Plans for a summit between Donald Trump and Vladimir Putin in Budapest have been **shelved**. “And I assume Lavrov gave the same **spiel**, and Rubio was like: ‘See you later’.”
 
 Another said it would be **modelled** on the US 20-point plan on Gaza.
-
-For example, a proposal to **siphon** off some of Russia’s frozen assets to fund a portion of reparations payments to Ukraine “would be a non-starter for Russia”, one diplomat said.
 
 #### https://www.theguardian.com/world/2025/oct/23/ukraine-war-briefing-ukrainians-may-get-gripen-fighter-jets-bought-with-russian-money
 
 The Gripen has long been **vaunted** as more practical for Ukrainian battlefield conditions.
-
-It will bring forward a ban on the import of **liquefied** natural gas from Russia by a year to the start of 2027.
 
 Tymur Tkachenko said drones had damaged several **dwellings** and other buildings, including a kindergarten.
 
@@ -223,11 +167,9 @@ Tymur Tkachenko said drones had damaged several **dwellings** and other building
 
 It will **come down to** how aggressively the US enforces them.
 
-But since returning to the White House, he has found the task more difficult than he **envisioned**. His commitment to the war has **flip flopped**.
-
 Additional sanctions will help to further **constrict** Rosneft and Lukoil’s ability to do business, placing further pressure on Putin.
 
-Thomas Graham, a fellow at the Council on Foreign Relations, was more **circumspect**, telling Bloomberg: “If the White House thinks this is going to lead to **radical** change in the Kremlin’s conduct or Putin’s policy, they’re **deluding** themselves …”
+Thomas Graham, a fellow at the Council on Foreign Relations, was more **circumspect**, telling Bloomberg: “If the White House thinks this is going to lead to radical change in the Kremlin’s conduct or Putin’s policy, they’re **deluding** themselves …”
 
 Experts say that Trump’s campaign promise to keep petrol prices low and manage the cost of living crisis could **dilute** the impact of the new sanctions, if they start to dramatically affect the oil price.
 
@@ -237,21 +179,11 @@ Efforts to secure Tomahawk missiles at a White House meeting last week were **da
 
 Vladimir Putin has said Russia will never bow to US pressure but **conceded** new sanctions could cause some economic pain.
 
-The measures are aimed at **choking off** the vital oil revenues that fund the Kremlin’s war machine.
-
-“**Recalibration** of Russian oil imports is ongoing,” a spokesperson told Reuters.
-
 Several sources also told Reuters that China’s state-owned oil companies have suspended purchases of **seaborne** Russian crude, at least in the short-term, amid concerns about **falling foul of** the new sanctions.
-
-**Compliance** with the sanctions would mean giving up access to the cut-price Russian crude.
-
-The two **outfits** are the most economically significant Chinese listings by the EU to date.
 
 Dmitry Medvedev, known for his increasingly **belligerent** rhetoric, described the measures as an “act of war”.
 
-“The US is our enemy,” he wrote on social media. “Its talkative ‘peacemaker’ has now fully **embarked** on a path of war against Russia.”
-
-The network has enabled Russia to sustain oil exports to key customers in India and China despite the G7 price cap and EU **embargo**.
+“Its talkative ‘peacemaker’ has now fully **embarked** on a path of war against Russia.”
 
 #### https://www.theguardian.com/world/2025/oct/27/ukraine-war-briefing-russian-claims-test-of-nuclear-powered-missile-known-as-flying-chornobyl
 
