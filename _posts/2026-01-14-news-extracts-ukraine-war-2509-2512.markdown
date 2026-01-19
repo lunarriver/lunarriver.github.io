@@ -191,15 +191,13 @@ Depending on the design, it potentially **spews** out radioactive **exhaust** as
 
 That November, awarding **posthumous** decorations to the victims’ families, Putin said they had been working on an “**unparalleled**” weapon.
 
-Luke Wickenden said: “If Moscow lost access to these markets, it could **forfeit** approximately $7.4bn in monthly revenue, translating to roughly $3.6bn in tax **receipts** per month flowing directly into the Kremlin’s war chest.”
+Luke Wickenden said: “If Moscow lost access to these markets, it could **forfeit** approximately $7.4bn in monthly revenue.”
 
-The US imposed sanctions and Donald Trump cancelled a **foreshadowed** meeting in Budapest with the Russian ruler. Kirill Dmitriev alleged there had been “**titanic** attempts” to thwart US-Russia dialogue. Trump initially gave a **glowing** assessment of his most recent conversation with Putin and said they would meet in Budapest.
+The US imposed sanctions and Donald Trump cancelled a **foreshadowed** meeting in Budapest with the Russian ruler. Trump initially gave a **glowing** assessment of his most recent conversation with Putin and said they would meet in Budapest.
 
 #### https://www.theguardian.com/world/2025/oct/28/china-is-watching-finland-warns-defeating-russias-invasion-of-ukraine-key-to-stability-in-indo-pacific
 
 “China is watching. Does the democratic countries will become **fed up**?
-
-Ending the Ukraine conflict required a three-**pillar** approach, he said.
 
 Cooperation on the war could have broader **flow-on** effects for Australia’s trade ties with Europe.
 
@@ -207,17 +205,15 @@ Cooperation on the war could have broader **flow-on** effects for Australia’s 
 
 Whereas Russian crude amounted to virtually all of the STAR refinery’s crude **intake** in October and September of about 210,000 bpd.
 
-Tupras was also likely soon to completely phase out Russian crude imports so that it could maintain fuel exports to Europe without **falling foul** of the EU’s incoming sanctions.
-
-At least 200 Russian soldiers had **penetrated** Pokrovsk’s defences, Kyiv said last week, while the Institute for the Study of War assessed that others were closing in on its outskirts in a **pincer-shaped** movement.
+At least 200 Russian soldiers had penetrated Pokrovsk’s defences, Kyiv said last week, while the Institute for the Study of War assessed that others were closing in on its outskirts in a **pincer-shaped** movement.
 
 #### https://www.theguardian.com/world/2025/nov/05/ukraine-war-briefing-zelenskyy-visits-troops-near-embattled-pokrovsk
 
 Russian forces had pushed further into Pokrovsk and its **environs**.
 
-The city administration reported an explosion at the Sterlitamak Petrochemical Plant that caused its water **treatment** facility to partially collapse. The Ukrainian military general staff said there was “**considerable** damage” to the plant.
+The Ukrainian military general staff said there was “**considerable** damage” to the plant.
 
-Russian military **reservists** will now have to guard oil refineries against Ukrainian drone strikes after Vladimir Putin signed a law on Tuesday extending their **entanglement** in the war effort. The Russian ruler also signed a law allowing military **conscription** all year round whereas previously it was possible only during limited periods in autumn and spring.
+Russian military reservists will now have to guard oil refineries against Ukrainian drone strikes after Vladimir Putin signed a law on Tuesday extending their **entanglement** in the war effort.
 
 Italy summoned Russia’s deputy ambassador on Tuesday to protest at what it said were “**vulgar**”, “disturbing” and “unacceptable” remarks by Moscow’s foreign ministry spokeswoman Maria Zakharova, who linked the deadly collapse of a tower in Rome to Italy’s military support for Ukraine. “Italy will not alter its foreign policy stance or its principles in response to reckless **verbal** attacks”.
 
@@ -225,59 +221,37 @@ Italy summoned Russia’s deputy ambassador on Tuesday to protest at what it sai
 
 The skies were also closed over Liège airport, an important hub for **freight** transport, leading to further cancellations, delays and **diversions**.
 
-Lithuania closed its two largest airports last month after **helium** balloons, suspected of carrying **contraband** cigarettes. Lithuania’s prime minister later called the **intrusions** “hybrid attacks” in an echo of the term used to describe destabilisation efforts by Moscow.
-
-Belgium’s defence minister said the incidents appeared to be coordinated to **foment** disruption, involving large drones flying in **formation**.
+Lithuania closed its two largest airports last month after helium balloons, suspected of carrying **contraband** cigarettes.
 
 Last week, Russia’s former president Dmitry Medvedev, known for his **bombastic** social media posts, called Francken an **imbecile**.
 
-The **spat** came after Belgium disappointed EU allies by blocking a plan to loan Ukraine €140bn based on Russian frozen assets held in Brussels.
-
 #### https://www.theguardian.com/world/2025/nov/06/ukraine-war-briefing-bulgaria-moves-to-seize-russian-refinery-while-poland-seeks-to-be-us-gas-conduit
-
-With international action progressively choking off Russia’s **petroleum** exports, Poland said on Wednesday that it was working on a deal to import liquefied natural gas from the US to supply Ukraine and Slovakia.
 
 Moscow’s forces appear to be tightening their grip on Pokrovsk, Pjotr Sauer reports, with street fighting **raging across** the ruined city in eastern Ukraine.
 
-Emil Kastehelmi posted: “Ukraine may be repeating a **costly** mistake in Pokrovsk … seen for example in Vuhledar and Kursk – a reluctance to conduct a controlled, militarily **justified** withdrawal from a threatened salient when the situation no longer favours the defender.”
+Emil Kastehelmi posted: “Ukraine may be repeating a costly mistake in Pokrovsk … seen for example in Vuhledar and Kursk – a reluctance to conduct a controlled, militarily **justified** withdrawal from a threatened salient when the situation no longer favours the defender.”
 
 #### https://www.theguardian.com/world/2025/nov/12/ukraine-war-briefing-top-bankers-straight-talk-to-putin-over-troubled-economy
 
-His bank was experiencing only “very modest” growth due to “challenging macroeconomic conditions” including a **shrinkage** of its consumer loan **portfolio**. The Kremlin has **undertaken** an information campaign to portray the Russian economy as stable and strong.”
+His bank was experiencing only “very modest” growth due to “challenging macroeconomic conditions” including a **shrinkage** of its consumer loan **portfolio**.
 
-“Using its **numerical superiority** in personnel and materiel, the enemy advanced in fierce fighting and captured three settlements.”
+“We are ready to discuss the suspicions,” Russia’s recently **reclusive** foreign minister told state media.
 
-These actions are part of a series of similar incidents and represent a **characteristic** of the war of aggression waged by Russia.”
+The **knock-on** effects of the US sanctions on Russian oil companies have upended Russian investments in several countries.
 
-“We are ready to discuss the suspicions,” Russia’s recently **reclusive** foreign minister told state media. “Other tests, both **subcritical**, or those without a **chain nuclear reaction**, and carrier tests, have never been prohibited,” Lavrov said.
-
-The **knock-on** effects of the US sanctions on Russian oil companies have **upended** Russian investments in several countries.
-
-The head of Ukraine’s delegation for talks with Russia said on Tuesday he was in Istanbul to try to “**unblock**” the process of prisoner swaps.
-
-Ukraine’s prime minister said the government had dismissed Energoatom’s **supervisory board** while anti-corruption authorities said they had charged seven individuals over an alleged $100m **kickback** scheme involving the nuclear agency and other state enterprises.
+Ukraine’s prime minister said the government had dismissed Energoatom’s supervisory board while anti-corruption authorities said they had charged seven individuals over an alleged $100m **kickback** scheme involving the nuclear agency and other state enterprises.
 
 The detainee has said he suffers from **pancreatitis** and **coeliac** disease and is **vegan**.
 
 #### https://www.theguardian.com/world/2025/nov/16/ukraine-war-briefing-drones-hit-russias-ryazan-oil-refinery
 
-Russian officials often do not admit such attacks have succeeded, and the Ryazan governor, Pavel Malkov, **adopted the standard line** that Ukrainian drones were shot down but debris happened to hit the target.
+Moscow seeks to **scupper** one of Kyiv’s key logistical systems.
 
-The Serbian state holds nearly 30% of NIS, with the rest owned by minority **shareholders**.
-
-Moscow seeks to **scupper** one of Kyiv’s key logistical systems. The rail network carries more than 63% of the country’s freight – including **grain** shipments – and 37% of passenger traffic.
-
-Volodymyr Zelenskyy has announced an **overhaul** of state-owned energy companies amid a corruption scandal. Anti-**graft** investigators allege around $100m has been **embezzled**.
+Anti-graft investigators allege around $100m has been **embezzled**.
 
 #### https://www.theguardian.com/world/2025/nov/18/ukrainians-working-for-russia-rail-blasts-says-poland-prime-minister-donald-tusk
 
-The men are alleged to have planted a military-grade explosive device and attached a **steel clamp** to rail tracks in two incidents.
-
 The explosive **went off** on Saturday night under a freight train, which suffered minor damage to its **undercarriage**.
-
-“We are dealing with an act of sabotage, the consequence of which could have been – and here the **perpetrators**’ mistake also helped us – … a serious catastrophe with casualties.”
-
-The prime minister said the recruitment of Ukrainian citizens by Russia served to “stir up possibly **radically** anti-Ukrainian sentiments”.
 
 It is believed that Russia increasingly turned to this kind of “one-time” **operative**.
 
