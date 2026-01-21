@@ -265,35 +265,17 @@ The two men have formed an important but unofficial **backchannel** between Mosc
 
 The Financial Times and Reuters reported that the proposal would require Ukraine to **halve** the size of its military.
 
-“I heard a loud **rumble**.”
-
-Zelenskyy, who met the Turkish president, Recep Tayyip Erdoğan, on Wednesday in what he described as an effort to “**reinvigorate** negotiations” and secure a “just peace” for Ukraine.
-
 “Every **brazen** attack against ordinary life shows that the pressure on Russia is insufficient,” Zelenskyy wrote on X.
 
 Despite Kremlin claims that it is open to talks on ending the war, Moscow has shown no willingness to scale back its **far-reaching** demands.
 
-Russia’s foreign ministry also said it was **unaware** of any new US peace proposal.
-
 #### https://www.theguardian.com/world/2025/nov/20/ukraine-us-russian-peace-proposal-is-absurd-and-unacceptable
 
-“Ukraine needs peace and Ukraine will do everything so that no one in the world can say we are **upending diplomacy**,” Zelenskyy said, adding that Ukraine would issue no “**rash**” statements.
+“Ukraine needs peace and Ukraine will do everything so that no one in the world can say we are upending diplomacy,” Zelenskyy said, adding that Ukraine would issue no “**rash**” statements.
 
 There would also be a path to **reintegrating** Russia in the global economy, including the future lifting of sanctions.
 
-American diplomats said Donald Trump was trying to achieve peace “with an **incredible sense** of momentum”.
-
-Officials in Kyiv were **unimpressed**. They said the proposal was a “provocation”, the aim of which was to stir up division and “**disorientate**” Ukraine’s allies, they added.
-
-Kellogg is regarded as being broadly **sympathetic** to Ukraine and has been consequently left out of direct US-Russian talks.
-
-“It seems Dmitriev has **spun** this plan at a time when Zelenskyy is weak.”
-
-US efforts to broker peace have hit **roadblocks** since Trump met Putin in Alaska in August.
-
 #### https://www.theguardian.com/world/2025/nov/23/trump-ukraine-zero-gratitude-peace-plan-international-talks
-
-In a **conciliatory** response, Volodymyr Zelenskyy said he was personally grateful to the US president.
 
 Trump’s hostile rhetoric came after a confusing weekend in which Rubio, admitted the White House plan was **conceived** in Moscow, only to then insist the US was its author.
 
@@ -301,19 +283,13 @@ Having been **blind-sided** by Washington’s initiative, Ukraine’s European a
 
 Amid a **backlash** from some Republican senators, Trump **rowed back** from his earlier demand that Zelenskyy sign off on the deal by Thursday.
 
-European officials have been **scathing** about the US draft in private conversations. They say it undermines Ukraine’s sovereignty and sets conditions for its EU **accession**.
+European officials have been **scathing** about the US draft in private conversations.
 
 Olexiy Haran, a professor of **comparative** politics at the Kyiv-Mohyla academy, said Ukrainians overwhelmingly rejected the Trump document and would support the European one.
 
 #### https://www.theguardian.com/world/2025/nov/24/zelenskyy-trump-meeting-revised-us-peace-plan-ukraine-russia
 
-Sergiy Kyslytsya told the Financial Times such issues had been “placed in **brackets**” for Trump and Zelenskyy to decide upon later.
-
-EU leaders attending an EU-Africa summit in Angola welcomed a **degree** of progress, but said far more work remained to be done.
-
 Europeans must be able to give their **consent** to “issues that affect European interests and sovereignty”.
-
-Donald Tusk said the talks were **delicate** because “nobody wants to put off the Americans and President Trump from having the US on our side in this process”.
 
 “The idea that the US is not engaging with both sides equally in this war to bring it to an end is a complete and total **fallacy**,” the press secretary, Karoline Leavitt, told reporters.
 
@@ -321,17 +297,11 @@ With smoke rising from the rubble, one man was seen **crouched** and holding the
 
 #### https://www.theguardian.com/world/2025/nov/25/nato-scrambles-jets-russian-drones-deepest-incursion-romania
 
-German Typhoon and Romanian F-16 fighter jets took off in pairs to follow the **uncrewed** aircraft.
-
-One of them, a **distinctive** **delta-wing** model with a Russian Z symbol spray painted on the **tailfin**, landed on a roof in the village.
+One of them, a **distinctive** delta-wing model with a Russian Z symbol spray painted on the **tailfin**, landed on a roof in the village.
 
 #### https://www.theguardian.com/world/2025/nov/27/putin-insists-ukraine-surrender-territory-for-peace-deal-possible
 
-Speaking to reporters during a working visit to **Kyrgyzstan**, Putin said Russia would halt its offensive only if Ukrainian forces withdrew from unspecified areas currently under Kyiv’s control.
-
-Witkoff, a longtime Trump business **associate** and property developer, has faced criticism in Europe.
-
-The Kremlin signals a willingness to explore potential peace deals, while showing no **inclination** to retreat from its maximalist demands – most of which are viewed in Kyiv as unacceptable and **tantamount** to capitulation.
+The Kremlin signals a willingness to explore potential peace deals, while showing no inclination to retreat from its maximalist demands – most of which are viewed in Kyiv as unacceptable and **tantamount** to capitulation.
 
 They would require Ukraine to **voluntarily** cede territory that Moscow has failed to seize militarily.
 
@@ -339,21 +309,9 @@ They would require Ukraine to **voluntarily** cede territory that Moscow has fai
 
 “Ukraine’s got some difficult little problems,” Trump told reporters aboard Air Force One, referring to a corruption investigation that recently forced President Volodymyr Zelenskyy to **sack** his chief of staff and top negotiator.
 
-“We continue to be **realistic** about how difficult this is, but optimistic.”
-
-A Ukrainian security source said Kyiv was responsible for attacks by **naval** drones on two oil tankers off Turkey’s Black Sea coast that it believed were covertly transporting sanctioned Russian oil. And the Ukrainian government has faced **turbulence**.
-
-“Peace is within reach, if Vladimir Putin abandons his delusional hope of **reconstituting** the Soviet empire by first **subjugating** Ukraine,” he added.
-
 #### https://www.theguardian.com/world/2025/dec/02/witkoff-in-moscow-for-talks-as-putin-claims-to-have-taken-key-ukrainian-city
 
-“We discussed the **essence** of what is embedded in these American documents.”
-
-“The president also did not hide our **critical** and even negative attitude towards a number of proposals.”
-
 He added that the US hoped a compromise would allow them “not just to rebuild their economy, but to **prosper** as a country”.
-
-The relatively **downbeat** assessments of Tuesday night’s diplomacy follows combative opening statements from Putin.
 
 The US delegation was in an intense round of **shuttle** diplomacy that the Trump administration has claimed is its best chance yet of bringing an end to the war.
 
@@ -361,31 +319,21 @@ A short video **feed** from the Kremlin showed the two small delegations sitting
 
 He has also demanded clear, **enforceable** security guarantees from the west to prevent a future Russian invasion.
 
-Putin’s comments appeared aimed at driving a **wedge** between Washington and European capitals.
-
-**Buoyed** up by recent gains at the front, Putin has indicated in recent weeks that the Russian military was prepared to keep fighting if diplomacy **faltered**.
+**Buoyed** up by recent gains at the front, Putin has indicated in recent weeks that the Russian military was prepared to keep fighting if diplomacy faltered.
 
 The Russian president threatened that Moscow would “step up strikes on Ukrainian ports and on any ships entering them” in response to attacks on Russian tankers, which he described as “**piracy**”.
 
 #### https://www.theguardian.com/world/2025/dec/04/macron-believes-us-may-betray-ukraine-on-territory-says-der-spiegel
 
-Der Spiegel said it had obtained an English summary of Monday’s call, featuring what it said were direct **quotations** from European heads of government in which they expressed fundamental doubts about Washington’s approach to the talks.
-
-The magazine said other leaders also voiced their concerns, with Finland’s Alexander Stubb, who has **bonded with** Trump over golf.
-
-Even the Nato secretary general, Mark Rutte – who in public is very **complimentary** of Trump – reportedly said he agreed with Stubb “that we need to protect Volodymyr”.
-
 Two of them reportedly said the remarks were “accurately **reproduced**”.
-
-In a **guest column** for the daily Frankfurter Allgemeine Zeitung, Merz argued for the use of frozen Russian state assets to support Ukraine.
 
 #### https://www.theguardian.com/world/2025/dec/04/ukraine-war-briefing-stop-wasting-worlds-time-putin-told
 
 The UK foreign secretary, Yvette Cooper, said the Russian president “should end the **bluster** and the bloodshed” and sit down to negotiate peace.
 
-His latest remarks may **prick** the ears of Donald Trump, who, after once **haranguing** Volodymyr Zelenskyy in the Oval Office, drastically changed his tune, at least for a time, after Charles **indulged** the US president with a state visit and impressed upon him the broader importance of Ukraine’s defence.
+His latest remarks may prick the ears of Donald Trump, who, after once **haranguing** Volodymyr Zelenskyy in the Oval Office, drastically changed his tune, at least for a time, after Charles **indulged** the US president with a state visit and impressed upon him the broader importance of Ukraine’s defence.
 
-Trump on Wednesday continued to loosely **preside over** attempts to strike a peace deal. Trump said Putin would like to make a deal but “what comes out of that meeting I can’t tell you because it does take two to **tango**”.
+Trump on Wednesday continued to loosely **preside over** attempts to strike a peace deal.
 
 Ukraine’s military general staff announced recent strikes on Russian targets including a Black Sea observation post on an **oil rig**.
 
