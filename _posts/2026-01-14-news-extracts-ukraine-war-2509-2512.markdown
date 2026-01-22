@@ -341,45 +341,25 @@ However a sanctions “**loophole**” has allowed Russian oil products refined 
 
 #### https://www.theguardian.com/world/2025/dec/07/kremlin-hails-trump-national-security-strategy-as-aligned-with-russia-vision
 
-The Kremlin has **heaped** praise on Donald Trump’s latest national security strategy.
-
-A White House document criticises the EU and says Europe is at risk of “civilisational **erasure**”.
-
-“The adjustments that we see correspond in many ways to our **vision**,” the Kremlin spokesperson, Dmitry Peskov, said on Sunday.
-
-A key issue for Kyiv is what security guarantees it would receive if it does agree to **renounce** control of some territory.
-
-“Ukraine is determined to keep working **in good faith** with the American side to genuinely achieve peace,” Zelenskyy wrote on social media.
-
 Trump’s **outgoing** Ukraine envoy, Keith Kellogg, said at a defence forum on Saturday that the administration’s efforts to end the war were in “the last 10 metres”.
 
 He said the US would not be “the idiot with the **chequebook**” any longer.
 
 They say a difficult and potentially **bleak** winter lies ahead as Russia continues to target energy infrastructure.
 
-It was the second **consecutive** night of attacks targeting energy.
-
 #### https://www.theguardian.com/world/2025/dec/09/zelenskyy-ready-for-elections-after-trump-questions-ukrainian-democracy
-
-Volodymyr Zelenskyy has said he is ready to hold a wartime election within the next three months, after Donald Trump accused him of **clinging on** to power.
 
 Zelenskyy, clearly **irritated** by Trump’s intervention, said that “this is a question for the people of Ukraine, with all due respect to our partners”.
 
-“**Moreover**, I am asking … the United States to help me, possibly together with European colleagues, to ensure security for the elections,” he added.
-
-Trump made the comments in a **rambling** interview with **Politico** published earlier on Tuesday.
+Trump made the comments in a **rambling** interview with Politico published earlier on Tuesday.
 
 Trump’s son Donald Jr said that Zelenskyy was **prolonging** the war because he was worried he would otherwise lose power.
 
 #### https://www.theguardian.com/world/2025/dec/11/us-wants-ukraine-to-withdraw-from-donbas-and-create-free-economic-zone-says-zelenskyy
 
-There would need to be elections or a referendum to **ratify** it, saying that only “the Ukrainian people” could make decisions on **territorial concessions**.
+There would need to be elections or a referendum to **ratify** it, saying that only “the Ukrainian people” could make decisions on territorial concessions.
 
 In Berlin, the Nato secretary general, Mark Rutte, warned that the continent had been “quietly **complacent**” over the threat from Russia.
-
-The US president appears to get **ever more** impatient with the lack of a peace deal.
-
-Also on Thursday, top EU officials met in Lviv, in western Ukraine, to discuss Ukraine’s **accession** prospects, **even as** Hungary’s Russia-friendly leader, Viktor Orbán, continues to block formal negotiations.
 
 “We all understand that the US president has various **levers** of influence, and these will work on those who are currently blocking Ukraine,” he said.
 
@@ -391,20 +371,12 @@ He awarded the deceased state honours to “add **eternal** **lustre**” to the
 
 Other images showed Kim **consoling** families of the deceased and kneeling before a portrait of a fallen soldier to pay his respects.
 
-At a previous ceremony in August, images released by KCNA showed an emotional Kim embracing a returned solider who appeared **overwhelmed**, burying his face in the leader’s chest.
-
 #### https://www.theguardian.com/world/2025/dec/15/ukraine-talks-european-leaders-meet-berlin-starmer-macron-zelenskyy-merz-us-witkoff
 
 Under the proposal, Ukraine would have western support to maintain a **standing** army of 800,000 troops.
 
 The deal would effectively provide “**article** five-like” guarantees to Ukraine.
 
-They confirmed the US would not **put boots on the ground** in Ukraine as part of the deal.
-
 Zelenskyy described the talks with the US side as “not easy” but said they had made **headway**.
 
-The search for **viable** terms for an end to the war has run into major **obstacles**.
-
-He also said he hoped Washington would accept freezing the frontline where it was, rather than Ukraine ceding the entire Donbas region, which **comprises** Donetsk and Luhansk oblasts.
-
-The EU, meanwhile, is **scrambling** this week to agree a plan on financing Ukraine in the coming years by using frozen Russian assets. A leaders’ meeting is scheduled to begin on Thursday and a deal still appears **elusive**.
+A leaders’ meeting is scheduled to begin on Thursday and a deal still appears **elusive**.
