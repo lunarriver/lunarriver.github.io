@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "25年9月至25年12月加沙战争新闻摘选"
-date:   2026-01-01 15:00:00 +0800
+date:   2026-01-22 15:00:00 +0800
 ---
 
 * 目录
@@ -9,137 +9,41 @@ date:   2026-01-01 15:00:00 +0800
 
 #### [Anti-Islamic biker gang members hired to run security at controversial Gaza aid sites | Gaza | The Guardian](https://www.theguardian.com/world/2025/sep/10/anti-islamic-biker-gang-infidels-mc-gaza-aid-sites)
 
-The investigation found that more than 10 members of Infidels MC, a US biker gang that uses the **Crusader** cross as its symbol and whose members have anti-Islamic **tattoos**, have been hired by UG Solutions and deployed to food aid sites run by the Gaza Humanitarian Foundation.
+The investigation found that more than 10 members of Infidels MC, a US biker gang that uses the Crusader cross as its symbol and whose members have anti-Islamic **tattoos**, have been hired by UG Solutions and deployed to food aid sites run by the Gaza Humanitarian Foundation.
 
 Mulford, whose **affiliation** with GHF was public, accidentally sent an email to the BBC telling other leaders of the group not to comment on inquiries – inadvertently revealing the identities of several other senior **Infidels** members also working for UG Solutions.
 
 GHF’s operations have come under scrutiny as the US and Israeli-backed group has **supplanted** nearly every other major humanitarian organisation working in the Gaza Strip in what critics have called a deliberate effort to politicise humanitarian aid.
 
-“We do not **screen** for personal hobbies or affiliations unrelated to job performance or security standards.”
-
-In a statement to the Guardian, GHF said: “The Gaza Humanitarian Foundation maintains a strict zero-tolerance policy toward any form of hateful or **discriminatory** behavior.”
-
-```
-Crusader ~ noun ~ a Christian who fought in one of the religious wars of the 11th, 12th, 13th, and 17th centuries, mostly against Muslims in Palestine
-
-tattoo ~ noun ~ a permanent image, pattern, or word on the skin that is created by using needles to put colours under the skin
-
-affiliation ~ noun ~ a connection with a political party or religion, or with a larger organization
-
-Infidel ~ noun  ~ (used especially between Christians and Muslims) someone who does not have the same religious beliefs as the person speaking
-
-supplant ~ verb ~ to replace
-
-screen ~ verb ~ to test or examine someone or something to discover if there is anything wrong with him, her, or it
-
-discriminatory ~ adjective ~ treating a person or group differently from and usually worse than other people, because of their race, gender, sexuality, etc.
-```
-
 #### [Israeli airstrikes ‘killed any hope’ for hostages in Gaza, says Qatari prime minister | Israel | The Guardian](https://www.theguardian.com/world/2025/sep/10/israel-threats-outrage-qatar-strike-hamas)
 
-Netanyahu has responded **defiantly** to international criticism for the attack, including a White House statement that the “unilateral bombing” inside Qatar “does not advance Israel or America’s goals.”
-
-Hamas said in a statement that all of its leaders were safe, but five lower-ranked members were reportedly killed. A senior Israeli official admitted on Wednesday that optimism about the success of the strikes was **waning**.
-
-“Why does the prime minister insist on blowing up every small chance for a deal? Why? The people of Israel are tired of this war. End it **already** and bring everyone back,” said Einav Zangauker, whose son Matan was kidnapped from his **kibbutz**.
-
-Successive polls have shown broad support in Israel for a deal to end the war and free the hostages, while Netanyahu has been accused of prolonging the conflict for political **ends**.
-
-“In Israel … the vast majority of the people now are in favour of ending the war and bringing back the hostages … So that might look like the concluding **remarks** of the war,” Nadan said.
-
 Meanwhile in Sana’a, people said Wednesday’s attack had struck a **hideout** between two mountains that was used as a command-and-control headquarters. The extent of any damage was not immediately clear.
-
-```
-defiantly ~ adverb ~ in a way that proudly refuses to obey authority
-
-wane ~ verb ~ to become weaker in strength or influence
-
-kibbutz ~ noun ~ a farm or factory in Israel where profits and duties are shared and all work is considered equally important
-
-end ~ noun ~ an aim, intention, or purpose
-
-remark ~ noun ~ something that you say, giving your opinion about something or stating a fact
-
-hideout ~ noun ~ a secret place where someone can go when they do not want to be found by other people
-```
 
 #### [Israel launches ground offensive deep inside Gaza City | Gaza | The Guardian](https://www.theguardian.com/world/2025/sep/16/israel-launches-ground-offensive-deep-inside-gaza-city)
 
 “We will not **relent** until the mission is completed.”
 
-They estimated that the invading force would be met by up to 3,000 Hamas and **allied** fighters, and said the Israeli forces would advance cautiously.
-
-“This phase is defined by a coordinated and gradual manoeuvre combining precise intelligence, air and ground forces targeting Hamas’s central stronghold and aimed at dismantling its **grip** in this area.”
-
 “It is clear that there is an intent to destroy the Palestinians in Gaza through acts that meet the **criteria** set forth in the genocide convention,” said Navi Pillay.
-
-```
-relent ~ verb ~ to act in a less severe way towards someone and allow something that you had refused to allow before
-
-allied ~ adjective ~ connected by a political or military agreement
-
-grip ~ verb ~ to hold very tightly
-
-criteria ~ plural of criterion ~ noun ~ a standard by which you judge, decide about, or deal with something
-
-suspend ~ verb ~ to stop something from being active, either temporarily or permanently
-```
-
-“**Suspending** trade concessions and imposing sanctions on extremist ministers and violent settlers would clearly signal that the EU demands an end to this war,” she said.
 
 Netanyahu sought to brace the country for greater economic isolation in a speech on Monday in which he said it would have to “adapt to an economy with **autarkic** features”, suggesting it would have to be more self-reliant with fewer trade options.
 
 Tess Ingram, a spokesperson for the UN child protection agency, Unicef, said there was no safe **haven** for the displaced population.
 
-“It is inhumane to expect nearly half a million children, battered and **traumatised** by over 700 days of unrelenting conflict, to flee one **hellscape** and end up in another.”.
+“It is inhumane to expect nearly half a million children, battered and **traumatised** by over 700 days of unrelenting conflict, to flee one hellscape and end up in another.”.
 
 His critics have long argued he has prolonged the Gaza war to put off elections, stay in office and thereby preserve his legal **immunity**.
-
-```
-autarkic ~ adjective ~ of countries; not relying on imports
-
-haven ~ noun ~ a safe or peaceful place
-
-traumatise ~ verb ~ to shock and upset someone severely and for a long time
-
-hellscape ~ noun ~ an area that looks extremely unpleasant, especially because everything there has been destroyed, or a picture that represents this
-
-immunity ~ noun ~ a situation in which you are protected against disease or from legal action
-```
 
 Once the ground offensive was launched, Donald Trump directed blame at Hamas, telling reporters at the White House that the militants would have “**hell to pay**” if it used the surviving hostages as human shields during the assault.
 
 #### [Saudi Arabia and Pakistan sign mutual defence pact as regional tensions escalate | Saudi Arabia | The Guardian](https://www.theguardian.com/world/2025/sep/18/saudi-arabia-pakistan-mutual-defence-pact)
 
-“This is not a response to specific countries or specific events but an **institutionalisation** of longstanding and deep cooperation between our two countries.”
-
-The pact on Wednesday could shift the strategic **calculus** in a complex region. Gulf **monarchies** – allies of Washington – have sought to stabilise ties with both Iran and Israel to resolve longstanding security concerns.
-
-```
-institutionalisation ~ noun ~ to make something become a permanent or respected part of a society, system, or organization
-
-calculus ~ noun ~ calculation
-
-monarchy ~ noun ~ a country that has a king or queen
-```
+The pact on Wednesday could shift the strategic **calculus** in a complex region.
 
 #### [UK preparing to recognise Palestinian state as early as Friday | Palestinian territories | The Guardian](https://www.theguardian.com/world/2025/sep/18/uk-preparing-to-recognise-palestinian-state-as-early-as-friday)
-
-The leadership of the Palestinian Authority is **subject to** elections within a year.
 
 The UK prime minister said recognition was “part of that overall package which hopefully takes us from the **appalling** situation we’re in now to the outcome of a safe and secure Israel, which we do not have, and a viable Palestinian state”.
 
 The UK Foreign Office had long **parried** calls for recognition, saying the step should only be taken when it had maximum impact on the peace process.
-
-These included a resumption of humanitarian aid, a ceasefire, Israeli engagement in a **sustained** peace process, and no further Israeli land annexations in the West Bank.
-
-```
-appalling ~ adjective ~ shocking and very bad
-
-parry ~ verb ~ to manage cleverly to avoid dealing with a difficult question or some criticism
-
-sustained ~ adjective ~ continuing for a long time
-```
 
 #### [What role has Britain played in the history of Israel and Palestine? | Palestinian territories | The Guardian](https://www.theguardian.com/world/2025/sep/21/what-role-has-britain-played-in-the-history-of-israel-and-palestine)
 
