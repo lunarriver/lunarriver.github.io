@@ -47,7 +47,7 @@ The UK Foreign Office had long **parried** calls for recognition, saying the ste
 
 #### [What role has Britain played in the history of Israel and Palestine? | Palestinian territories | The Guardian](https://www.theguardian.com/world/2025/sep/21/what-role-has-britain-played-in-the-history-of-israel-and-palestine)
 
-In 1914 when the first world war began, the Ottoman empire threw in its **lot** with the **central powers** and Britain’s response was to declare Egypt a British protectorate. The following April, the members of the triple **entente** – France, Russia and Great Britain – started to secretly negotiate backroom plans for the Middle East on the assumption that the Ottoman empire would collapse.
+The following April, the members of the triple **entente** – France, Russia and Great Britain – started to secretly negotiate backroom plans for the Middle East on the assumption that the Ottoman empire would collapse.
 
 Between 1915 and 1916, secret talks led to the Sykes-Picot agreement, a Franco-British deal fully disclosed only 20 years later, to **carve up** the Middle East.
 
@@ -55,115 +55,35 @@ At the same time, Arab leaders believed that in **correspondence** between Shari
 
 In 1922, despite the promises of independence, Britain’s right to retain the mandate for Palestine was granted by the **League** of Nations and the Balfour declaration was included as part of that mandate.
 
-In 1936 the Palestinians’ increasing frustration with the British led to open revolt, and then a brutal repression. The UK’s Peel commission decided **reluctantly** in 1937 that **partition** was the only answer, even though it would **entail** the mass displacement of Palestinians.
+In 1936 the Palestinians’ increasing frustration with the British led to open revolt, and then a brutal repression. The UK’s Peel commission decided reluctantly in 1937 that **partition** was the only answer, even though it would entail the mass displacement of Palestinians.
 
 On the eve of the second world war in 1939, in an attempt to **mollify** both sides, a UK white paper said it favoured a Palestinian state within 10 years.
-
-```
-lot ~ noun ~ 
-
-entente ~ noun ~ a friendly agreement or relationship between two countries
-
-correspondence ~ noun ~ letters, especially official or business letters
-
-custodian ~ noun ~ a person with responsibility for protecting or taking care of something or keeping something in good condition
-
-revolt ~ noun ~ If a large number of people revolt, they refuse to be controlled or ruled, and take action against authority, often violent action.
-
-league ~ noun ~ a group of people or countries who join together because they have the same interest
-
-reluctantly ~ adverb ~ in a way that shows that you are not willing to do something and are therefore slow to do it
-
-partition ~ noun ~ the dividing of a country into separate countries or areas of government
-
-mollify ~ verb ~ to make someone less angry or upset
-```
 
 #### [UK, Canada and Australia announce formal recognition of Palestine, with wave of Israel’s allies to follow | Palestinian territories | The Guardian](https://www.theguardian.com/world/2025/sep/21/uk-canada-and-australia-announce-formal-recognition-of-palestine-with-wave-of-israel-allies-to-follow)
 
 A wave of Israel’s allies are announcing their recognition of the state of Palestine, as part of a wider manoeuvre designed to **ostracise** Hamas and challenge attempts by the Israeli government to erase the chance of a Palestinian homeland.
 
-The UK, Canada and Australia formally declared their recognition of Palestinian **statehood** on Sunday in separate but coordinated statements.
-
 The delicate and partly symbolic move by as many 10 states, **pioneered** largely by the French government, has the potential to lead to a negative spiral of further confrontation.
 
-The declarations with various conditions and **emphases** attached reflect the conflicting domestic pressures on governments as they face a backlash from Israel, and from hostage families that claim the move effectively rewards Hamas for its attack on Israel on 7 October 2023.
-
 At the centre of the French plan, now fully endorsed by Arab states, is to make recognition part of a wider process, including a reformed, democratically elected Palestinian Authority that in the event of a ceasefire comes to **supersede** a disarmed and dismantled Hamas in Gaza.
-
-Macron, identified by Israel as the **galvanising** force behind the surge in recognitions, went on Israel’s Channel 12 to warn “the approach of your government and some ministers especially is to destroy the possibility of a two-state solution.”
-
-```
-ostracise ~ verb ~ to avoid someone intentionally, or to prevent someone from taking part in the activities of a group
-
-statehood ~ noun ~ the condition of being a country or a part of a large country that has its own government
-
-pioneer ~ verb ~ a person who is one of the first people to do something
-
-supersede ~ verb ~ to replace something, especially something older or more old-fashioned
-
-galvanise ~ verb ~ to cause someone to suddenly take action, especially by shocking or exciting them in some way
-```
 
 He insisted recognition was not a reward for Hamas, since the terrorist group wanted an Islamic state and the destruction of Israel, something a two-state solution would **preclude**.
 
 The US state department has tried to block Abbas from speaking from the **rostrum** at the UN in New York by denying US visas to the PA, a move that triggered a 145 to five vote at the UN general assembly to allow him to speak via a video link.
 
-But the French argue the move has already brought concessions by Abbas on **deradicalisation**, and his **denunciation** of the 7 October attack as a terrorist act.
+But the French argue the move has already brought concessions by Abbas on deradicalisation, and his **denunciation** of the 7 October attack as a terrorist act.
 
 His proposals have been **roundly** rejected by Netanyahu.
 
 The **quartet** are rallying countries around an emergency aid package to prevent the collapse of the PA.
 
-```
-preclude ~ verb ~ to prevent something or make it impossible, or prevent someone from doing something
-
-rostrum ~ noun ~ a raised surface on which a person making a speech or a music conductor (= leader) stands
-
-deradicalisation ~ noun ~ the process of making someone become less radical (= extreme) in their political or religious beliefs
-
-denunciation ~ noun ~ public criticism of something or someone
-
-roundly ~ adverb ~ severely
-
-quartet ~ noun ~ a group of four people who play musical instruments or sing as a group
-```
-
 #### [Disruption across Italy as tens of thousands protest against Gaza war | Italy | The Guardian](https://www.theguardian.com/world/2025/sep/22/disruption-across-italy-as-tens-of-thousands-protest-against-gaza-war)
-
-The prime minister, Giorgia Meloni, has previously said it could be **counterproductive** to recognise the state of Palestine before it was established.
-
-Grassroots unions across Italy called for a 24-hour general strike on Monday in solidarity with the people of Gaza, citing reasons that included the “**inertia** of the Italian and EU governments” to address the humanitarian crisis in the territory.
 
 From Milan to Palermo, Italians poured on to the streets in at least 75 **municipalities** across the country.
 
 Michelangelo, 17, told Agence France-Presse (AFP) he had turned up to support “a population that is being **exterminated**”.
 
-Tensions escalated in Milan when dozens of protesters dressed in black and armed with batons tried to **smash** the main entrance of the city’s central train station.
-
-More than 10 people were arrested in Milan and about 60 police officers suffered **bruising** or more serious injuries, according to Italy’s Ansa news agency.
-
 Meloni has repeatedly voiced concerns about the Israeli offence but her far-right government – which has sought to **foster** close ties with Donald Trump’s administration in the US – has adopted a cautious stance on the war in Gaza.
-
-The transport minister, Matteo Salvini, **downplayed** the impact of the protests on Monday, describing them as the “political mobilisation of far-left unionists” and praising those who had gone to work.
-
-```
-counterproductive ~ noun ~ having an effect that is opposite to the one intended or wanted
-
-inertia ~ adjective ~ lack of activity or interest, or unwillingness to make an effort to do anything
-
-municipality ~ noun ~ a city or town with its own local government, or the local government itself
-
-exterminate ~ verb ~ to kill all the animals or people in a particular place or of a particular type
-
-smash ~ verb ~ to cause something to break noisily into a lot of small pieces
-
-bruise ~ verb ~ to develop a bruise or to cause someone or something to have a bruise
-
-foster ~ verb ~ to encourage the development or growth of ideas or feelings
-
-downplay ~ verb ~ to make something seem less important or less bad than it really is
-```
 
 #### https://www.theguardian.com/world/2025/sep/23/british-officials-fear-donald-trump-could-recognise-israeli-west-bank-settlements
 
@@ -173,121 +93,31 @@ That move would **render** impossible a single Palestinian state covering the We
 
 Starmer spent much of his bilateral meeting with Trump last week explaining the reasons for recognising Palestine, and British officials were delighted when the US president appeared **sanguine** about the prospect in their joint press conference.
 
-Under the Blair plan, which one British government source called “**the only game in town**”, Gaza would be governed by a UN-backed international transitional authority, without needing to expel Palestinians from the territory.
-
 With Trump’s **blessing**, the UAE signed the accords in 2020 after Israel agreed to drop a proposal to annex parts of the West Bank.
-
-```
-passing ~ ajective ~ lasting only for a short time and not important or complete
-
-fiery ~ adjective ~ showing very strong feeling
-
-render ~ verb ~ to cause someone or something to be in a particular state
-
-sanguine ~ adjective ~ (of someone or someone's character) positive and hoping for good things
-
-bless ~ verb ~ agree
-```
 
 #### https://www.theguardian.com/world/2025/sep/24/israeli-attempt-to-annex-west-bank-would-be-red-line-for-us-says-macron
 
 On the other hand, if Netanyahu went ahead with annexation – with US endorsement or **quiescence** – the plan for a two-state solution in which a Palestinian state sits alongside Israel would be in serious **jeopardy**.
 
-Macron said the fate of hostages and Gaza’s **civilian** population should not be “left in the hands of those for whom the release of hostages is not a priority”.
-
-```
-quiescence ~ noun ~ the state of being temporarily quiet and not active
-
-jeopardy ~ noun ~ in danger of being damaged or destroyed
-
-civilian ~ noun ~ a person who is not a member of the police or the armed forces
-```
-
 #### https://www.theguardian.com/world/2025/sep/25/washington-backing-plan-for-tony-blair-to-head-transitional-gaza-authority
 
-According to reports in Haaretz and the Times of Israel, the plan is **modelled** on the administrations that initially oversaw Timor-Leste and Kosovo’s transitions to statehood.
+If approved, Blair would head a secretariat of up to 25 people and chair a seven-person **board** to oversee an executive body running the territory.
 
-If approved, Blair would head a **secretariat** of up to 25 people and chair a seven-person **board** to oversee an executive body running the territory.
+But Blair is bitterly **resented** by many Palestinians – who see him as having impeded their efforts to **attain** statehood – and more broadly across the region for his role in backing the 2003 US invasion of Iraq.
 
-But Blair is bitterly **resented** by many Palestinians – who see him as having **impeded** their efforts to **attain** statehood – and more broadly across the region for his role in backing the 2003 US invasion of Iraq.
-
-```
-model ~ verb ~ to make a model of something
-
-secretariat ~ verb ~ the office or people responsible for the management of an organization, especially an international or political one
-
-board ~ noun ~ the group of people who are responsible for controlling and organizing a company or organization
-
-resent ~ verb ~ to feel angry because you have been forced to accept someone or something that you do not like
-
-impede ~ verb ~ to make it more difficult for something to happen or more difficult for someone to do something
-
-attain ~ verb ~ to reach or succeed in getting something
-```
-
-Some western diplomats stressed it was **by no means** a **done** deal that Blair would run the interim Palestinian administration, and said it might be in place for only two years.
-
-News of the plan emerged just days after the UN general assembly endorsed a different plan for a **technocratic** administration to take charge in Gaza.
-
-The lack of a clear timeline for a transition to PA control under the White House plan is seen as a potential **roadblock** to its endorsement by Palestinians and Arab leaders. But that lack of **specificity**, and the presence of Blair, would be seen as a reassurance for the Israeli prime minister, Benjamin Netanyahu.
+But that lack of **specificity**, and the presence of Blair, would be seen as a reassurance for the Israeli prime minister, Benjamin Netanyahu.
 
 Arab states may argue that the Blair plan does not set out an **irreversible** course to statehood, but instead represents a different, more **benign** occupation than that provided by Israel.
 
-```
-technocratic ~ adjective ~ relating to or involving experts in science or technology who have a lot of power in government or business
-
-roadblock ~ noun ~ a temporary structure put across a road to stop traffic
-
-specificity ~ noun ~ the quality of being specific (= clear and exact)
-
-irreversible ~ adjective ~ not possible to change; impossible to return to a previous condition
-
-benign ~ adjective ~ pleasant and kind
-```
-
-The commissioner would also “track PA reform efforts in coordination with international **donors**, financial institutions and Arab partners engaged in Palestinian institutional development”.
-
-The PEA would also receive reports from the Gaza municipalities, which would be responsible for delivering services at the local level; a judicial board chaired by an Arab **jurist** who will supervise Gaza’s courts and public prosecution office; and the **aforementioned** “Property Rights Preservation Unit”.
-
 In an attempt to assuage fears that the plan will lead to tens of thousands of Palestinians being forced out of Gaza during the reconstruction, a “property rights preservation unit” would be established, aimed at ensuring that any **voluntary** departure of Palestinians from Gaza does not compromise their right to return to the territory or retain property ownership.
-
-Abbas addressed the **gathering** by video **conference** after his visa was revoked by the US in the **run-up** to the 80th session of the UN general assembly.
-
-```
-donor ~ noun ~ a person who gives money or goods to an organization
-
-jurist ~ noun ~ an expert in law, especially a judge
-
-aforementioned ~ adjective ~ mentioned earlier
-
-voluntary ~ noun ~ done, made, or given willingly, without being forced or paid to do it
-
-conference ~ noun ~ an event, sometimes lasting a few days, at which there is a group of talks on a particular subject, or a meeting in which especially business matters are discussed formally
-```
 
 #### https://www.theguardian.com/world/2025/sep/27/israeli-strikes-kill-people-gaza-city-attack
 
 He added that 14 **premature** babies were treated in **incubators** in Helou hospital, though its head of **neonatal** intensive care, Dr. Nasser Bulbul, said the facility’s main gate had been closed because of drones flying over the building.
 
-Dozens of delegates staged a **walkout** as he took to the **podium**, while protesters against Israel’s war gathered outside.
+Dozens of delegates staged a walkout as he took to the **podium**, while protesters against Israel’s war gathered outside.
 
-“We have been left with no choice but to stop our activities as our clinics are encircled by Israeli forces,” said Jacob Granger, the **charity**’s emergency coordinator in Gaza. “This is the last thing we wanted, as the needs in Gaza City are enormous, with the most at-risk people – **infants** in neonatal care, people with severe injuries and life-threatening illnesses – unable to move and in grave danger.”
-
-```
-premature ~ adjective ~ happening or done too soon, especially before the natural or suitable time
-
-incubator ~ noun ~ a container that has controlled air and temperature conditions in which a weak or premature baby (= one which was born too early) can be kept alive
-
-neonatal ~ adjective ~ of or for babies that were born recently
-
-walkout ~ noun ~ the act of leaving an official meeting as a group in order to show disapproval, or of leaving a place of work to start a strike
-
-podium ~ noun ~ a raised area on which a person stands to speak to a large number of people, to conduct music, or to receive a prize in a sports competition
-
-charity ~ noun ~ help, especially in the form of money, given freely to people who are in need, for example because they are ill, poor, or have no home, and organizations that provide this help
-
-infant ~ noun ~ a baby or a very young child
-```
+“This is the last thing we wanted, as the needs in Gaza City are enormous, with the most at-risk people – **infants** in neonatal care, people with severe injuries and life-threatening illnesses – unable to move and in grave danger.”
 
 #### https://www.theguardian.com/world/2025/sep/28/israel-presses-on-with-gaza-assault-as-trump-again-claims-ceasefire-is-close
 
