@@ -123,65 +123,31 @@ Dozens of delegates staged a walkout as he took to the **podium**, while protest
 
 Hundreds of thousands of Palestinians have complied with repeated orders to evacuate but many others have been unable to flee, often because they are ill, disabled, too **frail** or unable to afford expensive transport to safer areas.
 
-Hamas’s armed **wing** urged the Israeli military to halt airstrikes temporarily and withdraw from part of Gaza City on Sunday to allow it to locate two Israeli hostages it said it had lost contact with there.
-
-Trump said in a post on his Truth Social platform on Sunday: “We have a real chance for **GREATNESS** IN THE MIDDLE EAST, ALL ARE **ON BOARD** FOR SOMETHING SPECIAL, FIRST TIME EVER. WE WILL GET IT DONE!!!”
-
-He promised at the start of his second term in office a quick end to the war but eight months later a resolution remains **elusive**.
-
 The flotilla, which was struck in international waters off Crete on Wednesday by drones armed with **stun** grenades and **irritants**, rejected the suggestion.
 
-In the occupied West Bank on Sunday, Israeli security forces shot dead an alleged attacker in a car-**ramming** incident in which an Israeli man was seriously injured at a **junction** near Nablus. Hamas praised the attack.
-
-```
-frail ~ adjective ~ weak or unhealthy, or easily damaged, broken, or harmed
-
-wing ~ noun ~ a group within a political party or organization whose beliefs are in some way different from those of the main group
-
-greatness ~ noun ~ importance and fame, power, or success
-
-elusive ~ adjective ~ difficult to describe, find, achieve, or remember
-
-stun ~ verb ~ to shock or surprise someone very much
-
-irritant ~ noun ~ a substance that makes part of your body sore or painful
-
-ram ~ verb ~ to hit or push something with force
-
-junction ~ noun ~ a place where things, especially roads or railways, come together
-```
-
 #### https://www.theguardian.com/world/2025/oct/08/optimism-grows-for-gaza-peace-deal-as-top-us-qatari-and-turkish-officials-join-talks
-
-“You need to approve a Truth Social post soon so you can announce deal first,” read the hand-scrawled note on White House **stationery**.
 
 Though Hamas has agreed to three parts of Trump’s 20-point plan to end the war in Gaza – **namely** the release of all hostages in return for nearly 2,000 Palestinian prisoners, surrendering power in the strip and Israel’s withdrawal from Gaza – the rest of the deal still needs to be discussed.
 
 Logistics of a hostage-prisoner swap still need to be **ironed out**.
 
-The Trump administration and its Arab allies, as well as regional players such as Turkey, have thrown their **weight** behind the current round of peace talks in an effort to quickly push through a truce that has **evaded** negotiators for two years. Trump has said that he wants Israeli hostages to be released this week and has threatened Hamas with “total **obliteration**” if it does not agree to the deal.
+Trump has said that he wants Israeli hostages to be released this week and has threatened Hamas with “total **obliteration**” if it does not agree to the deal.
 
-The Israeli foreign minister, Gideon Saar, criticised the ministerial meeting for not including the country, describing it as being “**concocted** behind Israel’s back”. Saar said that he hoped the meeting would not **jeopardise** the release of hostages.
+The Israeli foreign minister, Gideon Saar, criticised the ministerial meeting for not including the country, describing it as being “**concocted** behind Israel’s back”.
 
 #### https://www.theguardian.com/world/2025/oct/08/almost-55000-children-in-gaza-acutely-malnourished-lancet-study-estimates
 
 Almost 55,000 children in Gaza are estimated to be acutely **malnourished**, the respected international medical **periodical** has revealed.
 
-The study offers a month-by-month **breakdown** through much of the two-year conflict.
-
 In January 2024, 5% of children screened showed evidence of **wasting**, researchers found. After Israel imposed severe aid restrictions from the end of 2024, the **prevalence** of wasting had almost doubled by January 2025.
 
 Dr Masako Horino is nutrition **epidemiologist** at Unrwa and lead scientist for the study.
-
-“Tens of thousands of preschool aged children in the Gaza Strip are now suffering from **preventable** acute malnutrition and face an increased risk of **mortality**,” Horino said.
 
 Leading child health experts and **paediatricians** said the study was particularly “notable and important”.
 
 Bhutta also praised the researchers for using scientific evidence “to show **grievous**, preventable harm to children”.
 
 “There should also be “serious concern” over its long-term health effects, which included “**inordinately** high risks of non-communicable diseases”, they added.
-
-The study found that in Rafah, the southern city in Gaza, there was a fourfold increase in wasting malnutrition after Israel launched a massive offensive into the city and **levelled** it.
 
 Unrwa has been accused by Benjamin Netanyahu of being “**perforated** by Hamas” and banned by Israel.
 
@@ -191,25 +157,21 @@ It is a well-known **adage** in politics that success has many parents, but fail
 
 The turning point was a meeting in New York on the sidelines of the UN general assembly chaired by Trump, soon after his **baroque** speech to the gathering.
 
-That meant Trump dropping the **displacement** rhetoric he deployed earlier in the year, when he triggered widespread alarm by speaking of plans to develop a “Gaza Riviera”.
-
 “People don’t want to hear this but the advantage of Trump is that once he decides to do something he is like a **juggernaut**.”
 
 As a result Netanyahu, not a man prone to **contrition**, was ordered to apologise and say he would respect Qatar’s sovereignty in future.
 
 The concept that Trump personally was central to a solution – indeed its guarantor – **flattered** the US president who offered himself up as the chair of the peace board, the body that would oversee the reconstruction of Gaza.
 
-In one sense, he would be just a **name plate**, but to the extent he has a **hinterland**, it is construction.
+In one sense, he would be just a name plate, but to the extent he has a **hinterland**, it is construction.
 
 The prospect of winning the Nobel peace prize, Trump’s **obsession**, hovered once more into view.
 
 That meant that once his plan was published Trump did not let go, but kept the pressure up on Hamas, warning of the group’s **annihilation** if it did not release the hostages in return for 250 Palestinians.
 
-It was the **seniority** of the negotiators who went to the talks in Egypt that revealed the **stars were finally aligning** and Hamas would be forced into releasing all the hostages it held.
+It was the **seniority** of the negotiators who went to the talks in Egypt that revealed the stars were finally aligning and Hamas would be forced into releasing all the hostages it held.
 
 During the talks, Hamas negotiators sought to clarify the names of the Palestinians to be released, **poring** over the maps showing a withdrawal of Israel’s forces.
-
-He said: “You will see people **coexisting** and Gaza will be rebuilt.”
 
 On the agenda are issues such as the future relationship between Gaza and the West Bank as the **nucleus** of a future Palestinian state.
 
@@ -220,8 +182,6 @@ They said: “After more than 700 long, painful, and **agonizing** days, Omri wi
 An estimate 65,000 people gathered at Hostages Square in Tel Aviv on Monday morning roared their **approval** as it was announced from a stage that the first seven live hostages had been released to the Red Cross.
 
 Julie Kupershtein, the mother of hostage Bar Kupershtein, who was working at the Nova Music Festival as a **paramedic** when he was taken, spoke to him in a video call.
-
-“We were in the compound, and suddenly I had a conversation, suddenly I saw Bar. I screamed to the sky. Crazy. To see them, these pure, **righteous** children, alive. I’m shaking **all over**.”
 
 #### https://www.theguardian.com/world/2025/oct/13/hamas-deploys-armed-fighters-and-police-across-parts-of-gaza
 
