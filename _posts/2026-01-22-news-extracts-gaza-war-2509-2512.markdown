@@ -187,8 +187,6 @@ Julie Kupershtein, the mother of hostage Bar Kupershtein, who was working at the
 
 Donald Trump suggested the militant Islamist organisation was acting within the **parameters** of the ceasefire deal.
 
-**Simultaneously**, Israeli authorities began freeing about 2,000 prisoners, including 250 serving lengthy sentences.
-
 Hundreds of trucks of aid and commercial goods have entered Gaza since Sunday, sending prices in markets **tumbling**.
 
 Law and order has collapsed across much of Gaza, with armed families, **clans**, gangs, looters and militia growing more powerful.
@@ -207,23 +205,15 @@ Some described being tortured and **tormented**.
 
 She could be seen screaming to him from a Hamas vehicle as he was walked away at **gunpoint**.
 
-Omri Miran, 48, a father of two and **shiatsu** **massage** **therapist**, was held in 23 different places in Gaza.
-
-“They covered him with black **sacks** and dragged him away.”
-
 Other lies told by captors, she said, included the claim that his **maternal** grandparents – who are Holocaust survivors – were dead.
 
 He believed that the captors were motivated to feed him following the international outcry over the video of an **emaciated** David being forced to dig his own grave.
-
-The brothers, who work together as **lighting technicians**, gave a thumbs-up to the cameras on their release as they were driven away back home together.
 
 #### https://www.theguardian.com/world/2025/oct/23/marco-rubio-warning-israel-west-bank-donald-trump
 
 A bill applying Israeli law to the occupied West Bank, a move **tantamount** to the annexation of land Palestinians want for a state, won **preliminary** approval from Israel’s parliament on Wednesday.
 
-Defying Netanyahu’s warnings – he had also urged MPs from his Likud party to **abstain** – shouting **erupted** in the Knesset during the vote.
-
-Since then, successive governments have tried to permanently **cement** Israeli control over the land.
+Defying Netanyahu’s warnings – he had also urged MPs from his Likud party to **abstain** – shouting erupted in the Knesset during the vote.
 
 In August, Israel approved a long-delayed settlement project, **bisecting** the territory and further undermining hopes for a viable Palestinian state.
 
@@ -231,15 +221,9 @@ Construction in the so-called E1 area has been stalled for more than two decades
 
 Video footage of the attack shows the man striking her unconscious with a stick before hitting her again as she lay **motionless** on the ground.
 
-Meanwhile, on Thursday Israel’s supreme court held a hearing into whether to open the Gaza Strip to the international media, giving the state 30 days to present a new position **in light of** the ceasefire.
-
 #### https://www.theguardian.com/world/2025/oct/28/donald-trump-sanae-takaichi-japan-prime-minister-rare-earths-agreement
 
-Trump is scheduled to meet China’s Xi Jinping in South Korea this week for high-stakes talks amid a **bruising** trade war.
-
 In a day of **profuse** mutual praise, Takaichi said she would nominate Trump for the Nobel peace prize – an **accolade** he has **coveted** since his return to the White House.
-
-Takaichi congratulated Trump on his role in securing ceasefires in Gaza and between Thailand and Cambodia, which have been **embroiled** in a border dispute.
 
 Takaichi, an Abe **protege** who shares his hardline stance against China’s military buildup in the region, thanked Trump for his “enduring friendship” with Abe, who was assassinated in 2022.
 
@@ -247,45 +231,23 @@ Takaichi presented Trump with Abe’s **putter** in a glass case, a golf bag sig
 
 Yokota’s then 13-year-old daughter Megumi was **snatched** from near her home on the Japan Sea coast in 1977 and taken to the North.
 
-Takaichi thanked the 6,000 sailors onboard for helping defend Japan and the wider region, telling them that Tokyo was ready to “fundamentally reinforce” its defence capabilities and contribute even more **proactively** to peace and stability in the region”.
-
 Trump said it was an honour to meet her so soon after the launch of her administration, predicting, with typical **effusiveness**, that she would go on to be one of the country’s “greatest prime ministers”.
 
 #### https://www.theguardian.com/world/2025/oct/29/israeli-strikes-in-gaza-overnight-as-ceasefire-looks-increasingly-fragile
 
 Netanyahu called an emergency meeting to discuss what he called Hamas violations of the ceasefire, as far-right figures in the Israeli government **clamoured** for a return to war.
 
-The US vice-president, JD Vance, said earlier that the ceasefire was holding despite “**skirmishes**”.
-
-However, Tuesday night’s attack exposed all the **frailties** of a ceasefire that from the **outset** has been **marred** by violence.
-
-On Wednesday the IDF said it had **reinstated** the Gaza ceasefire.
-
-The Israeli military published footage of what it said were members of Hamas **reburying** a body in order to “stage a false discovery” for the International Committee of the Red Cross (ICRC), which it said was Hamas “attempting to create a false impression of efforts to locate the bodies”.
+However, Tuesday night’s attack exposed all the **frailties** of a ceasefire that from the **outset** has been marred by violence.
 
 The news has enraged Israelis, with the far-right ministers Itamar Ben-Gvir and Bezalel Smotrich **lashing** out at Hamas and calling on Netanyahu to resume the war.
 
-The militant group has said it does not know the precise **whereabouts** of all the bodies.
-
 #### https://www.theguardian.com/world/2025/nov/03/israel-remains-hostages-gaza-hamas
-
-On Saturday night, Moran Harari urged Israel to **have restraint**.
-
-It is unclear if the Palestinians were **recovered** from Gaza by troops during the war.
 
 Israel’s prime minister said earlier on Sunday that “there are still **pockets** of Hamas” in parts of Gaza controlled by Israeli forces.
 
-The ministry, part of the Hamas-run government and **staffed by** medical professionals, maintains detailed records viewed as generally reliable by independent experts.
-
-Israel, which has denied accusations by a UN commission of inquiry and others of committing genocide in Gaza, has disputed the ministry’s figures without providing a **contradicting toll**.
-
 #### https://www.theguardian.com/world/2025/nov/06/israel-carries-out-wave-of-airstrikes-on-southern-lebanon
 
-Under the terms of the deal, Hezbollah is to disarm, both parties are **meant to** stop firing on each other.
-
 Thursday’s strikes were unusual in their intensity and for being **preceded** by an evacuation warning.
-
-Lebanon’s government has committed to disarming Hezbollah and ensuring the **monopoly** of weapons lies with the state.
 
 Israel has pressed the Lebanese government to move more quickly on disarmament, but it has said that to do so would risk **inflaming** internal civil **strife**.
 
@@ -295,16 +257,6 @@ Israel has pressed the Lebanese government to move more quickly on disarmament, 
 
 #### https://www.theguardian.com/world/2025/dec/07/first-phase-trump-israel-gaza-ceasefire-plan-netanyahu
 
-Benjamin Netanyahu has said that the first phase of the UN-**endorsed** Gaza ceasefire plan is close to completion.
-
 The Israeli prime minister said he would discuss the next steps later this month in Washington with Donald Trump, whose Gaza proposals were **codified** in a UN security council resolution on 17 November.
 
-Netanyahu dismisses the warrants as “**trumped**-up charges” from a “corrupt prosecutor”.
-
-“I think it’s important to make sure that Hamas complies not only with the ceasefire, but also with their commitment which they **undertook** to disarm and have Gaza demilitarise,” he said.
-
 He stressed that Israel was **adamantly** opposed to the creation of a Palestinian state.
-
-Netanyahu said the reason he would not be able make a return visit to Germany was the ICC arrest warrants, which he described as **fabricated** by the court’s chief prosecutor, Karim Khan, as a means of diverting attention from allegations of sexual harassment against him.
-
-Another **tribunal**, the international court of justice, is weighing up charges that Israeli has committed genocide in Gaza.
