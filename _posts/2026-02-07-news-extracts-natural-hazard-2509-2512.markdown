@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "25年9月至25年12月自然灾害相关新闻摘选"
-date:   2026-01-01 15:00:00 +0800
+date:   2026-02-07 15:00:00 +0800
 ---
 
 * 目录
@@ -9,49 +9,23 @@ date:   2026-01-01 15:00:00 +0800
 
 #### https://www.theguardian.com/world/2025/sep/24/super-typhoon-ragasa-update-path-hong-kong-taiwan-china
 
-The outer **rim** of Super Typhoon Ragasa has been bearing down on Taiwan since Monday as its path moves down towards the southern Chinese coast.
-
 The barrier lake, formed by landslides triggered by earlier heavy rain in Taiwan’s east, burst its banks mid-afternoon on Tuesday, unleashing a wall of water into the Guangfu **township**.
-
-Ragasa had already toppled trees, torn the roofs off buildings and killed at least two people while **ripping** through the northern Philippines, where thousands sought shelter in schools and evacuation centres.
 
 An AFP reporter saw waves nearly five metres high smash into the seaside **promenade** of Hong Kong’s Heng Fa Chuen residential district around nightfall.
 
 Ragasa – named after the Filipino word for rapid motion – is expected to make **landfall** in the central and western coastal areas of Guangdong within 24 hours, the province’s emergency management bureau said on Tuesday morning.
 
-```
-rim ~ noun ~ the outer, often curved or circular, edge of something
-
-township ~ noun ~ in the US and Canada, a unit of local government consisting of a town and the area surrounding it
-
-rip ~ verb ~ to pull apart; to tear or be torn violently and quickly
-
-promenade ~ noun ~ a path for walking on, especially one built next to the sea
-
-landfall ~ noun ~ the first land that is reached or seen at the end of a journey across the sea or through the air, or the fact of arriving there
-```
-
 #### https://www.theguardian.com/world/2025/oct/26/hurricane-melissa-strengthens-into-category-4-approaches-jamaica
-
-Jamaica’s prime minister, Andrew Holness, later ordered **mandatory** evacuation orders for Port Royal in Kingston and six other vulnerable areas across the country including Old Harbour Bay.
-
-In its increasingly grim **updates**, the **hurricane** centre warned that extensive damage to infrastructure, power and communication outages and the isolation of communities in Jamaica were to be expected.
-
-Some residents in the small fishing village of Port Royal, one of Jamaica’s most exposed and vulnerable communities, refused to **heed** official advice to leave their homes and take cover in shelters.
 
 Residents such as Ann Marie Chamberlain, 51, decided to **ride out** the storm at home. She said villagers were confident they had done everything necessary to **avert** danger, adding: “Father God will protect us.”
 
-All the boats have been pulled up, the roofs with **zinc** have been **battened** down … we are taking the necessary precautions.
+All the boats have been pulled up, the roofs with zinc have been **battened** down … we are taking the necessary precautions.
 
 Females weren’t safe, and **to top it off** people stole our stuff.
 
 “We don’t have any **gullies** or river to burst its banks. If a little water come up it’s maybe a few but by the time the rain ends it disappears.”
 
 The **erratic** and slow-moving storm has killed at least three people in Haiti and one person in the Dominican Republic, where another person remains missing.
-
-Local authorities have organised lines to distribute **food kits**.
-
-It also downed trees and traffic lights, set off a series of small **landslides** and left more than two dozen communities isolated by flood waters.
 
 The Bahamas department of meteorology said Melissa could bring **tropical** storm or hurricane conditions to islands in the south-east and central Bahamas and the Turks and Caicos Islands by early next week.
 
@@ -61,11 +35,7 @@ The strongest hurricane is set to make landfall early on Tuesday and to **linger
 
 The storm is expected to slice diagonally across the island, entering near the **parish** of St Elizabeth parish in the south.
 
-“Catastrophic **flash flooding** and numerous landslides are likely.”
-
 “We hope that will **suffice** for any surge that will take place”.
-
-“If you are living in a low-lying area, **sort out** yourself and move out to the best shelter.”
 
 “Jamaicans are very deep in their faith. And I don’t say that as a means of **mockery**.”
 
@@ -73,17 +43,11 @@ He said critical infrastructure was located along the coast in Kingston, where t
 
 Holness announced late on Sunday that he had signed a **compulsory** evacuation order for several communities along the south coast.
 
-Before a 1692 earthquake **submerged** most of Port Royal, it was one of the biggest cities in the Caribbean.
-
 #### https://www.theguardian.com/world/2025/oct/29/hurricane-melissa-hits-cuba-after-turning-jamaica-into-disaster-area
 
 Hurricane Melissa has torn through the Caribbean, slamming into Cuba while leaving parts of neighbouring Jamaica broken and **reeling** from ferocious winds and extreme rainfall.
 
 The effects of the **colossal** hurricane were felt across the region.
-
-The most intense tropical **cyclone** to hit Jamaica in nearly two centuries, Melissa is one of the strongest Atlantic hurricanes observed since record-keeping began.
-
-The prime minister has declared the country a disaster area, giving authorities extra powers such as preventing **price gouging**.
 
 Photos showed a tree ripped out of the ground by the roots and roads submerged by **gravel** and earth.
 
@@ -91,45 +55,23 @@ The city’s streets were **strewn** with the **detritus** the hurricane left in
 
 The roof of her shop and **adjoining** house was blown off. “It was terrible… In one of the rooms everything **caved in**.”
 
-“I am **overwhelmed** by the situation,” he added, as he pleaded with the government to help rescue victims.
-
 Cuba’s president said on Wednesday that Melissa had **wreaked** “extensive damage” after it made landfall overnight on the island country’s southern coast.
-
-Many Caribbean leaders have called on rich, heavy-polluting governments to provide **reparations** in the form of aid or debt relief to tropical island countries.
 
 #### https://www.theguardian.com/world/2025/oct/30/hurricane-melissa-bermuda-leaving-devastation-jamaica
 
-Residents in Bermuda had remained calm as the storm was expected to give the island a relatively wide **berth**. Authorities said they would close its **causeway** Thursday night and shut schools and **ferries** on Friday “out of an **abundance** of caution”.
-
-The British government said on Thursday that it was **chartering** flights to the island.
-
-Hurricane Melissa has been intensely destructive, estimated to have caused billions of dollars, but accurate **forecasting** and government advice meant many people who were able to reach shelters were protected.
+Residents in Bermuda had remained calm as the storm was expected to give the island a relatively wide **berth**. Authorities said they would close its **causeway** Thursday night and shut schools and ferries on Friday “out of an abundance of caution”.
 
 #### https://www.theguardian.com/world/2025/nov/06/philippines-state-of-emergency-typhoon-kalmaegi-death-toll
 
 Marcos’s “state of national **calamity**” declaration would allow the government to disburse emergency funds faster and prevent food **hoarding** and overpricing.
 
-The problems may have been made worse by years of **quarrying** that caused clogging of nearby rivers.
-
-A corruption scandal involving **substandard** or non-existent flood control projects across the Philippines has sparked public outrage and street protests in recent months.
-
-Ferries and fishing boats were prohibited from **venturing** out to increasingly rough seas during the typhoon.
-
 #### https://www.theguardian.com/world/2025/nov/09/more-than-100000-evacuated-in-the-philippines-as-fung-wong-intensifies-into-super-typhoon
-
-The super-typhoon crossed over the north of the archipelago’s most populous island, Luzon, with **torrential rain**, sustained winds of 115mph (185km/h) and **gusts** of up to 140mph (225km/h).
 
 Tropical cyclones with sustained winds of 115mph (185km/h) or higher are categorised in the Philippines as a super-typhoon, a designation adopted to underscore the urgency tied to more extreme weather **disturbances**.
 
-Warmer oceans allow typhoons to strengthen rapidly and a warmer atmosphere holds more **moisture**, meaning heavier rainfall.
-
-More than 1.2 million people have been **pre-emptively** evacuated across the country.
-
-Earlier on Sunday, Catanduanes was already being **lashed** by wind and rain, with storm surges sending waves **hurtling** over streets and flood waters rising in some areas.
+Earlier on Sunday, Catanduanes was already being lashed by wind and rain, with storm surges sending waves **hurtling** over streets and flood waters rising in some areas.
 
 In Guinobatan, a town of about 80,000 people in Albay province, verified video showed streets transformed into **raging torrents**.
-
-Pope Leo **offered prayers** for the predominantly Catholic nation. “I pray for the **deceased** and their families, for the injured and the displaced,” he said on Sunday.
 
 #### https://www.theguardian.com/world/2025/nov/10/super-typhoon-fung-wong-philippines
 
