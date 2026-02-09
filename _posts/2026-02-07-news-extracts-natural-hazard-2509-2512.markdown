@@ -75,25 +75,17 @@ In Guinobatan, a town of about 80,000 people in Albay province, verified video s
 
 #### https://www.theguardian.com/world/2025/nov/10/super-typhoon-fung-wong-philippines
 
-More than 1.4 million people were evacuated across the country as the storm triggered flash flooding, storm surges, landslides and **gale-force** winds. Deadly **mudslides** had killed least six people across the country.
-
-Having a second typhoon hit so soon after Kalmaegi may have worsened the destruction, as torrential rain fell upon already **soaked** and destabilised soils. In northern Luzon, where mudslides killed a number of children, civil defence authorities said the ground had already been **saturated** by heavy rains.
+Having a second typhoon hit so soon after Kalmaegi may have worsened the destruction, as torrential rain fell upon already **soaked** and destabilised soils.
 
 #### https://www.theguardian.com/world/2025/nov/17/manila-philippines-corruption-protest-flood-funds
 
-From a **skyscraper** in downtown Manila, a sea of white spreads out below, expanding down **arterial** roads and **sidestreets**. The slogan “transparency for a better democracy” **emblazoned** on their chests.
+From a **skyscraper** in downtown Manila, a sea of white spreads out below, expanding down **arterial** roads and sidestreets. The slogan “transparency for a better democracy” **emblazoned** on their chests.
 
-Billions of dollars in flood mitigation funds have **evaporated**. Organised by the Iglesia ni Cristo (INC), a powerful **sect** in the Philippines, the three-day rally has shut down schools, roads and offices. Families have journeyed from across the country to set up camp, some equipped with **portable** stoves and rice cookers, many of them **bearing placards** saying “expose the **deeds**”.
+Billions of dollars in flood mitigation funds have **evaporated**. Organised by the Iglesia ni Cristo (INC), a powerful **sect** in the Philippines, the three-day rally has shut down schools, roads and offices. Families have journeyed from across the country to set up camp, some equipped with portable stoves and rice cookers, many of them bearing placards saying “expose the **deeds**”.
 
-The focus of the fury is on government officials accused of **pocketing** billions in funds for substandard or nonexistent flood protection projects. Since the scandal began, the country’s economic planning minister has said up to 70% of public funds **allotted** for flood control may have been lost to corruption.
+Since the scandal began, the country’s economic planning minister has said up to 70% of public funds **allotted** for flood control may have been lost to corruption.
 
 The absence of those protections is **felt keenly** in the Philippines.
-
-But the hundreds of thousands gathered in Rizal Park could **spell trouble** for Marcos. The rally has been organised and endorsed by the INC, a Philippine **megachurch** that commands a membership of close to 3 million.
-
-In the years since their election, however, Marcos and Duterte have turned from allies to **feuding** political rivals.
-
-“It is not our aim to bring down the government as an **institution**,” he said.
 
 #### https://www.theguardian.com/world/2025/nov/19/indonesia-mount-semeru-erupts-prompting-evacuations-and-highest-alert-level
 
@@ -101,42 +93,22 @@ The volcano in East Java province unleashed **searing** clouds of hot ash and a 
 
 He said increased activity of the volcano on Wednesday afternoon prompted authorities to widen the danger zone to 8km (5 miles) from the **crater**.
 
-Residents, some with faces **smeared** with volcanic dust and rain, fled to temporary shelters or left for other safe areas.
-
-The group included 137 climbers, 15 **porters**, seven guides and six tourism officials.
-
 Indonesia, an archipelago of more than 280 million people, sits along the Pacific “ring of fire”, a horseshoe-shaped series of **fault lines**, and is prone to earthquakes and volcanic activity.
 
 #### https://www.theguardian.com/world/2025/nov/23/vietnam-flooding-deaths-landslides-rain-dak-lak
-
-Last week, rescuers using boats **pried** open windows to assist residents stranded by high water.
 
 Nearly 80,000 **hectares** of crops damaged.
 
 #### https://www.theguardian.com/world/2025/dec/01/asia-flood-sri-lanka-indonesia-deploy-military
 
-Sri Lanka and Indonesia have deployed military personnel as they race to help victims of **devastating** flooding.
-
-Millions of people have been affected by a combination of tropical cyclones and heavy **monsoon** rains in Sri Lanka.
-
-The flooding has submerged homes, **inundated** agricultural fields. Some people **clung** to trees or stood on rooftops.
+The flooding has submerged homes, **inundated** agricultural fields.
 
 By Sunday afternoon, rain had **subsided** across Sri Lanka.
 
-Military helicopters have been deployed to **airlift** stranded people and deliver food.
-
-He said solar **lamps** were being distributed.
-
-Extreme rainfall from tropical cyclones has increased **substantially**, as warmer air holds more water **vapour**.
-
 #### https://www.theguardian.com/world/2025/dec/02/indonesia-floods-one-million-people-evacuated-death-toll-rises
-
-In Aceh, one of the hardest hit areas, prices have **tripled**.
 
 The World Health Organization said it was strengthening disease **surveillance**.
 
 Survivors have described how powerful **currents** of water arrived rapidly and submerged villages.
-
-“There was no prior warning whatsoever before the water came,” said a student at an Islamic **boarding school**.
 
 This year’s **downpours** were **compounded** by a rare tropical storm formed in the Malacca Strait.
