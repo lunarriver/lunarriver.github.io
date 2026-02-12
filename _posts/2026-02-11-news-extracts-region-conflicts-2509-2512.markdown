@@ -67,29 +67,23 @@ Trump at one point supported making the footage public but later backtracked and
 
 #### https://www.theguardian.com/world/2025/dec/04/thailand-scam-cyberscam-crackdown-arrests-south-east-asia
 
-Law enforcement agencies have yet to arrest the suspected **masterminds** of the **lucrative** networks.
-
-In October, the US justice department indicted Chen for **wire fraud** conspiracy and money-laundering conspiracy for allegedly directing Prince Group’s operation of forced-labour scam compounds across Cambodia.
+Law enforcement agencies have yet to arrest the suspected masterminds of the **lucrative** networks.
 
 Another alleged scam operation involved Yim Leak, who Thai authorities described as “the heir of an influential network in Cambodia” that conducted **fraudulent** transactions.
 
 #### https://www.theguardian.com/world/2025/dec/08/thailand-airstrikes-disputed-border-cambodia
 
-Gen Chaiyapruek Duangprapat, the Thai army’s chief of staff, said it was seeking to **cripple** Cambodia’s military capability, with the aim of **neutralising** it as a threat in the long term.
+Gen Chaiyapruek Duangprapat, the Thai army’s chief of staff, said it was seeking to cripple Cambodia’s military capability, with the aim of **neutralising** it as a threat in the long term.
 
-“However, Thailand will not tolerate violations of its sovereignty and will proceed **rationally** and with **due regard** for the principles of peace, security and humanity,” he said.
+“However, Thailand will not tolerate violations of its sovereignty and will proceed rationally and with **due regard** for the principles of peace, security and humanity,” he said.
 
 The Malaysian prime minister warned that the fighting risked “**unravelling** the careful work that has gone into stabilising relations between the two neighbours”.
 
 #### https://www.theguardian.com/world/2025/dec/09/fatal-thailand-cambodia-clashes-spread-along-contested-border-area
 
-“Cambodia needs peace but Cambodia is compelled to counterattack to defend our territory,” he said in a Facebook post, saying his country had strong **bunkers** and weapons that would give it an advantage.
-
 Cambodia said “renewed aggression” by Thailand had “destroyed infrastructure, damaged temples, **cultural property**, human heritage and disrupted essential public services”.
 
 #### https://www.theguardian.com/world/2025/jul/24/why-thailand-cambodia-border-clash-conflict
-
-The latest fighting began with **skirmishes** on Sunday night.
 
 An enhanced ceasefire agreement was officially signed six weeks ago in Trump’s **presence**.
 
@@ -103,33 +97,21 @@ Tensions have **simmered** since Thailand suspended de-escalation measures in No
 
 He is Thailand’s third prime minister since August 2023, and political instability is **taking a toll** on south-east Asia’s second-largest economy.
 
-The party put forward a number of demands, including a referendum on constitutional **amendments**, as part of a deal to support him.
-
 “When the People’s party couldn’t get what they want, they said they will submit a **no-confidence** motion and asked the PM to dissolve parliament immediately,” Siripong said.
 
 #### https://www.theguardian.com/world/2025/dec/12/thailand-and-cambodia-agree-to-restart-ceasefire-brokered-by-us-says-trump
 
 Cambodia announced it had suspended all **border crossings** with Thailand.
 
-Thai forces carried out strikes, including with fighter jets, while Cambodia fired rocket **barrages** along the border area on Saturday.
-
 Trump’s ceasefire announcement on Friday was met with a **tepid** reaction by leaders from both countries.
 
-“We **regret** and we’re disappointed that some of the points made by President Trump have **bearing upon** the **feeling** of the Thai people,,” he said.
-
-Despite the deal, the two countries carried on a **bitter** propaganda war and minor cross-border violence continued.
+“We regret and we’re disappointed that some of the points made by President Trump have **bearing upon** the feeling of the Thai people,,” he said.
 
 The roots of the Thai-Cambodian border conflict lie in a history of **enmity** over competing territorial claims. These claims largely stem from a 1907 map created while Cambodia was under French colonial rule, which Thailand **maintains** is inaccurate.
-
-The rockets are **imprecise** have a wide area of impact, with most landing in areas that have already been evacuated.
 
 At least six of the Thai soldiers killed were hit by rocket **shrapnel**.
 
 #### https://www.theguardian.com/world/2025/dec/27/thailand-and-cambodia-agree-immediate-ceasefire-after-weeks-of-deadly-border-clashes
-
-Even as the two countries held talks on Saturday to put an end to the **skirmish**, Cambodia reported that Thailand hit a site in the country’s north-west with an airstrike.
-
-Despite a **shaky** ceasefire mediated by the Malaysian prime minister, Anwar Ibrahim, and backed up by pressure from the US president, Donald Trump, renewed combat erupted in early December.
 
 Thailand has also reported 44 civilian deaths from **collateral effects** of the situation.
 
@@ -143,9 +125,7 @@ Thailand has also reported 44 civilian deaths from **collateral effects** of the
 
 Pakistan has neither denied nor confirmed carrying out the Kabul strike, only stating that it had carried out “a series of **retribution** operations”.
 
-The two countries share a nearly 1,600-mile (2,600km) **rugged** and mountainous border known as the Durand Line, which is **contested** by Afghanistan.
-
-Gul described the clashes as a “logical conclusion of the tensions that had been **brewing** up between the two countries, particularly after the continuous refusal of the Afghan regime to take demonstrable **conclusive** action against the TTP, which is spearheading the terrorist attacks in Pakistan.”
+Gul described the clashes as a “logical conclusion of the tensions that had been **brewing** up between the two countries, particularly after the continuous refusal of the Afghan regime to take demonstrable conclusive action against the TTP, which is spearheading the terrorist attacks in Pakistan.”
 
 Muttaqi said the situation along the Afghan-Pakistan border was now “under control” and that allies Qatar and Saudi Arabia had **reached out** to “express that the war should stop”.
 
@@ -157,11 +137,7 @@ He emphasised that while the cash-strapped Taliban in Afghanistan “lacks the c
 
 Like Ahmed, his uncle was also in the police, a higher-ranking **constable** dedicated to his job, which supported his family of seven children.
 
-“It seems they have a network of spies or **informants** who can tell them about local police who take part in raids on their camps.”
-
 The TTP emerged in Pakistan’s **tribal**-dominated border areas around 2007, amid the US-led “war on terror”. After a long and brutal counter-insurgency operation, backed by the US, by 2015 Pakistan’s military had declared a “**phenomenal** success” in eradicating TTP militants from the mountainous border area.
-
-The Taliban’s return to power in Afghanistan leaded many to fear a return to the horrors of the TTP **heyday** in the late 2000s.
 
 The storming of the federal **constabulary** headquarters in Khyber Pakhtunkhwa that left six officers dead.
 
@@ -181,25 +157,15 @@ Muhammad Ali Saif said that this time round, the TTP militants were much more te
 
 Pakistan rebuffed the claim as “**outrageous** and blatant lies”.
 
-The heaviest casualties on Pakistan’s side were reported around the city of Chaman, which is just a few miles from the border and bore the **brunt** of heavy shelling from the Afghan side.
-
-The resumption of the deadly clashes and airstrikes has pushed the two once-**amicable** neighbours the closest to conflict with each other in years and has sparked fears of wider regional instability.
-
-However, ties between the two have severely deteriorated as Islamabad has accused Kabul of giving **sanctuary** to the Pakistan Taliban, known as Tehreek-e-Taliban Pakistan (TTP).
-
-The violence **flared** up again on Tuesday night.
-
 “We are trying to help people to **vacate** and shift to safer places,” he said.
 
 #### https://www.theguardian.com/world/2025/nov/03/afghanistan-earthquake-death-toll-reportedly-damages-blue-mosque
 
-The quake also damaged the Blue Mosque of Mazar-i-Sharif, a 15th-century landmark famed for its **vibrant** **tiles**.
+The quake also damaged the Blue Mosque of Mazar-i-Sharif, a 15th-century landmark famed for its **vibrant** tiles.
 
 Yousaf Hammad said most of the injured suffered minor wounds and were **discharged** after receiving initial treatment.
 
 In Mazar-i-Sharif, footage on social media showed the quake had caused some damage to the Blue Mosque, with AFP reporting that pieces of the **ornate** structure, particularly from one of its **minarets**, had broken off and fallen to the ground.
-
-The **impoverished** country often faces difficulty in responding to such natural disasters, especially in remote regions.
 
 Buildings in Afghanistan tend to be **low-rise** constructions, mostly of concrete and brick, with homes in rural and **outlying** areas made from mud bricks and wood.
 
