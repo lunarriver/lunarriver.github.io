@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "26年3月新闻摘选"
+date:   2026-03-04 14:00:00 +0800
+---
+
+<style type="text/css">
+  pre code {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+</style>
+
+* 目录
+{:toc #markdown-toc}
+
+### China
+
+#### https://www.theguardian.com/world/2026/mar/03/china-two-sessions-president-xi-economy-defence-technology
+
+The **standing** committee of China’s top political advisory body has voted to remove three generals from its ranks as a sweeping purge of the military continues before this week’s annual Two Sessions gathering.
+
+**Collectively** the concurrent meetings are referred to as Two Sessions, one of the most important events in China’s political calendar when thousands of delegates arrive in Beijing.
+
+In 2018 it was the NPC that amended China’s constitution to **scrap** term limits for the president.
+
+The **spectre** of military purges will hang over this week’s meetings. More than 100 senior officers had been purged or potentially purged since 2022, a **tally** that researchers have described as “**staggering**”.
+
+Still, the opening of the Two Sessions on Wednesday and the NPC on Thursday will be full of **pomp** and circumstance.
+
+China wants to boost its ability to domestically produce the most advanced semiconductors, **blunting** the force of US sanctions designed to hold back China’s technological progress.
+
+Outside of political **intrigue**, this year’s Two Sessions will reveal a number of economic indicators for the year ahead.
+
+That may be suited to what Beijing considers an uncertain geopolitical future, particularly with regards to the US. But China’s domestic problems, such as high levels of youth unemployment and an ageing society, will not be cured by a doubling down on **niche**, specialist sectors, while major other parts of the economy, such as real estate, continue to **flail**.
+
+#### https://www.theguardian.com/world/2026/mar/05/china-gdp-growth-target-economic-slowdown
+
+Li described 2025 as a “truly remarkable” year with “**profound** and complex developments both at home and broad”.
+
+Li announced a 5.5% target for urban unemployment and pledged to create more than 12m new urban jobs, targets **in line with** previous years.
+
+Li said that “financial and economic **discipline**” was a priority for 2026.
+
+Last year an editorial in state media said that consumption should be managed with the “same **rigour**” as production.
+
+### US-Israel war on Iran
+
+#### https://www.theguardian.com/world/2026/mar/04/us-israel-iran-war-update-latest-news-day-five
+
+**Clerics** in Iran said they were close to choosing a successor to the supreme leader, Ayatollah Ali Khamenei, according to state media.
+
+No **timeframe** was given for when the funeral would take place.
+
+### Russia-Ukraine war
+
+#### https://www.theguardian.com/world/2026/mar/05/ukraine-war-briefing-putin-blames-ukraine-for-sinking-of-tanker-off-coast-of-libya
+
+Vladimir Putin, the Russian president, has accused Ukraine of carrying out a attack on one of its liquefied natural gas (LNG) carriers, which exploded and sank into the **Mediterranean** Sea off Libya.
+
+A **prolonged** energy crisis caused by the widening war in the Middle East may offer the Russian war machine an economic lifeline just as it was beginning to show signs of **strain** over its war in Ukraine. Russia could receive a **windfall** if disruption in the Middle East pushes buyers towards its energy.
+
+Ukraine has said it will boycott Friday’s opening ceremony of the **Paralympics** in Milan-Cortina, Italy, over the participation of Russian athletes.
