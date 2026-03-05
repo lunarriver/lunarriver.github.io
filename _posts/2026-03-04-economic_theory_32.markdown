@@ -13,7 +13,7 @@ date:   2026-03-04 16:40:00 +0800
 </style>
 
 * 目录
-  {:toc #markdown-toc}
+{:toc #markdown-toc}
 
 本章核心模型：
 
