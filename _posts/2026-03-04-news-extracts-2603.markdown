@@ -21,29 +21,79 @@ date:   2026-03-04 14:00:00 +0800
 
 The **standing** committee of China’s top political advisory body has voted to remove three generals from its ranks as a sweeping purge of the military continues before this week’s annual Two Sessions gathering.
 
+```
+standing ~ 常设的 -> 一直站在那的
+```
+
 **Collectively** the concurrent meetings are referred to as Two Sessions, one of the most important events in China’s political calendar when thousands of delegates arrive in Beijing.
+
+```
+collectively ~ 集体地、共同地 -> 把很多东西收集、聚集(collect)在一起
+```
 
 In 2018 it was the NPC that amended China’s constitution to **scrap** term limits for the president.
 
 The **spectre** of military purges will hang over this week’s meetings. More than 100 senior officers had been purged or potentially purged since 2022, a **tally** that researchers have described as “**staggering**”.
 
+```
+spectre ~ 幽灵
+
+tally ~ 记录，得分
+
+staggering ~ 大得惊人的，令人吃惊的 -> stagger 兼有'蹒跚'和'使震惊'两种意思，其原意是：站不稳、摇摇晃晃、快要倒了；走路摇摇晃晃、东倒西歪，就是蹒跚；被吓傻了，脑子 “站不稳”，像喝醉一样晃，就是使震惊
+```
+
 Still, the opening of the Two Sessions on Wednesday and the NPC on Thursday will be full of **pomp** and circumstance.
+
+```
+pomp ~ 盛况 / pope 教皇
+```
 
 China wants to boost its ability to domestically produce the most advanced semiconductors, **blunting** the force of US sanctions designed to hold back China’s technological progress.
 
+```
+blunting ~ 减弱 -> 使变钝(blunt)
+```
+
 Outside of political **intrigue**, this year’s Two Sessions will reveal a number of economic indicators for the year ahead.
 
+```
+intrigue ~ 密谋、阴谋 -> intrigue 兼有'密谋'和'激起兴趣'的意思，其原意是：藏着秘密、让人猜不透；密谋、搞阴谋（坏的一面）；激起兴趣、勾起好奇心（好的一面）；
+```
+
 That may be suited to what Beijing considers an uncertain geopolitical future, particularly with regards to the US. But China’s domestic problems, such as high levels of youth unemployment and an ageing society, will not be cured by a doubling down on **niche**, specialist sectors, while major other parts of the economy, such as real estate, continue to **flail**.
+
+```
+niche ~ 原意是：墙上挖出来的小凹洞、壁龛；从'墙上凹进去的小空间'引申出：生态位(生物刚好适合生存的小环境)；小众市场/细分领域(只适合一小群人的位置)
+
+flail ~ 原意是：连枷（古代农民用来打谷子、脱粒的工具）；引申出：乱挥、乱打(疯狂、无规则地挥来挥去)
+```
 
 #### https://www.theguardian.com/world/2026/mar/05/china-gdp-growth-target-economic-slowdown
 
 Li described 2025 as a “truly remarkable” year with “**profound** and complex developments both at home and broad”.
 
+```
+profound ~ 原意是：深度很深(pro = 向前 / 深入 + found = 底部、地基)；引申出：思想、感情上的深，即深刻的、极度的、极大的
+```
+
 Li announced a 5.5% target for urban unemployment and pledged to create more than 12m new urban jobs, targets **in line with** previous years.
+
+```
+in line with ~ 与...一致
+```
 
 Li said that “financial and economic **discipline**” was a priority for 2026.
 
+```
+discipline ~ 原意：教导、训练、教育；引申出：纪律(训练所需要的)；学科(训练的内容)；惩罚(训练中的管教)
+```
+
 Last year an editorial in state media said that consumption should be managed with the “same **rigour**” as production.
+
+```
+rigour ~ 谨慎、严谨
+```
 
 ### US-Israel war on Iran
 
@@ -51,14 +101,156 @@ Last year an editorial in state media said that consumption should be managed wi
 
 **Clerics** in Iran said they were close to choosing a successor to the supreme leader, Ayatollah Ali Khamenei, according to state media.
 
+```
+cleric ~ 牧师、神职人员
+```
+
 No **timeframe** was given for when the funeral would take place.
 
+```
+timeframe ~ 时间表
+```
+
+#### https://www.theguardian.com/world/2026/mar/05/iran-war-briefing-israel-us-support-kurds-conflict-what-we-know-so-far-day-six
+
+Echoing comments he made earlier this week, Trump added that the US military and Israel are “totally demolish[ing]” Iranian targets “**far ahead of schedule**”.
+
+```
+far ahead of schedule ~ 大为提前
+```
+
+“I gave instructions to provide the necessary means and ensure the presence of Ukrainian specialists who can guarantee the required **security**,” Zelenskyy wrote on X.
+
+```
+security / scrutiny(仔细观察，详细审查)
+```
+
+Iran claimed it had hit a US oil tanker in the northern **Persian** Gulf and that the vessel was on fire.
+
+```
+Persian ~ 波斯的
+```
+
+Other countries in the Gulf region continued to deal with the **fallout**.
+
+```
+fallout ~ 原意是：（核爆炸后）落下的放射性尘埃 / 辐射尘(fall-落下 + out-出来)；引申出：后果、余波、不良影响（爆炸后掉下来的坏东西）
+```
+
+Four **healthcare** workers have been killed and 25 others injured, according to the organisation.
+
+```
+healthcare ~ 原意是：对健康(health)的照料(care)；引申出：医疗保健、医疗服务
+```
+
+#### https://www.theguardian.com/world/2026/mar/05/israel-orders-people-evacuate-beirut-suburbs-lebanon-iran
+
+The Israel Defense Forces had told all residents of the area to “save your lives and evacuate your homes immediately”, prompting an **exodus** of the Lebanese capital’s population in scenes of panic.
+
+```
+exodus ~ 原意是：往外(ex)走，典出于《圣经・出埃及记》——以色列人集体离开埃及；引申出：大批人离开、大迁徙
+```
+
+The Israeli defence minister, Israel Katz, said on Thursday that the decision to assassinate Khamenei was made in November, far **predating** the **breakdown** in the nuclear programme negotiations that Donald Trump claimed led to the US launching a preemptive strike on Iran. The original timeline was for Israel to target Khamenei in the middle of 2026 but Netanyahu moved it up the schedule after **riots** broke out in Iran, Katz said.
+
+```
+predate ~ 日期更早、发生在...之前
+
+breakdown ~ 原意是：彻底坏掉、垮掉（break（打破、断裂） + down（向下、彻底））；引申出：机器 / 汽车抛锚；身体 / 精神崩溃；关系破裂；详细分类、明细（把整体拆碎，一项项列出来）
+
+riot ~ 原意是：一群人失控、混乱、喧闹、暴力冲突；引申出：非常有趣（一群人闹哄哄、失控狂欢，场面热闹到爆炸、笑到失控）
+```
+
+Traffic was at a standstill throughout the city and thousands of people **resorted** to walking, with women pushing **strollers** holding **infants** through **bumper**-to-bumper traffic.
+
+```
+resort ~ 原意是：再(re)聚到一起、涌去、常去的地方；引申出：度假胜地、度假村（大家涌去、聚集放松的地方）；诉诸、凭借、最后的手段（被逼到退回去用）—— as a last resort（作为最后手段 / 万不得已）
+
+stroller ~ 原意是：散步(stroll)的人；引申出：婴儿车、手推童车（推着宝宝慢悠悠散步用的工具）
+
+infant ~ 原意是：不会(in)说话(fant)的婴儿 / infantry ~ 步兵（古代指年轻、没经验的小兵）
+```
+
+The Israeli military spokesperson provided preapproved routes north and east which it said people should use to flee – a tactic **reminiscent** of evacuation orders Israel issued in Gaza.
+
+```
+reminiscent ~ 原意是：使人回想起的、勾起回忆的；（re - 再、回去 + minis / memor - 记得、想起 + escent - 有...性质的）
+```
+
+Iran’s foreign minister, Abbas Araghchi, reacted with fury to the US’s sinking of Dena, accusing it of carrying out an “**atrocity** of sea”.
+
+```
+atrocity ~ 残酷、凶恶的行为
+```
+
+Iran’s retaliatory campaign of strikes has hit targets as far afield as **Cyprus**.
+
+```
+Cyprus ~ 塞浦路斯（地中海东部一岛）
+```
+
+A drone was shot down near Al Dhafra airbase in the United Arab Emirates, wounding six people when **shrapnel** fell.
+
+```
+shrapnel ~ 源自于人名 Henry Shrapnel（亨利・谢泼德），英国将军，在 18 世纪发明了一种炮弹：炮弹里装满小铅丸、小铁片，一爆炸就四处飞射；引申出：（爆炸后飞出的）弹片、碎弹片
+```
+
+Tehran denied the claims, and the general staff of the Iranian armed forces **denounced** the allegations as baseless.
+
+```
+denounce ~ 原意是：当众彻底(de)说(nounce)出来；引申出：公开指责、谴责　/ renounce ~ 原意是：公开说 “我放弃”；引申出：承诺放弃、弃绝
+```
+
 ### Russia-Ukraine war
+
+#### https://www.theguardian.com/world/2026/mar/04/ukraine-war-briefing-merz-tells-trump-ukraine-must-not-give-up-more-territory
+
+“But Ukraine has to **preserve** its territory and their security interests,” Merz said at the start of his third visit to the Oval Office.
+
+```
+preserve ~ 原意是：事先(pre)保护(serve)好、不让它坏掉；引申出：保存、维护、保鲜
+```
+
+A suspected Russian “shadow fleet” oil tanker seized by Belgium is being held on a €10m ($12m) bond, after inspections revealed **infractions**, Brussels said on Tuesday. In total inspectors found 45 infractions, including technical **defects**, leading to the ship being **impounded**, it added. “The ship will only leave the port once it is **compliant** and the **deposit** has been paid,” said Belgium’s mobility minister, Jean-Luc Crucke.
+
+```
+infraction ~ 原意是：打破规则（in - 使得 + fract - 打破、断裂）；引申出：违反、违规、违法行为
+
+defect ~ （de - 离开、向下 + fect - 做、制造）；意思包括：缺点、缺陷、毛病（没做好，有瑕疵）；叛逃、变节、投奔敌方（离开原来的队伍）
+
+impound ~ 原意是：关进(in)围栏(pound)里；引申出：依法扣押、没收、暂扣
+
+compliant ~ 原意是：完全(com)弯(pli)过去；引申出：遵从的、服从的、合规的
+
+deposit ~ 原意是：往下(de)放(posit)；引申出：存放；储蓄；押金；定金；沉积；沉淀物；
+```
+
+Defence officials said the **compressed** timeline reflected lessons learned from observing drone warfare in Ukraine.
+
+```
+compressed ~ 原意是：压(press)到一起(com)；引申出：压缩的；精简的；浓缩的
+```
 
 #### https://www.theguardian.com/world/2026/mar/05/ukraine-war-briefing-putin-blames-ukraine-for-sinking-of-tanker-off-coast-of-libya
 
 Vladimir Putin, the Russian president, has accused Ukraine of carrying out a attack on one of its liquefied natural gas (LNG) carriers, which exploded and sank into the **Mediterranean** Sea off Libya.
 
+```
+Mediterranean ~ 地中海
+```
+
 A **prolonged** energy crisis caused by the widening war in the Middle East may offer the Russian war machine an economic lifeline just as it was beginning to show signs of **strain** over its war in Ukraine. Russia could receive a **windfall** if disruption in the Middle East pushes buyers towards its energy.
 
+```
+prolonged ~ 被拉长的(pro- = 向前、往前 + long = 长) → 持续很久的、长期的
+
+strain ~ 原意是：拉紧、用力拉扯；引申出：拉伤(拉过头)；压力(一直拉)；竭尽全力(用力拉)；过滤(用网拉)
+
+windfall ~ 原意是：被风吹落的果子；引申出：意外之财、横财、天上掉下来的好处
+```
+
 Ukraine has said it will boycott Friday’s opening ceremony of the **Paralympics** in Milan-Cortina, Italy, over the participation of Russian athletes.
+
+```
+Paralympics ~ 与奥运会平行、并肩举办的运动会(Para + Olympics，para(llel)意为：在旁边、并肩、平行)，即残奥会
+```
