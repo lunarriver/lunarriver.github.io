@@ -283,6 +283,74 @@ Tehran denied the claims, and the general staff of the Iranian armed forces **de
 denounce ~ 原意是：当众彻底(de)说(nounce)出来；引申出：公开指责、谴责　/ renounce ~ 原意是：公开说 “我放弃”；引申出：承诺放弃、弃绝
 ```
 
+#### https://www.theguardian.com/business/2026/mar/09/iran-war-oil-prices-stagflation-global-economy
+
+Oil prices surged on Monday, triggering a stark **sell-off** across some of the world’s leading stock markets.
+
+```
+sell-off ~ （集中、恐慌性）抛售；大跌
+```
+
+According to economists, growth is **set to** weaken while prices rise. Fears of **stagflation** – where economic activity **stagnates**, but inflation increases – loom large.
+
+```
+set to ~  准备好；注定；将会；就要
+
+stagflation ~ 滞胀：经济停滞不增长，同时物价高通胀（stagnation ＝ 停滞 + inflation = 通货膨胀） / inflation ~ 通货膨胀 / deflation ~ 通货紧缩
+
+stagnate ~ 停滞；不发展；变萧条；（水）不流动发臭
+```
+
+About a fifth of global oil and seaborne gas tankers typically pass through the strait, making it one of the world’s most important trade **arteries**.
+
+```
+artery ~ 原意是：动脉；引申出：（交通、运输、经济的）要道、干线、命脉
+```
+
+The **lengthening** conflict has eroded the chance of prices resetting.
+
+```
+lengthening ~ 延长；变长（length = 长度 + -en = 使…（变长） + -ing = 正在…）
+```
+
+The US war on Iran is widely expected to boost inflation across the world, with a sustained rise in oil prices **rippling** through the wider economy.
+
+```
+ripple ~ 本意是：涟漪；波纹；泛起涟漪；轻轻波动；引申出：连锁反应；波及效应
+```
+
+“There’s going to be a severe and sudden short-term impact on Australian consumers’ cost of living, and their **perceptions** of their cost of living,” Hogan said.
+
+```
+perception ~ 看法；观念 / perceive ~ 感知；认为
+```
+
+Asian economies have enjoyed strong growth in industrial production, powered by the global tech boom, but an energy shock could disrupt that **momentum**.
+
+```
+momentum ~ 原意是：动量；冲力；引申出：势头；气势；动力；发展趋势（moment是一瞬间，momentum是这一瞬间产生的冲力、势头）
+```
+
+Australia is now expected to face two rate hikes this year, when just one had been **priced in** before the conflict.
+
+```
+price in ~ 原意是：把…… 算进价格里；引申出：提前预期、提前消化、提前计入
+```
+
+Traders will charge a **premium** to cover the risk of a renewed “**on-again, off-again**” conflict, he suggested.
+
+```
+premium ~ 原意是：额外的钱、奖赏、奖金；引申出：保险费；溢价、加价；优质的、高端的（花额外的钱才能得到）；稀缺、珍贵（at a premium）
+
+on-again, off-again ~ 断断续续的，时断时续的
+```
+
+While she said it seemed unlikely the conflict would endure for another month, if it did, there would be “**material** risk of global recession”.
+
+```
+material ~ 原意是：物质、材料、实体；引申出：实在的、有实质内容的；会产生真实影响；重要的、重大的； / immaterial ~ 不重要的、无关紧要的
+```
+
 ### Russia-Ukraine war
 
 #### https://www.theguardian.com/world/2026/mar/04/ukraine-war-briefing-merz-tells-trump-ukraine-must-not-give-up-more-territory
