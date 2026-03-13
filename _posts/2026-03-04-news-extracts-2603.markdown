@@ -177,6 +177,60 @@ Wang suggested that Takaichi was using the argument of self-defence to “**holl
 hollow ~ 空的；中空的；空洞的；虚伪的；没有诚意的 / hollow out ~ 挖空；掏空（使… 空洞化；削弱… 的实质）
 ```
 
+#### https://www.theguardian.com/world/2026/mar/12/china-ethnic-unity-law-parliament
+
+China’s National People’s Congress (NPC), the state legislature, will vote on Thursday on a **suite** of new laws agreed at this year’s annual two sessions gathering, including a piece of legislation that will **diminish** the role of minority ethnic languages in the education system.
+
+```
+suite ~ 套房，套间；一套家具；（程序）组，套；
+
+diminish ~ 减弱，降低，减少；贬低，轻视
+```
+
+Delegates have spent the last week debating Beijing’s proposed bills, which they are **all but certain** to approve.
+
+```
+all but certain ~ 几乎确定
+```
+
+The votes will take place at this year’s two sessions, concurrent meetings of the NPC and a separate Communist party advisory body, **draws to a close**.
+
+```
+draw to a close ~ 接近尾声
+```
+
+One key policy for Xi Jinping, China’s president, is the “**sinicisation**” of China’s ethnic minorities – ie, **assimilating** their cultures as far as possible into that of the Han ethnic majority. Xi has said that China’s ethnic groups should be like “**pomegranate** seeds that **stick together**”.
+
+```
+sinicization ~ 中国化 / sinology ~ 汉学，中国问题研究
+
+assimilate ~ 使相似，成为相似；融入，（使）同化；
+
+pomegranate ~ 石榴；石榴树
+
+stick together ~ 团结在一起（粘在一起）（stick兼有棍子和粘的意思：棍子 -> 扎进去 -> 固定不动 -> 粘住、贴住）
+```
+
+The law also requires that Mandarin be displayed more prominently than minority ethnic scripts on public **signage**. Recent reports from Inner Mongolia have suggested that some public signs have already been **renovated** to show Mandarin characters more prominently than Mongolian script.
+
+```
+signage ~ 标志、标识系统、指示牌
+
+renovate ~ 翻新；修复；整修（re- = 再、重新 + nov = new 新（像 novel 新奇的） + -ate = 动词后缀） / innovate ~ 创新；改革（把新东西带进来）
+```
+
+The NPC is also expected to approve a new ecological and environmental code, a unified framework that will **repeal** and replace various laws on pollution and environmental protection as China moves towards its “dual carbon” goals of peaking carbon emissions by 2030 and reaching net neutrality on emissions by 2060.
+
+```
+repeal ~ 废除，撤销（法律、法案、规定）（re- = 反、回 + peal = 呼喊、呼吁） / appeal ~ 呼吁；上诉；（ap- = ad- = 去 + peal = 呼喊、请求）
+```
+
+“For decades, China’s environmental regulation has consisted of many separate **statutes**, leading to fragmentation and (as new environmental issues such as climate change emerge) inconsistency,” Li said.
+
+```
+statute ~ 法令；法规；成文法（stat = stand 站立、确立（像 stand） + -ute → 确立下来的东西） / statue ~ 雕像，塑像（stat = stand 站立 -> 站在那里的东西 -> 雕像）
+```
+
 ### US-Israel war on Iran
 
 #### https://www.theguardian.com/world/2026/mar/04/us-israel-iran-war-update-latest-news-day-five
