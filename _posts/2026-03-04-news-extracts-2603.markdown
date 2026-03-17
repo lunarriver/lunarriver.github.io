@@ -405,6 +405,52 @@ While she said it seemed unlikely the conflict would endure for another month, i
 material ~ 原意是：物质、材料、实体；引申出：实在的、有实质内容的；会产生真实影响；重要的、重大的； / immaterial ~ 不重要的、无关紧要的
 ```
 
+#### https://www.theguardian.com/world/2026/mar/16/china-us-trump-visit-strait-of-hormuz
+
+Trump has asked to delay his planned visit to Beijing by about a month due to the Iran war, after earlier hinting he might put the trip off if his **prospective** hosts do not help to unblock the strait of Hormuz.
+
+```
+prospective ~ 未来的；预期的；可能成为的；潜在的（pro- = 向前 + spect = 看（= see） + -ive = 形容词后缀） / prospect ~ 前景；前途；可能性；展望
+```
+
+On Monday, Scott Bessent, the US treasury secretary, said: “We will see whether the visit takes place as scheduled. But what I do want to **parse** – and there’s a false narrative out there – that if the meetings are delayed, it wouldn’t be delayed because the president’s demanded that China police the strait of Hormuz.”
+
+```
+parse ~ 仔细分析；逐句解读；剖析（话语、文本、逻辑） / parse the truth ~ 辨析真相
+```
+
+In an interview published by the Financial Times on Sunday, the US president said: “It’s only appropriate that people who are the **beneficiaries** of the strait will help to make sure that nothing bad happens there.
+
+```
+beneficiary ~ 受益者；受益人；受惠方（benefit = 好处、利益 + -ary = … 的人）
+```
+
+Bessent and the Chinese vice-premier He Lifeng are due to **conclude** trade talks in Paris on Monday before the Xi-Trump summit.
+
+```
+conclude ~ 结束；得出结论；断定；达成（协议）（con- = 完全、一起 + clude = 关闭、关上（跟 close 同源）→ 全部关上、收尾 → 结束；下结论） / conclusion ~ 结论；结尾 / conclusive ~ 结论性的；确凿的；令人信服的；决定性的 / conclusive evidence ~ 确凿证据
+```
+
+In recent weeks, China has declined to comment on whether Trump’s launch of a major war in the Middle East involving a key Chinese strategic partner would undermine the **forthcoming** Xi-Trump summit.
+
+```
+forthcoming ~ 即将到来的，即将发生的（forth = 向前 coming = 来）；引申出：愿意说、愿意配合的（信息、答案、真话即将到来） / forthright ~ 直率的；坦诚的；直截了当的（forth = 向前 + right = 径直、正前方）
+```
+
+Although China has not officially commented on how recent events may influence the summit, nationalist bloggers and state media suggested that the meeting could be **called into question**.
+
+```
+call into question ~ 对…… 表示怀疑；质疑；对…… 提出疑问
+```
+
+Ren Yi wrote on X: “The US openly **tramples** on international law, launching **outrageous** attacks against a sovereign state (which also happens to be China’s friendly partner), drawing increasing condemnation and resistance from the international community.”
+
+```
+trample ~ 踩，践踏，踩坏；引申出：无视，伤害，侵犯（尊严、权利、感情）
+
+outrageous ~ 令人愤慨的；过分的；离谱的；无法容忍的 / outrage ~ 愤怒、暴行 / rage ~ 暴怒；狂怒；发怒；怒斥；（风暴、火灾等）肆虐
+```
+
 ### Russia-Ukraine war
 
 #### https://www.theguardian.com/world/2026/mar/04/ukraine-war-briefing-merz-tells-trump-ukraine-must-not-give-up-more-territory
